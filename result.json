@@ -1,20 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284283.htm",
-        "title":"库存逐渐宽裕 EVGA开始将特定显卡SKU从GPU Queue通知队列中移除",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284285.htm",
-        "title":"不仅“怕冷” 跑着跑着轮胎会掉 丰田召回全新电动车bZ4X",
-        "desc":"6月23日，丰田汽车官方正式回应bZ4X纯电动车海外召回问题，表示轮圈螺栓松动问题不涉及中国市场。公告信息显示，本次召回针对美国、欧洲、日本等地区销售的bZ4X，原因是在反复急转弯、紧急制动等激烈操作时，轮胎的轮毂螺栓存在松动的可能性。"
-    },
-    {
-        "url":"https://hot.cnbeta.com/articles/funny/1284287.htm",
-        "title":"西安一公司招聘要求员工不能起诉公司 经理：为防止00后整顿职场",
-        "desc":null
-    },
-    {
         "url":"https://hot.cnbeta.com/articles/movie/1284289.htm",
         "title":"乐视发布会员不涨价通知：吃老本的我们没资格涨",
         "desc":"前两天，优酷VIP会员正式涨价，调整后连续包月的费用从15元涨至25元，连续包年价格则从198元涨到了238元，其他的套餐也都同步上调。自此，“爱优腾”三大平台会员全部涨价一轮，十几块钱一个月的日子再也回不来了。"
@@ -292,6 +277,21 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1284399.htm",
         "title":"耳塞也有帝瓦雷 华为FreeBuds Pro 2海外发布",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284401.htm",
+        "title":"iOS 16 测试版中提到了 Apple TV 的全新 Siri 遥控器",
+        "desc":"在 iOS 16 测试版中，有代码提到了一款全新未发布的 Apple TV Siri 遥控器。在 iOS 16 测试版中，出现了 SiriRemote4 和 WirelessRemoteFirmware.4 ，这与目前的 Siri 遥控器不匹配。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284403.htm",
+        "title":"20年老牌CPU厂商转型 RISC-V架构新U瓜熟蒂落",
+        "desc":"去年12月份，作为拥有20多年历史的老牌芯片设计公司，Imagination宣布拥抱开源的RISC-V架构，推出全新的Catapult系列处理器产品，涵盖动态微控制器、实时嵌入式CPU、高性能应用处理器CPU、支持汽车功能安全的CPU四大品类。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284405.htm",
+        "title":"1000km续航无压力 宁德时代确认理想汽车搭载麒麟电池",
         "desc":null
     }
 ]
