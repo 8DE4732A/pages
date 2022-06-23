@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/movie/1284289.htm",
-        "title":"乐视发布会员不涨价通知：吃老本的我们没资格涨",
-        "desc":"前两天，优酷VIP会员正式涨价，调整后连续包月的费用从15元涨至25元，连续包年价格则从198元涨到了238元，其他的套餐也都同步上调。自此，“爱优腾”三大平台会员全部涨价一轮，十几块钱一个月的日子再也回不来了。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284291.htm",
         "title":"斯坦福最新研究：利用数学模型 突破锂金属电池发展“痛点”",
         "desc":"近日，美国斯坦福大学一项新研究为制造更优质、更安全的锂金属电池指明了新的方向。前述大学研究人员开发出新的数学模型，从理论角度来探讨锂金属电池中“枝晶”(dendrites)问题，以突破锂金属电池中的发展“痛点”。相关成果发表在《电化学学会杂志》(Journal\r\n of The Electrochemical Society)。"
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1284405.htm",
         "title":"1000km续航无压力 宁德时代确认理想汽车搭载麒麟电池",
         "desc":null
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/movie/1284407.htm",
+        "title":"营收增速放缓 Netflix裁员300人",
+        "desc":"北京时间6月24日消息，Netflix再次裁减约300名员工，占全部员工3%，大约一个月前Netflix刚刚裁员150人。Netflix在声明中表示，公司营收增速放缓，成本不断上升，所以才会有裁员。4月份Netflix曾警告投资者，未来2年某些业务的支出增长将会被撤回。"
     }
 ]
