@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284259.htm",
-        "title":"拜登拟改革可再生燃料政策 特斯拉等电动汽车制造商将受益",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284261.htm",
         "title":"Stellantis法国工厂因芯片短缺停产",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1284377.htm",
         "title":"网易起诉自媒体张栋伟恶意造谣抹黑",
         "desc":"网易对自媒体“张栋伟”多次发布歪曲事实、添油加醋、造谣抹黑的文章发布声明，称不想陷入口水之争，已正式向法院起诉，是非对错等待法律判决，对“黑公关”、“黑媒体”等行为，网易将坚持诉讼。据了解，该自媒体此前也曾收到抖音、科大讯飞等公司起诉书，最后也曾公开道歉。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284379.htm",
+        "title":"BioNTech开始建设非洲首个mRNA疫苗生产基地",
+        "desc":"BioNTech(BNTX.US)在卢旺达基加利开始建造其首个非洲mRNA疫苗生产设施。BioNTech预计，第一批移动疫苗生产装置——BioNTainers将于2022年底前交付。BioNTech今年2月宣布，计划通过开发和交付基于集装箱解决方案的移动mRNA疫苗制造设施，在非洲建立规模化的疫苗生产。"
     }
 ]
