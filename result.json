@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284291.htm",
-        "title":"斯坦福最新研究：利用数学模型 突破锂金属电池发展“痛点”",
-        "desc":"近日，美国斯坦福大学一项新研究为制造更优质、更安全的锂金属电池指明了新的方向。前述大学研究人员开发出新的数学模型，从理论角度来探讨锂金属电池中“枝晶”(dendrites)问题，以突破锂金属电池中的发展“痛点”。相关成果发表在《电化学学会杂志》(Journal\r\n of The Electrochemical Society)。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284293.htm",
-        "title":"格罗方德新加坡新工厂已开始移入设备 计划2023年投产",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284295.htm",
         "title":"新传闻称RTX 4090/4080/4070显卡规格有变 AD102首发16384 CUDA核心",
         "desc":null
@@ -293,5 +283,15 @@
         "url":"https://hot.cnbeta.com/articles/movie/1284407.htm",
         "title":"营收增速放缓 Netflix裁员300人",
         "desc":"北京时间6月24日消息，Netflix再次裁减约300名员工，占全部员工3%，大约一个月前Netflix刚刚裁员150人。Netflix在声明中表示，公司营收增速放缓，成本不断上升，所以才会有裁员。4月份Netflix曾警告投资者，未来2年某些业务的支出增长将会被撤回。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284409.htm",
+        "title":"美众议院能源和商务委员会通过在线隐私法案",
+        "desc":"美国国会众议院下属能源和商务委员会周四通过了一项两党合作的在线隐私法案，该法案旨在限制公司收集个人数据的行为，但是否会成为正式立法则仍旧存疑。根据这项法案的规定，Alphabet旗下谷歌公司、Meta旗下Facebook以及其他一系列公司将被要求只能收集提供服务所需的个人数据，而像社保号码这样的敏感信息则将得到更多保护。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284411.htm",
+        "title":"“00后整顿职场”爆火 他们为何这样有勇气",
+        "desc":"所谓“00后整顿职场”，多半只是希望让职场更合法合理合情的一个调侃而已。00后也开始大学毕业、步入职场了。和每一代人一样，00后也拥有了自己的顺口溜：80后在加班对领导唯唯诺诺，90后在摸鱼装模作样，只有我们00后在整顿职场。"
     }
 ]
