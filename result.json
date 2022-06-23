@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284319.htm",
-        "title":"上海一辆蔚来测试车从高处坠下 两名试车员送医后不幸身亡",
-        "desc":"总台记者从相关部门获悉，6月22日17时22分许，上海嘉定区安亭镇安拓路56弄上海汽车创新港8号楼3楼，一辆蔚来测试车从高处坠下，致使杜某和张某某两名试车员受伤，120到场后将两人送至安亭东方肝胆医院救治。其中杜某因抢救无效身亡，张某某经医院手术后效果不佳，于23日凌晨宣布死亡。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284321.htm",
         "title":"HALO Trust将使用Spot机器狗帮助乌克兰清理未爆弹药",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1284435.htm",
         "title":"全球首款OLED Windows轻薄掌机AYANEO AIR开启众筹 火速破100万港币",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284437.htm",
+        "title":"Google介绍iOS版Chrome浏览器的5个新特性",
+        "desc":"Google宣布其iOS上的Chrome浏览器将有五个新的主要功能，重点是使iPhone和iPad上的Chrome浏览器更快、更安全、更个性化。根据Google官方博客上的一篇文章，iOS版Chrome浏览器的下一次更新将包括以下功能："
     }
 ]
