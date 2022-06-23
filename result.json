@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284267.htm",
-        "title":"Think Silicon展示首款低功耗RISC-V 3D GPU",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/soft/1284269.htm",
-        "title":"英特尔更新7.8.2.21版XTU工具 为Windows 11 22H2带来超频支持",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284271.htm",
         "title":"Apricale氢燃料超跑：输出功率可达1000马力，重量不到1000千克",
         "desc":"英国创业公司Viritech在古德伍德推出了其华丽的Apricale超跑并发布了一些令人印象深刻的规格。据悉，这辆氢动力的怪物由宾尼法利纳设计，它将打破1000马力的输出功率峰值和每千克1马力的障碍。"
@@ -292,6 +282,16 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1284385.htm",
         "title":"Urban Sky公司小型平流层气球可以收集地球图像和数据",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284387.htm",
+        "title":"耐克将全面退出俄罗斯市场 星巴克、麦当劳、可口可乐等都已退出",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1284389.htm",
+        "title":"中国空间站8K视角看地球有多美？",
         "desc":null
     }
 ]
