@@ -1,130 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284183.htm",
-        "title":"微博国际版更名为“微博轻享版”",
-        "desc":"三言财经今日发现，苹果App Store内，微博国际版已更名为“微博轻享版”。Android应用商店内，微博国际版也同样更名为“微博轻享版”"
-    },
-    {
-        "url":"https://hot.cnbeta.com/articles/movie/1284185.htm",
-        "title":"超前点播换壳重生？腾讯视频推18元、40元礼包可提前看《梦华录》大结局",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284189.htm",
-        "title":"表情符号出现在判决书里？没错！你发的emoji有可能成为“呈堂证供”",
-        "desc":"微信作为常用的通讯工具已经成为了每个人的日常，熟练运用每一个表情符号也成为职场人必备技能。但是，你有没有想过表情符号也有可能成为“呈堂证供”呢？经检索裁判文书网，2018年以来，全国共有158起以表情符号作为证据的案件，其中2018年8件、2019年23件、2020年66件、2021年61件，增幅明显。那么，对于表情符号的司法认定实践中有什么样的困难？"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284191.htm",
-        "title":"Zap Energy核聚变技术获突破：使车库大小的反应堆商业化或将实现",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284193.htm",
-        "title":"网购手机竟变充电头 50多人被骗损失超百万 多地警方已立案",
-        "desc":"近日，多名消费者向新京报记者反映称，“6·18”电商购物节期间，自己在微信小程序“趣玩数码优品”中下单购买手机，结果只收到了数据线、充电头。截至目前，受害者人数已达50多名，总计损失超百万元。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284195.htm",
-        "title":"iPhone、PS等设备开始通过平行进口方式进入俄罗斯",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/science/1284197.htm",
-        "title":"20天扎240针实测血糖，无糖饮料真能减肥？",
-        "desc":"一瓶燃茶，成分表上写着每100ml含热量23kJ，但我们送实验室检测的结果是——116kJ。一瓶无糖雪碧，标称碳水化合物为0，但我们送实验室检测的结果是——每100ml 2.9克。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284199.htm",
-        "title":"判刑1年半、拘留15天：阿里女员工案  两名男子判罚为何不同？",
-        "desc":"“阿里女员工案”暂告一段落。6月22日，济南市槐荫区人民法院通告，依法对被告人张国强制猥亵案一审公开宣判，以强制猥亵罪判处被告人张国有期徒刑一年六个月。张国的妻子和律师透露，不服判决，已当庭提起上诉。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284201.htm",
-        "title":"不到500元完美复刻iPhone 13 乐视Y1Pro今日起开始发货",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284205.htm",
-        "title":"英特尔Arc A380显卡消息汇总：跑分亮眼驱动拉胯 入门性价产品亟待优化",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284207.htm",
-        "title":"Nothing Phone（1）跑分曝光 配备骁龙778G Plus芯片",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284209.htm",
-        "title":"腾讯再曝裁员：至少缩减10% 微信、游戏概莫能外",
-        "desc":"互联网行业的寒冬仍未过去，根据腾讯2022年第一季度财报显示，集团总营收为1355亿元，同比持平；净利润234亿元，同比下滑51%。降速已是不争的事实，裁员成为节流的重要手段，今年3月，腾讯CSIG(云与智慧产业事业群)、PCG(平台与内容事业群)曾进行过一次裁员，整体比例约15％。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284211.htm",
-        "title":"中国广电推出5GNR广播 看电视免流量",
-        "desc":"6月初，中国广电品牌升级暨广电5G和融合业务品牌发布会在北京举办，正式推出“中国广电”、“广电5G”、“广电慧家”三大品牌标识及广告语，并宣布各地广电网络公司营业厅门头同步换标。现场还启动了全国范围广电5G友好用户192号码预约活动。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/science/1284213.htm",
-        "title":"最大10克拉 中国科学家30年攻关掌握人造钻石技术",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284215.htm",
-        "title":"曝华为Mate50或搭载麒麟9000S 和麒麟9000不分伯仲",
-        "desc":"近段时间网上关于华为Mate50系列的消息逐渐增多，很多人猜测这款手机可能要来了。但数码博主@厂长是关同学 \r\n爆料称，7月华为确实是有新品发布会（华为nova10系列），但Mate50系列应该不会在这场发布会上亮相。不过，虽然如此，6月23日，该博主还是为我们带来了更多关于Mate50系列的消息。"
-    },
-    {
-        "url":"https://hot.cnbeta.com/articles/funny/1284217.htm",
-        "title":"英国男子幸运找回坠河10个月的iPhone且功能完好",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284219.htm",
-        "title":"联发科天玑9000+跑分首曝 安卓CPU性能之王",
-        "desc":"高通在骁龙8基础上推出了骁龙8+，联发科在天玑9000基础上推出了天玑9000+，都是台积电4nm工艺、X2超大核、3.2GHz超高频率，妥妥的针尖对麦芒。那么，究竟谁更胜一筹呢？"
-    },
-    {
-        "url":"https://hot.cnbeta.com/articles/movie/1284221.htm",
-        "title":"《芭比》真人电影最新路透 小丑女、高司令粉嫩登场",
-        "desc":"比娃娃真人电影《芭比》近日曝光最新路透，主演玛格特·罗和瑞恩·高斯林以剧中造型亮相，高司令穿现在这身比定妆照看起来顺眼了不少。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284223.htm",
-        "title":"软银市值缩水340亿美元 股东信心已达临界点 孙正义明日面临大考",
-        "desc":"据报道，软银集团将于明日（周五）召开年度股东大会。对于集团创始人孙正义（Masayoshi Son）而言，早已习惯了股东们的赞扬和鼓励。但去年，软银市值损失了340亿美元，这对孙正义最忠实的崇拜者们（股东）来说是一个考验。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284225.htm",
-        "title":"独特造型惹人爱：雪铁龙My Ami Buggy小车18分钟售罄",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284227.htm",
-        "title":"上海一蔚来汽车从3楼掉落，车内2名被困人员救出后送医",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284229.htm",
-        "title":"疫情期间，电动汽车原材料成本增加一倍",
-        "desc":"盖世汽车讯 据外媒报道，6月22日，AlixPartners发布的一份新报告显示，在新冠疫情大流行期间，电动汽车的原材料成本增加了一倍多，迫使从通用汽车和特斯拉到Lucid和Rivian等电动汽车制造商大幅提高了新车的价格。"
-    },
-    {
-        "url":"https://hot.cnbeta.com/articles/game/1284231.htm",
-        "title":"《光环：无限》多人合作战役实机 8月正式上线",
-        "desc":"近日，开发商343i宣布《光环：无限》大型合作战役模式将于8月上线，其中加入了Halo Insider计划的玩家可以提前一个月体验合作模式，此外，该模式公测也将于7月进行，不过似乎已有玩家体验了《光环：无限》多人合作战役模式，5月30日油管用户“Foxie117”上传了一段《光环：无限》合作战役模式实机视频。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284233.htm",
-        "title":"工信部推出反诈名片服务",
-        "desc":"为深入贯彻落实习近平总书记关于打击治理电信网络诈骗犯罪工作的重要指示精神，持续提升对电信网络诈骗的预警预防能力，继“12381涉诈预警劝阻短信”和全国移动电话卡“一证通查”等服务之后，工信部再出反诈利器，面向公众推出了“反诈名片”服务。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284235.htm",
-        "title":"二手车行业迎重大利好：8月1日起全面取消迁入限制",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1284237.htm",
         "title":"看NASA“毅力号”如何避免碰撞和激光击穿情况的发生",
         "desc":"NASA的“毅力号”火星车有着许多的移动部件，包括机械臂、钻头、桅杆、仪器罩、高增益天线和移动系统。在运动过程中跟火星车体或火星表面发生意外碰撞都可能会造成无法修复的损坏。此外，SuperCam仪器向表面发射LIBS激光以产生等离子体并进行光谱分析，对此，团队成员也要防止激光射到火星车的任何部分。"
@@ -293,5 +168,130 @@
         "url":"https://hot.cnbeta.com/articles/music/1284305.htm",
         "title":"后街男孩与西城男孩宣布明晚同台合作演出",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284307.htm",
+        "title":"赛睿推出Apex Pro Mini无线紧凑游戏键盘 售219.99美元",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284309.htm",
+        "title":"Cerebras打破在单个设备上训练大规模AI模型的纪录",
+        "desc":null
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/game/1284311.htm",
+        "title":"日本玩家数字游戏现状调查 七成玩家坚守实体版",
+        "desc":"6月23日今天，日媒发表了近日对日本玩家做出的全新调查，课题是关于云游戏、订阅服务以及下载游戏等数字类型游戏现状调查，结果令人略感吃惊，虽然如今各大游戏主机厂包括任索微都有自己的数字游戏专用平台，数字游戏似乎被渲染成未来大趋势，不过在日本依然有七成玩家坚守实体版，坚决不碰数字版。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284313.htm",
+        "title":"据悉名创优品1亿美元香港上市获批",
+        "desc":"据悉名创优品1亿美元香港上市获港交所批准。此前据知情人士透露，在美国上市的家庭消费品零售商名创优品正寻求最早周四在聆讯中获得香港交易所双重主要上市批准。公司正考虑最早下周启动香港上市，拟筹集约1亿美元。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284315.htm",
+        "title":"1700亿锂矿巨头赴港上市 马斯克会参与吗？",
+        "desc":"四年前，一场40亿美元的海外并购豪赌，让A股锂矿巨头天齐锂业（002466.SZ）一度陷入资金危机。在去年159亿元再融资方案夭折的情况下，公司此番赴港融资，有望卸下债务包袱。6月22日晚间，天齐锂业公告，董事会审议通过相关议案，确定H股全球发售及在香港联交所上市。三天前，公司通过港交所聆讯，摩根士丹利、中金公司和招银国际担任联席保荐人。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1284317.htm",
+        "title":"BeBop展示精度与力度远超人手的RoboSkin机器人触感技术",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284319.htm",
+        "title":"上海一辆蔚来测试车从高处坠下 两名试车员送医后不幸身亡",
+        "desc":"总台记者从相关部门获悉，6月22日17时22分许，上海嘉定区安亭镇安拓路56弄上海汽车创新港8号楼3楼，一辆蔚来测试车从高处坠下，致使杜某和张某某两名试车员受伤，120到场后将两人送至安亭东方肝胆医院救治。其中杜某因抢救无效身亡，张某某经医院手术后效果不佳，于23日凌晨宣布死亡。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284321.htm",
+        "title":"HALO Trust将使用Spot机器狗帮助乌克兰清理未爆弹药",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284323.htm",
+        "title":"500万内“最好”的车 在中国没能火起来",
+        "desc":"如果世界上有这样一种车：前半部分巧妙融合轿车的驾控感受和 SUV 的高位视野，后半部分提供不逊色于微型货车的装载能力和近乎无限的灵活场景适配度。再搭配主流水准的动力，功能主义至上的内饰，如履平地的四驱系统，以及皮实耐用的质量……"
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/movie/1284325.htm",
+        "title":"斯皮尔伯格半自传新片《法贝尔曼一家》改档 双十一纽约洛杉矶提前上映",
+        "desc":"环球影业今日宣布，斯皮尔伯格执导的半自传成长题材新片《法贝尔曼一家》改档。本片原定于11月23日在北美上映，现改为11月11日与洛杉矶和纽约独家上映后，再于11月23日全美扩映。本片设定大致基于斯皮尔伯格的童年，讲述了老斯的青少年生活故事。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284327.htm",
+        "title":"长江存储SSD上新 42mm迷你身材飚出3.9GB/s",
+        "desc":null
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/movie/1284329.htm",
+        "title":"25周年经典神作:《泰坦尼克号》3D 4K HDR重制版明年重映",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284331.htm",
+        "title":"Pixel 4意外获得Android 13更新 升级后Google Pay无法使用",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284333.htm",
+        "title":"Intel Arc A380独立显卡配AMD处理器：性能瞬间蒸发15％",
+        "desc":"Intel第一款游戏级桌面独立显卡Arc A380终于解禁了，它的游戏性能整体上GTX 1650 D5基本一个档次，完全不敌GTX 1050 Ti、RX 6400。不过还有一个核心问题，那就是驱动支持与优化，还很不到位，部分游戏性能不达标，流畅度不够，而且还挑平台，目前必须搭配10/11/12代酷睿才行。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284335.htm",
+        "title":"马斯克疯狂输出20分钟：特斯拉不设对手 推特想让全球半数人使用",
+        "desc":"当其它车企想方设法创造话题，借势吸引眼球时，马斯克似乎永远没有流量焦虑。6月21日，马斯克出现在了卡塔尔经济论坛上，近20分钟的亮相，几乎成为马斯克的个人秀，从收购Twitter、裁员，到美国经济和特斯拉机器人，他都侃侃而谈。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284337.htm",
+        "title":"中国神秘女富豪5.6亿买下欧洲豪宅：现金全款 一次付清",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284339.htm",
+        "title":"首个全链路国产操作系统OpenCloudOS发布",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284341.htm",
+        "title":"中期改款大众朗逸正式上市 售价12.09万起",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284343.htm",
+        "title":"索尼画谛A95K电视国行发布",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284345.htm",
+        "title":"奥迪一汽新能源汽车有限公司即将开工建设 投资约26亿欧元",
+        "desc":"奥迪一汽新能源汽车有限公司将于6月底在长春举行奠基仪式。奥迪在该项目中投资约26亿欧元，包括成立新公司和新生产基地。奥迪一汽新能源汽车有限公司也是奥迪在中国第一家拥有多数股权的合资公司。新生产基地规划年产能达15万辆，计划于2024年底投产专为中国市场打造的基于PPE（Premium Platform Electric）平台的电动车。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284347.htm",
+        "title":"Linus Torvalds出席2022开源峰会并发表演讲 对Linux的热情30多年未减",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284349.htm",
+        "title":"工程师DIY可更换图像传感器和镜头的工业相机 设计文档全部开源",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284351.htm",
+        "title":"研究显示2021年赎金勒索攻击使美国学校损失35.6亿美元",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284353.htm",
+        "title":"意大利数据监管机构对Google Analytics的使用提出新一轮警告",
+        "desc":"在欧洲使用Google Analytics的用户又遭遇一次打击，意大利数据保护机构发现，当地一家网络出版商使用流行的分析工具不符合欧盟数据保护规则，因为用户数据被转移到了美国--一个缺乏同等法律框架来保护信息不被访问的国家。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1284355.htm",
+        "title":"科学家揭开神秘的爆炸性射电暴的起源",
+        "desc":"科学家们模拟了整个宇宙中发生的一个令人困惑的爆炸过程。神秘的快速射电暴是宇宙中最令人困惑的现象之一，它在一秒钟内释放的能量相当于太阳一年的能量。普林斯顿大学、美国能源部（DOE）普林斯顿等离子体物理实验室（PPPL）和SLAC国家加速器实验室的研究人员现在已经模拟并提出了一个具有成本效益的实验，以产生和观察这一过程的早期阶段，而这在以前被认为是在今天的技术中是不可能的。"
     }
 ]
