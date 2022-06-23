@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284279.htm",
-        "title":"澳门传播毒株是BA5.1：传染力较高 尚未在内地流行",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284283.htm",
         "title":"库存逐渐宽裕 EVGA开始将特定显卡SKU从GPU Queue通知队列中移除",
         "desc":null
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1284397.htm",
         "title":"华为nova 10真机上手图曝光：后摄神似“双星伴月”",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284399.htm",
+        "title":"耳塞也有帝瓦雷 华为FreeBuds Pro 2海外发布",
         "desc":null
     }
 ]
