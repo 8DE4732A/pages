@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284271.htm",
-        "title":"Apricale氢燃料超跑：输出功率可达1000马力，重量不到1000千克",
-        "desc":"英国创业公司Viritech在古德伍德推出了其华丽的Apricale超跑并发布了一些令人印象深刻的规格。据悉，这辆氢动力的怪物由宾尼法利纳设计，它将打破1000马力的输出功率峰值和每千克1马力的障碍。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284273.htm",
         "title":"加密货币交易所Coinbase计划2022年底前终止专业版服务",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/science/1284389.htm",
         "title":"中国空间站8K视角看地球有多美？",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284391.htm",
+        "title":"FDA宣布在美国范围内禁售Juul电子烟",
+        "desc":"美国食品和药物管理局今天宣布，Juul公司必须将其电子烟撤出美国市场，此前该监管机构拒绝了该公司销售烟草和薄荷味电子烟的申请。电子烟和电子烟公司必须获得美国食品和药物管理局的许可，其产品才能上市销售。该机构多年来一直推迟执行这项自2016年起实施的政策。"
     }
 ]
