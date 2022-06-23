@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284265.htm",
-        "title":"消息称台积电主要客户在排队等待3nm制程工艺产能",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284267.htm",
         "title":"Think Silicon展示首款低功耗RISC-V 3D GPU",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1284383.htm",
         "title":"猴痘疫情扩散 世卫即将决定是否发出最高级别警告",
         "desc":"世卫组织将于周四在日内瓦召开紧急委员会会议，评估是否将猴痘列为“国际关注的突发公共卫生事件”。这引发了非洲主要科学家的批评，他们称猴痘疫情已经在非洲地区肆虐多年。据了解，“国际关注的突发公共卫生事件”是世卫组织有权发出的最高级别警告，目前仅有新冠疫情和小儿麻痹症被列为该级别事件。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284385.htm",
+        "title":"Urban Sky公司小型平流层气球可以收集地球图像和数据",
+        "desc":null
     }
 ]
