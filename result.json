@@ -1,136 +1,121 @@
 [
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284327.htm",
-        "title":"长江存储SSD上新 42mm迷你身材飚出3.9GB/s",
-        "desc":null
-    },
-    {
-        "url":"https://hot.cnbeta.com/articles/movie/1284329.htm",
-        "title":"25周年经典神作:《泰坦尼克号》3D 4K HDR重制版明年重映",
-        "desc":null
-    },
-    {
-        "url":"http://www.cnbeta.com/articles/tech/1284331.htm",
-        "title":"Pixel 4意外获得Android 13更新 升级后Google Pay无法使用",
-        "desc":null
-    },
-    {
-        "url":"http://www.cnbeta.com/articles/tech/1284333.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284333.htm",
         "title":"Intel Arc A380独立显卡配AMD处理器：性能瞬间蒸发15％",
         "desc":"Intel第一款游戏级桌面独立显卡Arc A380终于解禁了，它的游戏性能整体上GTX 1650 D5基本一个档次，完全不敌GTX 1050 Ti、RX 6400。不过还有一个核心问题，那就是驱动支持与优化，还很不到位，部分游戏性能不达标，流畅度不够，而且还挑平台，目前必须搭配10/11/12代酷睿才行。"
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284335.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284335.htm",
         "title":"马斯克疯狂输出20分钟：特斯拉不设对手 推特想让全球半数人使用",
         "desc":"当其它车企想方设法创造话题，借势吸引眼球时，马斯克似乎永远没有流量焦虑。6月21日，马斯克出现在了卡塔尔经济论坛上，近20分钟的亮相，几乎成为马斯克的个人秀，从收购Twitter、裁员，到美国经济和特斯拉机器人，他都侃侃而谈。"
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284337.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284337.htm",
         "title":"中国神秘女富豪5.6亿买下欧洲豪宅：现金全款 一次付清",
         "desc":null
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284339.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284339.htm",
         "title":"首个全链路国产操作系统OpenCloudOS发布",
         "desc":null
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284341.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284341.htm",
         "title":"中期改款大众朗逸正式上市 售价12.09万起",
         "desc":null
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284343.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284343.htm",
         "title":"索尼画谛A95K电视国行发布",
         "desc":null
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284345.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284345.htm",
         "title":"奥迪一汽新能源汽车有限公司即将开工建设 投资约26亿欧元",
         "desc":"奥迪一汽新能源汽车有限公司将于6月底在长春举行奠基仪式。奥迪在该项目中投资约26亿欧元，包括成立新公司和新生产基地。奥迪一汽新能源汽车有限公司也是奥迪在中国第一家拥有多数股权的合资公司。新生产基地规划年产能达15万辆，计划于2024年底投产专为中国市场打造的基于PPE（Premium Platform Electric）平台的电动车。"
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284347.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284347.htm",
         "title":"Linus Torvalds出席2022开源峰会并发表演讲 对Linux的热情30多年未减",
         "desc":null
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284349.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284349.htm",
         "title":"工程师DIY可更换图像传感器和镜头的工业相机 设计文档全部开源",
         "desc":null
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284351.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284351.htm",
         "title":"研究显示2021年赎金勒索攻击使美国学校损失35.6亿美元",
         "desc":null
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284353.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284353.htm",
         "title":"意大利数据监管机构对Google Analytics的使用提出新一轮警告",
         "desc":"在欧洲使用Google Analytics的用户又遭遇一次打击，意大利数据保护机构发现，当地一家网络出版商使用流行的分析工具不符合欧盟数据保护规则，因为用户数据被转移到了美国--一个缺乏同等法律框架来保护信息不被访问的国家。"
     },
     {
-        "url":"http://www.cnbeta.com/articles/science/1284355.htm",
+        "url":"https://www.cnbeta.com/articles/science/1284355.htm",
         "title":"科学家揭开神秘的爆炸性射电暴的起源",
         "desc":"科学家们模拟了整个宇宙中发生的一个令人困惑的爆炸过程。神秘的快速射电暴是宇宙中最令人困惑的现象之一，它在一秒钟内释放的能量相当于太阳一年的能量。普林斯顿大学、美国能源部（DOE）普林斯顿等离子体物理实验室（PPPL）和SLAC国家加速器实验室的研究人员现在已经模拟并提出了一个具有成本效益的实验，以产生和观察这一过程的早期阶段，而这在以前被认为是在今天的技术中是不可能的。"
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284357.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284357.htm",
         "title":"Einride将在美国公共道路上运营其无驾驶室的自动驾驶电动货车",
         "desc":null
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284359.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284359.htm",
         "title":"索尼全新遥控器发布 曾被罗永浩吐槽太难盲操",
         "desc":null
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284361.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284361.htm",
         "title":"20年传奇3dfx Voodoo 5显卡驱动更新 支持带鱼屏",
         "desc":"PC老鸟们，还记得3dfx吗？二十世纪末，3dfx在NVIDIA、ATI、S3的夹击下艰难求生，但却选择了错误的技术路线，于2002年关张（被NVIDIA收购）。Voodoo\r\n 5 6000是3dfx最后一款消费级显卡，但并未零售，据说总计也才生产了几十张而已。它本是单卡双芯Voodoo 5 \r\n5500的接替者，也是迄今唯一单卡四芯的怪兽。"
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284363.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284363.htm",
         "title":"通用汽车尝试简化电动汽车充电 插电付款一条龙",
         "desc":"通用汽车公司周三表示，它将加入越来越多的汽车制造商的行列，通过为其车型配备\"Plug and Charge\"（即插即充）功能，即在一系列不同的充电站轻松插入并自动付款的能力来简化电动汽车充电过程。尽管\"Plug and Charge\"技术自2014年起就已推出，但行业在认证支付的标准以及所需的硬件和软件方面一直进展缓慢。"
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284365.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284365.htm",
         "title":"消息人士表示可以确定三星不会发布Galaxy S22 FE",
         "desc":null
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284367.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284367.htm",
         "title":"到2028年，电动汽车将占全球汽车销量的33%",
         "desc":"咨询公司AlixPartners周三表示，到2028年，全球电动汽车销量占比将达到33%，到2035年将达到54%。而去年，电动汽车在全球汽车销量中的占比不到8%，2022年第一季度电动汽车的占比则略低于10%。"
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284369.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284369.htm",
         "title":"蔚来回应汽车坠楼致两名测试员罹难：非常痛心 已启动事故调查",
         "desc":null
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284371.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284371.htm",
         "title":"玩家入手RTX 3080二手矿卡：2GB显存人家蒸发",
         "desc":null
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284373.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284373.htm",
         "title":"2022年Q1 iPhone在高端智能手机市场占据62%的销量 牢牢占据主导地位",
         "desc":"在价格超过400美元的设备中，苹果公司的iPhone占据了第一季度全球市场份额的62%，其中iPhone \r\n13系列产品推动了销售。智能手机市场表现正在下滑，但苹果在该市场中的份额依然增长。它从2021年第一季度的57%高端市场份额增长到2022年第一季度的62%。"
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284375.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284375.htm",
         "title":"特斯拉正式开售新型Model Y 较员工价高2000美元",
         "desc":"据报道，特斯拉今日正式开始在美国开售由得州工厂生产的新款Model \r\nY电动汽车，起始售价61990美元，较员工价高2000美元。今年4月，特斯拉在得克萨斯州奥斯丁举办了一场名为“Cyber \r\nRodeo”的大型品牌活动，旨在庆祝特斯拉得州工厂正式开业。同时，特斯拉还交付了该工厂生产的首批20量Model Y。"
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284377.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284377.htm",
         "title":"网易起诉自媒体张栋伟恶意造谣抹黑",
         "desc":"网易对自媒体“张栋伟”多次发布歪曲事实、添油加醋、造谣抹黑的文章发布声明，称不想陷入口水之争，已正式向法院起诉，是非对错等待法律判决，对“黑公关”、“黑媒体”等行为，网易将坚持诉讼。据了解，该自媒体此前也曾收到抖音、科大讯飞等公司起诉书，最后也曾公开道歉。"
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284379.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284379.htm",
         "title":"BioNTech开始建设非洲首个mRNA疫苗生产基地",
         "desc":"BioNTech(BNTX.US)在卢旺达基加利开始建造其首个非洲mRNA疫苗生产设施。BioNTech预计，第一批移动疫苗生产装置——BioNTainers将于2022年底前交付。BioNTech今年2月宣布，计划通过开发和交付基于集装箱解决方案的移动mRNA疫苗制造设施，在非洲建立规模化的疫苗生产。"
     },
@@ -140,62 +125,62 @@
         "desc":"参演过《筑梦情缘》、《追梦少年》、《银河补习班》的童星邵一卜在学校因遭受长时间校园暴力轻生跳楼，其母在社交平台上发布多条长文提出控诉！"
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284383.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284383.htm",
         "title":"猴痘疫情扩散 世卫即将决定是否发出最高级别警告",
         "desc":"世卫组织将于周四在日内瓦召开紧急委员会会议，评估是否将猴痘列为“国际关注的突发公共卫生事件”。这引发了非洲主要科学家的批评，他们称猴痘疫情已经在非洲地区肆虐多年。据了解，“国际关注的突发公共卫生事件”是世卫组织有权发出的最高级别警告，目前仅有新冠疫情和小儿麻痹症被列为该级别事件。"
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284385.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284385.htm",
         "title":"Urban Sky公司小型平流层气球可以收集地球图像和数据",
         "desc":null
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284387.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284387.htm",
         "title":"耐克将全面退出俄罗斯市场 星巴克、麦当劳、可口可乐等都已退出",
         "desc":null
     },
     {
-        "url":"http://www.cnbeta.com/articles/science/1284389.htm",
+        "url":"https://www.cnbeta.com/articles/science/1284389.htm",
         "title":"中国空间站8K视角看地球有多美？",
         "desc":null
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284391.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284391.htm",
         "title":"FDA宣布在美国范围内禁售Juul电子烟",
         "desc":"美国食品和药物管理局今天宣布，Juul公司必须将其电子烟撤出美国市场，此前该监管机构拒绝了该公司销售烟草和薄荷味电子烟的申请。电子烟和电子烟公司必须获得美国食品和药物管理局的许可，其产品才能上市销售。该机构多年来一直推迟执行这项自2016年起实施的政策。"
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284393.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284393.htm",
         "title":"蔚来回应“车辆坠楼致两名试车员身亡” 引发争议后修改声明措辞",
         "desc":"北京时间6月23日晚，智能电动汽车公司蔚来在其官方微博上发布声明，回应“测试车坠楼致两名试车员身亡”事件。因文中包括“这是一起意外事故，与车辆本身没有关系”引发一些网友争议。随后，蔚来官微删除这一声明并修改了措辞，重新发布的声明称，“根据对现场情况的分析可以初步确认，这是一起（非车辆原因导致的）意外事故。”"
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284395.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284395.htm",
         "title":"国产x86 CPU兆芯有了ITX迷你主板：最高八核2.7GHz",
         "desc":null
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284397.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284397.htm",
         "title":"华为nova 10真机上手图曝光：后摄神似“双星伴月”",
         "desc":null
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284399.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284399.htm",
         "title":"耳塞也有帝瓦雷 华为FreeBuds Pro 2海外发布",
         "desc":null
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284401.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284401.htm",
         "title":"iOS 16 测试版中提到了 Apple TV 的全新 Siri 遥控器",
         "desc":"在 iOS 16 测试版中，有代码提到了一款全新未发布的 Apple TV Siri 遥控器。在 iOS 16 测试版中，出现了 SiriRemote4 和 WirelessRemoteFirmware.4 ，这与目前的 Siri 遥控器不匹配。"
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284403.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284403.htm",
         "title":"20年老牌CPU厂商转型 RISC-V架构新U瓜熟蒂落",
         "desc":"去年12月份，作为拥有20多年历史的老牌芯片设计公司，Imagination宣布拥抱开源的RISC-V架构，推出全新的Catapult系列处理器产品，涵盖动态微控制器、实时嵌入式CPU、高性能应用处理器CPU、支持汽车功能安全的CPU四大品类。"
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284405.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284405.htm",
         "title":"1000km续航无压力 宁德时代确认理想汽车搭载麒麟电池",
         "desc":null
     },
@@ -205,42 +190,42 @@
         "desc":"北京时间6月24日消息，Netflix再次裁减约300名员工，占全部员工3%，大约一个月前Netflix刚刚裁员150人。Netflix在声明中表示，公司营收增速放缓，成本不断上升，所以才会有裁员。4月份Netflix曾警告投资者，未来2年某些业务的支出增长将会被撤回。"
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284409.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284409.htm",
         "title":"美众议院能源和商务委员会通过在线隐私法案",
         "desc":"美国国会众议院下属能源和商务委员会周四通过了一项两党合作的在线隐私法案，该法案旨在限制公司收集个人数据的行为，但是否会成为正式立法则仍旧存疑。根据这项法案的规定，Alphabet旗下谷歌公司、Meta旗下Facebook以及其他一系列公司将被要求只能收集提供服务所需的个人数据，而像社保号码这样的敏感信息则将得到更多保护。"
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284411.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284411.htm",
         "title":"“00后整顿职场”爆火 他们为何这样有勇气",
         "desc":"所谓“00后整顿职场”，多半只是希望让职场更合法合理合情的一个调侃而已。00后也开始大学毕业、步入职场了。和每一代人一样，00后也拥有了自己的顺口溜：80后在加班对领导唯唯诺诺，90后在摸鱼装模作样，只有我们00后在整顿职场。"
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284413.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284413.htm",
         "title":"Cruise现开始在旧金山对其无人驾驶乘坐服务进行收费",
         "desc":"由通用汽车支持的无人驾驶汽车公司Cruise现在正式成为一项商业服务。该公司本周开始在旧金山对其无人驾驶出租车进行收费，这标志着该公司扩大服务计划的一个重要里程碑。"
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284415.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284415.htm",
         "title":"一文读懂：为何欧洲如此依赖俄罗斯的天然气？",
         "desc":"俄罗斯天然气对欧洲具有吸引力，因为它通常价格便宜，运输方便且几乎总是应有尽有。一些正在关闭燃煤发电厂的欧盟国家对俄罗斯天然气十分依赖，德国甚至计划终止核电项目。英国和荷兰控制的北海气田枯竭令俄罗斯在天然气市场的主导地位得到进一步增强。\r\n 欧洲消费的天然气三分之一由俄罗斯天然气工业股份公司提供，但是俄乌冲突的爆发令这点成了欧洲的软肋。"
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284417.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284417.htm",
         "title":"谷歌警告：苹果和安卓手机都遭到意大利间谍软件攻击",
         "desc":null
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284419.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284419.htm",
         "title":"国产芯片取得惊人进展 龙芯现状如何？",
         "desc":"国内的半导体技术到底是什么水平？这个问题想必很多国人都感兴趣，其实感兴趣的不只国人，老外也十分关注中国的半导体行业发展，而在小雷日常逛外国科技数码网站的时候，就看到了一篇关于中国半导体芯片的报道。"
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284421.htm",
-        "title":"6000亿投资都没点补贴 英特尔威胁推迟美大型芯片工厂建设",
+        "url":"https://www.cnbeta.com/articles/tech/1284421.htm",
+        "title":"1000亿美元投资却拿不到政府补贴 英特尔称美大型芯片工厂建设或推迟",
         "desc":null
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284423.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284423.htm",
         "title":"拖欠货款数千万元，上百员工被欠薪 天天鉴宝玩起“金蝉脱壳”",
         "desc":"“宝友，这可不兴戴啊”、“哎呦，稀碎啊！”……2019年被称为鉴宝届“德云社”的天天鉴宝在短视频平台大火。当时几乎只要刷短视频，就几乎很难跳过天天鉴宝，幽默的风格加上强烈的好奇心驱使，让人欲罢不能。后来，天天鉴宝还开启了电商业务，有自己的APP、小程序，商家可以在上面售卖玉石等文玩珠宝商品。"
     },
@@ -250,17 +235,17 @@
         "desc":"为了庆祝《索尼克：起源》正式发售，SEGA发布了该游戏的上市宣传片，一起来回顾一下音速刺猬最初的四款游戏吧。《索尼克：起源》包含作为索尼克系列原点的《刺猬索尼克》，《索尼克CD》、《刺猬索尼克2》、以及《刺猬索尼克3与纳克鲁斯》。"
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284427.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284427.htm",
         "title":"押注比特币，萨尔瓦多压力山大",
         "desc":"比特币等加密货币价格近期的崩盘正在影响全世界投资者，其中就包括萨尔瓦多政府。这个中美洲国家已向比特币注入巨资，并在9个月前将它列为法定货币，鼓励民众在日常交易中使用它。从小饰品、炸玉米饼到汽油，甚至房子，人们在萨尔瓦多几乎可用比特币买到任何东西。在路边摊和大型连锁店使用加密货币购物是一种非同寻常的体验。"
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284429.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284429.htm",
         "title":"Windows 11预览版更新实现更深入的OneDrive整合",
         "desc":null
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284431.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284431.htm",
         "title":"Netflix联合CEO确认将推出更便宜的有广告套餐",
         "desc":null
     },
@@ -270,28 +255,43 @@
         "desc":"这是一个充满味道的视频。\r\n\r\n6月22日，北京一男子晚上回家，开门闻到一股刺鼻的味道，才发现狗狗在家拉屎，被扫地机器人涂满了全家，地板上到处都是。"
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284435.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284435.htm",
         "title":"全球首款OLED Windows轻薄掌机AYANEO AIR开启众筹 火速破100万港币",
         "desc":null
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284437.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284437.htm",
         "title":"Google介绍iOS版Chrome浏览器的5个新特性",
         "desc":"Google宣布其iOS上的Chrome浏览器将有五个新的主要功能，重点是使iPhone和iPad上的Chrome浏览器更快、更安全、更个性化。根据Google官方博客上的一篇文章，iOS版Chrome浏览器的下一次更新将包括以下功能："
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284439.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284439.htm",
         "title":"新的白宫合作伙伴关系旨在加快海上风电场的建设",
         "desc":null
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284441.htm",
-        "title":"特斯拉“哨兵模式”引发隐私担忧，柏林警方或可能禁止使用",
+        "url":"https://www.cnbeta.com/articles/tech/1284441.htm",
+        "title":"特斯拉“哨兵模式”引发隐私担忧 柏林警方或可能禁止使用",
         "desc":"自2019年特斯拉推出“哨兵模式”以来，只要发现有威胁，特斯拉EV就会录制360度的外部活动视频。自去年秋天以来，拥有高级订阅的车主可以从这些摄像头中进行直播。据报道，这些摄像头已经捕捉到有人破坏车辆，还有一个人莫名其妙地把别人正在充电站充电的特斯拉拔掉插头。"
     },
     {
-        "url":"http://www.cnbeta.com/articles/tech/1284443.htm",
+        "url":"https://www.cnbeta.com/articles/tech/1284443.htm",
         "title":"首批M2 MacBook Pro抵达新西兰和澳大利亚的客户手中",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284445.htm",
+        "title":"日本尼崎市46万居民信息随U盘丢失 当地政府道歉",
+        "desc":"据共同社23日报道，日本兵库县尼崎市当天宣布，装有该市约46万市民个人信息（包括姓名、住址、出生年月等）的U盘遗失，目前尚未发现这些个人信息泄露给外界。尼崎市方面表示，该市将有关新冠肺炎疫情临时特别津贴发放的业务外包给了一家公司。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1284447.htm",
+        "title":"BepiColombo再次飞越水星 发回该行星充满陨石坑的表面的新图像",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284449.htm",
+        "title":"Edge新功能正改善Xbox和PC的游戏体验",
         "desc":null
     }
 ]
