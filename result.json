@@ -1,20 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1284237.htm",
-        "title":"看NASA“毅力号”如何避免碰撞和激光击穿情况的发生",
-        "desc":"NASA的“毅力号”火星车有着许多的移动部件，包括机械臂、钻头、桅杆、仪器罩、高增益天线和移动系统。在运动过程中跟火星车体或火星表面发生意外碰撞都可能会造成无法修复的损坏。此外，SuperCam仪器向表面发射LIBS激光以产生等离子体并进行光谱分析，对此，团队成员也要防止激光射到火星车的任何部分。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284239.htm",
-        "title":"视频暗示Nothing Phone(1)将采用邀请制首销",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284241.htm",
-        "title":"因房屋广告存在歧视行为 Meta被罚11.5万美元",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284243.htm",
         "title":"能量密度超特斯拉“4680” 宁德时代CTP3.0麒麟电池发布",
         "desc":null
@@ -293,5 +278,20 @@
         "url":"https://www.cnbeta.com/articles/science/1284355.htm",
         "title":"科学家揭开神秘的爆炸性射电暴的起源",
         "desc":"科学家们模拟了整个宇宙中发生的一个令人困惑的爆炸过程。神秘的快速射电暴是宇宙中最令人困惑的现象之一，它在一秒钟内释放的能量相当于太阳一年的能量。普林斯顿大学、美国能源部（DOE）普林斯顿等离子体物理实验室（PPPL）和SLAC国家加速器实验室的研究人员现在已经模拟并提出了一个具有成本效益的实验，以产生和观察这一过程的早期阶段，而这在以前被认为是在今天的技术中是不可能的。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284357.htm",
+        "title":"Einride将在美国公共道路上运营其无驾驶室的自动驾驶电动货车",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284359.htm",
+        "title":"索尼全新遥控器发布 曾被罗永浩吐槽太难盲操",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284361.htm",
+        "title":"20年传奇3dfx Voodoo 5显卡驱动更新 支持带鱼屏",
+        "desc":"PC老鸟们，还记得3dfx吗？二十世纪末，3dfx在NVIDIA、ATI、S3的夹击下艰难求生，但却选择了错误的技术路线，于2002年关张（被NVIDIA收购）。Voodoo\r\n 5 6000是3dfx最后一款消费级显卡，但并未零售，据说总计也才生产了几十张而已。它本是单卡双芯Voodoo 5 \r\n5500的接替者，也是迄今唯一单卡四芯的怪兽。"
     }
 ]
