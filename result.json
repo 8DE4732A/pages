@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/movie/1284329.htm",
-        "title":"25周年经典神作:《泰坦尼克号》3D 4K HDR重制版明年重映",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284331.htm",
-        "title":"Pixel 4意外获得Android 13更新 升级后Google Pay无法使用",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284333.htm",
         "title":"Intel Arc A380独立显卡配AMD处理器：性能瞬间蒸发15％",
         "desc":"Intel第一款游戏级桌面独立显卡Arc A380终于解禁了，它的游戏性能整体上GTX 1650 D5基本一个档次，完全不敌GTX 1050 Ti、RX 6400。不过还有一个核心问题，那就是驱动支持与优化，还很不到位，部分游戏性能不达标，流畅度不够，而且还挑平台，目前必须搭配10/11/12代酷睿才行。"
@@ -281,7 +271,7 @@
     },
     {
         "url":"https://www.cnbeta.com/articles/tech/1284441.htm",
-        "title":"特斯拉“哨兵模式”引发隐私担忧，柏林警方或可能禁止使用",
+        "title":"特斯拉“哨兵模式”引发隐私担忧 柏林警方或可能禁止使用",
         "desc":"自2019年特斯拉推出“哨兵模式”以来，只要发现有威胁，特斯拉EV就会录制360度的外部活动视频。自去年秋天以来，拥有高级订阅的车主可以从这些摄像头中进行直播。据报道，这些摄像头已经捕捉到有人破坏车辆，还有一个人莫名其妙地把别人正在充电站充电的特斯拉拔掉插头。"
     },
     {
@@ -293,5 +283,15 @@
         "url":"https://www.cnbeta.com/articles/tech/1284445.htm",
         "title":"日本尼崎市46万居民信息随U盘丢失 当地政府道歉",
         "desc":"据共同社23日报道，日本兵库县尼崎市当天宣布，装有该市约46万市民个人信息（包括姓名、住址、出生年月等）的U盘遗失，目前尚未发现这些个人信息泄露给外界。尼崎市方面表示，该市将有关新冠肺炎疫情临时特别津贴发放的业务外包给了一家公司。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1284447.htm",
+        "title":"BepiColombo再次飞越水星 发回该行星充满陨石坑的表面的新图像",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284449.htm",
+        "title":"Edge新功能正改善Xbox和PC的游戏体验",
+        "desc":null
     }
 ]
