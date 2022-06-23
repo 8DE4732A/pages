@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/movie/1284275.htm",
-        "title":"电影《刺猬索尼克2》取得新里程碑 全球票房破4亿美元",
-        "desc":null
-    },
-    {
-        "url":"https://hot.cnbeta.com/articles/movie/1284277.htm",
-        "title":"还想演：伊万、海登对《欧比旺》第二季持欢迎态度",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284279.htm",
         "title":"澳门传播毒株是BA5.1：传染力较高 尚未在内地流行",
         "desc":null
@@ -293,5 +283,15 @@
         "url":"https://www.cnbeta.com/articles/tech/1284393.htm",
         "title":"蔚来回应“车辆坠楼致两名试车员身亡” 引发争议后修改声明措辞",
         "desc":"北京时间6月23日晚，智能电动汽车公司蔚来在其官方微博上发布声明，回应“测试车坠楼致两名试车员身亡”事件。因文中包括“这是一起意外事故，与车辆本身没有关系”引发一些网友争议。随后，蔚来官微删除这一声明并修改了措辞，重新发布的声明称，“根据对现场情况的分析可以初步确认，这是一起（非车辆原因导致的）意外事故。”"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284395.htm",
+        "title":"国产x86 CPU兆芯有了ITX迷你主板：最高八核2.7GHz",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284397.htm",
+        "title":"华为nova 10真机上手图曝光：后摄神似“双星伴月”",
+        "desc":null
     }
 ]
