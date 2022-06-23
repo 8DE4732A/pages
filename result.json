@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284321.htm",
-        "title":"HALO Trust将使用Spot机器狗帮助乌克兰清理未爆弹药",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284323.htm",
         "title":"500万内“最好”的车 在中国没能火起来",
         "desc":"如果世界上有这样一种车：前半部分巧妙融合轿车的驾控感受和 SUV 的高位视野，后半部分提供不逊色于微型货车的装载能力和近乎无限的灵活场景适配度。再搭配主流水准的动力，功能主义至上的内饰，如履平地的四驱系统，以及皮实耐用的质量……"
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1284437.htm",
         "title":"Google介绍iOS版Chrome浏览器的5个新特性",
         "desc":"Google宣布其iOS上的Chrome浏览器将有五个新的主要功能，重点是使iPhone和iPad上的Chrome浏览器更快、更安全、更个性化。根据Google官方博客上的一篇文章，iOS版Chrome浏览器的下一次更新将包括以下功能："
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284439.htm",
+        "title":"新的白宫合作伙伴关系旨在加快海上风电场的建设",
+        "desc":null
     }
 ]
