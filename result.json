@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284703.htm",
-        "title":"由于半导体短缺状况未能缓解，格芯将在年底前决定进一步投资地点",
-        "desc":"据日经亚洲报道，格芯首席执行官Tom Caulfield表示，由于全球半导体短缺状况未能缓解，该公司将在“今年年底之前”决定在哪里（新加坡、纽约或德国）进一步增加产能。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284705.htm",
         "title":"可选更新确认Windows 10 22H2功能更新即将到来",
         "desc":"Windows 10 将持续支持到 2025 年，这意味着用户可以期待未来几年会有更多的“功能更新”到来。近日面向 Windows 10 的可选更新确认了即将到来的 22H2 功能更新。"
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1284825.htm",
         "title":"国产CPU第一股龙芯中科上市首日市值超340亿 自研架构光环与争议并存",
         "desc":"今日，国产CPU第一股龙芯中科成功登陆科创板，本次发行股票数量4100万股，发行价格每股60.05元。作为成功登陆科创板的第一家CPU公司，龙芯中科是国产CPU“自主派”的领军者，其自研的LongArch指令集已经投入使用，基于该指令集开发了3A5000芯片产品也已投向市场。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284827.htm",
+        "title":"BlackBerry软件全球已部署超过2.15亿辆汽车",
+        "desc":null
     }
 ]
