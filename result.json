@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1284655.htm",
-        "title":"用生物石灰石生产的水泥有望成为碳中性混凝土",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284657.htm",
         "title":"丰田所持优步股份已减半",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1284777.htm",
         "title":"Ausdom发布拥有2K分辨率的AW616一体式会议摄像头",
         "desc":"Ausdom今天发布了AW616一体式视频摄像头，这是一款拥有2K高分辨率的企业级产品，通过将2K \r\nQHD高分辨率网络摄像头与高保真扬声器和AI降噪麦克风合并为一个高分辨率视频会议网络摄像头，对于在家进行远程团队工作、旅行中工作和办公室的视频会议都相当有用。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284779.htm",
+        "title":"英特尔Raptor Lake酷睿i9-13900处理器拥有有24个内核和32个线程",
+        "desc":"一张据称是英特尔Raptor Lake酷睿i9-13900处理器的CPU-Z截图被泄露，显示了工程样品的初步规格，具体参数为：24个核心，32个线程，3.8GHz时钟，36MB缓存，65W。"
     }
 ]
