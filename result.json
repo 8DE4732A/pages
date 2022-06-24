@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284761.htm",
-        "title":"消息称喜马拉雅暂停香港IPO计划 官方暂未回应",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284763.htm",
         "title":"抖音上演新东方模仿秀",
         "desc":"没有人愿意错过东方甄选和董宇辉的这班流量快车，从汪小菲的法语双语带货，到豆神教育的“豆神甄选”新账号，再到卫龙辣条、林家铺子等食品品牌的“董宇辉体”产品讲解，为了蹭上热度，卖货主播们一时间“八仙过海，各显神通”。"
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1284877.htm",
         "title":"币圈雷曼危机还没完 又有价值一亿美元的数字货币被偷了",
         "desc":"加密币近日真的不太平，除了过去两个月暴跌带来的“灰飞烟灭”，还有不断持续蔓延的流动性枯竭，从“币圈银行”Celsius，到币圈最大对冲基金三箭资本，“币圈券商”Voyager\r\n Digital，再到加密货币交易所CoinFlex，现在还出现意料之外的黑客袭击。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284879.htm",
+        "title":"紧急行政中止令下达 Juul暂时可以继续在美国销售电子烟产品",
+        "desc":null
     }
 ]
