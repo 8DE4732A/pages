@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284725.htm",
-        "title":"因未达到财务目标 育碧CEO自愿减薪30万美元",
-        "desc":"根据最新的育碧收益报告显示，长期担任首席执行官的Yves Guillemot将自愿大幅减薪，总计32.7美元（约合人民币219万元）。这个消息最初源自外媒Axios的发现。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284727.htm",
         "title":"macOS端Outlook更新 终于获得“撤销发送”功能",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1284845.htm",
         "title":"联邦法院裁定DMCA并不凌驾于第一修正案的匿名言论保护之上",
         "desc":"当Twitter要求地区法院法官推翻地方法官的决定时，EFF和北加州ACLU基金会在本案中提交了一份非当事人意见书，认为地方法官的裁决只关注用户的推文是否构成对版权作品的合理使用，从而回避了第一修正案。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1284847.htm",
+        "title":"科学家推出仿生机器人鱼以清除海洋中的微塑料",
+        "desc":null
     }
 ]
