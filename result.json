@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284359.htm",
-        "title":"索尼全新遥控器发布 曾被罗永浩吐槽太难盲操",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284361.htm",
         "title":"20年传奇3dfx Voodoo 5显卡驱动更新 支持带鱼屏",
         "desc":"PC老鸟们，还记得3dfx吗？二十世纪末，3dfx在NVIDIA、ATI、S3的夹击下艰难求生，但却选择了错误的技术路线，于2002年关张（被NVIDIA收购）。Voodoo\r\n 5 6000是3dfx最后一款消费级显卡，但并未零售，据说总计也才生产了几十张而已。它本是单卡双芯Voodoo 5 \r\n5500的接替者，也是迄今唯一单卡四芯的怪兽。"
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1284475.htm",
         "title":"微软Edge正测试类Spotlight启动器 可快速执行各项任务",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284477.htm",
+        "title":"Hinge推出新功能 让用户更容易坦诚约会的意图",
         "desc":null
     }
 ]
