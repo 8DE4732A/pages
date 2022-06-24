@@ -1,25 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284683.htm",
-        "title":"H2 Clipper零排放氢气货运飞艇原型计划于2025年问世",
-        "desc":"H2 Clipper提出了一个非常有说服力的案例从而让一项极富争议的技术得以恢复。这家公司表示，由绿色氢气提升和驱动的大型电动飞艇随时可以比货船更快地在长距离上运输大量货物并能以最小的地面基础设施开辟内陆物流设施，此外，在做这一切的时候，还能实现零排放。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284685.htm",
-        "title":"SMART Modular发布MP3000系列工业级PCIe 4.0 NVMe SSD新品",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284687.htm",
-        "title":"中国广电适配机型公布：小米/华为等126款可用 iPhone需打开VoLTE",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284689.htm",
-        "title":"三星Galaxy S23 Ultra新爆料 2亿像素镜头没戏了",
-        "desc":"根据此前三星官方放出的信息，三星将于8月初推出新机Z Fold 4和Flip 4。在大家都在期待三星新的折叠屏手机时，有数码博主透露了S23 Ultra的有关信息。据该博主爆料，S23 Ultra或许并不会搭载三星最新推出的相机传感器。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284691.htm",
         "title":"英特尔证实Arc独显将会支持AMD平台的SAM智能存取技术",
         "desc":null
@@ -293,5 +273,25 @@
         "url":"https://www.cnbeta.com/articles/tech/1284805.htm",
         "title":"门店无线音箱造假？索尼回应：产品预留了有线连接接口 复杂场景下可以使用",
         "desc":"6月24日晚间消息，针对微博网友爆料的索尼直营店无线音箱涉嫌造假一事，索尼方面向新浪科技表示，该产品本身所带的有线连接接口，是预留给特殊、复杂的情况下做连接以及检测使用，家居环境下正常使用该产品不需要有线连接。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284807.htm",
+        "title":"中国第一个桌面操作系统根社区诞生 七大院士力挺",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1284809.htm",
+        "title":"液态金属也可以有磁性 来看看中国科技者的世界级研究成果",
+        "desc":"来自中国北京航空航天大学的科学家梁虎、刘静等人创造出了一种可以在三维空间自由操纵的磁性液体金属。它可以在水平方向和垂直方向通过磁铁自由拉伸。而且这种拉伸是可逆的，持久的，并能够重复很多次。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284811.htm",
+        "title":"中国移动新一代超级SIM卡芯片：2MB存储、算法翻3倍",
+        "desc":"6月24日消息，据“紫光同芯”公众号，在今天的中国移动2022科技周暨移动信息产业链创新大会号卡分论坛上，《中国移动新一代超级SIM芯片技术白皮书》正式发布，明确了新一代超级SIM卡的相关业务功能和技术特性。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284813.htm",
+        "title":"Moto 2亿像素骁龙8+旗舰入网：最高125W快充",
+        "desc":null
     }
 ]
