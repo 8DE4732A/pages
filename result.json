@@ -1,20 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284607.htm",
-        "title":"微软即将开始向Windows 8.1用户发送终止支持警告",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284609.htm",
-        "title":"長尾製作所推出N-Frame-OP01开放式机箱 可兼作显示器VESA安装支架",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284611.htm",
-        "title":"谷歌Parti生成器依靠200亿参数将文本转成栩栩如生的图像",
-        "desc":null
-    },
-    {
         "url":"https://hot.cnbeta.com/articles/movie/1284613.htm",
         "title":"《为了全人类》剧集中出现了融合Newton平板和内置iPhone 12的新道具",
         "desc":null
@@ -293,5 +278,20 @@
         "url":"https://www.cnbeta.com/articles/tech/1284725.htm",
         "title":"因未达到财务目标 育碧CEO自愿减薪30万美元",
         "desc":"根据最新的育碧收益报告显示，长期担任首席执行官的Yves Guillemot将自愿大幅减薪，总计32.7美元（约合人民币219万元）。这个消息最初源自外媒Axios的发现。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284727.htm",
+        "title":"macOS端Outlook更新 终于获得“撤销发送”功能",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284731.htm",
+        "title":"快狗打车正式在港上市：首日收盘暴跌超22% 市值约103亿港元",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284733.htm",
+        "title":"关于苹果全新CarPlay，你不知道的事",
+        "desc":"在今年的WWDC22苹果开发者大会上，苹果公司罕见地对车载映射系统CarPlay进行了较大幅度的升级，让CarPlay不再是iOS系统的简单投射，而是要让iOS充满整个车内屏幕中，这应该也是CarPlay自2014年以来最大的一次升级。"
     }
 ]
