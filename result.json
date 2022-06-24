@@ -1,20 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284499.htm",
-        "title":"“链游之王”Axie Infinity开发商将赔偿用户损失 因黑客攻击损失超6亿美元",
-        "desc":"越南视频游戏开发商Sky \r\nMavis表示，他们预计在6月28日赔偿用户的损失，并重新开放攻击中被破坏的软件桥。今年3月，该公司在一次黑客攻击中损失超过6.2亿美元。黑客从被称为Ronin的软件桥上偷走了17.36万个以太币和2550万个USDC加密货币，这个软件桥让用户可以在不同区块链的币种之间进行交换。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284501.htm",
-        "title":"博通610亿美元收购VMware将面临欧盟长期反垄断调查",
-        "desc":"博通斥资610亿美元收购云软件公司VMware的交易将面临布鲁塞尔的长时间反垄断审查，原因是监管者担心该交易可能对全球科技行业的竞争构成伤害。知情人士表示，博通已经在与欧盟官员展开初步沟通。后者将调查此次合并可能引发哪些不法行为，包括可能的产品涨价。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284503.htm",
-        "title":"NASA前副局长：马斯克曾遭俄罗斯设计师吐口水 激发造飞船决心",
-        "desc":"6月24日消息，在最近出版的回忆录中，美国宇航局（NASA）前副局长洛丽·加弗（Lori Garver）详细回忆了特斯拉首席执行官埃隆·马斯克（Elon\r\n Musk）创办SpaceX、自主研发火箭的过程。这本回忆录名为《逃离地心引力：我改造NASA并开启新太空时代的探索》 （Escaping \r\nGravity: My Quest to Transform NASA and Launch a New Space \r\nAge），于6月21日出版。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1284505.htm",
         "title":"研究人员建造了一种据说可以永远运行的激光器",
         "desc":null
@@ -292,6 +277,21 @@
     {
         "url":"https://www.cnbeta.com/articles/science/1284615.htm",
         "title":"亚马逊搭上Axiom太空任务 将一台Snowcone边缘计算设备送入空间站",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284617.htm",
+        "title":"空客试飞首架双引擎燃烧100%绿色燃料的直升机",
+        "desc":"空客(Airbus)近日实现了绿色航空的第一次。据悉，一架H225直升机首次使用Safran Makila 2引擎进行了100%可持续航空燃料(SAF)的飞行，SAF通常来自生物质--包括废弃的脂肪、油和油脂。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284619.htm",
+        "title":"Twitter正式向Android/iOS用户推送隐藏的视频字幕开关",
+        "desc":null
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/movie/1284621.htm",
+        "title":"马丁宣布《权力的游戏》衍生剧定名《雪诺》 基特哈灵顿确认回归",
         "desc":null
     }
 ]
