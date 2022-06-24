@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284367.htm",
-        "title":"到2028年，电动汽车将占全球汽车销量的33%",
-        "desc":"咨询公司AlixPartners周三表示，到2028年，全球电动汽车销量占比将达到33%，到2035年将达到54%。而去年，电动汽车在全球汽车销量中的占比不到8%，2022年第一季度电动汽车的占比则略低于10%。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284369.htm",
         "title":"蔚来回应汽车坠楼致两名测试员罹难：非常痛心 已启动事故调查",
         "desc":null
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/science/1284483.htm",
         "title":"野生动物生物学家捕获佛罗里达州有史以来最大的缅甸蟒",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284485.htm",
+        "title":"美监管机构：私人保险公司越来越不愿意给重大网络攻击承保",
         "desc":null
     }
 ]
