@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284445.htm",
-        "title":"日本尼崎市46万居民信息随U盘丢失 当地政府道歉",
-        "desc":"据共同社23日报道，日本兵库县尼崎市当天宣布，装有该市约46万市民个人信息（包括姓名、住址、出生年月等）的U盘遗失，目前尚未发现这些个人信息泄露给外界。尼崎市方面表示，该市将有关新冠肺炎疫情临时特别津贴发放的业务外包给了一家公司。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1284447.htm",
         "title":"BepiColombo再次飞越水星 发回该行星充满陨石坑的表面的新图像",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1284561.htm",
         "title":"国产CPU龙头龙芯中科登陆科创板 开盘涨超60%",
         "desc":"刚刚，国产CPU设计厂商龙芯中科以发行价60.06元/股登陆科创板。龙芯中科开盘价为96.28元/股，涨幅60.31%。开盘后，龙芯中科股价有所下滑。截至芯东西成文，龙芯中科股价为89.33元/股，涨幅48.73%，总市值358亿元。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284563.htm",
+        "title":"[图]Windows 11获KB5014668可选更新：引入Search Highlights",
+        "desc":null
     }
 ]
