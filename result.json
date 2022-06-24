@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/movie/1284753.htm",
-        "title":"《芭比》真人电影新片场照 性感“小丑女”有些忧伤",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284755.htm",
-        "title":"马来西亚半导体“缺工”困境何解？",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284757.htm",
         "title":"三星或为Galaxy Z Flip4折叠屏新机带来更丰富的外观定制选项",
         "desc":null
@@ -293,5 +283,15 @@
         "url":"https://www.cnbeta.com/articles/tech/1284869.htm",
         "title":"小屏旗舰三星Galaxy S22喜提Android 13：未来能升Android 16",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284871.htm",
+        "title":"苹果M2版MacBook Air 7月发售：MagSafe回归",
+        "desc":null
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/game/1284873.htm",
+        "title":"《女神异闻录5》粉丝杂志创始人挪用14万项目资金充《原神》",
+        "desc":"据外媒报道，制作《女神异闻录5》粉丝杂志的Showtime团队发布了一份声明，宣布该团队的一名前成员涉嫌挪用27625加元(约14.29万元人民币)的项目资金，用于充值《原神》手游。Showtime始于2020年，通过Etsy向全球Atlus\r\n RPG粉丝销售了1517份产品。此后，28名插画家、5名商品艺术家和6名作家共同参与了这个项目，而创始人Ree却偷偷挪用了部分项目资金。"
     }
 ]
