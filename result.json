@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284579.htm",
-        "title":"微软确认.NET框架在Windows 11上存在问题 将努力修复",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284581.htm",
         "title":"教培领域再爆雷 百万粉丝大V控诉“小音咖”卷走6个亿跑路",
         "desc":null
@@ -257,7 +252,7 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1284681.htm",
         "title":"带你走进《壮志凌云2》Darkstar高超音速喷气机的背后故事",
-        "desc":"因引人入胜的动作场面和令人振奋的对下一代空中格斗的展示，《壮志凌云：独行侠》大获成功。不过如果没有来自世界上最重要的航空航天专家的专业知识，那么该片的制片人是不可能做到这一点的，这包括利用洛克希德-马丁臭鼬工厂的工程师的头脑制作了物理弯曲的Darkstar高超音速飞机。"
+        "desc":"因引人入胜的动作场面和对下一代令人振奋的空中格斗的展示，《壮志凌云：独行侠》大获成功。不过如果没有来自世界上最重要的航空航天专家的专业知识，那么该片的制片人是不可能做到这一点的，这包括利用洛克希德-马丁臭鼬工厂的工程师的头脑制作了物理弯曲的Darkstar高超音速飞机。"
     },
     {
         "url":"https://www.cnbeta.com/articles/tech/1284683.htm",
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1284695.htm",
         "title":"Polestar 5：一款将像超跑一样强大的电动汽车",
         "desc":"一段时间以来，电动汽车一直在挑战性能的极限，像Lucid Air和特斯拉Model S Plaid这样的高端产品，其加速度可跟超跑媲美。Polestar承诺，随着Polestar 5的发布，它将继续这一趋势。据悉，Polestar 5是它在2020年首次亮相的Precept概念车的量产版。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284697.htm",
+        "title":"网络安全审查办公室对知网启动网络安全审查",
+        "desc":null
     }
 ]
