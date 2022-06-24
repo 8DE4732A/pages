@@ -1,20 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284403.htm",
-        "title":"20年老牌CPU厂商转型 RISC-V架构新U瓜熟蒂落",
-        "desc":"去年12月份，作为拥有20多年历史的老牌芯片设计公司，Imagination宣布拥抱开源的RISC-V架构，推出全新的Catapult系列处理器产品，涵盖动态微控制器、实时嵌入式CPU、高性能应用处理器CPU、支持汽车功能安全的CPU四大品类。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284405.htm",
-        "title":"1000km续航无压力 宁德时代确认理想汽车搭载麒麟电池",
-        "desc":null
-    },
-    {
-        "url":"https://hot.cnbeta.com/articles/movie/1284407.htm",
-        "title":"营收增速放缓 Netflix裁员300人",
-        "desc":"北京时间6月24日消息，Netflix再次裁减约300名员工，占全部员工3%，大约一个月前Netflix刚刚裁员150人。Netflix在声明中表示，公司营收增速放缓，成本不断上升，所以才会有裁员。4月份Netflix曾警告投资者，未来2年某些业务的支出增长将会被撤回。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284409.htm",
         "title":"美众议院能源和商务委员会通过在线隐私法案",
         "desc":"美国国会众议院下属能源和商务委员会周四通过了一项两党合作的在线隐私法案，该法案旨在限制公司收集个人数据的行为，但是否会成为正式立法则仍旧存疑。根据这项法案的规定，Alphabet旗下谷歌公司、Meta旗下Facebook以及其他一系列公司将被要求只能收集提供服务所需的个人数据，而像社保号码这样的敏感信息则将得到更多保护。"
@@ -293,5 +278,20 @@
         "url":"https://www.cnbeta.com/articles/science/1284519.htm",
         "title":"研究发现蘑菇提取物可清除HPV感染",
         "desc":"根据美国得克萨斯大学休斯顿健康科学中心的最新研究，每天使用蘑菇提取物有助于免疫系统清除人类乳头瘤病毒（HPV）感染。这项研究发表在22日的《肿瘤学前沿》杂志上。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1284521.htm",
+        "title":"“四中子态”迄今最明确证据发布",
+        "desc":"由来自德国、日本、美国和中国等国的科学家组成的国际科研团队在最新一期《自然》杂志上发表论文称，他们获得了迄今最明确的证实“四中子态”这种物质存在的证据，有助科学家更好地理解宇宙是如何形成的，这种新奇的物质形态也可能拥有对现有或新兴技术有用的性质。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1284523.htm",
+        "title":"MIT科学家们在粘液中发现可以对抗真菌感染的分子",
+        "desc":null
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/movie/1284525.htm",
+        "title":"传《星战绝地》主演将有自己单独的《星战》剧集",
+        "desc":"近年来，《星球大战》这个IP似乎找到了自我。曾一度占据大银幕，现在这个系列开始转向观众的小屏幕，在迪士尼+上推出了多个成功真人剧集。据《星战》知名舅舅党Kristian Harloff爆料，2019年发售游戏《星球大战绝地：陨落的武士团》的主角Cal Kestis（Cameron Monaghan饰）将迎来自己的迪士尼+剧集。"
     }
 ]
