@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284457.htm",
-        "title":"Facebook Pay将被更名为Meta Pay  但功能变化不大",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284459.htm",
         "title":"元宇宙“点燃”虚拟服装：千元“买皮肤” 百元发售价被炒至万元",
         "desc":"“元宇宙”的魅力，正蔓延至虚拟服装，并成为一门生意。“虚拟时空里，金属可以长出花瓣，波浪可以织就裙摆，水晶可以反重力倒流，而你，可以变装成任何模样”。新京报贝壳财经记者发现，小红书等社交平台上，虚拟服装、虚拟配饰、甚至虚拟翅膀都可以实现穿戴，打造“专属时装大片”。"
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/science/1284573.htm",
         "title":"9010米！ 中国石油创国内陆上最深气井纪录",
         "desc":"6月23 日13：10，中国石油在西南油气田双鱼001-H6井安全钻至9010米井深完钻，创造中国陆上最深气井纪录，标志着中国石油超深井钻井能力再上新台阶。这是中国石油在大力发展超深层钻井技术上取得的又一重大突破。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284575.htm",
+        "title":"亚马逊推出CodeWhisperer 一款类似GitHub Copilot的AI编程辅助工具",
+        "desc":null
     }
 ]
