@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284727.htm",
-        "title":"macOS端Outlook更新 终于获得“撤销发送”功能",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284731.htm",
-        "title":"快狗打车正式在港上市：首日收盘暴跌超22% 市值约103亿港元",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284733.htm",
         "title":"关于苹果全新CarPlay，你不知道的事",
         "desc":"在今年的WWDC22苹果开发者大会上，苹果公司罕见地对车载映射系统CarPlay进行了较大幅度的升级，让CarPlay不再是iOS系统的简单投射，而是要让iOS充满整个车内屏幕中，这应该也是CarPlay自2014年以来最大的一次升级。"
@@ -293,5 +283,15 @@
         "url":"https://www.cnbeta.com/articles/science/1284847.htm",
         "title":"科学家推出仿生机器人鱼以清除海洋中的微塑料",
         "desc":null
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/game/1284849.htm",
+        "title":"《最后的生还者：重制版》至少需要75GB硬盘空间",
+        "desc":"根据PS直营商城，《最后的生还者：重制版》至少需要79GB硬盘空间。相比《最后的生还者：复刻版》（PS4）不到50GB的要求，有了很大的提升。同时，页面还确认《最后的生还者：重制版》将支持DualSense手柄功能，包括触觉反馈和自适应扳机。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284851.htm",
+        "title":"背靠沃尔沃的极星借壳登陆纳斯达克 去年全球销量2.9万辆",
+        "desc":"纯电动汽车品牌极星登陆纳斯达克。当地时间6月24日，极星（Polestar）在纳斯达克上市交易，股票代码“PSNY”，开盘价12.98美元/股。极星汽车系通过与特殊目的收购公司（SPAC）Gores\r\n Guggenheim合并达成本次上市。极星接手 Gores Guggenheim 的股价，该公司前一日收盘价为11.23美元/股。"
     }
 ]
