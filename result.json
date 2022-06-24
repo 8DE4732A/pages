@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284489.htm",
-        "title":"华为nova 10定档7月4日 真机渲染图曝光",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284491.htm",
         "title":"6月南方部分省份进入流感高发期 专家提醒打疫苗可预防",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1284605.htm",
         "title":"盘点2022年15辆省油的优秀混动车",
         "desc":"随着油价的上涨，在购买新车时，燃油经济性成为了一个重要的考虑因素。幸运的是，在燃油效率方面，汽车行业已经取得了巨大的进步--一加仑的汽油行驶的路程比你想象的要更远。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284607.htm",
+        "title":"微软即将开始向Windows 8.1用户发送终止支持警告",
+        "desc":null
     }
 ]
