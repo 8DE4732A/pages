@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/movie/1284493.htm",
-        "title":"网飞《三体》剧集新增卡司阵容：赵家玲、权游演员等",
-        "desc":"网飞版《三体》剧集宣布增加多名演员：乔纳森·普雷斯(《权力的游戏》)、赵家玲(《喜福会》)、本·施耐泽(《Y染色体》)、Eve Ridley(《小猪佩奇》)。该剧此前已公布演员有本尼迪克特·王、周采芹、约翰·布莱德利、利亚姆·坎宁安、艾莎·冈萨雷斯、约翰·艾德坡、Jess Hong、玛洛·凯丽、艾利克斯·夏普、Sea Shimooka、Zine Tseng、沙莫·阿斯玛尼等，也已曝出开拍。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284495.htm",
         "title":"Sonnet推适用于Mac Pro的M.2 2x4半高PCIe卡",
         "desc":null
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1284609.htm",
         "title":"長尾製作所推出N-Frame-OP01开放式机箱 可兼作显示器VESA安装支架",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284611.htm",
+        "title":"谷歌Parti生成器依靠200亿参数将文本转成栩栩如生的图像",
         "desc":null
     }
 ]
