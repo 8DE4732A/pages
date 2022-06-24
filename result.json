@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284577.htm",
-        "title":"美参议员将加密货币监管法案草案托管到Github上 接受公众评论",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284579.htm",
         "title":"微软确认.NET框架在Windows 11上存在问题 将努力修复",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1284693.htm",
         "title":"雷蛇推出雨林狼蛛V3系列键盘 紧凑布局，纤薄键帽，分机械和薄膜两款",
         "desc":"雷蛇发布雨林狼蛛V3（Ornata V3）系列键盘，分别有采用机械轴的雨林狼蛛V3及薄膜设计的雨林狼蛛V3 X两款。雷蛇表示，这两款产品均带有腕托，都是完美符合人体工程学的纤薄游戏键盘，非常适合游戏玩家。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284695.htm",
+        "title":"Polestar 5：一款将像超跑一样强大的电动汽车",
+        "desc":"一段时间以来，电动汽车一直在挑战性能的极限，像Lucid Air和特斯拉Model S Plaid这样的高端产品，其加速度可跟超跑媲美。Polestar承诺，随着Polestar 5的发布，它将继续这一趋势。据悉，Polestar 5是它在2020年首次亮相的Precept概念车的量产版。"
     }
 ]
