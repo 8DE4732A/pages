@@ -1,30 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284377.htm",
-        "title":"网易起诉自媒体张栋伟恶意造谣抹黑",
-        "desc":"网易对自媒体“张栋伟”多次发布歪曲事实、添油加醋、造谣抹黑的文章发布声明，称不想陷入口水之争，已正式向法院起诉，是非对错等待法律判决，对“黑公关”、“黑媒体”等行为，网易将坚持诉讼。据了解，该自媒体此前也曾收到抖音、科大讯飞等公司起诉书，最后也曾公开道歉。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284379.htm",
-        "title":"BioNTech开始建设非洲首个mRNA疫苗生产基地",
-        "desc":"BioNTech(BNTX.US)在卢旺达基加利开始建造其首个非洲mRNA疫苗生产设施。BioNTech预计，第一批移动疫苗生产装置——BioNTainers将于2022年底前交付。BioNTech今年2月宣布，计划通过开发和交付基于集装箱解决方案的移动mRNA疫苗制造设施，在非洲建立规模化的疫苗生产。"
-    },
-    {
-        "url":"https://hot.cnbeta.com/articles/movie/1284381.htm",
-        "title":"童星疑遭校园暴力跳楼轻生 其母发文求助",
-        "desc":"参演过《筑梦情缘》、《追梦少年》、《银河补习班》的童星邵一卜在学校因遭受长时间校园暴力轻生跳楼，其母在社交平台上发布多条长文提出控诉！"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284383.htm",
-        "title":"猴痘疫情扩散 世卫即将决定是否发出最高级别警告",
-        "desc":"世卫组织将于周四在日内瓦召开紧急委员会会议，评估是否将猴痘列为“国际关注的突发公共卫生事件”。这引发了非洲主要科学家的批评，他们称猴痘疫情已经在非洲地区肆虐多年。据了解，“国际关注的突发公共卫生事件”是世卫组织有权发出的最高级别警告，目前仅有新冠疫情和小儿麻痹症被列为该级别事件。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284385.htm",
-        "title":"Urban Sky公司小型平流层气球可以收集地球图像和数据",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284387.htm",
         "title":"耐克将全面退出俄罗斯市场 星巴克、麦当劳、可口可乐等都已退出",
         "desc":null
@@ -293,5 +268,30 @@
         "url":"https://hot.cnbeta.com/articles/movie/1284493.htm",
         "title":"网飞《三体》剧集新增卡司阵容：赵家玲、权游演员等",
         "desc":"网飞版《三体》剧集宣布增加多名演员：乔纳森·普雷斯(《权力的游戏》)、赵家玲(《喜福会》)、本·施耐泽(《Y染色体》)、Eve Ridley(《小猪佩奇》)。该剧此前已公布演员有本尼迪克特·王、周采芹、约翰·布莱德利、利亚姆·坎宁安、艾莎·冈萨雷斯、约翰·艾德坡、Jess Hong、玛洛·凯丽、艾利克斯·夏普、Sea Shimooka、Zine Tseng、沙莫·阿斯玛尼等，也已曝出开拍。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284495.htm",
+        "title":"Sonnet推适用于Mac Pro的M.2 2x4半高PCIe卡",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284497.htm",
+        "title":"彩电巨头厦华电子告别A股 大跌近90% 股价仅剩0.6元",
+        "desc":"6月23日晚，退市厦华（原证券简称“厦华电子”）发布公告称，公司股票将于6月30日被上交所予以摘牌，公司股票终止上市。作为昔日家喻户晓的彩电巨头，十多年来厦华电子一直徘徊在退市边缘，最终还是未能摆脱退市命运，股价最后仅剩0.6元，市值也只有3.14亿元。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284499.htm",
+        "title":"“链游之王”Axie Infinity开发商将赔偿用户损失 因黑客攻击损失超6亿美元",
+        "desc":"越南视频游戏开发商Sky \r\nMavis表示，他们预计在6月28日赔偿用户的损失，并重新开放攻击中被破坏的软件桥。今年3月，该公司在一次黑客攻击中损失超过6.2亿美元。黑客从被称为Ronin的软件桥上偷走了17.36万个以太币和2550万个USDC加密货币，这个软件桥让用户可以在不同区块链的币种之间进行交换。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284501.htm",
+        "title":"博通610亿美元收购VMware将面临欧盟长期反垄断调查",
+        "desc":"博通斥资610亿美元收购云软件公司VMware的交易将面临布鲁塞尔的长时间反垄断审查，原因是监管者担心该交易可能对全球科技行业的竞争构成伤害。知情人士表示，博通已经在与欧盟官员展开初步沟通。后者将调查此次合并可能引发哪些不法行为，包括可能的产品涨价。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284503.htm",
+        "title":"NASA前副局长：马斯克曾遭俄罗斯设计师吐口水 激发造飞船决心",
+        "desc":"6月24日消息，在最近出版的回忆录中，美国宇航局（NASA）前副局长洛丽·加弗（Lori Garver）详细回忆了特斯拉首席执行官埃隆·马斯克（Elon\r\n Musk）创办SpaceX、自主研发火箭的过程。这本回忆录名为《逃离地心引力：我改造NASA并开启新太空时代的探索》 （Escaping \r\nGravity: My Quest to Transform NASA and Launch a New Space \r\nAge），于6月21日出版。"
     }
 ]
