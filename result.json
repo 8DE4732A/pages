@@ -1,25 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1284543.htm",
-        "title":"科学家发现一种独特的北极熊亚种 为什么这很重要？",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284545.htm",
-        "title":"Solana推出主打web3体验的Saga Android智能机",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284547.htm",
-        "title":"iOS端Chrome引入Enhanced Safe Browsing功能",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284549.htm",
-        "title":"福特Pro Electric Transit SuperVan惊艳亮相古德伍德速度节",
-        "desc":"当福特的工程师们在一个不受约束的项目上放任自流时就有事情发生。1971年，福特推出了SuperVan，它将底盘和中置400马力V8发动机跟第一代Transit面包车的车身融合在一起，于是得到了一辆最高时速为150英里的汽车。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284551.htm",
         "title":"美联储主席：数字美元应由政府发行 加密资产监管框架需加强",
         "desc":"当地时间6月23日，美联储主席鲍威尔在美国国会众议院金融服务委员会就半年度货币政策报告做证。鲍威尔表示，美联储计划向国会推荐如何推进潜在的央行数字货币\r\n \r\n(CBDC)。据CoinDesk报道，当被问及美联储关于推出CBDC的下一步措施时，鲍威尔表示“这是我们作为一个国家真正需要探索的事情，而不应该是党派问题。”"
@@ -293,5 +273,25 @@
         "url":"https://www.cnbeta.com/articles/tech/1284659.htm",
         "title":"极星宣布与SPAC完成合并 筹资8.9亿美元",
         "desc":"6月23日，极星（Polestar）和特殊目的收购公司（SPAC）Gores \r\nGuggenheim宣布完成企业合并，合并后的公司将保留极星的名称，并将于2022年6月24日在纳斯达克以新的股票代码“PSNY”开始交易。6月22日，两家企业合并在Gores\r\n Guggenheim股东特别会议上获得批准。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1284661.htm",
+        "title":"中老年人若无法单脚站立10秒 那未来10年死亡概率增加1倍",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284663.htm",
+        "title":"全球最宜居城市排行榜出炉 莫斯科下降15名",
+        "desc":"据法新社6月23日报道，根据当天公布的排名，继2018年和2019年之后，维也纳重归全球最宜居城市排行榜榜首。报道称，在这项由经济学人智库进行的指数研究中，奥地利首都取代了新西兰的奥克兰，位列第一，奥克兰因延长卫生限制措施而下跌了33名。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284665.htm",
+        "title":"一文看懂苹果A2579、A2676两款35W双C口充电器区别",
+        "desc":"苹果在WWDC全球开发者大会上发布了搭载M2处理器的两款笔记本电脑，正如M1处理器迭代到M2，苹果也推出了两款双口USB-C充电器。看标题小伙伴应该也立马了解到这两款充电器型号分别为A2579和A2676。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284667.htm",
+        "title":"掀开M2 MacBook Pro底盖 组件布局延续了M1 MacBook Pro方案",
+        "desc":null
     }
 ]
