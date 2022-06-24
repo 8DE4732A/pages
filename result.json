@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1284573.htm",
-        "title":"9010米！ 中国石油创国内陆上最深气井纪录",
-        "desc":"6月23 日13：10，中国石油在西南油气田双鱼001-H6井安全钻至9010米井深完钻，创造中国陆上最深气井纪录，标志着中国石油超深井钻井能力再上新台阶。这是中国石油在大力发展超深层钻井技术上取得的又一重大突破。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284575.htm",
-        "title":"亚马逊推出CodeWhisperer 一款类似GitHub Copilot的AI编程辅助工具",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284577.htm",
         "title":"美参议员将加密货币监管法案草案托管到Github上 接受公众评论",
         "desc":null
@@ -293,5 +283,15 @@
         "url":"https://www.cnbeta.com/articles/tech/1284689.htm",
         "title":"三星Galaxy S23 Ultra新爆料 2亿像素镜头没戏了",
         "desc":"根据此前三星官方放出的信息，三星将于8月初推出新机Z Fold 4和Flip 4。在大家都在期待三星新的折叠屏手机时，有数码博主透露了S23 Ultra的有关信息。据该博主爆料，S23 Ultra或许并不会搭载三星最新推出的相机传感器。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284691.htm",
+        "title":"英特尔证实Arc独显将会支持AMD平台的SAM智能存取技术",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284693.htm",
+        "title":"雷蛇推出雨林狼蛛V3系列键盘 紧凑布局，纤薄键帽，分机械和薄膜两款",
+        "desc":"雷蛇发布雨林狼蛛V3（Ornata V3）系列键盘，分别有采用机械轴的雨林狼蛛V3及薄膜设计的雨林狼蛛V3 X两款。雷蛇表示，这两款产品均带有腕托，都是完美符合人体工程学的纤薄游戏键盘，非常适合游戏玩家。"
     }
 ]
