@@ -1,25 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/game/1284527.htm",
-        "title":"《暗黑破坏神：不朽》首次更新将推出 更多新内容开发中",
-        "desc":"近日国外Reddit论坛一位玩家询问暴雪，《暗黑破坏神：不朽》更新补丁何时出。暴雪表示将在未来几周内推出首次更新，主要集中在战斗通行证上。因为当前通行证已接近尾声，大概两周后就到期了。当然在未来，还有更大的更新计划。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284529.htm",
-        "title":"巨大隐患：亚马逊新语音技术或被不法分子伪造声音",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284531.htm",
-        "title":"Airbnb将投资1000万美元：打造“最古怪和最独特”的房产项目",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/science/1284533.htm",
-        "title":"前副局长：NASA内部有许多人强烈反对SpaceX",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284535.htm",
         "title":"马斯克说特斯拉新工厂烧钱 投资者为何不太在乎？",
         "desc":"6月24日消息，美国电动汽车制造商首席执行官埃隆·马斯克(Elon Musk)最近在接受采访时称旗下新建的柏林和德克萨斯超级工厂是巨大的“烧钱机器”，但这种说法并没有引起投资者的过分担忧。周四特斯拉股票收于每股706.21美元，微跌0.43%。"
@@ -293,5 +273,25 @@
         "url":"https://www.cnbeta.com/articles/science/1284643.htm",
         "title":"研究估计COVID-19疫苗去年拯救了近2000万人的生命",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284645.htm",
+        "title":"微软宣布开源GODEL语言模型",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284647.htm",
+        "title":"号称有国企“背书”的知名教培机构被曝跑路 数亿资金被“创业天才”卷走”",
+        "desc":"昨日深夜（6月23日），百万粉丝大V“王左中右”在其个人社交平台发文控诉维权。控诉长文显示，虽然他只在小音咖买了2万多块的课，但其他更多家长预交的学费少则上万，多则几十万，很多才上了几节课，便遇到小音咖爆雷。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284649.htm",
+        "title":"蔚来人车试验，一车两命陨落",
+        "desc":"近日，上海上演了“速度与激情”中令人惊悚的一幕。一辆蔚来测试车从上海总部大楼一冲而出，车顶直击地面。现场，2名试驾员抢救无效死亡。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284651.htm",
+        "title":"Web3 颠覆“传统媒体” 靠的可能是这块“镜子”",
+        "desc":"在互联网历史中，几乎每次技术变革都需要一个新的“舆论场”，来普及新技术和新思想。从早期的 \r\nBBS、到门户网站的聊天室，再到视频的“弹幕”，莫不如此。Twitter和 Telegram 可以说是 Web3 \r\n从业者的“信息根据地”，但一个成立不到两年的平台，Mirror，正在成为 Web3 新的“内容中心”。无数区块链大 V、从业者和爱好者，聚集到 \r\nMirror 上，发布大量关于 Web3 的内容。"
     }
 ]
