@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284657.htm",
-        "title":"丰田所持优步股份已减半",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284659.htm",
-        "title":"极星宣布与SPAC完成合并 筹资8.9亿美元",
-        "desc":"6月23日，极星（Polestar）和特殊目的收购公司（SPAC）Gores \r\nGuggenheim宣布完成企业合并，合并后的公司将保留极星的名称，并将于2022年6月24日在纳斯达克以新的股票代码“PSNY”开始交易。6月22日，两家企业合并在Gores\r\n Guggenheim股东特别会议上获得批准。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1284661.htm",
         "title":"研究认为中老年人若无法单脚站立10秒 那未来10年死亡概率增加1倍",
         "desc":null
@@ -291,7 +281,17 @@
     },
     {
         "url":"https://www.cnbeta.com/articles/tech/1284779.htm",
-        "title":"英特尔Raptor Lake酷睿i9-13900处理器拥有有24个内核和32个线程",
+        "title":"英特尔Raptor Lake酷睿i9-13900处理器拥有24个核心和32个线程",
         "desc":"一张据称是英特尔Raptor Lake酷睿i9-13900处理器的CPU-Z截图被泄露，显示了工程样品的初步规格，具体参数为：24个核心，32个线程，3.8GHz时钟，36MB缓存，65W。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284781.htm",
+        "title":"AMD Radeon RX 7000 RDNA 3图形处理器被确认为具有更高的功耗",
+        "desc":"在接受Tomshardware采访时，AMD高级副总裁Sam Naffziger暗示，为Radeon RX 7000系列显卡提供动力的下一代RDNA 3 GPU将具有比现有解决方案更高的功耗，同时仍然提供50%的性能/瓦特收益。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284783.htm",
+        "title":"报告：绿氢到2030年在所有国家均比蓝氢更具竞争力",
+        "desc":"到2030年，绿氢在所有国家均比蓝氢更为廉价。到2025年，中国和巴西将先后达到绿氢与蓝氢平价的临界点。在彭博新能源财经模型覆盖的25个市场中，绿氢成本到2030年都将低于蓝氢。得益于廉价的电解槽，中国将在2024年成为第一个达到绿氢与蓝氢平价临界点的国家，其成本届时将比世界其他地区低73%。"
     }
 ]
