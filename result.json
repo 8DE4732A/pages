@@ -1,20 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1284521.htm",
-        "title":"“四中子态”迄今最明确证据发布",
-        "desc":"由来自德国、日本、美国和中国等国的科学家组成的国际科研团队在最新一期《自然》杂志上发表论文称，他们获得了迄今最明确的证实“四中子态”这种物质存在的证据，有助科学家更好地理解宇宙是如何形成的，这种新奇的物质形态也可能拥有对现有或新兴技术有用的性质。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/science/1284523.htm",
-        "title":"MIT科学家们在粘液中发现可以对抗真菌感染的分子",
-        "desc":null
-    },
-    {
-        "url":"https://hot.cnbeta.com/articles/movie/1284525.htm",
-        "title":"传《星战绝地》主演将有自己单独的《星战》剧集",
-        "desc":"近年来，《星球大战》这个IP似乎找到了自我。曾一度占据大银幕，现在这个系列开始转向观众的小屏幕，在迪士尼+上推出了多个成功真人剧集。据《星战》知名舅舅党Kristian Harloff爆料，2019年发售游戏《星球大战绝地：陨落的武士团》的主角Cal Kestis（Cameron Monaghan饰）将迎来自己的迪士尼+剧集。"
-    },
-    {
         "url":"https://hot.cnbeta.com/articles/game/1284527.htm",
         "title":"《暗黑破坏神：不朽》首次更新将推出 更多新内容开发中",
         "desc":"近日国外Reddit论坛一位玩家询问暴雪，《暗黑破坏神：不朽》更新补丁何时出。暴雪表示将在未来几周内推出首次更新，主要集中在战斗通行证上。因为当前通行证已接近尾声，大概两周后就到期了。当然在未来，还有更大的更新计划。"
@@ -292,6 +277,21 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1284637.htm",
         "title":"字节跳动的摇钱树 深度解读抖音海外版的赚钱之道",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284639.htm",
+        "title":"台达电斥资3.2亿新台币成立碇基半导体“筹备处” 进军第三代半导体",
+        "desc":"6月24日，据台媒《经济日报》报道，台达电进军半导体领域，昨（23）日宣布斥资3.2亿元新台币成立碇基半导体筹备处，锁定第三代半导体，并从设计端切入。未来，不排除台达电再引进合作伙伴加入，以壮大实力。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284641.htm",
+        "title":"16核仅35W功耗 Intel 12代酷睿T系列处理器上市",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1284643.htm",
+        "title":"研究估计COVID-19疫苗去年拯救了近2000万人的生命",
         "desc":null
     }
 ]
