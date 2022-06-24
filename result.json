@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284605.htm",
-        "title":"盘点2022年15辆省油的优秀混动车",
-        "desc":"随着油价的上涨，在购买新车时，燃油经济性成为了一个重要的考虑因素。幸运的是，在燃油效率方面，汽车行业已经取得了巨大的进步--一加仑的汽油行驶的路程比你想象的要更远。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284607.htm",
         "title":"微软即将开始向Windows 8.1用户发送终止支持警告",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1284721.htm",
         "title":"蔚来汽车事故死亡两人皆测试员，业内爆料有测试员曾签生死状",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284725.htm",
+        "title":"因未达到财务目标 育碧CEO自愿减薪30万美元",
+        "desc":"根据最新的育碧收益报告显示，长期担任首席执行官的Yves Guillemot将自愿大幅减薪，总计32.7美元（约合人民币219万元）。这个消息最初源自外媒Axios的发现。"
     }
 ]
