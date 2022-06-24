@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1284707.htm",
-        "title":"科学家开发更精细的基因编辑工具 可最大限度地减少不良后果",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284709.htm",
         "title":"龙芯登陆科创板：2021年净利暴涨227.8% 与MIPS知识产权相关诉讼仍在继续",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1284829.htm",
         "title":"苹果公司在美国和加拿大推出返校促销活动 赠送礼品卡",
         "desc":"今年，苹果公司在美国和加拿大的返校促销活动宣告开始，购买符合条件的Mac电脑可获得150美元礼品卡，购买符合条件的iPad可获得100美元礼品卡。正如之前预期的那样，苹果公司现在已经开始了其最新的返校促销活动。并且这些优惠是在常规教育折扣的基础上进行的。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284831.htm",
+        "title":"源代码显示Pixel 7 Pro的显示屏将比6 Pro的面板更亮",
+        "desc":"泄密者一直在追踪Google为Pixel 7 Pro采用的新显示面板的，新的S6E3HC4面板将具有相同的3120 x \r\n1440px分辨率和与之前相同的10-120Hz刷新率，那么与Pixel 6 \r\nPro的S6E3HC3相比，实际上有什么变化？这个问题从作为Android13测试版一部分的源代码中得到了部分答案。"
     }
 ]
