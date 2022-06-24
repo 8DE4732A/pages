@@ -1,20 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284431.htm",
-        "title":"Netflix联合CEO确认将推出更便宜的有广告套餐",
-        "desc":null
-    },
-    {
-        "url":"https://hot.cnbeta.com/articles/funny/1284433.htm",
-        "title":"狗在家拉屎被扫地机器人涂满全家 网友：郭德纲段子成真",
-        "desc":"这是一个充满味道的视频。\r\n\r\n6月22日，北京一男子晚上回家，开门闻到一股刺鼻的味道，才发现狗狗在家拉屎，被扫地机器人涂满了全家，地板上到处都是。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284435.htm",
-        "title":"全球首款OLED Windows轻薄掌机AYANEO AIR开启众筹 火速破100万港币",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284437.htm",
         "title":"Google介绍iOS版Chrome浏览器的5个新特性",
         "desc":"Google宣布其iOS上的Chrome浏览器将有五个新的主要功能，重点是使iPhone和iPad上的Chrome浏览器更快、更安全、更个性化。根据Google官方博客上的一篇文章，iOS版Chrome浏览器的下一次更新将包括以下功能："
@@ -292,6 +277,21 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1284547.htm",
         "title":"iOS端Chrome引入Enhanced Safe Browsing功能",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284549.htm",
+        "title":"福特Pro Electric Transit SuperVan惊艳亮相古德伍德速度节",
+        "desc":"当福特的工程师们在一个不受约束的项目上放任自流时就有事情发生。1971年，福特推出了SuperVan，它将底盘和中置400马力V8发动机跟第一代Transit面包车的车身融合在一起，于是得到了一辆最高时速为150英里的汽车。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284551.htm",
+        "title":"美联储主席：数字美元应由政府发行 加密资产监管框架需加强",
+        "desc":"当地时间6月23日，美联储主席鲍威尔在美国国会众议院金融服务委员会就半年度货币政策报告做证。鲍威尔表示，美联储计划向国会推荐如何推进潜在的央行数字货币\r\n \r\n(CBDC)。据CoinDesk报道，当被问及美联储关于推出CBDC的下一步措施时，鲍威尔表示“这是我们作为一个国家真正需要探索的事情，而不应该是党派问题。”"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1284553.htm",
+        "title":"研究人员在瓜德罗普岛红树林中发现巨型细菌 比正常的大5000倍",
         "desc":null
     }
 ]
