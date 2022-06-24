@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284495.htm",
-        "title":"Sonnet推适用于Mac Pro的M.2 2x4半高PCIe卡",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284497.htm",
         "title":"彩电巨头厦华电子告别A股 大跌近90% 股价仅剩0.6元",
         "desc":"6月23日晚，退市厦华（原证券简称“厦华电子”）发布公告称，公司股票将于6月30日被上交所予以摘牌，公司股票终止上市。作为昔日家喻户晓的彩电巨头，十多年来厦华电子一直徘徊在退市边缘，最终还是未能摆脱退市命运，股价最后仅剩0.6元，市值也只有3.14亿元。"
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1284611.htm",
         "title":"谷歌Parti生成器依靠200亿参数将文本转成栩栩如生的图像",
+        "desc":null
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/movie/1284613.htm",
+        "title":"《为了全人类》剧集中出现了融合Newton平板和内置iPhone 12的新道具",
         "desc":null
     }
 ]
