@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284589.htm",
-        "title":"币圈流动性危机继续蔓延 冻结提款的平台越来越多",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284591.htm",
         "title":"从人类英雄到人间魔鬼，马斯克“人设崩塌”",
         "desc":"今年父亲节，马斯克难得在Twitter上含情脉脉，“我爱我所有的孩子们。”讽刺的是，隔天，外媒就曝出马斯克的跨性别女儿要和他断绝关系。让他头疼的不止这一件事，上周四，马斯克因其公开支持的加密货币狗狗币（Dogecoin）被起诉。"
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1284705.htm",
         "title":"可选更新确认Windows 10 22H2功能更新即将到来",
         "desc":"Windows 10 将持续支持到 2025 年，这意味着用户可以期待未来几年会有更多的“功能更新”到来。近日面向 Windows 10 的可选更新确认了即将到来的 22H2 功能更新。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1284707.htm",
+        "title":"科学家开发更精细的基因编辑工具 可最大限度地减少不良后果",
+        "desc":null
     }
 ]
