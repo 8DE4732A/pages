@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284693.htm",
-        "title":"雷蛇推出雨林狼蛛V3系列键盘 紧凑布局，纤薄键帽，分机械和薄膜两款",
-        "desc":"雷蛇发布雨林狼蛛V3（Ornata V3）系列键盘，分别有采用机械轴的雨林狼蛛V3及薄膜设计的雨林狼蛛V3 X两款。雷蛇表示，这两款产品均带有腕托，都是完美符合人体工程学的纤薄游戏键盘，非常适合游戏玩家。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284695.htm",
-        "title":"Polestar 5：一款将像超跑一样强大的电动汽车",
-        "desc":"一段时间以来，电动汽车一直在挑战性能的极限，像Lucid Air和特斯拉Model S Plaid这样的高端产品，其加速度可跟超跑媲美。Polestar承诺，随着Polestar 5的发布，它将继续这一趋势。据悉，Polestar 5是它在2020年首次亮相的Precept概念车的量产版。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284697.htm",
         "title":"网络安全审查办公室对知网启动网络安全审查",
         "desc":null
@@ -293,5 +283,15 @@
         "url":"https://hot.cnbeta.com/articles/game/1284815.htm",
         "title":"跨界COS获《仙剑奇侠传》官微转发：Angelababy林月如扮相圈粉",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284817.htm",
+        "title":"外形神似烟灰缸：TP-LINK XDR6050易展版路由器开启预售",
+        "desc":null
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/movie/1284819.htm",
+        "title":"漫威在好莱坞举行《雷神4》全球首映式",
+        "desc":"该片于当地时间6月23号在好莱坞举行全球首映式，导演维迪提与主演均到场站台：评论人士普遍认为《雷神4》贯彻了维迪提一贯手法，称赞该片提供了一场颠覆性的放纵狂欢，剧情与故事核心都很好，角色塑造给力。"
     }
 ]
