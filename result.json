@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284743.htm",
-        "title":"上旗舰才能干掉RTX 3060 Intel独立显卡官方跑分公布",
-        "desc":"Intel Arc锐炫系列独立显卡，官方正式发布的只有Arc A370M、Arc A380两款入门级型号，分别面向笔记本和桌面，不过Arc A730M、Arc A770M两款中高端移动版也已经有厂商采纳，但仅限中国内地市场。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284745.htm",
-        "title":"消息称长江存储第二座工厂年底投产 追赶三星和美光",
-        "desc":"据报道，知情人士今日称，中国存储芯片长商“长江存储”在武汉的第二座工厂最早将于今年年底投产。此举有望进一步缩小长江存储与三星和美光在技术和产量方面的差距。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284747.htm",
         "title":"曾被曝漏油如水帘洞 上汽大众召回国产奥迪A7L",
         "desc":null
@@ -293,5 +283,15 @@
         "url":"https://www.cnbeta.com/articles/tech/1284859.htm",
         "title":"CISA和美国海岸警卫队警告外界当心Log4Shell攻击",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284861.htm",
+        "title":"美国公司Archer正在对电动垂直起降飞机进行飞行测试",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284863.htm",
+        "title":"openKylin开源社区正式发布 麒麟软件主导打造中国桌面操作系统根社区",
+        "desc":"6月24日，以“创开源之势 享无境未来”为主题的中国首个桌面操作系统根社区openKylin发布会在线上成功举行，观看量超200万，openKylin社区正式发布。openKylin社区旨在以“共创”为核心，在开源、自愿、平等、协作的基础上，通过开源、开放的社区合作，构建桌面操作系统顶级开源社区。"
     }
 ]
