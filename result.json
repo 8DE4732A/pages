@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284751.htm",
-        "title":"消息称iPhone 15屏幕仍然是双挖孔 尺寸增大至6.12英寸",
-        "desc":null
-    },
-    {
         "url":"https://hot.cnbeta.com/articles/movie/1284753.htm",
         "title":"《芭比》真人电影新片场照 性感“小丑女”有些忧伤",
         "desc":null
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1284867.htm",
         "title":"Intel 13代酷睿首次露出真面目：68MB缓存提升明显",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284869.htm",
+        "title":"小屏旗舰三星Galaxy S22喜提Android 13：未来能升Android 16",
         "desc":null
     }
 ]
