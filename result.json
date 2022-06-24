@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284649.htm",
-        "title":"蔚来人车试验，一车两命陨落",
-        "desc":"近日，上海上演了“速度与激情”中令人惊悚的一幕。一辆蔚来测试车从上海总部大楼一冲而出，车顶直击地面。现场，2名试驾员抢救无效死亡。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284651.htm",
         "title":"Web3 颠覆“传统媒体” 靠的可能是这块“镜子”",
         "desc":"在互联网历史中，几乎每次技术变革都需要一个新的“舆论场”，来普及新技术和新思想。从早期的 \r\nBBS、到门户网站的聊天室，再到视频的“弹幕”，莫不如此。Twitter和 Telegram 可以说是 Web3 \r\n从业者的“信息根据地”，但一个成立不到两年的平台，Mirror，正在成为 Web3 新的“内容中心”。无数区块链大 V、从业者和爱好者，聚集到 \r\nMirror 上，发布大量关于 Web3 的内容。"
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1284771.htm",
         "title":"Google Chrome 104 Beta发布 引入区域捕捉、WebGL画布颜色管理等新功能",
         "desc":"继本周发布Chrome 103之后，Google周四已将Chrome 104提升为测试版，最大变化是引入了对区域捕捉能力的支持以作为通常用于视频会议目的的自我捕捉视频轨道的一部分，新的起源试验也已启动，如共享元素转换和可选退出信用卡存储功能，更新了投机规则处理，增加了多屏幕窗口放置界面，以及各种新的API。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284773.htm",
+        "title":"华为nova 10系列4个版本全曝光：搭载P50E同款芯片",
+        "desc":null
     }
 ]
