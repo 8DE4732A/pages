@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284709.htm",
-        "title":"龙芯登陆科创板：2021年净利暴涨227.8% 与MIPS知识产权相关诉讼仍在继续",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284711.htm",
         "title":"英特尔宣称Arc A330M/A770M表现优于RTX 3050 Ti/3060 Mobile笔记本",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1284831.htm",
         "title":"源代码显示Pixel 7 Pro的显示屏将比6 Pro的面板更亮",
         "desc":"泄密者一直在追踪Google为Pixel 7 Pro采用的新显示面板的，新的S6E3HC4面板将具有相同的3120 x \r\n1440px分辨率和与之前相同的10-120Hz刷新率，那么与Pixel 6 \r\nPro的S6E3HC3相比，实际上有什么变化？这个问题从作为Android13测试版一部分的源代码中得到了部分答案。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284833.htm",
+        "title":"IBM研发“电子舌头” 16个传感器替代上千味蕾能辨假酒",
+        "desc":"根据外媒IEEE \r\nSpectrum报道，IBM研究院开发了一种化学味觉感知工具——HyperTaste。该工具可以分析液体的化学成分，识别出不同液体的类型。HyperTaste可以自动分析河流的水质，追踪环境的变化如何影响浮游生物的生长。除此之外，HyperTaste还可以用来分辨液体来源、实施质量检测、识别假冒品牌。"
     }
 ]
