@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284711.htm",
-        "title":"英特尔宣称Arc A330M/A770M表现优于RTX 3050 Ti/3060 Mobile笔记本",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284713.htm",
         "title":"TP-LINK轻舟路由AX4200发布：双2.5G网口 卖669元",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1284833.htm",
         "title":"IBM研发“电子舌头” 16个传感器替代上千味蕾能辨假酒",
         "desc":"根据外媒IEEE \r\nSpectrum报道，IBM研究院开发了一种化学味觉感知工具——HyperTaste。该工具可以分析液体的化学成分，识别出不同液体的类型。HyperTaste可以自动分析河流的水质，追踪环境的变化如何影响浮游生物的生长。除此之外，HyperTaste还可以用来分辨液体来源、实施质量检测、识别假冒品牌。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284835.htm",
+        "title":"凯迪拉克的\"超豪华\"Celestiq电动车据称售价高达30万美元",
+        "desc":"我们还没有看到计划于2024年推出的凯迪拉克Celestiq，但《华尔街日报》的一份报告称，虽然这款旗舰Ultium动力的电动轿车将不仅仅是一辆展示车，但知情人士表示，每年制造的这一型号的汽车不到500辆，价格约为30万美元起。"
     }
 ]
