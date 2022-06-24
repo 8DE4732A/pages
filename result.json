@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284747.htm",
-        "title":"曾被曝漏油如水帘洞 上汽大众召回国产奥迪A7L",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1284749.htm",
         "title":"科学家试图找到连续引力波的宇宙X射线标志",
         "desc":"在过去几年时间里里，天文学家取得了一个令人难以置信的里程碑：探测到了引力波，这是宇宙中一些最灾难性的事件在空间和时间结构中产生的微弱涟漪，包括黑洞和中子星之间的碰撞。到目前为止，已有90多个引力波探测到这种事件，可观察到的时间则只有~0.1到100秒。"
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1284863.htm",
         "title":"openKylin开源社区正式发布 麒麟软件主导打造中国桌面操作系统根社区",
         "desc":"6月24日，以“创开源之势 享无境未来”为主题的中国首个桌面操作系统根社区openKylin发布会在线上成功举行，观看量超200万，openKylin社区正式发布。openKylin社区旨在以“共创”为核心，在开源、自愿、平等、协作的基础上，通过开源、开放的社区合作，构建桌面操作系统顶级开源社区。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284865.htm",
+        "title":"华为新一代“小方表”Watch Fit 2上架：支持蓝牙通话",
+        "desc":null
     }
 ]
