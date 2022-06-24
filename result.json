@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1284643.htm",
-        "title":"研究估计COVID-19疫苗去年拯救了近2000万人的生命",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284645.htm",
-        "title":"微软宣布开源GODEL语言模型",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284647.htm",
         "title":"号称有国企“背书”的知名教培机构被曝跑路 数亿资金被“创业天才”卷走”",
         "desc":"昨日深夜（6月23日），百万粉丝大V“王左中右”在其个人社交平台发文控诉维权。控诉长文显示，虽然他只在小音咖买了2万多块的课，但其他更多家长预交的学费少则上万，多则几十万，很多才上了几节课，便遇到小音咖爆雷。"
@@ -292,6 +282,16 @@
     {
         "url":"https://hot.cnbeta.com/articles/game/1284765.htm",
         "title":"网友实践表明Steam Deck掌机可轻松转接M.2 2242 SSD",
+        "desc":null
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/game/1284767.htm",
+        "title":"AOKZOE掌机官宣首发锐龙7 6800U 《地平线5》飚到100fps",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284769.htm",
+        "title":"英特尔桌面款Arc A40 Pro工作站显卡曝光",
         "desc":null
     }
 ]
