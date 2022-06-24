@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284345.htm",
-        "title":"奥迪一汽新能源汽车有限公司即将开工建设 投资约26亿欧元",
-        "desc":"奥迪一汽新能源汽车有限公司将于6月底在长春举行奠基仪式。奥迪在该项目中投资约26亿欧元，包括成立新公司和新生产基地。奥迪一汽新能源汽车有限公司也是奥迪在中国第一家拥有多数股权的合资公司。新生产基地规划年产能达15万辆，计划于2024年底投产专为中国市场打造的基于PPE（Premium Platform Electric）平台的电动车。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284347.htm",
-        "title":"Linus Torvalds出席2022开源峰会并发表演讲 对Linux的热情30多年未减",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284349.htm",
         "title":"工程师DIY可更换图像传感器和镜头的工业相机 设计文档全部开源",
         "desc":null
@@ -293,5 +283,15 @@
         "url":"https://hot.cnbeta.com/articles/movie/1284461.htm",
         "title":"“星爵”克里斯·普拉特称他的马里奥配音将不同于以往任何声音",
         "desc":"或许许多影迷们仍对克里斯·普拉特将在即将上映的马里奥电影中为马里奥配音的消息耿耿于怀。但至少，普拉特自己似乎认为这将是一个特别的东西。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284463.htm",
+        "title":"尘埃落定 美法官同意马斯克18岁儿子要求：更改姓名和性别",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284465.htm",
+        "title":"特斯拉与加州公用事业公司PG&E合作创建“虚拟发电厂”",
+        "desc":null
     }
 ]
