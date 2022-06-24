@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284633.htm",
-        "title":"中国广电5G友好用户192号段6月27日全面放号",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284635.htm",
         "title":"孙正义押注ARM上市 软银能否借此提振股价？",
         "desc":"据报道，软银集团董事长兼CEO孙正义今日表示，他庆幸全世界的监管者否决了软银将英国芯片设计公司ARM出售给英伟达的交易，因为该公司现在希望借助ARM的上市来提振其股价。“ARM是信息革命的前沿引擎。”孙正义在年度股东大会上说，“它是软银集团核心的核心。”"
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1284755.htm",
         "title":"马来西亚半导体“缺工”困境何解？",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284757.htm",
+        "title":"三星或为Galaxy Z Flip4折叠屏新机带来更丰富的外观定制选项",
         "desc":null
     }
 ]
