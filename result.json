@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284387.htm",
-        "title":"耐克将全面退出俄罗斯市场 星巴克、麦当劳、可口可乐等都已退出",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/science/1284389.htm",
-        "title":"中国空间站8K视角看地球有多美？",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284391.htm",
         "title":"FDA宣布在美国范围内禁售Juul电子烟",
         "desc":"美国食品和药物管理局今天宣布，Juul公司必须将其电子烟撤出美国市场，此前该监管机构拒绝了该公司销售烟草和薄荷味电子烟的申请。电子烟和电子烟公司必须获得美国食品和药物管理局的许可，其产品才能上市销售。该机构多年来一直推迟执行这项自2016年起实施的政策。"
@@ -293,5 +283,15 @@
         "url":"https://www.cnbeta.com/articles/tech/1284503.htm",
         "title":"NASA前副局长：马斯克曾遭俄罗斯设计师吐口水 激发造飞船决心",
         "desc":"6月24日消息，在最近出版的回忆录中，美国宇航局（NASA）前副局长洛丽·加弗（Lori Garver）详细回忆了特斯拉首席执行官埃隆·马斯克（Elon\r\n Musk）创办SpaceX、自主研发火箭的过程。这本回忆录名为《逃离地心引力：我改造NASA并开启新太空时代的探索》 （Escaping \r\nGravity: My Quest to Transform NASA and Launch a New Space \r\nAge），于6月21日出版。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1284505.htm",
+        "title":"研究人员建造了一种据说可以永远运行的激光器",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284507.htm",
+        "title":"Instagram推出“视频自拍”和“社交担保”新验证年龄选项",
+        "desc":"如今，人们看到对社交媒体的使用及它如何影响不同年龄组的人进行了广泛的研究。现在已经确定的是，社交媒体对儿童来说并不安全，特别是一项研究显示，儿童往往在创建社交媒体账号后就会接触到不适当的内容。"
     }
 ]
