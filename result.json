@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284741.htm",
-        "title":"美队发文告别iPhone 6s：会想念Home键",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284743.htm",
         "title":"上旗舰才能干掉RTX 3060 Intel独立显卡官方跑分公布",
         "desc":"Intel Arc锐炫系列独立显卡，官方正式发布的只有Arc A370M、Arc A380两款入门级型号，分别面向笔记本和桌面，不过Arc A730M、Arc A770M两款中高端移动版也已经有厂商采纳，但仅限中国内地市场。"
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1284857.htm",
         "title":"美国议员要求FTC对苹果和Google出售个人数据一事进行跟进调查",
         "desc":"四位美国国会议员希望联邦贸易委员会对苹果和Google涉嫌收集个人信息并从中获利的\"有害做法\"进行调查。据报道，即使苹果公司的隐私举措使Facebook损失了数十亿美元的收入，但四位民主党人认为这还不够。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284859.htm",
+        "title":"CISA和美国海岸警卫队警告外界当心Log4Shell攻击",
+        "desc":null
     }
 ]
