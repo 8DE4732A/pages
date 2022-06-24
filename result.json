@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284357.htm",
-        "title":"Einride将在美国公共道路上运营其无驾驶室的自动驾驶电动货车",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284359.htm",
         "title":"索尼全新遥控器发布 曾被罗永浩吐槽太难盲操",
         "desc":null
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/science/1284473.htm",
         "title":"“好奇号”漫游车拍下因水而形成的火星景观的令人惊叹的图像",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284475.htm",
+        "title":"微软Edge正测试类Spotlight启动器 可快速执行各项任务",
         "desc":null
     }
 ]
