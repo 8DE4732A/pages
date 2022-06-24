@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284515.htm",
-        "title":"灰飞烟灭：美国电子烟巨头遭遇灭顶之灾",
-        "desc":null
-    },
-    {
-        "url":"https://hot.cnbeta.com/articles/funny/1284517.htm",
-        "title":"对话“栓Q哥”：我只是个农民英语爱好者",
-        "desc":"刘涛的直播间架设在自己两层楼的水泥房里，背景是粉丝送来的锦旗和横幅，“桂林阳朔巨星 家乡宣传大使”显眼地挂在最中间，一小串红色的彩灯蜿蜒在陈旧的白色屋顶上。走在街上，刘涛会被人认出，“栓Q”他们大声喊着，这样与他打招呼。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1284519.htm",
         "title":"研究发现蘑菇提取物可清除HPV感染",
         "desc":"根据美国得克萨斯大学休斯顿健康科学中心的最新研究，每天使用蘑菇提取物有助于免疫系统清除人类乳头瘤病毒（HPV）感染。这项研究发表在22日的《肿瘤学前沿》杂志上。"
@@ -293,5 +283,15 @@
         "url":"https://www.cnbeta.com/articles/tech/1284631.htm",
         "title":"ROG游戏手机6 Pro入网证件照公布：炫酷视窗科技感拉满",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284633.htm",
+        "title":"中国广电5G友好用户192号段6月27日全面放号",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284635.htm",
+        "title":"孙正义押注ARM上市 软银能否借此提振股价？",
+        "desc":"据报道，软银集团董事长兼CEO孙正义今日表示，他庆幸全世界的监管者否决了软银将英国芯片设计公司ARM出售给英伟达的交易，因为该公司现在希望借助ARM的上市来提振其股价。“ARM是信息革命的前沿引擎。”孙正义在年度股东大会上说，“它是软银集团核心的核心。”"
     }
 ]
