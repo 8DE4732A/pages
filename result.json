@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284705.htm",
-        "title":"可选更新确认Windows 10 22H2功能更新即将到来",
-        "desc":"Windows 10 将持续支持到 2025 年，这意味着用户可以期待未来几年会有更多的“功能更新”到来。近日面向 Windows 10 的可选更新确认了即将到来的 22H2 功能更新。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1284707.htm",
         "title":"科学家开发更精细的基因编辑工具 可最大限度地减少不良后果",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1284827.htm",
         "title":"BlackBerry软件全球已部署超过2.15亿辆汽车",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284829.htm",
+        "title":"苹果公司在美国和加拿大推出返校促销活动 赠送礼品卡",
+        "desc":"今年，苹果公司在美国和加拿大的返校促销活动宣告开始，购买符合条件的Mac电脑可获得150美元礼品卡，购买符合条件的iPad可获得100美元礼品卡。正如之前预期的那样，苹果公司现在已经开始了其最新的返校促销活动。并且这些优惠是在常规教育折扣的基础上进行的。"
     }
 ]
