@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1284505.htm",
-        "title":"研究人员建造了一种据说可以永远运行的激光器",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284507.htm",
-        "title":"Instagram推出“视频自拍”和“社交担保”新验证年龄选项",
-        "desc":"如今，人们看到对社交媒体的使用及它如何影响不同年龄组的人进行了广泛的研究。现在已经确定的是，社交媒体对儿童来说并不安全，特别是一项研究显示，儿童往往在创建社交媒体账号后就会接触到不适当的内容。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284509.htm",
         "title":"如何删除有害内容？Twitter新老板马斯克需吸取Meta这些教训",
         "desc":null
@@ -293,5 +283,15 @@
         "url":"https://hot.cnbeta.com/articles/movie/1284621.htm",
         "title":"马丁宣布《权力的游戏》衍生剧定名《雪诺》 基特哈灵顿确认回归",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284623.htm",
+        "title":"腾讯会亲自造车吗？这次终于有官方答案了",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284625.htm",
+        "title":"全国热哭预警地图出炉：河南、山东热到“蒸发”",
+        "desc":"正式进入到夏天以来，全国多地遭遇了高温肆虐的天气，其中河南、山东等多次上榜，高达40℃的气温也着实难忍。那么目前全国各地的天气状况如何？6月24日，@中国天气网特别推出全国热哭预警地图，一起来看看。"
     }
 ]
