@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284717.htm",
-        "title":"特斯拉中国裁员 疑似赔偿方案出炉：N+3",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284719.htm",
         "title":"蔚来测试车坠楼致两人遇难，专家：可能是误踩加速踏板",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1284839.htm",
         "title":"称聊天机器人已经有了人格的Google员工为AI聘请了律师",
         "desc":"称聊天机器人已经有了人格的GoogleAI员工最近表示他已经聘请了律师。还记得Google工程师Blake \r\nLemoine的故事吗？他在本月早些时候公布了自己与Google的LaMDA（对话应用的语言模型）之间的对话记录，他对外声称这个聊天机器人开发系统已经有了知觉，因而被公司认定违规而停职。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284841.htm",
+        "title":"供应链消息称Galaxy S23系列将不会配备屏下前置摄像头",
+        "desc":"与Galaxy S22系列一样，三星不考虑在即将推出的Galaxy S23系列中添加屏下前置摄像头。虽然还没有给出理由，但外接对这家韩国巨头不愿意进行这一改变的原因有一些猜测。三星可能对屏下摄像头的图像质量感到不满，更不用说生产这些摄像头所需的成本了。"
     }
 ]
