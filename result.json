@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/movie/1284455.htm",
-        "title":"《雷神4》电影新预告 大量全新镜头曝光",
-        "desc":"《雷神4》即将于7月8日在北美上映，今日漫威影业发布了全新预告，曝光了大量新镜头。穿梭于暗影之中的“屠神者”格尔意图毁灭诸神，“雷神”索尔将组建史上最伟大的团队来阻止这场灾难。“石头人”科尔格、“神威雷神”简·福斯特、“国王”瓦尔基里加入其中，还有巨型山羊和“银河护卫队”助阵！"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284457.htm",
         "title":"Facebook Pay将被更名为Meta Pay  但功能变化不大",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1284571.htm",
         "title":"谷歌向Android用户发送Hermit间谍软件入侵警告",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1284573.htm",
+        "title":"9010米！ 中国石油创国内陆上最深气井纪录",
+        "desc":"6月23 日13：10，中国石油在西南油气田双鱼001-H6井安全钻至9010米井深完钻，创造中国陆上最深气井纪录，标志着中国石油超深井钻井能力再上新台阶。这是中国石油在大力发展超深层钻井技术上取得的又一重大突破。"
     }
 ]
