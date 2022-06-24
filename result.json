@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284571.htm",
-        "title":"谷歌向Android用户发送Hermit间谍软件入侵警告",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1284573.htm",
         "title":"9010米！ 中国石油创国内陆上最深气井纪录",
         "desc":"6月23 日13：10，中国石油在西南油气田双鱼001-H6井安全钻至9010米井深完钻，创造中国陆上最深气井纪录，标志着中国石油超深井钻井能力再上新台阶。这是中国石油在大力发展超深层钻井技术上取得的又一重大突破。"
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1284687.htm",
         "title":"中国广电适配机型公布：小米/华为等126款可用 iPhone需打开VoLTE",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284689.htm",
+        "title":"三星S23 Ultra新爆料 2亿像素镜头没戏了",
+        "desc":"根据此前三星官方放出的信息，三星将于8月初推出新机Z Fold 4和Flip 4。在大家都在期待三星新的折叠屏手机时，有数码博主透露了S23 Ultra的有关信息。据该博主爆料，S23 Ultra或许并不会搭载三星最新推出的相机传感器。"
     }
 ]
