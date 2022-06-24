@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284715.htm",
-        "title":"索尼门店被指涉嫌造假：无线音箱信号断连 偷偷接线改成有线音箱？",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284717.htm",
         "title":"特斯拉中国裁员 疑似赔偿方案出炉：N+3",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/science/1284837.htm",
         "title":"聆听星云NGC 2392的“阴森之声”",
         "desc":"在离地球大约5000光年的地方，令人惊叹的星云NGC \r\n2392是在像我们太阳一样的恒星消亡后形成的。在这段你现在听到的声音中，图像像雷达一样被顺时针扫描。半径被映射到音调上，因此离中心较远的光线的音调较高。星云外壳的轮廓可以从音调的上升和下降中听到，并由其辐条加以点缀。亮度控制着音量。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284839.htm",
+        "title":"称聊天机器人已经有了人格的Google员工为AI聘请了律师",
+        "desc":"称聊天机器人已经有了人格的GoogleAI员工最近表示他已经聘请了律师。还记得Google工程师Blake \r\nLemoine的故事吗？他在本月早些时候公布了自己与Google的LaMDA（对话应用的语言模型）之间的对话记录，他对外声称这个聊天机器人开发系统已经有了知觉，因而被公司认定违规而停职。"
     }
 ]
