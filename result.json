@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284361.htm",
-        "title":"20年传奇3dfx Voodoo 5显卡驱动更新 支持带鱼屏",
-        "desc":"PC老鸟们，还记得3dfx吗？二十世纪末，3dfx在NVIDIA、ATI、S3的夹击下艰难求生，但却选择了错误的技术路线，于2002年关张（被NVIDIA收购）。Voodoo\r\n 5 6000是3dfx最后一款消费级显卡，但并未零售，据说总计也才生产了几十张而已。它本是单卡双芯Voodoo 5 \r\n5500的接替者，也是迄今唯一单卡四芯的怪兽。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284363.htm",
         "title":"通用汽车尝试简化电动汽车充电 插电付款一条龙",
         "desc":"通用汽车公司周三表示，它将加入越来越多的汽车制造商的行列，通过为其车型配备\"Plug and Charge\"（即插即充）功能，即在一系列不同的充电站轻松插入并自动付款的能力来简化电动汽车充电过程。尽管\"Plug and Charge\"技术自2014年起就已推出，但行业在认证支付的标准以及所需的硬件和软件方面一直进展缓慢。"
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1284477.htm",
         "title":"Hinge推出新功能 让用户更容易坦诚约会的意图",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284479.htm",
+        "title":"Edge 103稳定版发布：提供证书切换/自动账户切换等功能",
+        "desc":"以“为玩家打造最佳浏览器”为宣传口号，在近日上线的 Edge 103 稳定版中针对游戏进行了“重大”优化。这些优化可以参考本站此前发布的文章，除了游戏改进外新版本也包含一些更改、安全性升级和小幅改进。"
     }
 ]
