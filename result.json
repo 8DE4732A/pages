@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284479.htm",
-        "title":"Edge 103稳定版发布：提供证书切换/自动账户切换等功能",
-        "desc":"以“为玩家打造最佳浏览器”为宣传口号，在近日上线的 Edge 103 稳定版中针对游戏进行了“重大”优化。这些优化可以参考本站此前发布的文章，除了游戏改进外新版本也包含一些更改、安全性升级和小幅改进。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284481.htm",
         "title":"XTU工具暗示Raptor Lake处理器有望睿频至6GHz",
         "desc":null
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1284595.htm",
         "title":"奔驰最“节能”汽车再破纪录：满电跑了1202公里",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284597.htm",
+        "title":"新固件让AirPods Max支持LC3蓝牙解码 AirPods Pro 2或也装备",
         "desc":null
     }
 ]
