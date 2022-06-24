@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284401.htm",
-        "title":"iOS 16 测试版中提到了 Apple TV 的全新 Siri 遥控器",
-        "desc":"在 iOS 16 测试版中，有代码提到了一款全新未发布的 Apple TV Siri 遥控器。在 iOS 16 测试版中，出现了 SiriRemote4 和 WirelessRemoteFirmware.4 ，这与目前的 Siri 遥控器不匹配。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284403.htm",
         "title":"20年老牌CPU厂商转型 RISC-V架构新U瓜熟蒂落",
         "desc":"去年12月份，作为拥有20多年历史的老牌芯片设计公司，Imagination宣布拥抱开源的RISC-V架构，推出全新的Catapult系列处理器产品，涵盖动态微控制器、实时嵌入式CPU、高性能应用处理器CPU、支持汽车功能安全的CPU四大品类。"
@@ -293,5 +288,10 @@
         "url":"https://hot.cnbeta.com/articles/funny/1284517.htm",
         "title":"对话“栓Q哥”：我只是个农民英语爱好者",
         "desc":"刘涛的直播间架设在自己两层楼的水泥房里，背景是粉丝送来的锦旗和横幅，“桂林阳朔巨星 家乡宣传大使”显眼地挂在最中间，一小串红色的彩灯蜿蜒在陈旧的白色屋顶上。走在街上，刘涛会被人认出，“栓Q”他们大声喊着，这样与他打招呼。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1284519.htm",
+        "title":"研究发现蘑菇提取物可清除HPV感染",
+        "desc":"根据美国得克萨斯大学休斯顿健康科学中心的最新研究，每天使用蘑菇提取物有助于免疫系统清除人类乳头瘤病毒（HPV）感染。这项研究发表在22日的《肿瘤学前沿》杂志上。"
     }
 ]
