@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284587.htm",
-        "title":"RTX 4090/4090 Ti渲染图曝光：为下代BFGPU启用3槽FE风扇",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284589.htm",
         "title":"币圈流动性危机继续蔓延 冻结提款的平台越来越多",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1284703.htm",
         "title":"由于半导体短缺状况未能缓解，格芯将在年底前决定进一步投资地点",
         "desc":"据日经亚洲报道，格芯首席执行官Tom Caulfield表示，由于全球半导体短缺状况未能缓解，该公司将在“今年年底之前”决定在哪里（新加坡、纽约或德国）进一步增加产能。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284705.htm",
+        "title":"可选更新确认Windows 10 22H2功能更新即将到来",
+        "desc":"Windows 10 将持续支持到 2025 年，这意味着用户可以期待未来几年会有更多的“功能更新”到来。近日面向 Windows 10 的可选更新确认了即将到来的 22H2 功能更新。"
     }
 ]
