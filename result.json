@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284585.htm",
-        "title":"马斯克：地球足以容纳两倍人口，每家二孩才能维持人口增长",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284587.htm",
         "title":"RTX 4090/4090 Ti渲染图曝光：为下代BFGPU启用3槽FE风扇",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://hot.cnbeta.com/articles/funny/1284701.htm",
         "title":"男子动物园如厕 遇老虎趴窗全程“偷窥”",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284703.htm",
+        "title":"由于半导体短缺状况未能缓解，格芯将在年底前决定进一步投资地点",
+        "desc":"据日经亚洲报道，格芯首席执行官Tom Caulfield表示，由于全球半导体短缺状况未能缓解，该公司将在“今年年底之前”决定在哪里（新加坡、纽约或德国）进一步增加产能。"
     }
 ]
