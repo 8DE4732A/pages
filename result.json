@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284713.htm",
-        "title":"TP-LINK轻舟路由AX4200发布：双2.5G网口 卖669元",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284715.htm",
         "title":"索尼门店被指涉嫌造假：无线音箱信号断连 偷偷接线改成有线音箱？",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1284835.htm",
         "title":"凯迪拉克的\"超豪华\"Celestiq电动车据称售价高达30万美元",
         "desc":"我们还没有看到计划于2024年推出的凯迪拉克Celestiq，但《华尔街日报》的一份报告称，虽然这款旗舰Ultium动力的电动轿车将不仅仅是一辆展示车，但知情人士表示，每年制造的这一型号的汽车不到500辆，价格约为30万美元起。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1284837.htm",
+        "title":"聆听星云NGC 2392的“阴森之声”",
+        "desc":"在离地球大约5000光年的地方，令人惊叹的星云NGC \r\n2392是在像我们太阳一样的恒星消亡后形成的。在这段你现在听到的声音中，图像像雷达一样被顺时针扫描。半径被映射到音调上，因此离中心较远的光线的音调较高。星云外壳的轮廓可以从音调的上升和下降中听到，并由其辐条加以点缀。亮度控制着音量。"
     }
 ]
