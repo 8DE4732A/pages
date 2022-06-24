@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284353.htm",
-        "title":"意大利数据监管机构对Google Analytics的使用提出新一轮警告",
-        "desc":"在欧洲使用Google Analytics的用户又遭遇一次打击，意大利数据保护机构发现，当地一家网络出版商使用流行的分析工具不符合欧盟数据保护规则，因为用户数据被转移到了美国--一个缺乏同等法律框架来保护信息不被访问的国家。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1284355.htm",
         "title":"科学家揭开神秘的爆炸性射电暴的起源",
         "desc":"科学家们模拟了整个宇宙中发生的一个令人困惑的爆炸过程。神秘的快速射电暴是宇宙中最令人困惑的现象之一，它在一秒钟内释放的能量相当于太阳一年的能量。普林斯顿大学、美国能源部（DOE）普林斯顿等离子体物理实验室（PPPL）和SLAC国家加速器实验室的研究人员现在已经模拟并提出了一个具有成本效益的实验，以产生和观察这一过程的早期阶段，而这在以前被认为是在今天的技术中是不可能的。"
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1284469.htm",
         "title":"Chrome OS 103发布：重点改善Chromebook和Android的连接",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1284471.htm",
+        "title":"研究：跟新冠疫苗相关的腋窝淋巴结肿胀持续时间比最初报告的更长",
         "desc":null
     }
 ]
