@@ -1,20 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/movie/1284613.htm",
-        "title":"《为了全人类》剧集中出现了融合Newton平板和内置iPhone 12的新道具",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/science/1284615.htm",
-        "title":"亚马逊搭上Axiom太空任务 将一台Snowcone边缘计算设备送入空间站",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284617.htm",
-        "title":"空客试飞首架双引擎燃烧100%绿色燃料的直升机",
-        "desc":"空客(Airbus)近日实现了绿色航空的第一次。据悉，一架H225直升机首次使用Safran Makila 2引擎进行了100%可持续航空燃料(SAF)的飞行，SAF通常来自生物质--包括废弃的脂肪、油和油脂。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284619.htm",
         "title":"Twitter正式向Android/iOS用户推送隐藏的视频字幕开关",
         "desc":null
@@ -293,5 +278,20 @@
         "url":"https://www.cnbeta.com/articles/tech/1284733.htm",
         "title":"关于苹果全新CarPlay，你不知道的事",
         "desc":"在今年的WWDC22苹果开发者大会上，苹果公司罕见地对车载映射系统CarPlay进行了较大幅度的升级，让CarPlay不再是iOS系统的简单投射，而是要让iOS充满整个车内屏幕中，这应该也是CarPlay自2014年以来最大的一次升级。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284735.htm",
+        "title":"100台限量版Nothing Phone (1)拍卖 仅147人竞标",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284739.htm",
+        "title":"“美国最大农田主”比尔盖茨新购2100英亩农田，引发当地居民不满",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284741.htm",
+        "title":"美队发文告别iPhone 6s：会想念Home键",
+        "desc":null
     }
 ]
