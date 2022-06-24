@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284775.htm",
-        "title":"十铨发布工业级DDR5-5600内存：RGB信仰灯终于有点正经用了",
-        "desc":"DDR5内存是厂商今年大力发展的新一代内存了，不仅服务器及消费级平台要用，工业级市场上也有要求，十铨科技日前发布了工业级的DDR5-5600内存，而且带了RGB灯，这可不是充值信仰用的，而是有正经的警报功能。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284777.htm",
-        "title":"Ausdom发布拥有2K分辨率的AW616一体式会议摄像头",
-        "desc":"Ausdom今天发布了AW616一体式视频摄像头，这是一款拥有2K高分辨率的企业级产品，通过将2K \r\nQHD高分辨率网络摄像头与高保真扬声器和AI降噪麦克风合并为一个高分辨率视频会议网络摄像头，对于在家进行远程团队工作、旅行中工作和办公室的视频会议都相当有用。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284779.htm",
         "title":"英特尔Raptor Lake酷睿i9-13900处理器拥有24个核心和32个线程",
         "desc":"一张据称是英特尔Raptor Lake酷睿i9-13900处理器的CPU-Z截图被泄露，显示了工程样品的初步规格，具体参数为：24个核心，32个线程，3.8GHz时钟，36MB缓存，65W。"
@@ -293,5 +283,15 @@
         "url":"https://www.cnbeta.com/articles/tech/1284891.htm",
         "title":"多睡觉能减肥：每天多睡1小时 3年减肥12公斤",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284893.htm",
+        "title":"比植物肉更有“肉味”的细胞肉来了 你会选择吃吗？",
+        "desc":"2022年6月10日，中国第一块细胞培养“五花肉”诞生。同一天，美国初创企业Eat \r\nJust在亚洲最大的细胞肉工厂破土动工，地点在新加坡。为了改变自身农产品严重依赖进口的现状，新加坡是世界上唯一一个允许细胞肉进入餐厅的国家。这种从实验室“养殖”出来的肉不受地域资源限制，能稳定地实现本地供应。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284895.htm",
+        "title":"苹果悄然提高了Music学生套餐在美国、加拿大和英国的价格",
+        "desc":"主流音乐流媒体服务如Spotify、Apple Music和YouTube Music都为活跃的学生提供了一个更便宜的层级套餐并进行了验证。9to5Mac读者发现，苹果已经悄然提高了美国、加拿大和英国的Apple Music的学生级别的费用。"
     }
 ]
