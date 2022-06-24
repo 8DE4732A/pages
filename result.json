@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284497.htm",
-        "title":"彩电巨头厦华电子告别A股 大跌近90% 股价仅剩0.6元",
-        "desc":"6月23日晚，退市厦华（原证券简称“厦华电子”）发布公告称，公司股票将于6月30日被上交所予以摘牌，公司股票终止上市。作为昔日家喻户晓的彩电巨头，十多年来厦华电子一直徘徊在退市边缘，最终还是未能摆脱退市命运，股价最后仅剩0.6元，市值也只有3.14亿元。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284499.htm",
         "title":"“链游之王”Axie Infinity开发商将赔偿用户损失 因黑客攻击损失超6亿美元",
         "desc":"越南视频游戏开发商Sky \r\nMavis表示，他们预计在6月28日赔偿用户的损失，并重新开放攻击中被破坏的软件桥。今年3月，该公司在一次黑客攻击中损失超过6.2亿美元。黑客从被称为Ronin的软件桥上偷走了17.36万个以太币和2550万个USDC加密货币，这个软件桥让用户可以在不同区块链的币种之间进行交换。"
@@ -292,6 +287,11 @@
     {
         "url":"https://hot.cnbeta.com/articles/movie/1284613.htm",
         "title":"《为了全人类》剧集中出现了融合Newton平板和内置iPhone 12的新道具",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1284615.htm",
+        "title":"亚马逊搭上Axiom太空任务 将一台Snowcone边缘计算设备送入空间站",
         "desc":null
     }
 ]
