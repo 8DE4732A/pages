@@ -1,20 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/movie/1284461.htm",
-        "title":"“星爵”克里斯·普拉特称他的马里奥配音将不同于以往任何声音",
-        "desc":"或许许多影迷们仍对克里斯·普拉特将在即将上映的马里奥电影中为马里奥配音的消息耿耿于怀。但至少，普拉特自己似乎认为这将是一个特别的东西。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284463.htm",
-        "title":"尘埃落定 美法官同意马斯克18岁儿子要求：更改姓名和性别",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284465.htm",
-        "title":"特斯拉与加州公用事业公司PG&E合作创建“虚拟发电厂”",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1284467.htm",
         "title":"比珠穆朗玛峰大一倍的彗星C/2017 K2(PanSTARRS)即将经过地球",
         "desc":"一颗巨大的彗星正在向地球和内太阳系飞去。彗星C/2017 K2(PanSTARRS)对地球本身不构成威胁，但这颗巨大的彗星将成为天空观察者的一种享受。"
@@ -293,5 +278,20 @@
         "url":"https://www.cnbeta.com/articles/tech/1284577.htm",
         "title":"美参议员将加密货币监管法案草案托管到Github上 接受公众评论",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284579.htm",
+        "title":"微软确认.NET框架在Windows 11上存在问题 将努力修复",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284581.htm",
+        "title":"教培领域再爆雷 百万粉丝大V控诉“小音咖”卷走6个亿跑路",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284583.htm",
+        "title":"比特币凝望深渊 深渊也凝望你",
+        "desc":"近日，比特币暴跌，6月19日，比特币两度失守18000美元关口，当天最低触及17934.67美元，刷新2020年末以来新低。此后，短暂上行，升到20000美元以上。曾经让许多人以为“还是有一定保障的”。但不久，6月22日，比特币再次跌破20000美元，24小时内跌幅达5%，年内跌幅已超56%。"
     }
 ]
