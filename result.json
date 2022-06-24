@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284429.htm",
-        "title":"Windows 11预览版更新实现更深入的OneDrive整合",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284431.htm",
         "title":"Netflix联合CEO确认将推出更便宜的有广告套餐",
         "desc":null
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1284545.htm",
         "title":"Solana推出主打web3体验的Saga Android智能机",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284547.htm",
+        "title":"iOS端Chrome引入Enhanced Safe Browsing功能",
         "desc":null
     }
 ]
