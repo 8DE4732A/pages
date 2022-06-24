@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/game/1284425.htm",
-        "title":"系列最初四款作品合集《索尼克：起源》正式发售",
-        "desc":"为了庆祝《索尼克：起源》正式发售，SEGA发布了该游戏的上市宣传片，一起来回顾一下音速刺猬最初的四款游戏吧。《索尼克：起源》包含作为索尼克系列原点的《刺猬索尼克》，《索尼克CD》、《刺猬索尼克2》、以及《刺猬索尼克3与纳克鲁斯》。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284427.htm",
-        "title":"押注比特币，萨尔瓦多压力山大",
-        "desc":"比特币等加密货币价格近期的崩盘正在影响全世界投资者，其中就包括萨尔瓦多政府。这个中美洲国家已向比特币注入巨资，并在9个月前将它列为法定货币，鼓励民众在日常交易中使用它。从小饰品、炸玉米饼到汽油，甚至房子，人们在萨尔瓦多几乎可用比特币买到任何东西。在路边摊和大型连锁店使用加密货币购物是一种非同寻常的体验。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284429.htm",
         "title":"Windows 11预览版更新实现更深入的OneDrive整合",
         "desc":null
@@ -293,5 +283,15 @@
         "url":"https://www.cnbeta.com/articles/science/1284541.htm",
         "title":"在超新星中存活下来的恒星从自身爆炸获得超强动力",
         "desc":"一小部分恒星--也许不到1%--在其生命的尽头以超新星爆炸的形式发出巨大的轰鸣声，通常只留下壮观的残余物。因此，当天文学家将NASA的哈勃太空望远镜对准热核超新星SN 2012Z的方向发现那里仍有一颗恒星时，他们感到非常惊讶。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1284543.htm",
+        "title":"科学家发现一种独特的北极熊亚种 为什么这很重要？",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284545.htm",
+        "title":"Solana推出主打web3体验的Saga Android智能机",
+        "desc":null
     }
 ]
