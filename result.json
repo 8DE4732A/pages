@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284779.htm",
-        "title":"英特尔Raptor Lake酷睿i9-13900处理器拥有24个核心和32个线程",
-        "desc":"一张据称是英特尔Raptor Lake酷睿i9-13900处理器的CPU-Z截图被泄露，显示了工程样品的初步规格，具体参数为：24个核心，32个线程，3.8GHz时钟，36MB缓存，65W。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284781.htm",
         "title":"AMD Radeon RX 7000 RDNA 3图形处理器被确认为具有更高的功耗",
         "desc":"在接受Tomshardware采访时，AMD高级副总裁Sam Naffziger暗示，为Radeon RX 7000系列显卡提供动力的下一代RDNA 3 GPU将具有比现有解决方案更高的功耗，同时仍然提供50%的性能/瓦特收益。"
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1284895.htm",
         "title":"苹果悄然提高了Music学生套餐在美国、加拿大和英国的价格",
         "desc":"主流音乐流媒体服务如Spotify、Apple Music和YouTube Music都为活跃的学生提供了一个更便宜的层级套餐并进行了验证。9to5Mac读者发现，苹果已经悄然提高了美国、加拿大和英国的Apple Music的学生级别的费用。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284897.htm",
+        "title":"科技公司对美国最高法院推翻堕胎权的裁决作出回应",
+        "desc":null
     }
 ]
