@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284691.htm",
-        "title":"英特尔证实Arc独显将会支持AMD平台的SAM智能存取技术",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284693.htm",
         "title":"雷蛇推出雨林狼蛛V3系列键盘 紧凑布局，纤薄键帽，分机械和薄膜两款",
         "desc":"雷蛇发布雨林狼蛛V3（Ornata V3）系列键盘，分别有采用机械轴的雨林狼蛛V3及薄膜设计的雨林狼蛛V3 X两款。雷蛇表示，这两款产品均带有腕托，都是完美符合人体工程学的纤薄游戏键盘，非常适合游戏玩家。"
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1284813.htm",
         "title":"Moto 2亿像素骁龙8+旗舰入网：最高125W快充",
+        "desc":null
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/game/1284815.htm",
+        "title":"跨界COS获《仙剑奇侠传》官微转发：Angelababy林月如扮相圈粉",
         "desc":null
     }
 ]
