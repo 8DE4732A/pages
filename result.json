@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1284917.htm",
-        "title":"MIT科学家开发出可穿越血脑屏障的纳米粒子来治疗癌症肿瘤",
-        "desc":null
-    },
-    {
         "url":"https://hot.cnbeta.com/articles/game/1284967.htm",
         "title":"美高院推翻罗诉韦德案 多家游戏厂商发声支持堕胎权",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1285073.htm",
         "title":"Intel定制特殊版DDR5 12代酷睿内存超频又提升了61.7MHz",
         "desc":"12代酷睿首发DDR5内存之后，频率更高的DDR5也成了高玩们冲击极限的新玩物，上一个内存超频记录是华硕创下的10110MHz，现在技嘉联合高玩hicookie使用了定制的DDR5内存超频到了10224MHz，新的记录诞生了。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1285075.htm",
+        "title":"炫耀自己的地位和财富会使人看起来不那么容易合作",
+        "desc":"买得起奢侈品的人倾向于购买它们，并炫耀它们。一项新研究的作者指出，鉴于与被视为富裕和高地位相关的无数社会利益，这并不令人惊讶。但是在某些情况下，显眼的消费可能有坏处。毕竟，正如研究小组所写的：\"它传达了一种夸耀的自我利益，在人们心中，这与亲社会性是不相容的。\""
     }
 ]
