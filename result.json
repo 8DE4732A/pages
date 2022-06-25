@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284797.htm",
-        "title":"因医保覆盖范围受限 百健终止一项阿尔茨海默病药物研究",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284799.htm",
         "title":"丰田向日本政府施压成功：如不这样做 将失去汽车行业支持",
         "desc":"北京时间6月24日消息，丰田汽车的总裁向日本政府施压成功，日本政府在政策文件中明确表示对混合动力汽车和纯电动汽车给予同等支持。丰田总裁丰田章男兼任日本汽车制造商协会 (JAMA) 工业集团主席，他在游说过程中称，如果日本政府不这么做，将失去汽车行业的支持。"
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1284913.htm",
         "title":"华擎官网放出了X670E Taichi主板的介绍页面",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1284915.htm",
+        "title":"新研究称木星可能“吞噬”了其他较小的行星",
         "desc":null
     }
 ]
