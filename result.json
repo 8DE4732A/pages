@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1285005.htm",
-        "title":"​虚幻引擎正式迎来AMD FSR 2.0游戏开发插件",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1285007.htm",
-        "title":"三星越南推出Galaxy S22 Ultra Night Lively套装 限时销售一周",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1285009.htm",
         "title":"ARM最初的操作系统 时隔35年仍以RISC OS的名义在积极更新",
         "desc":null
@@ -293,5 +283,15 @@
         "url":"https://www.cnbeta.com/articles/tech/1285121.htm",
         "title":"俄多家银行：已暂停开设美元欧元储蓄账户",
         "desc":"据俄罗斯《消息报》24日报道，俄罗斯多家银行目前已经暂停开设美元和欧元的储蓄账户，并限制美元和欧元的存款。报道称，截至目前，俄罗斯工业通讯银行、俄罗斯联合银行等多家银行已暂停开设美元和欧元的储蓄账户，部分银行还暂停了美元和欧元存款业务。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285123.htm",
+        "title":"谷歌Pixel 6a已上架销售 60Hz屏+6/128GB售价449美元",
+        "desc":null
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/music/1285125.htm",
+        "title":"老师用《孤勇者》和小学生对上暗号 大都会唱年级越低越会唱",
+        "desc":"现在小学生中最流行的歌曲是什么，你真的知道吗？6月24日，陕西榆林。老师唱《孤勇者》试探小学生，对上暗号后瞬间燃起来了。姚老师称，课间时间本想在校园里试一下唱第一句，看他们能不能接到第二句，结果发现大部分都会唱，而且低年级的更愿意互动，他非常开心，也感到惊讶。"
     }
 ]
