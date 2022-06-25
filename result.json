@@ -1,20 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/game/1284963.htm",
-        "title":"暴雪暗示《守望先锋2》将会移除1代游戏文件",
-        "desc":"在Reddit AMA上，暴雪暗示《守望先锋2》将会移除1代游戏文件，这意味着一旦《守望先锋2》推出，那么1代游戏可能将不复存在。Reddit玩家提问：《守望先锋2》的“抢先体验”是什么意思?是否意味着首发当日《守望先锋1》将被《守望先锋2》的PvP取代，还是说一旦发售了，《守望先锋1》就会关服?"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/science/1284915.htm",
-        "title":"新研究称木星可能“吞噬”了其他较小的行星",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284965.htm",
-        "title":"“智能集成住宅造楼机”在华南地区首次成功运用",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1284917.htm",
         "title":"MIT科学家开发出可穿越血脑屏障的纳米粒子来治疗癌症肿瘤",
         "desc":null
@@ -293,5 +278,20 @@
         "url":"https://www.cnbeta.com/articles/tech/1285067.htm",
         "title":"《自然医学》刊登：研究称猴痘病毒或加速适应人体",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1285069.htm",
+        "title":"核能“充电宝”：我国正建设全球首个陆上商用小型反应堆",
+        "desc":"据财联社消息，我国自主研发的全球首个陆上商用小型反应堆“玲龙一号”示范工程正抓紧建设。“玲龙一号”是全球首个通过国际原子能机构安全审查的小型反应堆，标志着我国在模块化小型堆技术上走在世界前列。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285071.htm",
+        "title":"Rufus 3.19发布 可绕过Windows 11 22H2安装时微软账户强制登录要求",
+        "desc":"今年5月早些时候，微软将互联网连接和微软账户（MSA）作为安装Windows 11 22H2 Insider \r\nBuilds的强制性要求。值得庆幸的是，我们早先发现的OOBE\\BYPASSNRO的解决方法仍然有效，可以通过手动操作用本地账户安装Windows\r\n 11 22H2。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285073.htm",
+        "title":"Intel定制特殊版DDR5 12代酷睿内存超频又提升了61.7MHz",
+        "desc":"12代酷睿首发DDR5内存之后，频率更高的DDR5也成了高玩们冲击极限的新玩物，上一个内存超频记录是华硕创下的10110MHz，现在技嘉联合高玩hicookie使用了定制的DDR5内存超频到了10224MHz，新的记录诞生了。"
     }
 ]
