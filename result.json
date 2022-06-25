@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284939.htm",
-        "title":"美国最高法院废止堕胎权引发轩然大波 科技大佬纷纷反对",
-        "desc":"据报道，美国最高法院周五推翻了“罗伊诉韦德案”的裁决，结束了美国宪法自1973年以来赋予女性的堕胎权。在此之后，多位科技大佬相继公开反对。Salesforce CEO马克·本尼奥夫（Marc Benioff）、微软联合创始人比尔·盖茨（Bill Gates）和即将离职的Meta COO雪莉·桑德伯格（Sheryl Sandberg）都对此事公开发表了自己的反对观点。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284941.htm",
         "title":"苹果回应美国“罗诉韦德案”裁决：支持员工到其他州堕胎的权利",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1285023.htm",
         "title":"凯迪拉克CT6 120周年限量版上市 售价40.57万元",
         "desc":null
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/game/1285025.htm",
+        "title":"《最终幻想7：重生》开发者回应 萨菲罗斯影响巨大",
+        "desc":"今年是《最终幻想 7》的25周年，作为庆祝活动的一部分，《最终幻想7》重制版开发团队专门探讨了重制版第二章《最终幻想7：重生》的内容。开发者谈到，在《最终幻想7：重生》中萨菲罗斯很早就登场，是为了表现出早期阶段萨菲罗斯幻象对克劳德的影响，另一方面，萨菲罗斯的存在也对重制版世界本身有着巨大的影响。"
     }
 ]
