@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284951.htm",
-        "title":"丰田铃木将开始合作在印度生产混动SUV",
-        "desc":"6月25日消息，当地时间周五日本丰田汽车和铃木汽车表示，两家公司将开始在印度合作生产混动汽车。此前丰田曾表示，目前这类汽车最适合印度市场。两家公司表示，丰田位于印度南部的一家工厂将于今年8月份开始生产铃木开发的一款混动SUV。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284903.htm",
-        "title":"苹果更新了iPhone订阅界面",
-        "desc":null
-    },
-    {
         "url":"https://hot.cnbeta.com/articles/game/1284953.htm",
         "title":"《赛博朋克2077》迎来《夜城帮派》棋牌游戏 Kickstarter众筹中",
         "desc":null
@@ -293,5 +283,15 @@
         "url":"https://www.cnbeta.com/articles/tech/1285043.htm",
         "title":"面世一年，Windows 11“静悄悄”？",
         "desc":"Windows，一直是桌面操作系统的代名词。2022年6月24日，恰逢Windows \r\n11正式发布一周年，但颇为尴尬的是，尽管微软不遗余力推广，可用户的接受程度似乎并不高。据AdDuplex的数据显示，2022年4月Windows\r\n 11运行在19.7%的PC上，增长较为缓慢，暂时没有撼动Windows 10霸主地位的迹象。"
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/game/1285045.htm",
+        "title":"《索尼克：起源》bug和性能问题层出不穷 这个画面居然会卡你敢信？",
+        "desc":"《刺猬索尼克》系列四款作品复刻合集《索尼克：起源》现已正式发售，其前期猛烈的宣传攻势让不少玩家对本作抱有极大期待。但是这款作品在发售之后，其表现只能说还有很大的进步空间。《刺猬索尼克》近年来势头相当猛烈，两部电影版口碑不断提升，世嘉也大有通过多渠道多部作品重建索尼克宇宙的野心。"
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/game/1285047.htm",
+        "title":"PS Plus部分会免游戏离库时间公布  《荒野大镖客》等作",
+        "desc":"据Eurogamer报道，PS Plus会员免费游戏库中部分游戏已经出现离库时间，此外PS Plus会免游戏库目录中还出现了“最后游玩机会（Last Chance To Play）”选项，其中包括临近离库的会免游戏。"
     }
 ]
