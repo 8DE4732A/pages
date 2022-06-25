@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1284931.htm",
-        "title":"人工智能学会新技巧：如何进行化学实验",
-        "desc":"人工智能(AI)已经改变了科学的实践，进而使研究人员能够检查目前科学仪器产生的大量数据。通过利用深度学习，它可以从数据本身进行学习并可以在一百万个信息干草堆中找到一根针。AI正在推动基因搜索、医学、药物设计和化学合成的发展。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284981.htm",
         "title":"波兰开发者借树莓派为特斯拉电动汽车带来CarPlay功能",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1285095.htm",
         "title":"2022年全国各省份高考分数线公布 录取工作定于7月初至7月底",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285097.htm",
+        "title":"微软回滚包含问题的累积性更新以修复IE模式卡死Edge的问题",
+        "desc":"2022年6月对微软来说是一个历史性的月份。随着该公司结束对IE 11的支持，这个月标志着长达数十年的IE时代的结束。微软希望每一个剩余的IE用户都能切换到具有专用IE模式的Edge浏览器，但遗憾的是，KB5014019又让那些离开旧浏览器的用户失望了。"
     }
 ]
