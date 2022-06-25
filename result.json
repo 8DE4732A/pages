@@ -1,25 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284861.htm",
-        "title":"美国公司Archer正在对电动垂直起降飞机进行飞行测试",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284863.htm",
-        "title":"openKylin开源社区正式发布 麒麟软件主导打造中国桌面操作系统根社区",
-        "desc":"6月24日，以“创开源之势 享无境未来”为主题的中国首个桌面操作系统根社区openKylin发布会在线上成功举行，观看量超200万，openKylin社区正式发布。openKylin社区旨在以“共创”为核心，在开源、自愿、平等、协作的基础上，通过开源、开放的社区合作，构建桌面操作系统顶级开源社区。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284865.htm",
-        "title":"华为新一代“小方表”Watch Fit 2上架：支持蓝牙通话",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284867.htm",
-        "title":"Intel 13代酷睿首次露出真面目：68MB缓存提升明显",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284869.htm",
         "title":"小屏旗舰三星Galaxy S22喜提Android 13：未来能升Android 16",
         "desc":null
@@ -290,8 +270,28 @@
         "desc":null
     },
     {
+        "url":"https://www.cnbeta.com/articles/tech/1284979.htm",
+        "title":"华为P50 Pocket新色泽官宣 7月4日发布华为",
+        "desc":null
+    },
+    {
         "url":"https://www.cnbeta.com/articles/science/1284931.htm",
         "title":"人工智能学会新技巧：如何进行化学实验",
         "desc":"人工智能(AI)已经改变了科学的实践，进而使研究人员能够检查目前科学仪器产生的大量数据。通过利用深度学习，它可以从数据本身进行学习并可以在一百万个信息干草堆中找到一根针。AI正在推动基因搜索、医学、药物设计和化学合成的发展。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284981.htm",
+        "title":"波兰开发者借树莓派为特斯拉电动汽车带来CarPlay功能",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284983.htm",
+        "title":"苹果iOS 16怎么样 来看首批使用体验吧",
+        "desc":"备受关注的苹果WWDC22开发者大会已完美落幕。而在WWDC22上，全新的MacBookAir和MacBookPro尤为吸睛，但是对于大部分的苹果用户来说最吸引的无疑还是iOS16。很多用户都第一时间尝鲜了iOS16，而小编也收集了首批用户的体验感受。究竟升还是不升呢？看完你可能会有答案。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284985.htm",
+        "title":"世纪难题终于解决？PC微信清理存储空间有新招",
+        "desc":"PC版微信最近获得了更新，增加了几个新功能，此次更新可是带来了存储空间管理功能，那我们的硬盘上被微信霸占的大量存储空间是不是有救了？此外，小编也给大家推荐一个第三方小小的高效的微信存储空间清理工具，一起来看看吧。"
     }
 ]
