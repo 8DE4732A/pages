@@ -1,20 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/movie/1284819.htm",
-        "title":"漫威在好莱坞举行《雷神4》全球首映式",
-        "desc":"该片于当地时间6月23号在好莱坞举行全球首映式，导演维迪提与主演均到场站台：评论人士普遍认为《雷神4》贯彻了维迪提一贯手法，称赞该片提供了一场颠覆性的放纵狂欢，剧情与故事核心都很好，角色塑造给力。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284821.htm",
-        "title":"销量10天翻83倍 俞敏洪回应称新东方从来没倒下过",
-        "desc":null
-    },
-    {
-        "url":"https://hot.cnbeta.com/articles/movie/1284823.htm",
-        "title":"网友偶遇67岁周润发吃早餐 爆料其身形消瘦略显老态",
-        "desc":"童年男神的发哥，也老了啊。6月22日，有网友爆料称，在一家茶餐厅偶遇到了影帝周润发独自一人在吃早餐。该网友透露，周润发在吃早餐的时候，动作不像年轻人那样灵敏快速，不管是拿碗筷也好，还是吃东西，给人一种慢吞吞的感觉，就跟上了年纪的老人似的，反应比较迟钝，不紧不慢的样子，让人看完后感觉五味杂陈。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284825.htm",
         "title":"国产CPU第一股龙芯中科上市首日市值超340亿 自研架构光环与争议并存",
         "desc":"今日，国产CPU第一股龙芯中科成功登陆科创板，本次发行股票数量4100万股，发行价格每股60.05元。作为成功登陆科创板的第一家CPU公司，龙芯中科是国产CPU“自主派”的领军者，其自研的LongArch指令集已经投入使用，基于该指令集开发了3A5000芯片产品也已投向市场。"
@@ -292,6 +277,21 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1284935.htm",
         "title":"成都大运会将于2023年举办 年龄限制放开",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284937.htm",
+        "title":"谷歌回应美国最高法院堕胎权判决：受影响员工可申请更换工作地点",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284939.htm",
+        "title":"美国最高法院废止堕胎权引发轩然大波 科技大佬纷纷反对",
+        "desc":"据报道，美国最高法院周五推翻了“罗伊诉韦德案”的裁决，结束了美国宪法自1973年以来赋予女性的堕胎权。在此之后，多位科技大佬相继公开反对。Salesforce CEO马克·本尼奥夫（Marc Benioff）、微软联合创始人比尔·盖茨（Bill Gates）和即将离职的Meta COO雪莉·桑德伯格（Sheryl Sandberg）都对此事公开发表了自己的反对观点。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284941.htm",
+        "title":"苹果回应美国“罗诉韦德案”裁决：支持员工到其他州堕胎的权利",
         "desc":null
     }
 ]
