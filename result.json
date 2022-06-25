@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1285015.htm",
-        "title":"Fossil发布第六代混合型智能手表 续航可达两周并支持Alexa",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1285017.htm",
         "title":"Redmi K50 Ultra获认证 配备骁龙8+/天玑9000双芯",
         "desc":null
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1285131.htm",
         "title":"消息称三星显示和宝马达成协议 为后者供应车用OLED屏幕",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285133.htm",
+        "title":"SABRENT推Rocket 4 Plus Destroyer 2：最高64TB 读写28000MB/s",
         "desc":null
     }
 ]
