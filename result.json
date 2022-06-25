@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284921.htm",
-        "title":"Nothing Phone(1)已给出20英镑的首发预购通行证选项",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/science/1284971.htm",
-        "title":"火星为何会干涸？新研究提出了不寻常的答案",
-        "desc":"火星曾经被河水染红。过去的河流、小溪和湖泊的痕迹今天在这个星球上仍然可见。但大概30亿年前，它们都干涸了--没有人知道原因。芝加哥大学地球物理学家Edwin Kite说道：“人们提出了不同的想法，但我们不确定是什么导致气候发生如此巨大的变化。我们真的很想了解，特别是因为它是我们肯定知道的唯一从宜居变为不宜居的星球。”"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1284923.htm",
         "title":"NASA取消今年用猎鹰重型火箭飞往小行星Psyche的任务",
         "desc":"NASA希望在2022年发射一个航天器来调查富含金属的小行星Psyche，这一愿望至少已经滑落到明年。Psyche任务原定于8月由SpaceX的猎鹰重型火箭发射，但NASA在5月宣布，一个软件故障将至少推迟到9月升空。现在该机构表示，在10月11日结束的发射窗口期间，它将无法起飞。"
@@ -293,5 +283,15 @@
         "url":"https://hot.cnbeta.com/articles/comic/1285081.htm",
         "title":"星爵表示自己配的马里奥与以前版本都不一样",
         "desc":"在“星爵”扮演者克里斯·帕拉特宣布即将在最新动画电影里为马里奥配音之后，很多人就开始想象这部电影里的马里奥声音究竟是什么样子。如今我们仍然没有得到这个问题的答案，不过帕拉特本人最近透露称，他的马里奥配音“与你以前听过的所有版本都不一样”。这就有点让人略感不适了。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1285083.htm",
+        "title":"美国宇航局被迫取消2022年发射Psyche小行星探测任务的计划",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285085.htm",
+        "title":"摩托罗拉新旗舰影像参数敲定：2亿主摄像素之王",
+        "desc":null
     }
 ]
