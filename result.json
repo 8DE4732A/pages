@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284791.htm",
-        "title":"中信信用卡被曝乱收费：未激活就收2000元年费",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284793.htm",
-        "title":"蔚来测试事故后续：为何发生，能否避免？",
-        "desc":"车辆测试发生安全事故，再次将蔚来推上风口浪尖。日前，一组蔚来汽车测试车辆从高处坠下的图片以及视频在网络上迅速传播。根据网友爆料显示，6月22日下午，在上海嘉定区安亭镇上海汽车创新港内，一辆蔚来测试车辆从高处坠下，导致两名试车员受伤，随后被送往医院治疗，两人均因伤势过重死亡。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284795.htm",
         "title":"30%苹果税高吗？专家：构成事实垄断 但还需完善相关法律",
         "desc":"对于苹果用户而言，只能从App Store中下载应用，而且要在应用中消费，必须走苹果的支付系统，在进行数字商品和虚拟服务消费时，苹果会从中抽取30%的佣金（年收入100万美元以下企业为15%），这被称为苹果税。"
@@ -292,6 +282,16 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1284907.htm",
         "title":"苹果将不会对马里兰州零售店的工会投票发起挑战",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284909.htm",
+        "title":"NFL正在考虑来自苹果、亚马逊和迪斯尼的周日门票竞标",
+        "desc":"苹果、亚马逊和迪斯尼目前正在等待谁将获得NFL周日门票的转播权。据CNBC报道，这三家公司都在几周前分别提交了播放权的竞标书。NFL目前正在跟所有三家竞标者进行谈判，另外还没有选择流媒体合作伙伴。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1284911.htm",
+        "title":"ESA分享卫星从太空拍摄的合影：1000名员工摆出ESA Logo",
         "desc":null
     }
 ]
