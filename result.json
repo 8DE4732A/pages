@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284795.htm",
-        "title":"30%苹果税高吗？专家：构成事实垄断 但还需完善相关法律",
-        "desc":"对于苹果用户而言，只能从App Store中下载应用，而且要在应用中消费，必须走苹果的支付系统，在进行数字商品和虚拟服务消费时，苹果会从中抽取30%的佣金（年收入100万美元以下企业为15%），这被称为苹果税。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284797.htm",
         "title":"因医保覆盖范围受限 百健终止一项阿尔茨海默病药物研究",
         "desc":null
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/science/1284911.htm",
         "title":"ESA分享卫星从太空拍摄的合影：1000名员工摆出ESA Logo",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284913.htm",
+        "title":"华擎官网放出了X670E Taichi主板的介绍页面",
         "desc":null
     }
 ]
