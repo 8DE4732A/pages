@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/movie/1284803.htm",
-        "title":"数字藏品 B站的“危险”想象力",
-        "desc":"短短数月，“数字藏品”概念火了。据公开数据，当前国内已有超过20家上市企业布局数字藏品相关业务，BAT、字节、快手等互联网公司悉数入局，今年2月到5月的三个月间，超200多家数字藏品平台横空出世。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284805.htm",
         "title":"门店无线音箱造假？索尼回应：产品预留了有线连接接口 复杂场景下可以使用",
         "desc":"6月24日晚间消息，针对微博网友爆料的索尼直营店无线音箱涉嫌造假一事，索尼方面向新浪科技表示，该产品本身所带的有线连接接口，是预留给特殊、复杂的情况下做连接以及检测使用，家居环境下正常使用该产品不需要有线连接。"
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1284919.htm",
         "title":"因为股价过低 Bird收到纽约证券交易所警告",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284921.htm",
+        "title":"Nothing Phone(1)已给出20英镑的首发预购通行证选项",
         "desc":null
     }
 ]
