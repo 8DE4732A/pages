@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1285023.htm",
-        "title":"凯迪拉克CT6 120周年限量版上市 售价40.57万元",
-        "desc":null
-    },
-    {
         "url":"https://hot.cnbeta.com/articles/game/1285025.htm",
         "title":"《最终幻想7：重生》开发者回应 萨菲罗斯影响巨大",
         "desc":"今年是《最终幻想 7》的25周年，作为庆祝活动的一部分，《最终幻想7》重制版开发团队专门探讨了重制版第二章《最终幻想7：重生》的内容。开发者谈到，在《最终幻想7：重生》中萨菲罗斯很早就登场，是为了表现出早期阶段萨菲罗斯幻象对克劳德的影响，另一方面，萨菲罗斯的存在也对重制版世界本身有着巨大的影响。"
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/science/1285139.htm",
         "title":"结合64台望远镜的力量 天文学家首次探测到中性氢气的微弱特征",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285141.htm",
+        "title":"攻击者与ISP内部人士勾结 在Android和iOS上散布Hermit间谍软件",
         "desc":null
     }
 ]
