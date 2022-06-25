@@ -1,35 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284825.htm",
-        "title":"国产CPU第一股龙芯中科上市首日市值超340亿 自研架构光环与争议并存",
-        "desc":"今日，国产CPU第一股龙芯中科成功登陆科创板，本次发行股票数量4100万股，发行价格每股60.05元。作为成功登陆科创板的第一家CPU公司，龙芯中科是国产CPU“自主派”的领军者，其自研的LongArch指令集已经投入使用，基于该指令集开发了3A5000芯片产品也已投向市场。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284827.htm",
-        "title":"BlackBerry软件全球已部署超过2.15亿辆汽车",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284829.htm",
-        "title":"苹果公司在美国和加拿大推出返校促销活动 赠送礼品卡",
-        "desc":"今年，苹果公司在美国和加拿大的返校促销活动宣告开始，购买符合条件的Mac电脑可获得150美元礼品卡，购买符合条件的iPad可获得100美元礼品卡。正如之前预期的那样，苹果公司现在已经开始了其最新的返校促销活动。并且这些优惠是在常规教育折扣的基础上进行的。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284831.htm",
-        "title":"源代码显示Pixel 7 Pro的显示屏将比6 Pro的面板更亮",
-        "desc":"泄密者一直在追踪Google为Pixel 7 Pro采用的新显示面板的，新的S6E3HC4面板将具有相同的3120 x \r\n1440px分辨率和与之前相同的10-120Hz刷新率，那么与Pixel 6 \r\nPro的S6E3HC3相比，实际上有什么变化？这个问题从作为Android13测试版一部分的源代码中得到了部分答案。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284833.htm",
-        "title":"IBM研发“电子舌头” 16个传感器替代上千味蕾能辨假酒",
-        "desc":"根据外媒IEEE \r\nSpectrum报道，IBM研究院开发了一种化学味觉感知工具——HyperTaste。该工具可以分析液体的化学成分，识别出不同液体的类型。HyperTaste可以自动分析河流的水质，追踪环境的变化如何影响浮游生物的生长。除此之外，HyperTaste还可以用来分辨液体来源、实施质量检测、识别假冒品牌。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284835.htm",
-        "title":"凯迪拉克的\"超豪华\"Celestiq电动车据称售价高达30万美元",
-        "desc":"我们还没有看到计划于2024年推出的凯迪拉克Celestiq，但《华尔街日报》的一份报告称，虽然这款旗舰Ultium动力的电动轿车将不仅仅是一辆展示车，但知情人士表示，每年制造的这一型号的汽车不到500辆，价格约为30万美元起。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1284837.htm",
         "title":"聆听星云NGC 2392的“阴森之声”",
         "desc":"在离地球大约5000光年的地方，令人惊叹的星云NGC \r\n2392是在像我们太阳一样的恒星消亡后形成的。在这段你现在听到的声音中，图像像雷达一样被顺时针扫描。半径被映射到音调上，因此离中心较远的光线的音调较高。星云外壳的轮廓可以从音调的上升和下降中听到，并由其辐条加以点缀。亮度控制着音量。"
@@ -292,6 +262,36 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1284941.htm",
         "title":"苹果回应美国“罗诉韦德案”裁决：支持员工到其他州堕胎的权利",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284943.htm",
+        "title":"美国联邦航空管理局人手不足导致大量航班被取消",
+        "desc":"连日来，由于美国联邦航空管理局人手不足，美国有大量航班被取消或延误。截至当地时间24日下午，美国当天已有500多个航班被取消，超过2300个航班延误；23日，美国有800多个航班被取消，6600个航班延误。航空公司认为，航班延误或取消的责任在于美国联邦航空管理局。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284945.htm",
+        "title":"涨价的乐高，还能火多久？",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284947.htm",
+        "title":"首发100台被炒到2万多 Nothing Phone到底是一台什么样的手机？",
+        "desc":"最近这段时间，一加原联合创始人裴宇独立搞的新手机 Nothing Phone（ 1 ），在外网是彻底火了。之前世超曾经写过关于这台手机的定制款Android皮肤 —— NothingLauncher 测试版（ 没读的戳这里 ），稍稍得以一窥 Nothing 的设计美学。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284949.htm",
+        "title":"人在币圈混 三天饿九顿",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284951.htm",
+        "title":"丰田铃木将开始合作在印度生产混动SUV",
+        "desc":"6月25日消息，当地时间周五日本丰田汽车和铃木汽车表示，两家公司将开始在印度合作生产混动汽车。此前丰田曾表示，目前这类汽车最适合印度市场。两家公司表示，丰田位于印度南部的一家工厂将于今年8月份开始生产铃木开发的一款混动SUV。"
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/game/1284953.htm",
+        "title":"《赛博朋克2077》迎来《夜城帮派》棋牌游戏 Kickstarter众筹中",
         "desc":null
     }
 ]
