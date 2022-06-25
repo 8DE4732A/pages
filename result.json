@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1285009.htm",
-        "title":"ARM最初的操作系统 时隔35年仍以RISC OS的名义在积极更新",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1285011.htm",
         "title":"美监管机构已对加密货币相关企业处以超33亿美元罚款",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://hot.cnbeta.com/articles/music/1285125.htm",
         "title":"老师用《孤勇者》和小学生对上暗号 大都会唱年级越低越会唱",
         "desc":"现在小学生中最流行的歌曲是什么，你真的知道吗？6月24日，陕西榆林。老师唱《孤勇者》试探小学生，对上暗号后瞬间燃起来了。姚老师称，课间时间本想在校园里试一下唱第一句，看他们能不能接到第二句，结果发现大部分都会唱，而且低年级的更愿意互动，他非常开心，也感到惊讶。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1285127.htm",
+        "title":"研究发现接种流感疫苗的人患阿尔茨海默病的可能性低40%",
+        "desc":null
     }
 ]
