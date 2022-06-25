@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284979.htm",
-        "title":"华为P50 Pocket新色泽官宣 7月4日发布华为",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1284931.htm",
         "title":"人工智能学会新技巧：如何进行化学实验",
         "desc":"人工智能(AI)已经改变了科学的实践，进而使研究人员能够检查目前科学仪器产生的大量数据。通过利用深度学习，它可以从数据本身进行学习并可以在一百万个信息干草堆中找到一根针。AI正在推动基因搜索、医学、药物设计和化学合成的发展。"
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/science/1285093.htm",
         "title":"研究发现新的分子靶点可以让癌症药物的副作用更少",
         "desc":"俄亥俄州立大学综合癌症中心-Arthur G. James癌症医院和Richard J. Solove研究所（OSUCCC - James）的研究人员发现了一个新的分子药物靶点，可能会带来副作用较少的新癌症药物。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285095.htm",
+        "title":"2022年全国各省份高考分数线公布 录取工作定于7月初至7月底",
+        "desc":null
     }
 ]
