@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284859.htm",
-        "title":"CISA和美国海岸警卫队警告外界当心Log4Shell攻击",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284861.htm",
         "title":"美国公司Archer正在对电动垂直起降飞机进行飞行测试",
         "desc":null
@@ -287,6 +282,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1284975.htm",
         "title":"币价暴跌让BTC和ETH挖矿能源开销也大幅回落",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284977.htm",
+        "title":"维也纳加密货币交易所Bitpanda计划裁员数百人",
         "desc":null
     },
     {
