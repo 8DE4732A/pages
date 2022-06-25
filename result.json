@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/music/1285013.htm",
-        "title":"Snoop Dogg与Eminem联手 带来一支“无聊猿”音乐录影带",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1285015.htm",
         "title":"Fossil发布第六代混合型智能手表 续航可达两周并支持Alexa",
         "desc":null
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1285129.htm",
         "title":"Nokia Style+通过FCC认证：4800万主摄+4900mAh电池",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285131.htm",
+        "title":"消息称三星显示和宝马达成协议 为后者供应车用OLED屏幕",
         "desc":null
     }
 ]
