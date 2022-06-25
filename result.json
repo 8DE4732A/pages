@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284977.htm",
-        "title":"维也纳加密货币交易所Bitpanda计划裁员数百人",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284979.htm",
         "title":"华为P50 Pocket新色泽官宣 7月4日发布华为",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1285091.htm",
         "title":"大神让AMD Ryzen 7 5800X3D 3D V-Cache CPU开盖后更凉爽运行",
         "desc":"AMD Ryzen 7 5800X3D是全球首款3D V-Cache CPU芯片，经过脱胶处理后，其散热效果比原来的设备更好。Twitter用户Madness7771发布了一张脱模的AMD Ryzen 7 5800X3D CPU的照片。这是我们第一次看到其封装下的芯片。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1285093.htm",
+        "title":"研究发现新的分子靶点可以让癌症药物的副作用更少",
+        "desc":"俄亥俄州立大学综合癌症中心-Arthur G. James癌症医院和Richard J. Solove研究所（OSUCCC - James）的研究人员发现了一个新的分子药物靶点，可能会带来副作用较少的新癌症药物。"
     }
 ]
