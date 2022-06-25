@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284805.htm",
-        "title":"门店无线音箱造假？索尼回应：产品预留了有线连接接口 复杂场景下可以使用",
-        "desc":"6月24日晚间消息，针对微博网友爆料的索尼直营店无线音箱涉嫌造假一事，索尼方面向新浪科技表示，该产品本身所带的有线连接接口，是预留给特殊、复杂的情况下做连接以及检测使用，家居环境下正常使用该产品不需要有线连接。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284807.htm",
         "title":"中国第一个桌面操作系统根社区诞生 七大院士力挺",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1284921.htm",
         "title":"Nothing Phone(1)已给出20英镑的首发预购通行证选项",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1284923.htm",
+        "title":"NASA取消今年用猎鹰重型火箭飞往小行星Psyche的任务",
+        "desc":"NASA希望在2022年发射一个航天器来调查富含金属的小行星Psyche，这一愿望至少已经滑落到明年。Psyche任务原定于8月由SpaceX的猎鹰重型火箭发射，但NASA在5月宣布，一个软件故障将至少推迟到9月升空。现在该机构表示，在10月11日结束的发射窗口期间，它将无法起飞。"
     }
 ]
