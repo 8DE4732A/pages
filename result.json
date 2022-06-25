@@ -1,20 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284811.htm",
-        "title":"中国移动新一代超级SIM卡芯片：2MB存储、算法翻3倍",
-        "desc":"6月24日消息，据“紫光同芯”公众号，在今天的中国移动2022科技周暨移动信息产业链创新大会号卡分论坛上，《中国移动新一代超级SIM芯片技术白皮书》正式发布，明确了新一代超级SIM卡的相关业务功能和技术特性。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284813.htm",
-        "title":"Moto 2亿像素骁龙8+旗舰入网：最高125W快充",
-        "desc":null
-    },
-    {
-        "url":"https://hot.cnbeta.com/articles/game/1284815.htm",
-        "title":"跨界COS获《仙剑奇侠传》官微转发：Angelababy林月如扮相圈粉",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284817.htm",
         "title":"外形神似烟灰缸：TP-LINK XDR6050易展版路由器开启预售",
         "desc":null
@@ -293,5 +278,20 @@
         "url":"https://hot.cnbeta.com/articles/movie/1284927.htm",
         "title":"《雷神4：爱与雷霆》全球首映好评连连：漫威最好的电影之一",
         "desc":"近日，《雷神4：爱与雷霆》在首映后获得大量影评人的一致好评，据部分影评人表示，这部电影不仅超过了《雷神3:诸神黄昏》，而且可能是漫威最好的电影之一。参加了世界首映礼的观众@bamfpire说，《雷神4：爱与雷霆》“绝对令人惊叹”。“这部电影击败了其他漫威电影。”"
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/music/1284929.htm",
+        "title":"后街男孩与西城男孩同台开启线上演唱会 观看人数突破1700万人次",
+        "desc":"6月24日晚8点，美国男子组合后街男孩（Backstreet \r\nBoys）在微信视频号开启全球首场线上演唱会。据预告，爱尔兰男子演唱组合西城男孩（Westlife）将作为嘉宾亮相舞台，同台演出。20时27分，演唱会正式开始。不到30分钟，观看人数突破1700万人次，后街男孩演唱《Everyone》《I\r\n Wanna Be With You》《As Long As You Love Me》《Get Down》等多首经典歌曲。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1284931.htm",
+        "title":"人工智能学会新技巧：如何进行化学实验",
+        "desc":"人工智能(AI)已经改变了科学的实践，进而使研究人员能够检查目前科学仪器产生的大量数据。通过利用深度学习，它可以从数据本身进行学习并可以在一百万个信息干草堆中找到一根针。AI正在推动基因搜索、医学、药物设计和化学合成的发展。"
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/movie/1284933.htm",
+        "title":"漫威《雷神4》首映式 众演员齐声称赞导演",
+        "desc":"克里斯蒂安·贝尔之前演过三部蝙蝠侠，他一直想与新西兰导演维迪提合作，尽管以老爷的身份加盟漫威宇宙，这跨度有点大：“能与维迪提共事简直太好了，说真的，这是一部非常感人的影片，同时又是维迪提作品，人人都知道他多么爱恶搞。卡司也很强，拍摄过程令人愉悦。”"
     }
 ]
