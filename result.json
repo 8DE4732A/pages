@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1284923.htm",
-        "title":"NASA取消今年用猎鹰重型火箭飞往小行星Psyche的任务",
-        "desc":"NASA希望在2022年发射一个航天器来调查富含金属的小行星Psyche，这一愿望至少已经滑落到明年。Psyche任务原定于8月由SpaceX的猎鹰重型火箭发射，但NASA在5月宣布，一个软件故障将至少推迟到9月升空。现在该机构表示，在10月11日结束的发射窗口期间，它将无法起飞。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284973.htm",
-        "title":"美国历史性推翻堕胎权：科技界大佬发声，数据收集会成“帮凶”？",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284975.htm",
         "title":"币价暴跌让BTC和ETH挖矿能源开销也大幅回落",
         "desc":null
@@ -293,5 +283,15 @@
         "url":"https://www.cnbeta.com/articles/tech/1285085.htm",
         "title":"摩托罗拉新旗舰影像参数敲定：2亿主摄像素之王",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285087.htm",
+        "title":"深圳公布智能网联汽车管理征求意见稿 无人驾驶汽车上路将合法",
+        "desc":"近日，《深圳经济特区智能网联汽车管理条例（征求意见稿）》（以下简称《条例》）公开向公众征求意见，明确规定智能网联汽车经登记取得登记证书、号牌和行驶证后，可上特区道路行驶。这意味着，无人驾驶汽车将有望在深圳合法上路。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285089.htm",
+        "title":"阿里体育回应更名“橙狮体育”：情况属实，更名程序正在进行中",
+        "desc":"6月25日晚间消息，阿里体育更名为“橙狮体育”，原阿里体育CEO穆旸任橙狮体育董事长兼CEO。阿里体育方面对此回应：情况属实，更名程序正在进行中，具体名称以工商核准登记的为准。"
     }
 ]
