@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284961.htm",
-        "title":"配备M2芯片的13英寸MacBook Pro现已在Apple Store上市",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284913.htm",
         "title":"华擎官网放出了X670E Taichi主板的介绍页面",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1285063.htm",
         "title":"TikTok赚钱能力原来越强，谷歌FB害怕了吗？",
         "desc":"6月25日消息，抖音海外版TikTok目前在全球的用户超过10亿人，暴增的人气正让它成为“赚钱机器”。但这对于谷歌和Meta等在线广告巨头来说却不是好事儿，TikTok被视为双头垄断格局形成20多年以来最大的威胁。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1285065.htm",
+        "title":"宇航员正在太空中研究衰老问题 在天鹅座飞船重启前收获可食用植物",
+        "desc":"人类研究和太空植物学是昨天国际空间站上的主要研究活动，目的是帮助美国宇航局及其国际合作伙伴在长期任务中保持宇航员的健康。七名远征67号机组成员还确保轨道上的科学实验室在工作周结束时继续以最佳状态运行。"
     }
 ]
