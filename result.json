@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284935.htm",
-        "title":"成都大运会将于2023年举办 年龄限制放开",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1284937.htm",
-        "title":"谷歌回应美国最高法院堕胎权判决：受影响员工可申请更换工作地点",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284939.htm",
         "title":"美国最高法院废止堕胎权引发轩然大波 科技大佬纷纷反对",
         "desc":"据报道，美国最高法院周五推翻了“罗伊诉韦德案”的裁决，结束了美国宪法自1973年以来赋予女性的堕胎权。在此之后，多位科技大佬相继公开反对。Salesforce CEO马克·本尼奥夫（Marc Benioff）、微软联合创始人比尔·盖茨（Bill Gates）和即将离职的Meta COO雪莉·桑德伯格（Sheryl Sandberg）都对此事公开发表了自己的反对观点。"
@@ -292,6 +282,16 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1285019.htm",
         "title":"华为nova 10系列参数全曝光：骁龙778G、60MP前摄",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285021.htm",
+        "title":"罗永浩公众号更名“交个朋友直播间” 三大社交平台已清空",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285023.htm",
+        "title":"凯迪拉克CT6 120周年限量版上市 售价40.57万元",
         "desc":null
     }
 ]
