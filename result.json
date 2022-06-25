@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/music/1284929.htm",
-        "title":"后街男孩与西城男孩同台开启线上演唱会 观看人数突破1700万人次",
-        "desc":"6月24日晚8点，美国男子组合后街男孩（Backstreet \r\nBoys）在微信视频号开启全球首场线上演唱会。据预告，爱尔兰男子演唱组合西城男孩（Westlife）将作为嘉宾亮相舞台，同台演出。20时27分，演唱会正式开始。不到30分钟，观看人数突破1700万人次，后街男孩演唱《Everyone》《I\r\n Wanna Be With You》《As Long As You Love Me》《Get Down》等多首经典歌曲。"
-    },
-    {
-        "url":"https://hot.cnbeta.com/articles/movie/1284933.htm",
-        "title":"漫威《雷神4》首映式 众演员齐声称赞导演",
-        "desc":"克里斯蒂安·贝尔之前演过三部蝙蝠侠，他一直想与新西兰导演维迪提合作，尽管以老爷的身份加盟漫威宇宙，这跨度有点大：“能与维迪提共事简直太好了，说真的，这是一部非常感人的影片，同时又是维迪提作品，人人都知道他多么爱恶搞。卡司也很强，拍摄过程令人愉悦。”"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284935.htm",
         "title":"成都大运会将于2023年举办 年龄限制放开",
         "desc":null
@@ -292,6 +282,16 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1285015.htm",
         "title":"Fossil发布第六代混合型智能手表 续航可达两周并支持Alexa",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285017.htm",
+        "title":"Redmi K50 Ultra获认证 配备骁龙8+/天玑9000双芯",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285019.htm",
+        "title":"华为nova 10系列参数全曝光：骁龙778G、60MP前摄",
         "desc":null
     }
 ]
