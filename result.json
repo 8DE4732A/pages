@@ -1,20 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/game/1284953.htm",
-        "title":"《赛博朋克2077》迎来《夜城帮派》棋牌游戏 Kickstarter众筹中",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/science/1284905.htm",
-        "title":"NASA月球勘测轨道器发现月球上的神秘火箭撞击点",
-        "desc":null
-    },
-    {
-        "url":"https://hot.cnbeta.com/articles/movie/1284955.htm",
-        "title":"《雷神4》电影首曝4支中文精彩片段",
-        "desc":"博主@鲲鹏万里-漫威加载中分享了《雷神4：爱与雷霆》四支中文片段，影片即将于7月8日在北美上映。在视频中，我们看到锤哥女友神威雷神使用“雷霆之神”穆涅尔霸气登场，让人惊讶的是，这把武器可以分解，穿透敌人后再重新组成一个完整的。而当雷神尝试召唤穆涅尔时，暴风战斧竟然吃醋了……"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284907.htm",
         "title":"苹果将不会对马里兰州零售店的工会投票发起挑战",
         "desc":null
@@ -293,5 +278,20 @@
         "url":"https://hot.cnbeta.com/articles/game/1285047.htm",
         "title":"PS Plus部分会免游戏离库时间公布  《荒野大镖客》等作",
         "desc":"据Eurogamer报道，PS Plus会员免费游戏库中部分游戏已经出现离库时间，此外PS Plus会免游戏库目录中还出现了“最后游玩机会（Last Chance To Play）”选项，其中包括临近离库的会免游戏。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285049.htm",
+        "title":"2021年针对美国教育机构的勒索软件攻击共造成35.6亿美元损失",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285051.htm",
+        "title":"曾毓群：宁德时代凝聚态电池已在研发中",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285053.htm",
+        "title":"一夜回到5年前 N卡遗老GT 1030显卡降价到599元",
+        "desc":"最近由于矿卡市场崩盘，显卡价格大面积回落，RX 6000及RTX 30系显卡纷纷跌破发行价，然而市场上依然有太多不正常，千元内的显卡市场还是很混乱，5年的GT 1030显卡价格依然坚挺，昂达一款GT 1030显卡刚刚回到了5年前的价格水平——599元。"
     }
 ]
