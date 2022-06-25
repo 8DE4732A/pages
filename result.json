@@ -1,20 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1285017.htm",
-        "title":"Redmi K50 Ultra获认证 配备骁龙8+/天玑9000双芯",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1285019.htm",
-        "title":"华为nova 10系列参数全曝光：骁龙778G、60MP前摄",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1285021.htm",
-        "title":"罗永浩公众号更名“交个朋友直播间” 三大社交平台已清空",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1285023.htm",
         "title":"凯迪拉克CT6 120周年限量版上市 售价40.57万元",
         "desc":null
@@ -292,6 +277,21 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1285133.htm",
         "title":"SABRENT推Rocket 4 Plus Destroyer 2：最高64TB 读写28000MB/s",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1285135.htm",
+        "title":"位于我们银河系中心的巨大黑洞正在闪烁 为什么它很重要？",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1285137.htm",
+        "title":"地下700米 拼装精度小于3微米 江门中微子实验探测器主结构安装完成",
+        "desc":"6月24日，记者从中国科学院高能物理研究所获悉，位于广东江门的江门中微子实验（JUNO）地下700米的实验大厅内，中心探测器不锈钢主结构最后一个拼装单元吊装合拢，标志着中心探测器不锈钢主结构安装工作顺利完成。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1285139.htm",
+        "title":"结合64台望远镜的力量 天文学家首次探测到中性氢气的微弱特征",
         "desc":null
     }
 ]
