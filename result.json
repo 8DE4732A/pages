@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1285011.htm",
-        "title":"美监管机构已对加密货币相关企业处以超33亿美元罚款",
-        "desc":null
-    },
-    {
         "url":"https://hot.cnbeta.com/articles/music/1285013.htm",
         "title":"Snoop Dogg与Eminem联手 带来一支“无聊猿”音乐录影带",
         "desc":null
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/science/1285127.htm",
         "title":"研究发现接种流感疫苗的人患阿尔茨海默病的可能性低40%",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285129.htm",
+        "title":"Nokia Style+通过FCC认证：4800万主摄+4900mAh电池",
         "desc":null
     }
 ]
