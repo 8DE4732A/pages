@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284871.htm",
-        "title":"苹果M2版MacBook Air 7月发售：MagSafe回归",
-        "desc":null
-    },
-    {
         "url":"https://hot.cnbeta.com/articles/game/1284873.htm",
         "title":"《女神异闻录5》粉丝杂志创始人挪用14万项目资金充《原神》",
         "desc":"据外媒报道，制作《女神异闻录5》粉丝杂志的Showtime团队发布了一份声明，宣布该团队的一名前成员涉嫌挪用27625加元(约14.29万元人民币)的项目资金，用于充值《原神》手游。Showtime始于2020年，通过Etsy向全球Atlus\r\n RPG粉丝销售了1517份产品。此后，28名插画家、5名商品艺术家和6名作家共同参与了这个项目，而创始人Ree却偷偷挪用了部分项目资金。"
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1284987.htm",
         "title":"苹果称员工享有生殖健康福利 但遭到议员的调查申请",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1284989.htm",
+        "title":"贷款之后是入股 要拯救雷曼危机，“币圈央妈”不好当",
+        "desc":"币圈危机是个“无底洞”，SBF凭借一己之力大概很难力挽狂澜，甚至有可能自身难保。就在本周，世界第二大加密货币交易所FTX向加密货币贷款机构BlockFi提供了2.5亿美元的循环信贷额度，以帮助经历雷曼式“屠杀”的币圈机构“喘口气”，而最新的消息称FTX正就收购BlockFi的股份进行谈判。"
     }
 ]
