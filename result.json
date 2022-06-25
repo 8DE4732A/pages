@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1284891.htm",
-        "title":"多睡觉能减肥：每天多睡1小时 3年减肥12公斤",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1284893.htm",
         "title":"比植物肉更有“肉味”的细胞肉来了 你会选择吃吗？",
         "desc":"2022年6月10日，中国第一块细胞培养“五花肉”诞生。同一天，美国初创企业Eat \r\nJust在亚洲最大的细胞肉工厂破土动工，地点在新加坡。为了改变自身农产品严重依赖进口的现状，新加坡是世界上唯一一个允许细胞肉进入餐厅的国家。这种从实验室“养殖”出来的肉不受地域资源限制，能稳定地实现本地供应。"
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1285007.htm",
         "title":"三星越南推出Galaxy S22 Ultra Night Lively套装 限时销售一周",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285009.htm",
+        "title":"ARM最初的操作系统 时隔35年仍以RISC OS的名义在积极更新",
         "desc":null
     }
 ]
