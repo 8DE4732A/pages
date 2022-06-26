@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1285095.htm",
-        "title":"2022年全国各省份高考分数线公布 录取工作定于7月初至7月底",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1285097.htm",
         "title":"微软回滚包含问题的累积性更新以修复IE模式卡死Edge的问题",
         "desc":"2022年6月对微软来说是一个历史性的月份。随着该公司结束对IE 11的支持，这个月标志着长达数十年的IE时代的结束。微软希望每一个剩余的IE用户都能切换到具有专用IE模式的Edge浏览器，但遗憾的是，KB5014019又让那些离开旧浏览器的用户失望了。"
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/science/1285211.htm",
         "title":"NASA月球勘测轨道器（LRO）在月表观察到神秘双重撞击坑",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1285213.htm",
+        "title":"板块构造何时开始的？40亿年的锆石有望给出答案",
         "desc":null
     }
 ]
