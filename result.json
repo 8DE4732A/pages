@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/movie/1285185.htm",
-        "title":"国产土嗨带货视频 老外一天不看就浑身难受",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1285187.htm",
         "title":"因缺政府资金支持 英特尔无限期推迟俄亥俄州工厂奠基仪式",
         "desc":"芯片巨头英特尔已经告知美国国会议员和政府官员，由于政府尚未为其提供建设资金，该公司将推迟其在俄亥俄州计划建设的芯片工厂奠基仪式。英特尔原定于7月22日举行奠基仪式，但如今被无限期推迟。英特尔已经通知俄亥俄州州长迈克·德万(Mike\r\n DeWine)的办公室和俄亥俄州国会代表团成员，该公司将推迟这一突破性进展，“部分原因是”围绕芯片相关的立法存在不确定性。"
@@ -292,6 +287,11 @@
     {
         "url":"https://hot.cnbeta.com/articles/funny/1285301.htm",
         "title":"小哥凭“量子速读”绝技吸粉59万：看街景图0.1秒 精准锁定位置",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285303.htm",
+        "title":"台媒：鸿海斯洛伐克厂将试产车用PCB",
         "desc":null
     }
 ]
