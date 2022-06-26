@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1285245.htm",
-        "title":"泰航回应李紫婷爱犬托运死亡：正全面调查",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1285247.htm",
         "title":"BA4和BA5再现克星？辉瑞称奥密克戎疫苗具有较强免疫水平",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1285379.htm",
         "title":"“一个单词都没有改变” 首尔大学AI团队抄袭震动韩国",
         "desc":"据韩国SBS电视台25日报道，韩国顶级学府首尔大学人工智能（AI）研究团队23日在全球顶级学术会议（CVPR）上展示了研究成果，但被发现抄袭并受到各方严厉批评。韩国国内担心，该丑闻有可能发酵为第二起“黄禹锡事件”。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1285381.htm",
+        "title":"研究人员在一次实验中制造出具有攻击性的基因编辑仓鼠",
+        "desc":null
     }
 ]
