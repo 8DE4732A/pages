@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1285085.htm",
-        "title":"摩托罗拉新旗舰影像参数敲定：2亿主摄像素之王",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1285087.htm",
         "title":"深圳公布智能网联汽车管理征求意见稿 无人驾驶汽车上路将合法",
         "desc":"近日，《深圳经济特区智能网联汽车管理条例（征求意见稿）》（以下简称《条例》）公开向公众征求意见，明确规定智能网联汽车经登记取得登记证书、号牌和行驶证后，可上特区道路行驶。这意味着，无人驾驶汽车将有望在深圳合法上路。"
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1285201.htm",
         "title":"[图]买Air还是Pro？四款MacBook横向差异对比",
         "desc":"相比较 M2 MacBook Pro，国外科技媒体 WccFetch 更推荐你购买 M2 MacBook Air。如果你还在这些 MacBook 中纠结，不知道如何选择，那么国外科技媒体 9to5Mac 详细对比了 MacBook 之间的区别，帮助你根据自身需求做出决定。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285203.htm",
+        "title":"Google Stadia疑似添加对NVIDIA GPU服务器的支持",
+        "desc":null
     }
 ]
