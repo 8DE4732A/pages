@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1285213.htm",
-        "title":"板块构造何时开始的？40亿年的锆石有望给出答案",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1285215.htm",
         "title":"继贾跃亭遭解除职务后 法拉第未来又一独董被驱逐出董事会",
         "desc":"近期新闻不断的Faraday \r\nFuture再起波澜。据外媒报道，FF大股东要将独董BrianKrolicki逐出董事会。根据FF母公司FFTopHoldingLLC(FFTOP)向美国证券交易委员会(SEC)提交的相关文件显示，已经根据此前与FFIE签订的股东协议把曾任FFIE董事长的独立董事BrianKrolicki从董事会除名。"
@@ -293,5 +288,10 @@
         "url":"https://hot.cnbeta.com/articles/movie/1285329.htm",
         "title":"连续五周霸榜北美票房 靓汤花甲之年终成正果",
         "desc":"上映五周之久的《壮志凌云2》居然与首周公映的传记片《猫王》打了一个平手，暂各以3050万美元的成绩并列北美周末票房榜冠军位置。连续五周票房高企将《壮志凌云2》推上全球总票房十亿美元宝座——再过一周就是靓汤六十大寿，这位曾尝试文艺片但最终选择动作片为终身职业的影坛常青树终于修得正果，迎来人生首部十亿美元票房作品。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285331.htm",
+        "title":"消息称iPhone 14充电接口确定不变：明年开始过渡到USB-C",
+        "desc":null
     }
 ]
