@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1285055.htm",
-        "title":"研究发现高达80%的猝死运动员没有心脏病症状或家族病史",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1285057.htm",
-        "title":"黄石公园的灾难性洪水灾情分析：房屋、道路和桥梁遭遇历史性破坏",
-        "desc":"融雪和大雨在黄石国家公园造成了历史性的高水位，摧毁了房屋、道路和桥梁，并隔离了国家公园的一些门户社区。今年对黄石国家公园来说是历史性的一年，不止是一个方面。这个美国第一个国家公园成立于1872年，正在纪念其150周年的同时它还经受了非同寻常的洪水，河流的水位达到了100年来所没有的高度。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1285059.htm",
         "title":"马斯克：不解决生育率急降问题 美国也会有人口问题，就像日本",
         "desc":"6月25日消息，电动汽车制造商特斯拉首席执行官埃隆·马斯克（Elon Musk）最近在接受采访时又就生育问题“敲警钟”。他提到日本人口去年减少60万，这种情况可能最终会导致日本“消失”。他警告说，如果生育率急剧下降的状况得不到改善，美国可能也会面临与日本类似的命运。"
@@ -292,6 +282,16 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1285171.htm",
         "title":"NVIDIA新卡GTX 1630下周发布：定价1000元",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285173.htm",
+        "title":"消息称华为nova 10 Pro标配100W充电器：20分钟充满",
+        "desc":null
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/movie/1285175.htm",
+        "title":"B站电视大会员更名超级大会员：每月35元 手机、TV都能用",
         "desc":null
     }
 ]
