@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/comic/1285227.htm",
-        "title":"今天是动画人物懒羊羊23岁生日 网友齐为羊村小可爱送祝福",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1285229.htm",
-        "title":"刘强东涉性侵案最新进展：公开证词显示“未表明性同意”",
-        "desc":"2022年6月24日当地时间下午一点，Jingyao诉刘强东性侵民事诉讼案在明尼阿波利斯(Minneapolis，明州首府）进行公开听证会(motion\r\n hearing)，持续四小时。Jingyao本人全程出席了庭审。许多旁听者佩戴了紫色丝带以表示对Jingyao的支持。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1285231.htm",
         "title":"日本半导体设备前五个月销额超756亿元 创历史新高",
         "desc":"根据MoneyDJ报道，日本半导体设备销售续旺，5月销售额连17个月增长、创下历史次高，今年1-5月销售额飙涨3成、破纪录。根据Yahoo Finance的报价显示，截至6月24日，东京威力科创大涨2.16%、Advantest上扬1.12%、晶圆切割机大厂Disco飙涨4.29%、Screen Holdings上扬1.81%。"
@@ -293,5 +283,15 @@
         "url":"https://www.cnbeta.com/articles/tech/1285343.htm",
         "title":"法国能源巨头敦促民众减少燃料和电力消费",
         "desc":"法国三家能源公司的领导人周日呼吁法国公众立即减少燃料、石油、电力和天然气的消耗，以应对由于俄罗斯供应减少和乌克兰战争导致的燃料短缺和价格飙升。这三家公司是道达尔能源、EDF和Engie ENGI，他们发表联合声明称：“必须立即、集体、大规模地做出努力。每个姿态都很重要，”"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285345.htm",
+        "title":"首个疫苗应对奥密克戎对照疗效公布 预防再感染有效性93.2%",
+        "desc":"欧洲制药巨头赛诺菲和葛兰素史克（GSK）日前公布了两家公司开发的实验性新冠疫苗的一项后期临床数据，数据显示该疫苗对防止奥密克戎变异株感染有效，这也是在奥密克戎流行的背景下，迄今为止全球公布的首个评价疫苗有效性的对照试验。"
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/game/1285347.htm",
+        "title":"消息称《FIFA 23》7月下旬公布 并非免费游玩",
+        "desc":null
     }
 ]
