@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1285097.htm",
-        "title":"微软回滚包含问题的累积性更新以修复IE模式卡死Edge的问题",
-        "desc":"2022年6月对微软来说是一个历史性的月份。随着该公司结束对IE 11的支持，这个月标志着长达数十年的IE时代的结束。微软希望每一个剩余的IE用户都能切换到具有专用IE模式的Edge浏览器，但遗憾的是，KB5014019又让那些离开旧浏览器的用户失望了。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1285099.htm",
         "title":"秦陵仰卧俑身上发现指纹印痕 制作工匠应为青少年",
         "desc":"秦始皇帝陵K9901百戏俑陪葬坑出土陶俑最新研究成果显示：28号仰卧俑身上发现指纹印痕，通过比对指纹数据库，可知制造工匠应为青少年。28号百戏俑发现于K9901陪葬坑中部，近过洞的东端，发掘时残破非常严重，由72块残片和12袋残渣组成，暂无头、无双手。"
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/science/1285213.htm",
         "title":"板块构造何时开始的？40亿年的锆石有望给出答案",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285215.htm",
+        "title":"继贾跃亭遭解除职务后 法拉第未来又一独董被驱逐出董事会",
+        "desc":"近期新闻不断的Faraday \r\nFuture再起波澜。据外媒报道，FF大股东要将独董BrianKrolicki逐出董事会。根据FF母公司FFTopHoldingLLC(FFTOP)向美国证券交易委员会(SEC)提交的相关文件显示，已经根据此前与FFIE签订的股东协议把曾任FFIE董事长的独立董事BrianKrolicki从董事会除名。"
     }
 ]
