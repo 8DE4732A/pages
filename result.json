@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1285111.htm",
-        "title":"30年免税 俄亥俄州地方政府为芯片工厂开出巨额补贴",
-        "desc":"去年3月份，Intel推出了IDM \r\n2.0战略，要重振在半导体领域的领导地位，其中的核心内容就是新建一批先进工艺半导体晶圆厂，在美国俄亥俄州投资200亿美元建设两座晶圆厂。根据Intel的信息，这两座芯片厂分别会命名为Fab\r\n 52、Fab 62，并首次透露这些工厂将会在2024年量产20A工艺。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1285113.htm",
         "title":"SpaceX将200吨的火箭成功吊起 为历史性的热火测试做好准备",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://hot.cnbeta.com/articles/comic/1285227.htm",
         "title":"今天是动画人物懒羊羊23岁生日 网友齐为羊村小可爱送祝福",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285229.htm",
+        "title":"刘强东涉性侵案最新进展：公开证词显示“未表明性同意”",
+        "desc":"2022年6月24日当地时间下午一点，Jingyao诉刘强东性侵民事诉讼案在明尼阿波利斯(Minneapolis，明州首府）进行公开听证会(motion\r\n hearing)，持续四小时。Jingyao本人全程出席了庭审。许多旁听者佩戴了紫色丝带以表示对Jingyao的支持。"
     }
 ]
