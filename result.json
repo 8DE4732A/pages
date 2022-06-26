@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1285051.htm",
-        "title":"曾毓群：宁德时代凝聚态电池已在研发中",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1285053.htm",
         "title":"一夜回到5年前 N卡遗老GT 1030显卡降价到599元",
         "desc":"最近由于矿卡市场崩盘，显卡价格大面积回落，RX 6000及RTX 30系显卡纷纷跌破发行价，然而市场上依然有太多不正常，千元内的显卡市场还是很混乱，5年的GT 1030显卡价格依然坚挺，昂达一款GT 1030显卡刚刚回到了5年前的价格水平——599元。"
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/science/1285167.htm",
         "title":"詹姆斯-韦伯太空望远镜的NIRSpec光谱仪已完成校准",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285169.htm",
+        "title":"相比较M2 MacBook Pro 你更应该买M2 MacBook Air",
         "desc":null
     }
 ]
