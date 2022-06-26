@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/game/1285045.htm",
-        "title":"《索尼克：起源》bug和性能问题层出不穷 这个画面居然会卡你敢信？",
-        "desc":"《刺猬索尼克》系列四款作品复刻合集《索尼克：起源》现已正式发售，其前期猛烈的宣传攻势让不少玩家对本作抱有极大期待。但是这款作品在发售之后，其表现只能说还有很大的进步空间。《刺猬索尼克》近年来势头相当猛烈，两部电影版口碑不断提升，世嘉也大有通过多渠道多部作品重建索尼克宇宙的野心。"
-    },
-    {
         "url":"https://hot.cnbeta.com/articles/game/1285047.htm",
         "title":"PS Plus部分会免游戏离库时间公布  《荒野大镖客》等作",
         "desc":"据Eurogamer报道，PS Plus会员免费游戏库中部分游戏已经出现离库时间，此外PS Plus会免游戏库目录中还出现了“最后游玩机会（Last Chance To Play）”选项，其中包括临近离库的会免游戏。"
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1285161.htm",
         "title":"50吋一加Y1S Pro电视印度上架 预估6月27日发货",
         "desc":"今年 4 月在印度市场发售 43 英寸的 Y1S Pro 的时候，一加表示后续还会推出 50 英寸的电视型号。今天，一加宣布 50 英寸的 Y1S Pro 电视已经在亚马逊印度以及一加印度网站上线，但是尚不清楚具体的发售日期。有消息称这款电视将于 6 月 27 日随 Nord 2T 一起发售。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285163.htm",
+        "title":"在Fedora 37开发周期 Fedora Core有望提升为官方版本",
+        "desc":null
     }
 ]
