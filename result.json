@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1285113.htm",
-        "title":"SpaceX将200吨的火箭成功吊起 为历史性的热火测试做好准备",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1285115.htm",
         "title":"刘扬伟与印尼总统会面 讨论鸿海电动车投资",
         "desc":"据钜亨网报道，鸿海董事长刘扬伟继拜会印度总理莫迪后，今日再与印尼总统佐科威会面，双方针对电动车投资与人才培育等议题讨论。据了解，去年10月，印尼投资部长Bahlil Lahadalia与刘扬伟及Gogoro创办人陆学森短暂会晤；"
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1285229.htm",
         "title":"刘强东涉性侵案最新进展：公开证词显示“未表明性同意”",
         "desc":"2022年6月24日当地时间下午一点，Jingyao诉刘强东性侵民事诉讼案在明尼阿波利斯(Minneapolis，明州首府）进行公开听证会(motion\r\n hearing)，持续四小时。Jingyao本人全程出席了庭审。许多旁听者佩戴了紫色丝带以表示对Jingyao的支持。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285231.htm",
+        "title":"日本半导体设备前五个月销额超756亿元 创历史新高",
+        "desc":"根据MoneyDJ报道，日本半导体设备销售续旺，5月销售额连17个月增长、创下历史次高，今年1-5月销售额飙涨3成、破纪录。根据Yahoo Finance的报价显示，截至6月24日，东京威力科创大涨2.16%、Advantest上扬1.12%、晶圆切割机大厂Disco飙涨4.29%、Screen Holdings上扬1.81%。"
     }
 ]
