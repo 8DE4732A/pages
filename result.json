@@ -1,20 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1285231.htm",
-        "title":"日本半导体设备前五个月销额超756亿元 创历史新高",
-        "desc":"根据MoneyDJ报道，日本半导体设备销售续旺，5月销售额连17个月增长、创下历史次高，今年1-5月销售额飙涨3成、破纪录。根据Yahoo Finance的报价显示，截至6月24日，东京威力科创大涨2.16%、Advantest上扬1.12%、晶圆切割机大厂Disco飙涨4.29%、Screen Holdings上扬1.81%。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1285233.htm",
-        "title":"当虚拟偶像戴上璀璨珠宝 是否真能让你为他们“种草”？",
-        "desc":"随着数字经济加速崛起，虚拟艺人、虚拟主播等概念不断出现在大众眼前。例如乐华娱乐推出的虚拟偶像女团A-SOUL，直接将“永不塌房”作为出道宣言，而品牌自身也开始为自身创造形象代言——香港雀巢咖啡就为自己打造了一个虚拟偶像Zoe试图撬开流量密码。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1285235.htm",
-        "title":"华为启动鸿蒙开发者大赛 全球注册开发者已达540万",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1285241.htm",
         "title":"“割韭菜”经典操作 26位中国牛散被SEC开罚累计超过5亿元",
         "desc":null
@@ -292,6 +277,21 @@
     {
         "url":"https://hot.cnbeta.com/articles/game/1285347.htm",
         "title":"消息称《FIFA 23》7月下旬公布 并非免费游玩",
+        "desc":null
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/game/1285349.htm",
+        "title":"爆料称《极品飞车》新作名称已确定 将使用动漫特效",
+        "desc":"预计今年第四季度上市的极品飞车系列最新作已经确定游戏名称，这款被称作《极品飞车：Unbound》的游戏，将会在7月份首次对外正式公布。上述消息来自于eXputer，在报道中该媒体还表示，《极品飞车：Unbound》设定与一项科幻竞技项目有关，游戏包含动画元素，比如车辆速度达到一定程度后，就会出现火焰、烟雾和速度线等动漫特效。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1285351.htm",
+        "title":"新研究表明每天喝杯啤酒实际有好处的原因",
+        "desc":null
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/game/1285353.htm",
+        "title":"7月起拳头开始监听《Valorant》玩家语聊内容",
         "desc":null
     }
 ]
