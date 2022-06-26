@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1285039.htm",
-        "title":"俄罗斯多家银行已暂停开设美元和欧元储蓄账户",
-        "desc":"报道称，截至目前，俄罗斯工业通讯银行、罗斯银行、俄罗斯联合银行等多家银行已暂停开设美元和欧元的储蓄账户，部分银行还暂停了美元和欧元存款业务。俄罗斯央行指出，目前不可能开设外币账户，自6月9日以来，欧元和美元的储蓄账户已经无法使用，何时恢复仍是未知数。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1285041.htm",
-        "title":"2022年高考英语AI得分134 复旦武大校友这项研究有点意思",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1285043.htm",
         "title":"面世一年，Windows 11“静悄悄”？",
         "desc":"Windows，一直是桌面操作系统的代名词。2022年6月24日，恰逢Windows \r\n11正式发布一周年，但颇为尴尬的是，尽管微软不遗余力推广，可用户的接受程度似乎并不高。据AdDuplex的数据显示，2022年4月Windows\r\n 11运行在19.7%的PC上，增长较为缓慢，暂时没有撼动Windows 10霸主地位的迹象。"
@@ -293,5 +283,15 @@
         "url":"https://hot.cnbeta.com/articles/game/1285155.htm",
         "title":"Bungie表示工作室将致力于支持员工健康 包括变性手术与堕胎的旅费报销",
         "desc":"在美国最高法院对罗伊诉韦德案做出裁决之后，Bungie宣布了对员工医疗福利和附属内容的更新情况。官方表示：Bungie致力于确保我们的每一位员工和他们的家人都能安全、可负担地获得基本的医疗保健需求。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285157.htm",
+        "title":"ADS-TEC发布储能充电盒 让电动车充电站尽可能快地快速部署快充项目",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285159.htm",
+        "title":"AMD Radeon HD 7970悄然获驱动更新：全球首款DX12 GPU",
+        "desc":null
     }
 ]
