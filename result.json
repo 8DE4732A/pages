@@ -1,20 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1285247.htm",
-        "title":"BA4和BA5再现克星？辉瑞称奥密克戎疫苗具有较强免疫水平",
-        "desc":null
-    },
-    {
-        "url":"https://hot.cnbeta.com/articles/game/1285249.htm",
-        "title":"《守望先锋2》或将加入游戏公会和内置锦标赛系统",
-        "desc":"《守望先锋2》部分核心成员本周参与论坛AMA环节，介绍了这款游戏的部分情报。游戏总监Aaron Keller表示开发团队正在研究类似公会的社交系统，内置锦标赛也将加入到《守望先锋2》之中。"
-    },
-    {
-        "url":"https://hot.cnbeta.com/articles/game/1285251.htm",
-        "title":"JRPG制作人称游戏直播影响销量 剧透不买or看了再买",
-        "desc":"近日，一位知名日本游戏制作人桝田省治发表言论，批评现在爆火的游戏直播，称特别是对于重视故事剧情的JRPG来说，过多的游戏直播会影响JRPG类游戏的销量，引发玩家们热议讨论，到底是剧透不买还是看了再买呢？"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1285237.htm",
         "title":"印度央行严厉监管金融科技初创企业 禁止非银支付服务提供信贷额度",
         "desc":null
@@ -292,6 +277,21 @@
     {
         "url":"https://www.cnbeta.com/articles/science/1285381.htm",
         "title":"研究人员在一次实验中制造出具有攻击性的基因编辑仓鼠",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285383.htm",
+        "title":"M2 MacBook Pro再次被证实拥有极佳电池续航 即便是试图更快耗尽它",
+        "desc":null
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/movie/1285385.htm",
+        "title":"Angelababy《仙剑》怼脸COS自拍 红粉扑面难掩美貌",
+        "desc":"今日（6月26日），Angelababy在个人微博分享了拍摄欢乐推理真人秀《萌探探探案》的幕后花絮照片，《仙剑》主题的COS直拍比海报还要好看！不愧是大美女。"
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/game/1285387.htm",
+        "title":"腾讯光子首款虚幻5武侠开放世界手游今日发布：画质不输PC",
         "desc":null
     }
 ]
