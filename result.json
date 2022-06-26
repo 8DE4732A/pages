@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1285053.htm",
-        "title":"一夜回到5年前 N卡遗老GT 1030显卡降价到599元",
-        "desc":"最近由于矿卡市场崩盘，显卡价格大面积回落，RX 6000及RTX 30系显卡纷纷跌破发行价，然而市场上依然有太多不正常，千元内的显卡市场还是很混乱，5年的GT 1030显卡价格依然坚挺，昂达一款GT 1030显卡刚刚回到了5年前的价格水平——599元。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1285055.htm",
         "title":"研究发现高达80%的猝死运动员没有心脏病症状或家族病史",
         "desc":null
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1285169.htm",
         "title":"相比较M2 MacBook Pro 你更应该买M2 MacBook Air",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285171.htm",
+        "title":"NVIDIA新卡GTX 1630下周发布：定价1000元",
         "desc":null
     }
 ]
