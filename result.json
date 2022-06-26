@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1285201.htm",
-        "title":"[图]买Air还是Pro？四款MacBook横向差异对比",
-        "desc":"相比较 M2 MacBook Pro，国外科技媒体 WccFetch 更推荐你购买 M2 MacBook Air。如果你还在这些 MacBook 中纠结，不知道如何选择，那么国外科技媒体 9to5Mac 详细对比了 MacBook 之间的区别，帮助你根据自身需求做出决定。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1285203.htm",
-        "title":"Google Stadia疑似添加对NVIDIA GPU服务器的支持",
-        "desc":null
-    },
-    {
         "url":"https://hot.cnbeta.com/articles/game/1285205.htm",
         "title":"Epic独占后免费 《糖豆人：终极淘汰赛》玩家突破2000万",
         "desc":null
@@ -288,6 +278,16 @@
         "url":"https://hot.cnbeta.com/articles/movie/1285317.htm",
         "title":"电影《神探大战》发港版预告 将于7月8日上映",
         "desc":"犯罪动作悬疑电影《神探大战》发布港版预告，中国香港定档7月21日上映，中国大陆定档7月8日。电影《神探大战》中，出现了一个以“神探”为名的犯罪团伙，他们以暴制暴、预告杀人、私刑执法，牵扯多重血案，使得香港陷入无尽恐惧之中。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285319.htm",
+        "title":"AMD Zen4最强座驾：X670E主板细节公布：竟有雷电4",
+        "desc":"AMD Zen4架构的锐龙7000系列处理器将改用AM5封装接口，配套芯片组主板也会升级为600系列，包括X670E、X670、B660等型号。X670E将是AMD芯片组第一次同时使用两颗相同的芯片组合而成，规格直接翻番，PCIe通道、USB接口更加丰富。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285321.htm",
+        "title":"国家药监局修订质子泵抑制剂类药品说明书 涵盖所有6种药物",
+        "desc":null
     },
     {
         "url":"https://www.cnbeta.com/articles/tech/1285307.htm",
