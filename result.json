@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1285083.htm",
-        "title":"美国宇航局被迫取消2022年发射Psyche小行星探测任务的计划",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1285085.htm",
         "title":"摩托罗拉新旗舰影像参数敲定：2亿主摄像素之王",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1285199.htm",
         "title":"七彩虹GeForce GTX 1630显卡渲染图曝光",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285201.htm",
+        "title":"[图]买Air还是Pro？四款MacBook横向差异对比",
+        "desc":"相比较 M2 MacBook Pro，国外科技媒体 WccFetch 更推荐你购买 M2 MacBook Air。如果你还在这些 MacBook 中纠结，不知道如何选择，那么国外科技媒体 9to5Mac 详细对比了 MacBook 之间的区别，帮助你根据自身需求做出决定。"
     }
 ]
