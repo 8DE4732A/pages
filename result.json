@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1285089.htm",
-        "title":"阿里体育回应更名“橙狮体育”：情况属实，更名程序正在进行中",
-        "desc":"6月25日晚间消息，阿里体育更名为“橙狮体育”，原阿里体育CEO穆旸任橙狮体育董事长兼CEO。阿里体育方面对此回应：情况属实，更名程序正在进行中，具体名称以工商核准登记的为准。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1285091.htm",
-        "title":"大神让AMD Ryzen 7 5800X3D 3D V-Cache CPU开盖后更凉爽运行",
-        "desc":"AMD Ryzen 7 5800X3D是全球首款3D V-Cache CPU芯片，经过脱胶处理后，其散热效果比原来的设备更好。Twitter用户Madness7771发布了一张脱模的AMD Ryzen 7 5800X3D CPU的照片。这是我们第一次看到其封装下的芯片。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1285093.htm",
         "title":"研究发现新的分子靶点可以让癌症药物的副作用更少",
         "desc":"俄亥俄州立大学综合癌症中心-Arthur G. James癌症医院和Richard J. Solove研究所（OSUCCC - James）的研究人员发现了一个新的分子药物靶点，可能会带来副作用较少的新癌症药物。"
@@ -292,6 +282,16 @@
     {
         "url":"https://hot.cnbeta.com/articles/game/1285205.htm",
         "title":"Epic独占后免费 《糖豆人：终极淘汰赛》玩家突破2000万",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1285207.htm",
+        "title":"火星的一个特定区域可能在几十亿年里多次孕育了生命",
+        "desc":"人们对火星的疑问从来没有断过：火星上有生命吗？或者曾经有过吗？现在，一项研究指出，火星的一个特定区域可能在几十亿年里多次孕育了生命。通过对火星勘测轨道飞行器拍摄的图像进行彻底的研究，行星科学家已经确定了拉东谷地北部、拉东盆地南部和拉东盆地周围的西南高地的含粘土沉积物。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285209.htm",
+        "title":"Adobe Acrobat阻止30款安全软件查看PDF文件 或存在安全风险",
         "desc":null
     }
 ]
