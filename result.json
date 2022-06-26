@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1285049.htm",
-        "title":"2021年针对美国教育机构的勒索软件攻击共造成35.6亿美元损失",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1285051.htm",
         "title":"曾毓群：宁德时代凝聚态电池已在研发中",
         "desc":null
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/science/1285165.htm",
         "title":"颠覆认知：我们的血液可能有两种来源",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1285167.htm",
+        "title":"詹姆斯-韦伯太空望远镜的NIRSpec光谱仪已完成校准",
         "desc":null
     }
 ]
