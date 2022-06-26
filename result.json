@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1285207.htm",
-        "title":"火星的一个特定区域可能在几十亿年里多次孕育了生命",
-        "desc":"人们对火星的疑问从来没有断过：火星上有生命吗？或者曾经有过吗？现在，一项研究指出，火星的一个特定区域可能在几十亿年里多次孕育了生命。通过对火星勘测轨道飞行器拍摄的图像进行彻底的研究，行星科学家已经确定了拉东谷地北部、拉东盆地南部和拉东盆地周围的西南高地的含粘土沉积物。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1285209.htm",
         "title":"Adobe Acrobat阻止30款安全软件查看PDF文件 或存在安全风险",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1285323.htm",
         "title":"消息称iPhone 14 Pro将采用Always-On显示屏 iOS 16带来锁屏小部件",
         "desc":"普遍预计iPhone 14 Pro机型将配备区域常亮显示屏，允许用户查看一些基础信息，而无需点击唤醒屏幕。马克-古尔曼在为彭博社撰写的最新一期Power On通讯中说，这项功能将包括支持iOS 16的新锁屏小工具，包括天气、健身等。"
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/game/1285325.htm",
+        "title":"区块链元宇宙游戏STARL让玩家驾驶飞船 - 但其代币接近历史最低点",
+        "desc":"本周早些时候，一个由SpaceX的Starlink卫星互联网星座启发的元宇宙游戏和加密货币成为新闻，因为它是涵盖元宇宙和不可伪造代币（NFTs）的研究报告的一部分。STARL元宇宙是一个围绕加密货币STARL的项目，STARL在去年年底飙升至历史高点，但自2022年加密货币市场崩溃以来，正在历史低位挣扎。"
     }
 ]
