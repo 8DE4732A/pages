@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1285671.htm",
-        "title":"被禁的不止是Juul 美国电子烟行业遭重创",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1285673.htm",
-        "title":"宣称可抗幽门螺旋杆菌 薇娅丈夫公司违反广告法被罚19万",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1285675.htm",
         "title":"微信iOS版8.0.24更新发布 缓存细分清理上线",
         "desc":null
@@ -293,5 +283,15 @@
         "url":"https://www.cnbeta.com/articles/tech/1285791.htm",
         "title":"亚马逊今年将举办两场Prime Day促销活动 第二场将于四季度举行",
         "desc":"据媒体报道，亚马逊计划在今年四季度为Prime会员举办第二次促销活动，这将是该公司首次在同一年专门为Prime会员举办两场促销活动。亚马逊目前正为Prime Day促销活动做准备，其旨在吸引新Prime订阅用户的年度大促将于7月12日和13日举行。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285793.htm",
+        "title":"华尔街“秃鹫”盯上了稳定币“一哥”数亿美元资金等待Tether暴跌",
+        "desc":"今年5月，曾经市值高达510亿美元、受几十万人追捧的算法稳定币TerraUSD（UST）在“空军”围剿下跳崖式暴跌，UST的姊妹代币Luna更是在短短几天单价就从接近90美元跌到不足0.00015美元。这一带崩整个加密货币领域的稳定币“脱锚” 事件让华尔街的“秃鹫”们盯上了市值最高的稳定币Tether。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285795.htm",
+        "title":"美国证券交易委员会主席：加密货币市场存在很多风险 证券市场也是",
+        "desc":"加密货币和证券市场跌到底了吗？似乎还没有。周一，美国证券交易委员会（SEC）主席Gary Gensler在接受采访时说：加密货币存在很多风险，但传统的证券市场也存在风险。不同之处在于前者没有规则或披露来防止欺诈和操纵。Gensler称，他准备将比特币公开标记为商品而非证券。"
     }
 ]
