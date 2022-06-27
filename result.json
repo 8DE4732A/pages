@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1285669.htm",
-        "title":"NASA推迟了原定于6月27日的CAPSTONE月球航天器发射任务",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1285671.htm",
         "title":"被禁的不止是Juul 美国电子烟行业遭重创",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1285789.htm",
         "title":"三星Galaxy S23爆料：长焦镜头一点也没升级",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285791.htm",
+        "title":"亚马逊今年将举办两场Prime Day促销活动 第二场将于四季度举行",
+        "desc":"据媒体报道，亚马逊计划在今年四季度为Prime会员举办第二次促销活动，这将是该公司首次在同一年专门为Prime会员举办两场促销活动。亚马逊目前正为Prime Day促销活动做准备，其旨在吸引新Prime订阅用户的年度大促将于7月12日和13日举行。"
     }
 ]
