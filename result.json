@@ -1,20 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1285635.htm",
-        "title":"研究人员欲借BioFinder检测化石中的有机分子 以寻找外星生命线索",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1285637.htm",
-        "title":"员工偷拍女舍友被开除 快手曾称其是好员工",
-        "desc":null
-    },
-    {
-        "url":"https://hot.cnbeta.com/articles/comic/1285639.htm",
-        "title":"《新奥特曼》40亿日元票房纪念PV 佐菲和杰顿名场景放出",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1285641.htm",
         "title":"越南成为全球IT公司的新制造中心 外国直接投资占比最高",
         "desc":null
@@ -293,5 +278,20 @@
         "url":"https://www.cnbeta.com/articles/tech/1285757.htm",
         "title":"星巴克与三星合作发布联名款Galaxy S22手机壳和Galaxy Buds耳塞",
         "desc":"总部位于西雅图的咖啡巨头星巴克与三星合作，推出了一系列手机保护套以及TWS耳塞。新产品系列涵盖Galaxy S22系列、Galaxy Buds \r\nPro、Galaxy Buds 2和Galaxy Buds \r\nLive的保护套。新的星巴克品牌保护套将于明天开始在三星的本土市场韩国通过Startbucks的Naver商店和应用程序进行销售。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285759.htm",
+        "title":"苹果即将推出用于Mac的M2 Pro芯片 将采用3纳米工艺",
+        "desc":"据DigiTimes报道，台积电将基于其3纳米工艺生产苹果即将推出的\"M2 \r\nPro\"和\"M3\"芯片。\"据报道，苹果已经为其即将推出的3纳米M3和M2 \r\nPro处理器预订了台积电的产能，\"DigiTimes在一份专注于台积电和三星等芯片制造商之间为确保3纳米芯片订单的竞争的报告中说。正如预期，报告称台积电将在2022年下半年开始批量生产3纳米芯片。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285761.htm",
+        "title":"电池巨头Anker支持可编程机器人制造商Keyi",
+        "desc":null
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/game/1285763.htm",
+        "title":"版号“春风”吹不暖游戏业“小寒冬”",
+        "desc":"6月7日，国家新闻出版署发放了今年第二批共计60个游戏版号。阿武（化名）所在公司的游戏赫然在列。但是还没等他高兴起来，他的微信里，就接二连三跳出了询问他们公司是否已经转型的消息。原来，由于网络媒体的误传，他们公司被“转型”了。"
     }
 ]
