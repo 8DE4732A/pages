@@ -1,20 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1285679.htm",
-        "title":"拥有初代尺寸的苹果HomePod新版本将于明年回归",
-        "desc":"据马克-古尔曼称，苹果很可能在明年发布原版HomePod的继任者，其顶部将配备一个新的显示屏，支持新的触摸互动。这位彭博社记者在其最新一期的Power\r\n On通讯中写道，这款智能音箱将拥有与最初的、现已停产的HomePod类似的尺寸，并拥有相当的音频质量，并将由未来的Apple Watch \r\nSeries 8芯片，即S8处理器驱动。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/science/1285681.htm",
-        "title":"研究人员发现狂暴的太阳天气正让卫星从轨道上坠落",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1285683.htm",
-        "title":"290元1TB 比机械硬盘便宜的SSD开眼界",
-        "desc":"多年前你肯定梦想过让SSD也能有机械硬盘的价格，虽然短期内还不现实，但只要敢于尝试，某多多某鱼是可以实现这个愿望的，1TB容量的SSD售价只有299元，搭配平台券甚至可以做到289元，比1TB的CMR机械硬盘都便宜。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1285685.htm",
         "title":"苹果Apple Watch 8开始挤牙膏：一颗处理器用三代",
         "desc":null
@@ -293,5 +278,20 @@
         "url":"https://www.cnbeta.com/articles/science/1285799.htm",
         "title":"我国成功发射高分十二号03星",
         "desc":"6月27日23时46分，我国在酒泉卫星发射中心使用长征四号丙运载火箭，成功将高分十二号03星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。这颗卫星主要用于国土普查、城市规划、土地确权、路网设计、农作物估产和防灾减灾等领域。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285801.htm",
+        "title":"GTX 1630最新发布时间曝光：6月28日 定价1000元",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285803.htm",
+        "title":"买到就是赚到？这台300块的显示器快把我整自闭了……",
+        "desc":"今年的 618 年中优惠已经结束了有段时间……不知道差友们都买了些啥东西？本来这次没什么购物欲望，但没想到我上班日常摸鱼刷网页的时候，突然看到了一款……嗯～有点意思的产品：酷开 215 显示器。它不是什么 4K&8K 超清，也没有 144Hz&240Hz 刷新率，就仅仅是一个很普通的屏幕设备而已。"
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/game/1285805.htm",
+        "title":"腾讯首款虚幻5大作：《代号：致金庸》实机演示发布",
+        "desc":null
     }
 ]
