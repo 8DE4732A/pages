@@ -1,35 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1285717.htm",
-        "title":"上海飞三亚航班爆满 航司换大飞机驰援",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1285719.htm",
-        "title":"Pixel 6a比更昂贵的Pixel 6 Pro拥有更快更可靠的屏下指纹扫描装置",
-        "desc":"Google的Pixel 6a还没有上市销售，但网上已经有播主发布了对这款即将上市的中端机型的视频评论。我们不难发现这款经济实惠的机型包含屏下指纹识别装置，就像Pixel 6 Pro一样，但它比Google当前一代旗舰机更快、更可靠。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1285713.htm",
-        "title":"可用于特斯拉的苹果CarPlay破解版更新 支持旗下所有车型",
-        "desc":"波兰开发者Michał \r\nGapiński发布了他的\"特斯拉Android项目\"的一个新的和改进的版本，它将苹果的CarPlay体验带到了比以往更多的特斯拉汽车上。据Gapiński说，2022.25.1版本为任何特斯拉提供了\"100%功能的CarPlay集成\"，并带有几个新功能和错误修复。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1285721.htm",
-        "title":"中国广电正式放号：安卓/苹果136款机型近期完成首批适配",
-        "desc":null
-    },
-    {
-        "url":"https://hot.cnbeta.com/articles/music/1285723.htm",
-        "title":"抖音粉丝破7200万 刘畊宏说周杰伦留给他的歌不多了",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1285725.htm",
-        "title":"目前唯一一款AMD RX 6700显卡开卖 10GB显存售价3299元",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1285727.htm",
         "title":"“脏煤”太多 印度最大汽车企业怀疑发展电动车是否真正环保",
         "desc":"在新能源汽车中，中美欧主要发展都选择了电动车，印度一度也希望引进特斯拉，然而该国最大的汽车企业马鲁蒂铃木认为电动车不符合印度国庆，要押注发展氢能等新能源汽车。当地时间周一，马鲁蒂铃木董事长R.C．Bhargava在采访中表示，鉴于印度约75%的电力来自“脏煤”（指的是杂质较多的煤炭，污染大），电动车并不能成为印度减少碳排放最佳选择，至少在短期内不是。"
@@ -293,5 +263,35 @@
         "url":"https://www.cnbeta.com/articles/tech/1285831.htm",
         "title":"抢先试驾阿维塔11：华为董事长要下单 宁德时代老板亲自带货",
         "desc":"长安、华为、宁德时代联手造的车，开起来到底怎么样？今天，车东西受邀来到重庆西部汽车试验场，抢先体验了刚在重庆车展上首发的阿维塔11。智能化方面，阿维塔11用上了华为全家桶，新车搭载华为ADS系统，采用视觉+激光雷达融合感知方案，计算平台算力可达400Tops，可以实现L2级自动辅助驾驶。而座舱方面，阿维塔11将搭载华为的HarmonyOS智能座舱。"
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/game/1285833.htm",
+        "title":"这个不务正业的腾讯游戏大会 我觉得更值得看",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285835.htm",
+        "title":"时速一百还能续航2300公里 一群学生真的能造出来这个？",
+        "desc":null
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/comic/1285837.htm",
+        "title":"7月22日23日将举行《海贼王》25周年直播",
+        "desc":null
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/game/1285839.htm",
+        "title":"育碧官网泄露马里奥疯兔新作发售日和BOSS级角色",
+        "desc":"Switch平台的《马里奥和疯狂兔子：王国大战》，曾经是销量最好的Switch第三方游戏。由育碧开发的续作《马力欧+疯狂兔子星耀之愿》也是该平台用户十分期待的作品之一。就在任天堂直面会召开前夕，育碧官方网站似乎泄露了本作的发售日期。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1285841.htm",
+        "title":"詹姆斯-韦伯太空望远镜进入仪器调试的最后阶段",
+        "desc":"作为最后一个被批准的NIRISS模式，单物体无缝隙光谱学将被用来观察系外行星在日食其恒星之前、期间和之后的大气层。比较数据将帮助科学家确定一个目标是否有大气层以及哪些原子和分子构成了大气层。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285843.htm",
+        "title":"iPhone 14系列组件已开始出货 将于9月正式亮相",
+        "desc":null
     }
 ]
