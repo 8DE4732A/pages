@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1285629.htm",
-        "title":"1000R超高曲率：三星Odyssey Ark曲面显示器上市在望",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1285631.htm",
         "title":"俞敏洪称“保命钱”坚决不能动：新东方就算倒闭也要发完工资、退完钱",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1285751.htm",
         "title":"Intel Arc A380独立显卡首发全新DP 2.0接口：暂时只能残血",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1285753.htm",
+        "title":"一加Nord N300 5G通过FCC认证",
+        "desc":"一款尚未发布的OnePlus Nord设备被列入FCC数据库，它可能最终成为去年Nord N200 5G的继任者。这款型号为CPH2389的新设备被认为是即将推出的主打中端市场的Nord N300 5G，可能再次为北美的买家所独有。"
     }
 ]
