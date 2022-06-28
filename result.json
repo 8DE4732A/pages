@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286149.htm",
-        "title":"Google开始向所有企业和政府提供Earth Engine",
-        "desc":null
-    },
-    {
         "url":"https://hot.cnbeta.com/articles/game/1286151.htm",
         "title":"《全境封锁2》国服首测将至：显卡最低GTX 1060、硬盘留下90GB",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1286267.htm",
         "title":"苹果高管采访中称三星抄袭iPhone 只是加了一面更大的屏幕",
         "desc":"《华尔街日报》的Joanna \r\nStern今天在2007年6月29日iPhone发布15周年之前分享了一部关于iPhone演变的新纪录片。这部纪录片包括对苹果公司营销主管Greg\r\n Joswiak、iPhone共同创造者Tony Fadell和一个iPhone用户家庭的采访。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1286269.htm",
+        "title":"NVIDIA GTX 1630性能首测：被RX 6400按在地上摩擦",
+        "desc":"NVIDIA正式发布了新一代入门级显卡GTX 1630，用的还是12nm Turing架构，只有512个CUDA核心、64-bit显存位宽，整卡功耗75W。其整体性能基本和6年前的GTX 1050 Ti差不多，同时有DX12U、VRS、GDDR6、NIS等技术优势，而价格超过千元，比如七彩虹的两款分别1199元、1269元。"
     }
 ]
