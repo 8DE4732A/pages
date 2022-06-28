@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286141.htm",
-        "title":"夏普以近3亿美元拿下关键LCD工厂SDP所有权",
-        "desc":"据国外媒体报道，根据周一宣布的一项协议，夏普以约400亿日元（2.96亿美元）的价格将LCD工厂运营商“堺显示器产品公司”（Sakai Display Products，简称SDP）转变为全资子公司。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/science/1286143.htm",
-        "title":"BepiColombo飞越水星任务捕捉到壮观的新近距离画面",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1286145.htm",
         "title":"天价“修狗”？虚拟主播B站直播2小时收入超百万元",
         "desc":null
@@ -293,5 +283,15 @@
         "url":"https://www.cnbeta.com/articles/tech/1286259.htm",
         "title":"下代IPC性能追上Zen3 国产CPU龙芯价格曝光：不到500元",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1286261.htm",
+        "title":"Nura将其杀手级音频技术带到蓝牙无线耳机上",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1286263.htm",
+        "title":"郭明錤：苹果5G基带芯片研发不顺利 高通明年将继续为其提供解决方案",
+        "desc":"过去几年，苹果一直在努力开发自己的5G调制解调器芯片，这样它就不需要依赖高通作为供应商，但据苹果分析师郭明錤称，苹果的努力\"可能已经失败\"。郭明錤说，他的\"最新调查\"表明，该5G芯片的开发已经停滞，这意味着高通仍将是2023年iPhone机型5G基带芯片的独家供应商。"
     }
 ]
