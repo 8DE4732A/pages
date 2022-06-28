@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/game/1286129.htm",
-        "title":"美众议院发布2021年初GME股票事件调查报告 Robinhood几乎陷入崩溃",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1286131.htm",
-        "title":"《自然》：新冠病毒变体进化太快 疫苗改良实在太难",
-        "desc":"国际著名科学杂志《自然》最新一篇报告指出，迅速演变的新冠病毒变异体使得疫苗更新更加复杂化。奥密克戎新生代变体BA.4和BA.5在各国蔓延之际，外界对改良新冠疫苗的呼声越发高涨。现有疫苗是基于2019年底出现的SARS-CoV-2原始病毒版本，与目前的欧米克隆变体并不完全匹配。因此，现有疫苗只能提供短暂的保护，却无法有针对性地杀死变异病毒。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1286133.htm",
         "title":"新机器人系统让瘫痪男子“拿起”刀叉 切开蛋糕送入口中",
         "desc":null
@@ -293,5 +283,15 @@
         "url":"https://www.cnbeta.com/articles/tech/1286247.htm",
         "title":"大巴堵门，断缴员工社保，保安保洁成立新公司，开课吧怎么了？",
         "desc":"今日，有网友爆料称开课吧已经将公司几千人的社保停缴，而且公司门口还用大巴车围住，禁止员工进入。爆料人还称，公司部分员工因一直不发工资已经选择离职，还有部分员工仍然在职。但是，上周末开课吧却突然给在职的员工社保减员，表示要签新主体。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1286249.htm",
+        "title":"标志性菲亚特工厂被改造成巨大屋顶花园",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1286251.htm",
+        "title":"Mozilla Firefox 102 正式版发布 改进下载用户界面与画中画字幕支持",
+        "desc":"Mozilla已经发布了其Firefox浏览器的v102.0最新功能更新。第102版现在可供所有用户在稳定频道使用，它改进了下载用户界面，在画中画中提供了更好的字幕支持，还有各种修复和安全改进。"
     }
 ]
