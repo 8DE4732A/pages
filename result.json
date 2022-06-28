@@ -1,20 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286123.htm",
-        "title":"HTC元宇宙手机Desire 22 Pro发布 7月1日上市 约2700",
-        "desc":"此前，HTC发布预告称6月28日将发布一款元宇宙手机，有消息称该款手机的型号为Desire 22 \r\nPro。今日，手机中国了解到，HTC正式揭晓这款机型，型号一如传闻就叫做Desire 22 \r\nPro，是一款中端机型，将于7月1日上市，售价11990新台币（约合2700元人民币）。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1286125.htm",
-        "title":"神舟十三号航天员返回74天后首次亮相：感觉良好",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/science/1286127.htm",
-        "title":"研究发现病毒通过在微塑料上“搭便车”在淡水中生存",
-        "desc":null
-    },
-    {
         "url":"https://hot.cnbeta.com/articles/game/1286129.htm",
         "title":"美众议院发布2021年初GME股票事件调查报告 Robinhood几乎陷入崩溃",
         "desc":null
@@ -293,5 +278,20 @@
         "url":"https://www.cnbeta.com/articles/science/1286241.htm",
         "title":"NASA发射一个小型航天器以测试绕月的新轨道",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1286243.htm",
+        "title":"募资理财成常规操作 宁德时代再遭“过度融资”质疑",
+        "desc":"定增募资买理财，似乎成为宁德时代（300750.SZ）的常规操作。6月27日晚间，宁德时代公告表示，公司董事会同意公司使用不超过230亿元（含本数）进行现金管理，投资安全性高、流动性好的保本型投资产品，使用期限在未来12个月内有效。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1286245.htm",
+        "title":"YOU+公寓被指欠费1340万，长租公寓难逃一“爆”？",
+        "desc":"日前，曾经爆火的长租公寓品牌YOU+公寓（以下简称YOU+）被传“爆雷”，YOU+北京苏州桥社区遭产权方强制清退。长租公寓是毕业生等新市民的立足之地。近年来，已有众多资本争相涌入长租公寓领域。不过，自2020年以来，长租公寓项目“爆雷”事件频发，最终大都留下一地鸡毛。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1286247.htm",
+        "title":"大巴堵门，断缴员工社保，保安保洁成立新公司，开课吧怎么了？",
+        "desc":"今日，有网友爆料称开课吧已经将公司几千人的社保停缴，而且公司门口还用大巴车围住，禁止员工进入。爆料人还称，公司部分员工因一直不发工资已经选择离职，还有部分员工仍然在职。但是，上周末开课吧却突然给在职的员工社保减员，表示要签新主体。"
     }
 ]
