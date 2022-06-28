@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286161.htm",
-        "title":"Google Cloud推出可持续发展平台工具 助力企业实现气候管理目标",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1286163.htm",
-        "title":"欧盟提案2035年禁售燃油车 多国表示不会同意",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1286165.htm",
         "title":"消息称NVIDIA将停产万元级RTX 3080 12GB显卡",
         "desc":"德国网站爆料称，NVIDIA将停止RTX 3080 12GB显卡的生产，这倒不是为了给RTX 40系显卡让路，而是随着显卡价格下滑，RTX 3080 12GB显卡的定位愈发尴尬，卡在RTX 3080 10GB与RTX 3080 Ti之间。"
@@ -293,5 +283,15 @@
         "url":"https://www.cnbeta.com/articles/tech/1286279.htm",
         "title":"用上了这项新技术，笔记本的续航越来越差了……",
         "desc":"最近托尼又从仓库里翻出来一台电脑，上面的灰积了大概有三层厚，据推测辨认，可能是某位员工在好几年前用过的老电脑，简直就是考古发掘现场了。好不容易找到匹配的电源，打开一看，好家伙，安装的居然还是\r\n Windows 7 的英文版系统，看着熟悉却又陌生的界面，托尼感觉自己又回到了青涩的初高中时代。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1286281.htm",
+        "title":"特斯拉大规模裁员：200名自动驾驶部门员工被解雇",
+        "desc":"知情人士称，特斯拉公司关闭了加州一处设施，并裁掉了数百名自动辅助驾驶系统(Autopilot)团队的员工。这是已知的科技行业广泛裁员行动中规模较大的一次。知情人士称，受影响的员工在周二收到了通知，他们属于圣马特奥办公室的团队，负责评估与Autopilot辅助驾驶功能相关的客户车辆数据，并执行所谓的数据标记。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1286283.htm",
+        "title":"Uber前安全主管面临欺诈指控 曾隐瞒数据泄露事件",
+        "desc":"2016年Uber曾遭遇黑客攻击，当时5700万乘客和司机的个人信息被黑客窃取，事发后Uber前安全主管约瑟夫·沙利文（Joseph \r\nSullivan）试图隐瞒。美国联帮法官周二表示，沙利文必须面对电信诈骗指控。沙利文付钱给两名黑客让他们保持沉默，同时他还欺骗乘客、司机、FTC。"
     }
 ]
