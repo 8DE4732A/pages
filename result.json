@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1286133.htm",
-        "title":"新机器人系统让瘫痪男子“拿起”刀叉 切开蛋糕送入口中",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1286135.htm",
         "title":"特斯拉柏林超级工厂7月4日开始三班倒生产Model Y",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1286251.htm",
         "title":"Mozilla Firefox 102 正式版发布 改进下载用户界面与画中画字幕支持",
         "desc":"Mozilla已经发布了其Firefox浏览器的v102.0最新功能更新。第102版现在可供所有用户在稳定频道使用，它改进了下载用户界面，在画中画中提供了更好的字幕支持，还有各种修复和安全改进。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1286253.htm",
+        "title":"微软在全球遭遇税务审查 投资者要求提高透明度",
+        "desc":"据报道，由于在全球范围内面临着越来越多的税务审查，微软投资者日前要求微软公布更透明的税务和财务信息。这一行动的组织者是英国的代理顾问“养老金和投资研究咨询公司”（PIRC），该公司表示，在年度投资者大会之前，已向微软提交了一份关于税务透明度的股东决议。"
     }
 ]
