@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286147.htm",
-        "title":"Google推出Advanced API Security 保护API免受安全威胁",
-        "desc":"Google今天宣布了Advanced API Security的预览版，这是Google \r\nCloud的一个新产品，旨在检测与API有关的安全威胁。该公司表示，在Google \r\nAPI管理平台Apigee的基础上，客户可以从今天开始申请访问。API是\"应用程序编程接口\"的简称，是计算机之间或计算机程序之间的文件连接。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1286149.htm",
         "title":"Google开始向所有企业和政府提供Earth Engine",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1286265.htm",
         "title":"删差评、改销量……央视曝光网络水军乱象",
         "desc":"“网络水军”，相信大家都有所耳闻，但你真的了解他们吗？今天，央视特意制作了一期节目，曝光了网络水军的那些乱象。央视称，网络水军不仅可以删除差评、更改销量，让有问题的商品获得买家的信任，还有的通过发布“差评”恶意诬陷其他产品，造成严重损失，自己则从中牟利。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1286267.htm",
+        "title":"苹果高管采访中称三星抄袭iPhone 只是加了一面更大的屏幕",
+        "desc":"《华尔街日报》的Joanna \r\nStern今天在2007年6月29日iPhone发布15周年之前分享了一部关于iPhone演变的新纪录片。这部纪录片包括对苹果公司营销主管Greg\r\n Joswiak、iPhone共同创造者Tony Fadell和一个iPhone用户家庭的采访。"
     }
 ]
