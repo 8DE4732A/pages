@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286139.htm",
-        "title":"打消里程焦虑：比亚迪e6在印度孟买和德里一路穿行2203公里",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1286141.htm",
         "title":"夏普以近3亿美元拿下关键LCD工厂SDP所有权",
         "desc":"据国外媒体报道，根据周一宣布的一项协议，夏普以约400亿日元（2.96亿美元）的价格将LCD工厂运营商“堺显示器产品公司”（Sakai Display Products，简称SDP）转变为全资子公司。"
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1286257.htm",
         "title":"Grizzly Research称蔚来汽车可能会利用未合并的关联方夸大收入和盈利能力",
         "desc":"研究公司 Grizzly Research 周二发布了一份新报告，其目标是蔚来汽车，标题为：“我们相信蔚来汽车会玩 Valeant- Esque会计游戏来增加收入并提高净利润率以实现目标”。“今天，我们揭示了我们认为在纽约证券交易所上市的蔚来汽车的一项大胆计划。让人想起 Philidor-Valeant 的关系， 蔚来汽车很可能会使用未合并的关联方来夸大收入和盈利能力。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1286259.htm",
+        "title":"下代IPC性能追上Zen3 国产CPU龙芯价格曝光：不到500元",
+        "desc":null
     }
 ]
