@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286165.htm",
-        "title":"消息称NVIDIA将停产万元级RTX 3080 12GB显卡",
-        "desc":"德国网站爆料称，NVIDIA将停止RTX 3080 12GB显卡的生产，这倒不是为了给RTX 40系显卡让路，而是随着显卡价格下滑，RTX 3080 12GB显卡的定位愈发尴尬，卡在RTX 3080 10GB与RTX 3080 Ti之间。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1286167.htm",
         "title":"韩国AI团队抄袭震动学界：1个导师带51个学生 还是抄袭惯犯",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1286283.htm",
         "title":"Uber前安全主管面临欺诈指控 曾隐瞒数据泄露事件",
         "desc":"2016年Uber曾遭遇黑客攻击，当时5700万乘客和司机的个人信息被黑客窃取，事发后Uber前安全主管约瑟夫·沙利文（Joseph \r\nSullivan）试图隐瞒。美国联帮法官周二表示，沙利文必须面对电信诈骗指控。沙利文付钱给两名黑客让他们保持沉默，同时他还欺骗乘客、司机、FTC。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1286285.htm",
+        "title":"调查：Apple TV+在客户满意度和保留率方面获显著提高",
+        "desc":null
     }
 ]
