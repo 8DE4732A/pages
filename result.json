@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/game/1286151.htm",
-        "title":"《全境封锁2》国服首测将至：显卡最低GTX 1060、硬盘留下90GB",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1286153.htm",
-        "title":"今晚油价迎年内第二降：加满一箱油少花12.5元",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1286155.htm",
         "title":"弯道超车台积电 三星30日量产3nm工艺：良率超预期",
         "desc":null
@@ -293,5 +283,15 @@
         "url":"https://www.cnbeta.com/articles/tech/1286269.htm",
         "title":"NVIDIA GTX 1630性能首测：被RX 6400按在地上摩擦",
         "desc":"NVIDIA正式发布了新一代入门级显卡GTX 1630，用的还是12nm Turing架构，只有512个CUDA核心、64-bit显存位宽，整卡功耗75W。其整体性能基本和6年前的GTX 1050 Ti差不多，同时有DX12U、VRS、GDDR6、NIS等技术优势，而价格超过千元，比如七彩虹的两款分别1199元、1269元。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1286271.htm",
+        "title":"ARM发布Coretx-X3 /A715/A510 CPU：最大12核、全面迈向64位",
+        "desc":"去年3月份推出面向未来十年的ARMv9指令集之后，ARM又在5月份推出了基于ARMv9的第一代产品，包括Cortex-X2、A710等CPU，今天ARM又推出Cortex-X3、A715 和 A510 Refresh等新一代ARMv9产品。这一代的Cortex处理器面向智能手机、平板及笔记本等平台，所以发布的东西比较多，还有新的DSU-110大小核调度架构，最多可以做到8+4+0总计12核。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1286273.htm",
+        "title":"苹果双显示器专业支架设计获得专利",
+        "desc":null
     }
 ]
