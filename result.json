@@ -1,46 +1,26 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286187.htm",
-        "title":"景嘉微JM9系列第二款图形芯片完成初测 性能看齐GTX1050",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/science/1286189.htm",
-        "title":"意大利最长的河流 - 波河干涸了",
-        "desc":"波河是意大利最长的河流，在几个月没有强降雨的情况下，波河的水位正创下新低。上面的哥白尼哨兵-2号动画显示了靠近皮亚琴察（意大利北部艾米利亚-罗马涅地区的一个城市）的波河流域的一部分，并揭示了2020年6月至2022年6月期间河流是如何大幅萎缩的。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1286191.htm",
-        "title":"调查显示9200万美国工人现在有机会实现远程工作",
-        "desc":"根据管理咨询公司麦肯锡进行的一项新调查，58%的美国工人现在可以选择每周至少有一天在他们想去的地方工作，而35%的工人可以每周远程工作多达五天。该报告的结论是，为应对COVID-19大流行病而实施的灵活工作安排将继续存在。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1286193.htm",
-        "title":"消息称AMD大约56GB的数据被黑客组织RansomHouse窃取",
-        "desc":"继英伟达之后，AMD似乎是下一个受到重大网络安全攻击的对象，价值450Gb的数据被黑客组织RansomHouse窃取。前网络安全记者Catalin\r\n \r\nCimpanu称，RansomHouse是一个黑客和勒索组织，声称他们已经从AMD窃取了数据。目前还没有关于这次黑客攻击企图的报告，有传言说AMD在今年早些时候遭到了网络攻击。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1286195.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286195.htm",
         "title":"英国电视节目主持人因将AirPods与维生素丸混淆而将其吞下",
         "desc":"英国一位名人周日意外吞下了一个AirPods，误将苹果无线耳塞与她的维生素一起食用。AirPods以小而白著称，不仔细看可能会被误认为是小颗鹅卵石或大粒药丸。周日，这款音频配件不幸被当成了可食用的药片。"
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286197.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286197.htm",
         "title":"龙芯CPU微机原理、接口官方教材免费发布",
         "desc":null
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286199.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286199.htm",
         "title":"油价飙升 美国网约车司机更乐意选择特斯拉",
         "desc":null
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286201.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286201.htm",
         "title":"QQ密码出bug：退出后显示123456789",
         "desc":null
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286203.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286203.htm",
         "title":"拥有息屏显示功能的iPhone 14 Pro概念正面照曝光",
         "desc":null
     },
@@ -55,17 +35,17 @@
         "desc":null
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286209.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286209.htm",
         "title":"雷军称小米12S Ultra不测DXO 后者回应会对市面上的机型进行主动评测",
         "desc":null
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286211.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286211.htm",
         "title":"GPU捆绑销售失去吸引力 华硕和技嘉预测今年主板销量将下降25%",
         "desc":"显卡价格和供应终于恢复到（某种程度上的）正常水平，这对消费者来说是个好消息，但主板制造商不可能那么高兴。华硕和技嘉合计销量占到了主板市场的70%，这两家主流厂商警告说，与去年相比，他们预计今年的销售额将下降约25%。而这一下降似乎主要是由于人们不再需要为了获得捆绑的GPU而购买新的主板。"
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286213.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286213.htm",
         "title":"AMD Zen3线程撕裂者国内偷跑上架：64核心卖到5.5万",
         "desc":"AMD日前官方宣布，仅面向专业工作站整机的线程撕裂者PRO 5000WX系列，将在今年晚些时候进入零售市场，但未透露具体时间、价格。如今在电商平台上，已经有商家摆出了新品，还有高昂的价格。"
     },
@@ -75,217 +55,217 @@
         "desc":null
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286217.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286217.htm",
         "title":"台湾76家半导体上市公司平均薪资曝光：最高人均138.2万元/年 联发科第3 台积电排19",
         "desc":"众所周知，中国台湾地区在全球半导体产业当中扮演的极为重要的角色。不论是在半导体制造，还是芯片设计领域，台湾都拥有着较强的实力。根据SIA的数据显示，2020年，台湾在全球半导体产能当中的占比排名第一，达到了22%。而在纯晶圆代市场，台湾占据了约占全球1/3的芯片生产能力。在10nm以下的先进制程逻辑芯片市场，台湾则占据了全球92%以上的产能。"
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286219.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286219.htm",
         "title":"“不敢有误”ET系列坠楼 蔚来公关危机劝退“普通粉”",
         "desc":"蔚来可能没想到，6月23日，将自己送上热搜的，不是6月15日的发布会，也不是5月蔚来汽车销量上升的消息，而是一次失败的危机公关。6月22日17：20左右，上海市嘉定区安亭镇安拓路56弄上海汽车创新港8号楼3楼，一辆蔚来测试车从高处坠下，导致两名试车员死亡。"
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286221.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286221.htm",
         "title":"招兵买马、扩产推新，光学厂商暗战元宇宙",
         "desc":null
     },
     {
-        "url":"https://www.cnbeta.com/articles/science/1286223.htm",
+        "url":"http://www.cnbeta.com/articles/science/1286223.htm",
         "title":"韦伯太空望远镜的主要仪器之一已准备好观察宇宙的2000多种红外颜色",
         "desc":"詹姆斯-韦伯太空望远镜的四个主要科学仪器之一，即NIRISS已经完成了发射后的准备工作，现在已经准备好进行科学研究。NIRISS是近红外成像仪和无缝隙摄谱仪的缩写，它提供了无缝隙摄谱、高对比度干涉成像和成像的观测模式，波长在0.6和5.0微米之间，范围为2.2′×2.2′。它将被用来研究以下科学目标：第一道光的探测、系外行星的探测和定性，以及系外行星过境光谱学。"
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286227.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286227.htm",
         "title":"6月购买量激增 “流感神药”奥司他韦为何夏季多地缺货？",
         "desc":"“现在都没有货了，早就断货了！”“暂时缺货，什么时候能调到货也不确定。”“到处都缺，哪里都买不到，现在都没货。”“有货，但只有最后两盒，要买得抓紧来。”近期，多地网友反映，有“流感神药”之称的抗病毒药物奥司他韦缺货。"
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286229.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286229.htm",
         "title":"GTX 1630正式发布 还不如6年前的GTX 1050 Ti",
         "desc":null
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286231.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286231.htm",
         "title":"PC市场持续低迷 英特尔降低Alder Lake处理器价格",
         "desc":"根据上游供应链的消息，由于PC市场持续低迷，英特尔(INTC.US)今年下半年的订单远低于预期，该公司正在降低Alder Lake处理器的价格。最近摩根士丹利和花旗都对PC市场需求减弱及其对英特尔的影响发出过警告。据悉，英特尔仍有很大一部分营收来自消费类PC。"
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286233.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286233.htm",
         "title":"FESCo批准一批Fedora Linux 37的新功能",
         "desc":"Fedora工程和指导委员会(FESCo)已经为下一个Fedora Linux发行版批准了一批新的功能。Fedora 37的更多变化得以确定下来，以便开发人员继续进行本周期的计划工作。最新一批为Fedora 37批准的项目包括："
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286235.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286235.htm",
         "title":"富士康再次提高奖金以吸引工人生产iPhone 14",
         "desc":"制造商之间对生产线员工的持续竞争让富士康在夏季招聘iPhone \r\n14工人时再次提高了奖金。随着想要加入生产装配线工作的人越来越少，劳动力储备越来越少，科技公司为了获得工人，竞争非常激烈。苹果公司的iPhone主要制造商富士康此前已经为夏季高峰期提前进行了招聘，但现在它又加大了奖励力度。"
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286237.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286237.htm",
         "title":"若台积电面临产能问题 高通可能改用三星3纳米GAA工艺生产SoC",
         "desc":"在高通转投台积电并发布骁龙8 Plus Gen \r\n1后，人们认为该芯片制造商和三星不会就未来的合作关系达成一致。不过，随着三星的3纳米GAA工艺在下周进入试生产阶段，两家公司之间的业务关系可能仍在计划之中。这意味着高通可能会给三星芯片订单，在其3纳米GAA工艺上进行大规模生产，前提是它能够实现不拖延地维持量产。"
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286239.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286239.htm",
         "title":"科学家们发现COVID-19感染对甲状腺的影响至少可以保持一年之久",
         "desc":"根据意大利米兰大学的Ilaria \r\nMuller博士及其同事最近的一项研究，严重的COVID-19疾病通过各种机制影响甲状腺功能。研究人员对患有与COVID-19疾病相关的甲状腺功能障碍的人进行了为期一年的跟踪，以便更好地描述这种甲状腺受累的特征，并跟踪其随时间的发展。"
     },
     {
-        "url":"https://www.cnbeta.com/articles/science/1286241.htm",
+        "url":"http://www.cnbeta.com/articles/science/1286241.htm",
         "title":"NASA发射一个小型航天器以测试绕月的新轨道",
         "desc":null
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286243.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286243.htm",
         "title":"募资理财成常规操作 宁德时代再遭“过度融资”质疑",
         "desc":"定增募资买理财，似乎成为宁德时代（300750.SZ）的常规操作。6月27日晚间，宁德时代公告表示，公司董事会同意公司使用不超过230亿元（含本数）进行现金管理，投资安全性高、流动性好的保本型投资产品，使用期限在未来12个月内有效。"
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286245.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286245.htm",
         "title":"YOU+公寓被指欠费1340万，长租公寓难逃一“爆”？",
         "desc":"日前，曾经爆火的长租公寓品牌YOU+公寓（以下简称YOU+）被传“爆雷”，YOU+北京苏州桥社区遭产权方强制清退。长租公寓是毕业生等新市民的立足之地。近年来，已有众多资本争相涌入长租公寓领域。不过，自2020年以来，长租公寓项目“爆雷”事件频发，最终大都留下一地鸡毛。"
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286247.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286247.htm",
         "title":"大巴堵门，断缴员工社保，保安保洁成立新公司，开课吧怎么了？",
         "desc":"今日，有网友爆料称开课吧已经将公司几千人的社保停缴，而且公司门口还用大巴车围住，禁止员工进入。爆料人还称，公司部分员工因一直不发工资已经选择离职，还有部分员工仍然在职。但是，上周末开课吧却突然给在职的员工社保减员，表示要签新主体。"
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286249.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286249.htm",
         "title":"标志性菲亚特工厂被改造成巨大屋顶花园",
         "desc":null
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286251.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286251.htm",
         "title":"Mozilla Firefox 102 正式版发布 改进下载用户界面与画中画字幕支持",
         "desc":"Mozilla已经发布了其Firefox浏览器的v102.0最新功能更新。第102版现在可供所有用户在稳定频道使用，它改进了下载用户界面，在画中画中提供了更好的字幕支持，还有各种修复和安全改进。"
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286253.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286253.htm",
         "title":"微软在全球遭遇税务审查 投资者要求提高透明度",
         "desc":"据报道，由于在全球范围内面临着越来越多的税务审查，微软投资者日前要求微软公布更透明的税务和财务信息。这一行动的组织者是英国的代理顾问“养老金和投资研究咨询公司”（PIRC），该公司表示，在年度投资者大会之前，已向微软提交了一份关于税务透明度的股东决议。"
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286255.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286255.htm",
         "title":"今年美股IPO市场迅速冷却 上半年筹资额不及2021年同期6%",
         "desc":"2021年，大量公司无视疫情以创纪录的速度上市。而在今年，市场波动、通胀高企以及对经济下行的担忧令美股IPO市场迅速冷却。根据彭博汇编的数据，2022年上半年美股IPO筹集到的总资金仅为49亿美元，不及2021年同期筹集的近1020亿美元的6%。尽管2021年的数值是由特殊原因造成的异常值，但今年上半年的筹资额仍远低于近五年平均水平的470亿美元。"
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286257.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286257.htm",
         "title":"Grizzly Research称蔚来汽车可能会利用未合并的关联方夸大收入和盈利能力",
         "desc":"研究公司 Grizzly Research 周二发布了一份新报告，其目标是蔚来汽车，标题为：“我们相信蔚来汽车会玩 Valeant- Esque会计游戏来增加收入并提高净利润率以实现目标”。“今天，我们揭示了我们认为在纽约证券交易所上市的蔚来汽车的一项大胆计划。让人想起 Philidor-Valeant 的关系， 蔚来汽车很可能会使用未合并的关联方来夸大收入和盈利能力。"
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286259.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286259.htm",
         "title":"下代IPC性能追上Zen3 国产CPU龙芯价格曝光：不到500元",
         "desc":null
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286261.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286261.htm",
         "title":"Nura将其杀手级音频技术带到蓝牙无线耳机上",
         "desc":null
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286263.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286263.htm",
         "title":"郭明錤：苹果5G基带芯片研发不顺利 高通明年将继续为其提供解决方案",
         "desc":"过去几年，苹果一直在努力开发自己的5G调制解调器芯片，这样它就不需要依赖高通作为供应商，但据苹果分析师郭明錤称，苹果的努力\"可能已经失败\"。郭明錤说，他的\"最新调查\"表明，该5G芯片的开发已经停滞，这意味着高通仍将是2023年iPhone机型5G基带芯片的独家供应商。"
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286265.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286265.htm",
         "title":"删差评、改销量……央视曝光网络水军乱象",
         "desc":"“网络水军”，相信大家都有所耳闻，但你真的了解他们吗？今天，央视特意制作了一期节目，曝光了网络水军的那些乱象。央视称，网络水军不仅可以删除差评、更改销量，让有问题的商品获得买家的信任，还有的通过发布“差评”恶意诬陷其他产品，造成严重损失，自己则从中牟利。"
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286267.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286267.htm",
         "title":"苹果高管采访中称三星抄袭iPhone 只是加了一面更大的屏幕",
         "desc":"《华尔街日报》的Joanna \r\nStern今天在2007年6月29日iPhone发布15周年之前分享了一部关于iPhone演变的新纪录片。这部纪录片包括对苹果公司营销主管Greg\r\n Joswiak、iPhone共同创造者Tony Fadell和一个iPhone用户家庭的采访。"
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286269.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286269.htm",
         "title":"NVIDIA GTX 1630性能首测：被RX 6400按在地上摩擦",
         "desc":"NVIDIA正式发布了新一代入门级显卡GTX 1630，用的还是12nm Turing架构，只有512个CUDA核心、64-bit显存位宽，整卡功耗75W。其整体性能基本和6年前的GTX 1050 Ti差不多，同时有DX12U、VRS、GDDR6、NIS等技术优势，而价格超过千元，比如七彩虹的两款分别1199元、1269元。"
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286271.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286271.htm",
         "title":"ARM发布Coretx-X3 /A715/A510 CPU：最大12核、全面迈向64位",
         "desc":"去年3月份推出面向未来十年的ARMv9指令集之后，ARM又在5月份推出了基于ARMv9的第一代产品，包括Cortex-X2、A710等CPU，今天ARM又推出Cortex-X3、A715 和 A510 Refresh等新一代ARMv9产品。这一代的Cortex处理器面向智能手机、平板及笔记本等平台，所以发布的东西比较多，还有新的DSU-110大小核调度架构，最多可以做到8+4+0总计12核。"
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286273.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286273.htm",
         "title":"苹果双显示器专业支架设计获得专利",
         "desc":null
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286275.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286275.htm",
         "title":"上海迪士尼将于明日恢复运营 网络热度环比暴涨655%",
         "desc":"上海迪士尼乐园将于6月30日恢复运营。根据疫情防控的要求，上海迪士尼乐园将在恢复运营初期采取限流，并进一步落实严格的健康和安全措施。在恢复运营初期，上海迪士尼乐园内大部分备受游客喜爱的景点、游乐项目、娱乐演出、商店及餐厅都将在限流的基础上恢复运营。"
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286277.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286277.htm",
         "title":"郭明錤称iPhone将继续采用高通芯片 高通股价短线拉升",
         "desc":"6月28日，天风国际分析师郭明錤在社交媒体上表示，一份调查结果表明，苹果公司自研iPhone 5G芯片研发可能已经失败，意味着高通在2023年下半年将是iPhone唯一的5G调制解调器芯片供应商。郭明錤社交媒体上说："
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286279.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286279.htm",
         "title":"用上了这项新技术，笔记本的续航越来越差了……",
         "desc":"最近托尼又从仓库里翻出来一台电脑，上面的灰积了大概有三层厚，据推测辨认，可能是某位员工在好几年前用过的老电脑，简直就是考古发掘现场了。好不容易找到匹配的电源，打开一看，好家伙，安装的居然还是\r\n Windows 7 的英文版系统，看着熟悉却又陌生的界面，托尼感觉自己又回到了青涩的初高中时代。"
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286281.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286281.htm",
         "title":"特斯拉大规模裁员：200名自动驾驶部门员工被解雇",
         "desc":"知情人士称，特斯拉公司关闭了加州一处设施，并裁掉了数百名自动辅助驾驶系统(Autopilot)团队的员工。这是已知的科技行业广泛裁员行动中规模较大的一次。知情人士称，受影响的员工在周二收到了通知，他们属于圣马特奥办公室的团队，负责评估与Autopilot辅助驾驶功能相关的客户车辆数据，并执行所谓的数据标记。"
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286283.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286283.htm",
         "title":"Uber前安全主管面临欺诈指控 曾隐瞒数据泄露事件",
         "desc":"2016年Uber曾遭遇黑客攻击，当时5700万乘客和司机的个人信息被黑客窃取，事发后Uber前安全主管约瑟夫·沙利文（Joseph \r\nSullivan）试图隐瞒。美国联帮法官周二表示，沙利文必须面对电信诈骗指控。沙利文付钱给两名黑客让他们保持沉默，同时他还欺骗乘客、司机、FTC。"
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286285.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286285.htm",
         "title":"调查：Apple TV+在客户满意度和保留率方面获显著提高",
         "desc":null
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286287.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286287.htm",
         "title":"迪士尼CEO聘期延长三年 股价大跌",
         "desc":null
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286289.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286289.htm",
         "title":"豆神教育股价坐“过山车” 资产出售计划流产资金难题待解",
         "desc":"6月以来，新东方“东方甄选”走红网络，带动了A股市场教育板块的热度。受此影响，豆神教育科技（北京）股份有限公司（下称“豆神教育”，300010.SZ）也出现6个交易日4个涨停板的情形，受到市场和监管部门关注。5月27日至6月20日，豆神教育股价涨幅高达142%。然而，在公司补充了相关风险提示后，股价迅速回落，6月21日至28日下跌32%\r\n ，截至6月28日，收盘价为4.6元/股。"
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286291.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286291.htm",
         "title":"受美国堕胎裁定影响 亚马逊限购紧急避孕药",
         "desc":"亚马逊紧急限购紧急避孕药，每周最多可以购买3件（unit）。最高法院做出推翻“罗诉韦德案”的裁决后，美国多个州立即出台堕胎禁令，限售避孕药与此事有关。现在美国妇女如果意外怀孕却不想生下孩子，她们要么去没有推行禁令的州堕胎，在网上购买堕胎药，或者违法堕胎。"
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286293.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286293.htm",
         "title":"蔚来汽车“意外事故”引发争议 销量承压事故车型频遭转让",
         "desc":"作为全球首家在纽约、香港、新加坡三地上市的汽车企业，蔚来汽车（9866.HK，NIO.N，NIO.SG）近期正处于舆论漩涡之中。6月22日，一辆从高处坠落的蔚来测试车，带走了两名试车员鲜活的生命，也引发了人们对蔚来汽车的广泛关注。"
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286295.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286295.htm",
         "title":"蔚来遭机构做空 周二股价收跌2.57%",
         "desc":"北京时间6月29日凌晨消息，做空机构灰熊（Grizzly Research）发表报告，称蔚来效仿Valeant式的会计游戏，通过夸大收入和提高净利润率来达到目标。截止收盘蔚来股价收跌2.57%，报22.36美元。"
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286297.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286297.htm",
         "title":"表情符号成“呈堂证供” 社交软件聊天不是“口说无凭”",
         "desc":"社交软件上的表情符号成为“呈堂证供”，是我们的生活、工作日益电子数据化、网络化的结果。近日，#微信表情符号写入判决#登上热搜，引起网友讨论。据江苏高院微信公众号，经检索裁判文书网，2018年以来，全国共有158起以表情符号作为证据的案件，其中2018年8件、2019年23件、2020年66件、2021年61件，增幅明显。"
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286299.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286299.htm",
         "title":"国内旅行服务概念股大涨 蔚来遭机构做空跌2.57%",
         "desc":"北京时间6月29日消息，美股继续数月来的抛售潮，科技大盘股拖累纳指下跌近3%。截至收盘，道指跌491.27点，跌幅为1.56%，报收30946.99点；标普500指数跌78.56点，跌幅为2.01%，报收3821.55点；纳指跌343.01点，跌幅为2.98%，报收11181.54点。"
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286301.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286301.htm",
         "title":"大众CEO评特斯拉新工厂：高度复杂 会让马斯克筋疲力尽",
         "desc":"大众汽车CEO赫伯特·迪斯(Herbert Diess)周二表示，特斯拉的新工厂可能会给埃隆·马斯克(Elon \r\nMusk)和他的电动汽车公司带来越来越多的痛苦。迪斯周二表示：“马斯克必须同时在美国奥斯汀和德国格林海德这两家高度复杂的工厂实现产能爬坡，同时还得扩大上海工厂的生产。这会让他筋疲力尽。”"
     },
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286303.htm",
+        "url":"http://www.cnbeta.com/articles/tech/1286303.htm",
         "title":"全新的RTX3080还不到3080？比亚迪你干得好啊",
         "desc":null
     },
@@ -293,5 +273,25 @@
         "url":"https://hot.cnbeta.com/articles/game/1286305.htm",
         "title":"培养怪兽击败奥特曼？《奥特曼怪兽农场》年内上市",
         "desc":"昨晚举行的迷你任天堂直面会上，恐怕给人印象最深的就是好多种田游戏。在这其中有一款奥特曼与怪物农场系列游戏衍生的游戏，那就是《奥特曼怪兽农场（ウルトラ怪獣モンスターファーム）》，在这款游戏中，玩家可以培育各种熟悉的怪兽们。"
+    },
+    {
+        "url":"http://www.cnbeta.com/articles/tech/1286307.htm",
+        "title":"Apple Watch帮助拯救在海上受困的澳大利亚皮划艇运动员",
+        "desc":null
+    },
+    {
+        "url":"http://www.cnbeta.com/articles/tech/1286309.htm",
+        "title":"Android 13的复活节彩蛋：一个令人愉快的万花筒式emoji",
+        "desc":null
+    },
+    {
+        "url":"http://www.cnbeta.com/articles/tech/1286311.htm",
+        "title":"Pinterest换帅：谷歌老将担任新CEO 专注电商业务",
+        "desc":null
+    },
+    {
+        "url":"http://www.cnbeta.com/articles/tech/1286313.htm",
+        "title":"不休假的马斯克神秘失踪一周，他干嘛去了？",
+        "desc":"过去一周，推特达人埃隆·马斯克(Elon Musk)陷入了沉默，一条推文都没发。自6月21日以来，马斯克明显从推特上消失。除了在6月22日点了几个赞之外，马斯克一直保持沉默。相比之下，从5月1日开始到上周，他每天都至少发一条推文。"
     }
 ]
