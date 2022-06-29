@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286567.htm",
-        "title":"华为应用市场不再上架清理、Wi-Fi类应用",
-        "desc":null
-    },
-    {
-        "url":"https://hot.cnbeta.com/articles/game/1286569.htm",
-        "title":"腾讯首款虚幻5大作 《代号：致金庸》在国外火了：被各国网友追捧",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1286573.htm",
         "title":"ARM发布CPU路线图：Cortex-X4、X5超大核明后年将至",
         "desc":"昨天夜里，ARM发布了全新一代的Cotrex-X3、A715及A510 v2处理器，还有Immortalis-G715、Mali-G715 和 \r\nMali-G615等GPU，统称为TCS22平台，号称游戏性能提升28%，功耗降低了16%，内存带宽要求也减少了23%。不过这一代的ARM \r\nCPU及GPU其实底层的架构都没多大改进，整体还是去年的优化版，而且ARM公布的性能提升数据很迷，能否改变目前X2/A710/A510的发热问题还不好说。"
@@ -293,5 +283,15 @@
         "url":"https://www.cnbeta.com/articles/tech/1286685.htm",
         "title":"50万手跌停封单压顶 千亿巨头车企实控人精准山顶减持",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1286687.htm",
+        "title":"华为Mate 50最新渲染图曝光",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1286689.htm",
+        "title":"Intel CEO：美国不批520亿美元补贴 就去欧洲建芯片厂",
+        "desc":"Intel CEO基辛格去年2月份上任之后推出了雄心勃勃的IDM \r\n2.0战略，希望通过大举投资重新夺回被三星台积电领先的半导体地位，其中一个重要内容就是在美国投资200亿美元建设2座新的晶圆厂。然而这个在美国俄亥俄州建厂的计划目前被Intel延期了，主要原因就是美国520亿美元的芯片补贴法案迟迟不能落实，Intel希望获得大量补贴以降低芯片厂的成本。"
     }
 ]
