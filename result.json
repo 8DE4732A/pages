@@ -1,20 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286659.htm",
-        "title":"特斯拉上海超级工厂仍在向德国出口长续航版Model Y",
-        "desc":"特斯拉2019年11月份确定建设的柏林超级工厂，在今年3月22日已举行了盛大的开业典礼，所生产的Model Y，也已从当天开始交付，这一超级工厂的周产量，在上上周就已达到1000辆，下周一就将开始三班倒生产Model Y。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1286661.htm",
-        "title":"国家卫星气象中心宣布“风云地球”平台投入业务试运行",
-        "desc":"6月27日，“风云地球”平台正式投入业务试运行，为全国预报业务提供支撑。此举是国家卫星气象中心贯彻落实《风云气象卫星应用能力提升工作方案》《短时临近预报预警服务业务能力提升工作方案》的重要举措之一，旨在加快推进风云气象卫星资料的深入应用，强化其对预报的支撑作用。"
-    },
-    {
-        "url":"https://hot.cnbeta.com/articles/movie/1286663.htm",
-        "title":"好莱坞大片《侏罗纪世界3》国内票房破8亿 豆瓣仅6.3分",
-        "desc":"6月29日下午消息，环球影业微博宣布，《侏罗纪世界3》国内票房成绩破8亿。据了解，这是该片上映的第20天，截稿前的今日票房成绩也仅次于朱一龙主演的国产电影《人生大事》。不过，本片口碑平平，豆瓣仅6.3分，只能算勉强及格，低于第一部的7.7分和第二部的6.7分。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1286665.htm",
         "title":"日本多地高温带动空调热销 从订货到安装需要等上一两个月",
         "desc":null
@@ -292,6 +277,21 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1286775.htm",
         "title":"坐班不到40小时走人？特斯拉利用工牌跟踪办公室考勤并警告",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1286777.htm",
+        "title":"施乐公司CEO约翰-维森廷去世 享年59岁",
+        "desc":"打印机制造商施乐控股公司周三表示，59岁的首席执行官John Visentin因持续的疾病引起的并发症而去世。施乐公司(XRX)称Visentin的去世是意料之外的，并表示公司已经任命总裁兼首席运营官Steve Bandrowczak为临时CEO。"
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/game/1286779.htm",
+        "title":"Switch《传送门合集》竟包含《半条命2》文件",
+        "desc":null
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/game/1286781.htm",
+        "title":"Steam Deck部分型号的SSD被降级为PCIe 3.0 x2规范",
         "desc":null
     }
 ]
