@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286619.htm",
-        "title":"蔚来的心烦一周：公关事故后又遭做空 销量还被质疑掉队",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1286621.htm",
-        "title":"消息称台积电又准备涨价 明年1月起大部分制程工艺代工价格上调6%",
-        "desc":"据国外媒体报道，近两年已多次上调代工价格的当前全球最大晶圆代工商台积电，在明年将再次提高大部分制程工艺的代工价格。\r\n\r\n英文媒体是根据产业链的消息，报道台积电明年将上调大部分制程工艺的代工价格的，他们已决定上调6%，明年1月开始实施。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1286623.htm",
         "title":"到底谁欠谁？CoinFlex与Roger Ver的债务纠纷陷入罗生门",
         "desc":null
@@ -293,5 +283,15 @@
         "url":"https://www.cnbeta.com/articles/science/1286735.htm",
         "title":"研究人员发现软珊瑚制造了一种难以捉摸的抗癌化合物",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1286737.htm",
+        "title":"达美航空和Misapplied Sciences在底特律推出个性化的航班信息板",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1286739.htm",
+        "title":"特斯拉得州工厂每周可生产5000辆Model Y",
+        "desc":"据报道，知情人士今日称，特斯拉已将得克萨斯州GigaFactory工厂的产量提高到每周5000辆，并在标准版Model \r\nY的基础上增加了长续航版。特斯拉得州工厂耗资数十亿美元，是特斯拉最重要的项目之一。今年4月，得州工厂正式开业，并向员工交付了首批20辆Model\r\n Y电动汽车。对于得州工厂的产量，特斯拉一直保密。但据预计，之前每周的产量应该不到1000辆（Model Y）。"
     }
 ]
