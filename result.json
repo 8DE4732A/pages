@@ -1,20 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286627.htm",
-        "title":"开课吧创始人、CEO方业昌发内部信：借10亿救公司，降本增效已有进展",
-        "desc":null
-    },
-    {
-        "url":"https://hot.cnbeta.com/articles/game/1286629.htm",
-        "title":"网传《GTA6》开发过程混乱 仍需数年时间才能面世",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1286631.htm",
-        "title":"FBI警告有黑客利用被盗个人身份信息和深度伪造技术远程求职",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1286633.htm",
         "title":"网传成都某科技公司称大专生只值200 招聘平台回应",
         "desc":null
@@ -293,5 +278,20 @@
         "url":"https://www.cnbeta.com/articles/tech/1286743.htm",
         "title":"苹果自研5G基带芯片失败？到底难在哪？",
         "desc":"6月29日消息，天风证券分析师郭明錤通过通过Twitter表示，苹果自研的5G基带芯片可能已经失败，因此高通仍是2023下半年新iPhone 5G基带芯片的独家供应商。郭明錤认为，由于苹果未能采用自研5G基带片取代高通产品，高通仍将是苹果5G基带芯片的独家供应商，因此高通2023下半年至2024上半年营收与利润可能会超过市场预期。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1286745.htm",
+        "title":"传iPhone 14 Pro Max升级为大底主摄",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1286747.htm",
+        "title":"什么编程语言性能最好？C语言无悬念第一、Python垫底",
+        "desc":"什么编程语言最好？这是个能让各路程序员吵翻天的话题，每种语言都有自己的拥趸，全球现在找出三五十种编程语言都不是问题，热门的至少也有20种，先不说这些语言好用与否，它们的性能也是个重要指标。哪种编程语言性能最好？这事还真有人做了排名，The\r\n Benchmarks Game选择了目前热门的25种语言做了测试，具体有十大项目，如下所示："
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1286749.htm",
+        "title":"芯片功率奔向1000瓦，冷却成为头号问题",
+        "desc":"据anandtech报道，高性能计算 (HPC) \r\n领域越来越明显的一个趋势是，每个芯片和每个机架单元的功耗不会因空气冷却的限制而停止。由于超级计算机和其他高性能系统已经达到——并且在某些情况下超过了这些限制——功率要求和功率密度不断扩大。根据台积电最近一年一度的技术研讨会的消息，随着台积电为更密集的芯片配置奠定基础，我们应该期待看到这种趋势继续下去。"
     }
 ]
