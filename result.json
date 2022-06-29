@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286617.htm",
-        "title":"苹果5G芯片败北？专家解析：自研芯片难度究竟有多大？",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1286619.htm",
         "title":"蔚来的心烦一周：公关事故后又遭做空 销量还被质疑掉队",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1286733.htm",
         "title":"创始人Carl Pei解释Nothing Phone 1为何使用骁龙778G Plus处理器",
         "desc":"最近在手机行业引发强烈关注的Nothing的首款智能手机Phone 1已被确认采用了高通公司的中端骁龙778G Plus处理器，随后该公司证实了这一消息。这意味着这款手机不太可能拥有像骁龙8 Plus Gen 1这样配备高通旗舰处理器的设备的原始性能。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1286735.htm",
+        "title":"研究人员发现软珊瑚制造了一种难以捉摸的抗癌化合物",
+        "desc":null
     }
 ]
