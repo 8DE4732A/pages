@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1286613.htm",
-        "title":"“人类摇篮”中的人类祖先化石可能比此前认为的要早100多万年",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1286615.htm",
         "title":"高考生质疑物理成绩只有17.5分 官方回应：核实无误",
         "desc":null
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1286729.htm",
         "title":"大厂试水 HPE推出Arm CPU通用服务器产品",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1286731.htm",
+        "title":"英国上诉法院裁定人工智能不能获得发明专利",
         "desc":null
     }
 ]
