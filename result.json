@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286615.htm",
-        "title":"高考生质疑物理成绩只有17.5分 官方回应：核实无误",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1286617.htm",
         "title":"苹果5G芯片败北？专家解析：自研芯片难度究竟有多大？",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1286731.htm",
         "title":"英国上诉法院裁定人工智能不能获得发明专利",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1286733.htm",
+        "title":"创始人Carl Pei解释Nothing Phone 1为何使用骁龙778G Plus处理器",
+        "desc":"最近在手机行业引发强烈关注的Nothing的首款智能手机Phone 1已被确认采用了高通公司的中端骁龙778G Plus处理器，随后该公司证实了这一消息。这意味着这款手机不太可能拥有像骁龙8 Plus Gen 1这样配备高通旗舰处理器的设备的原始性能。"
     }
 ]
