@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286563.htm",
-        "title":"耐克市值一夜蒸发800多亿 耐克中国已注销107家分支机构",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1286565.htm",
         "title":"环球晶圆得州工厂尚未开建 但第一阶段产能已被预订8成",
         "desc":"据国外媒体报道，当前全球第三大半导体硅晶圆供应商环球晶圆，周一宣布他们计划在得克萨斯州谢尔曼建设一座硅晶圆厂，工厂的建设预计在今年晚些时候开始。"
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1286681.htm",
         "title":"15年前的今天 初代iPhone开始销售",
         "desc":"15年前，已故的史蒂夫-乔布斯向世界展示了一款改变了公司也改变了世界的革命性设备：iPhone。\"一个iPod，一部电话，一个互联网移动通信装置......这不是三个独立的设备，\"乔布斯还说：\"今天，苹果公司将重新发明手机\"。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1286683.htm",
+        "title":"科学家发现可针对一种人类蛋白质来压制COVID-19和其他病毒",
+        "desc":null
     }
 ]
