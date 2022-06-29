@@ -1,20 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286681.htm",
-        "title":"15年前的今天 初代iPhone开始销售",
-        "desc":"15年前，已故的史蒂夫-乔布斯向世界展示了一款改变了公司也改变了世界的革命性设备：iPhone。\"一个iPod，一部电话，一个互联网移动通信装置......这不是三个独立的设备，\"乔布斯还说：\"今天，苹果公司将重新发明手机\"。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1286683.htm",
-        "title":"科学家发现可针对一种人类蛋白质来压制COVID-19和其他病毒",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1286685.htm",
-        "title":"50万手跌停封单压顶 千亿巨头车企实控人精准山顶减持",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1286687.htm",
         "title":"华为Mate 50最新渲染图曝光",
         "desc":null
@@ -293,5 +278,20 @@
         "url":"https://www.cnbeta.com/articles/tech/1286797.htm",
         "title":"Windows 11 Build 25151发布：全新“打开方式”对话框回归",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1286799.htm",
+        "title":"Waymo、Uber等公司敦促加州取消对重型自动驾驶卡车的禁令",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1286801.htm",
+        "title":"研究：肥胖男性可通过减肥使精子数量翻倍并提高生育能力",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1286803.htm",
+        "title":"“美版公众号”Substack裁员14% CEO曾表示将扩大团队",
+        "desc":"据报道，“美版公众号”Substack CEO克里斯·百斯特（Chris \r\nBest）周三在内部邮件中表示，由于经济前景暗淡，该公司决定裁员13人。Substack发言人表示，此次裁员约占该公司员工总数的14%。该公司的数字化平台可以让写手发布免费或收费新闻稿，而这家旧金山创业公司则会从订阅费中抽取约10%的分成。"
     }
 ]
