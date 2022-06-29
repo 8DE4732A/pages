@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1286577.htm",
-        "title":"NASA“好奇号”探测器首次测量了火星上的关键生命成分",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1286579.htm",
         "title":"华为手环 7 正式推出固件更新：支持微信支付",
         "desc":"华为手环 7 作为智能穿戴领域备倍受关注的设备之一，在发布之前就有爆料称其将会支持微信支付功能，后来的发布会上也证实了这一消息，不过微信支付功能需要后续 OTA 升级。"
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1286693.htm",
         "title":"沃尔玛正在收购Memomi 一家支持虚拟试戴光学眼镜的AR初创公司",
         "desc":"沃尔玛正在扩大其为购物者提供的虚拟试戴服务的范围，今天有消息称它计划收购Memomi，这是一家AR光学技术公司，也是沃尔玛目前的合作伙伴，提供基于眼镜的虚拟试戴体验。交易条款没有披露，但Memomi自2019年以来已经为所有沃尔玛和山姆会员店的顾客提供了基于数字的测量技术。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1286695.htm",
+        "title":"MicroStrategy公司在过去两个月又购买了价值1000万美元的比特币",
+        "desc":"微策略公司（MicroStrategy，MSTR）周三上午表示，在5月3日至6月28日期间，它以大约1000万美元的价格购买了480个比特币，每个币平均价格为20817美元。"
     }
 ]
