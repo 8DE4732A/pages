@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286565.htm",
-        "title":"环球晶圆得州工厂尚未开建 但第一阶段产能已被预订8成",
-        "desc":"据国外媒体报道，当前全球第三大半导体硅晶圆供应商环球晶圆，周一宣布他们计划在得克萨斯州谢尔曼建设一座硅晶圆厂，工厂的建设预计在今年晚些时候开始。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1286567.htm",
         "title":"华为应用市场不再上架清理、Wi-Fi类应用",
         "desc":null
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1286683.htm",
         "title":"科学家发现可针对一种人类蛋白质来压制COVID-19和其他病毒",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1286685.htm",
+        "title":"50万手跌停封单压顶 千亿巨头车企实控人精准山顶减持",
         "desc":null
     }
 ]
