@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286623.htm",
-        "title":"到底谁欠谁？CoinFlex与Roger Ver的债务纠纷陷入罗生门",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1286625.htm",
-        "title":"微念起诉李子柒公司案将开庭：千万粉账号已停更近一周年",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1286627.htm",
         "title":"开课吧创始人、CEO方业昌发内部信：借10亿救公司，降本增效已有进展",
         "desc":null
@@ -293,5 +283,15 @@
         "url":"https://www.cnbeta.com/articles/tech/1286739.htm",
         "title":"特斯拉得州工厂每周可生产5000辆Model Y",
         "desc":"据报道，知情人士今日称，特斯拉已将得克萨斯州GigaFactory工厂的产量提高到每周5000辆，并在标准版Model \r\nY的基础上增加了长续航版。特斯拉得州工厂耗资数十亿美元，是特斯拉最重要的项目之一。今年4月，得州工厂正式开业，并向员工交付了首批20辆Model\r\n Y电动汽车。对于得州工厂的产量，特斯拉一直保密。但据预计，之前每周的产量应该不到1000辆（Model Y）。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1286741.htm",
+        "title":"台积电：放弃65/40nm 赶快升级到先进的28nm工艺吧",
+        "desc":"5nm、3nm、2nm……这些顶级的先进工艺最让人感兴趣，但不是每一家厂商、每一颗芯片都需要这种高级工艺。时至今日，还有很多芯片在使用40nm、65nm甚至是130nm这些“古老”的工艺，而且占比不低。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1286743.htm",
+        "title":"苹果自研5G基带芯片失败？到底难在哪？",
+        "desc":"6月29日消息，天风证券分析师郭明錤通过通过Twitter表示，苹果自研的5G基带芯片可能已经失败，因此高通仍是2023下半年新iPhone 5G基带芯片的独家供应商。郭明錤认为，由于苹果未能采用自研5G基带片取代高通产品，高通仍将是苹果5G基带芯片的独家供应商，因此高通2023下半年至2024上半年营收与利润可能会超过市场预期。"
     }
 ]
