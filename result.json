@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286607.htm",
-        "title":"三星SDI正为特斯拉4680电池准备试验线，未来或在马来西亚量产",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1286609.htm",
         "title":"上海恢复堂食首日：人均上千的高档餐厅也爆满",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1286723.htm",
         "title":"Mozilla Firefox 102 现在可以自动删除URL中的跟踪器",
         "desc":"Mozilla最近发布了Firefox 102，其更新日志十分阳春，包含几个新功能，其中之一是可以删除各种服务和网站用来在互联网上跟踪你的URL的一部分。Mozilla大约在一年前开始研究这一功能，现在它已经准备好供公众使用。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1286725.htm",
+        "title":"苹果公司计划扩大其在巴勒斯坦城市拉瓦比的研发中心",
+        "desc":"据报道，苹果公司在巴勒斯坦城市拉瓦比的工程研发基地将进行扩建，但透露的细节很少。根据巴勒斯坦和以色列当地媒体的报道，苹果公司已经宣布将大幅扩大其在该地区的研发工作。然而，它没有给出任何数字，据说扩张的对象是其拉瓦比的基地。"
     }
 ]
