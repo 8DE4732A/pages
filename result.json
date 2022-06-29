@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286605.htm",
-        "title":"威刚推出31C系列工业级SSD新品 采用112层BiCS5闪存方案",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1286607.htm",
         "title":"三星SDI正为特斯拉4680电池准备试验线，未来或在马来西亚量产",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1286721.htm",
         "title":"上完厕所卫生纸能直接冲马桶吗？做个实验给你看",
         "desc":"走进公厕小隔间，你往往会发现马桶旁边还有个小纸篓，里头满是些黄白相间之物，不单是公厕，很多朋友自家卫生间，也往往会备个类似的小纸篓，用来装用过的厕纸。但是，也有不少人家中卫生间并没有这种设施，便后一擦一扔一冲完事。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1286723.htm",
+        "title":"Mozilla Firefox 102 现在可以自动删除URL中的跟踪器",
+        "desc":"Mozilla最近发布了Firefox 102，其更新日志十分阳春，包含几个新功能，其中之一是可以删除各种服务和网站用来在互联网上跟踪你的URL的一部分。Mozilla大约在一年前开始研究这一功能，现在它已经准备好供公众使用。"
     }
 ]
