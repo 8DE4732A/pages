@@ -1,25 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286647.htm",
-        "title":"今年首个影响我国的台风最快7月2日登陆 风力可达12级",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1286649.htm",
-        "title":"美法官裁定，被控掩盖黑客行为的Uber前安全主管必须面对欺诈指控",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/soft/1286651.htm",
-        "title":"Radeon Software For Linux 22.20驱动现身 支持Ubuntu 22.04 LTS和RHEL 9.0",
-        "desc":"对于使用消费者型号的Radeon GPU的Linux用户来说，驱动的更新频率与Windows相比相差甚远，\"Radeon Software \r\nfor Linux\"打包的驱动版本自3月底以来一直停留在22.10系列上。而对于AMD Radeon \r\nPRO专业/工作站图形卡，官方\"Radeon Pro Software for Enterprise on \r\nLinux\"驱动程序仍然是去年12月的21.Q4版。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1286653.htm",
-        "title":"科学家结合脑电头盔与AI算法来分析重建拐角处光线投射的二维物体",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1286655.htm",
         "title":"机构称2022是新车质量最差的一年：最好和最烂品牌榜单公布",
         "desc":"本周二，知名调研机构JD Power（君迪）发布了2022新车质量报告，其采用的评价指标PP100代表的是每100辆新车出现的问题数。很遗憾的是，君迪指出，这是其36年历史上观察到质量数据最糟糕的一次，PP100相比去年增加了11%，均值为180。"
@@ -293,5 +273,25 @@
         "url":"https://www.cnbeta.com/articles/tech/1286763.htm",
         "title":"QQ又出新bug 你的密码变成“123456789”了？",
         "desc":null
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/game/1286765.htm",
+        "title":"《精灵宝可梦Go》开发商Niantic裁员80多人 砍掉4个项目",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1286767.htm",
+        "title":"研究：电动汽车能为人体健康带来积极影响",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1286769.htm",
+        "title":"欧盟同意加强加密货币反洗钱监管 要求经营者保留交易者信息",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1286771.htm",
+        "title":"有望赴港上市 哪吒汽车与360回应“10亿股权转让”",
+        "desc":"日前，哪吒汽车与360针对“10亿股权转让”向记者作出回应，并透露了双方未来的合作计划。图为6月25日重庆车展开幕当天，哪吒汽车副总裁周江向现场观众介绍哪吒S轿跑车。近日，三六零安全科技股份有限公司（以下简称“360”）宣布平价转让合众新能源汽车有限公司（以下简称“哪吒汽车”）10亿股权，引发了业内一系列联想。"
     }
 ]
