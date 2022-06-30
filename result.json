@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287049.htm",
-        "title":"AMD锐龙7 5700首曝：割掉GPU、降低频率",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287051.htm",
         "title":"不开玩笑：与男友分手后 一女子难过得真\"心碎\"了",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1287165.htm",
         "title":"美国最高法院裁定限制美环保局的气候权力",
         "desc":"据美媒报道，美国最高法院限制了环境保护局（Environmental Protection Agency，EPA）限制发电厂温室气体排放的权力，站在了煤矿公司和共和党领导的各州一边，这对美国总统拜登的气候变化议程构成了打击。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287167.htm",
+        "title":"FDA建议COVID-19疫苗加强针应针对Omicron更新变种",
+        "desc":"食品和药物管理局今天建议，COVID-19疫苗制造商应在今年秋季的加强针中包括较新形式的Omicron冠状病毒变体。该机构说，它希望疫苗制造商创造出包括两种形式的病毒的加强针--原始毒株，也就是目前疫苗中的毒株，以及Omicron变体的BA.4和BA.5品系。"
     }
 ]
