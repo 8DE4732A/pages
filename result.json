@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287085.htm",
-        "title":"创见推出ESD380C便携式固态硬盘 读写速度可达可达2000MB/s",
-        "desc":"创见（Transcend）今天推出了一款同时提供美观、耐用和性能的便携式固态硬盘ESD380C。这款产品的机身上有一个USB-C接口，但它的包装盒中同时配有USB-C转USB-C和USB-C转USB-A的电缆，以获得最大的兼容性。可以支持PC、Mac、平板电脑、相机甚至是最新的家用游戏机。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1287087.htm",
-        "title":"新款iPhone SE在日本市场需求强劲 但美国市场表现欠佳",
-        "desc":"苹果公司3月9日凌晨推出的支持5G的新一代iPhone SE，上市已有三个多月，整体销量尚可，也为苹果带来了可观的营收。对于新一代的iPhone SE，有机构在报告中表示，就在全球范围内的销量而言，苹果的这一款产品是成功的。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287089.htm",
         "title":"一加10T浅绿新配色渲染图现身",
         "desc":null
@@ -293,5 +283,15 @@
         "url":"https://www.cnbeta.com/articles/tech/1287201.htm",
         "title":"野蛮生长结束 欧盟敲定加密货币临时议案",
         "desc":"欧盟就《加密资产市场条例》（Markets in Crypto-Assets，简称MiCA）达成一致，该条例将会对加密产业产生一定影响。前一天欧盟三大机构刚刚同意打击加密货币洗钱行为，第二天协商几小时后便就MiCA达成一致，行动不可谓不迅速。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1287203.htm",
+        "title":"FDA批准的一种药物可减少因老化引起的血管问题",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287205.htm",
+        "title":"美国大型科技股第二季度股价纷纷大跌：特斯拉暴跌近38%",
+        "desc":"随着各国央行逐步调高利率以抵御通胀，全球大型科技公司的市值在第二季度里大幅下滑。特斯拉周四下跌1.8%，令本季跌幅达38%，创下历史最差单季表现。科技股巨头中，亚马逊本季下跌35%，创2001年以来最差季度表现。"
     }
 ]
