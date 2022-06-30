@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/game/1287061.htm",
-        "title":"《健身环大冒险》真能减肥 日本女玩家玩一年+控制饮食减34斤",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287063.htm",
         "title":"IEA：全球核电装机容量需要在2050年翻番",
         "desc":null
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/science/1287177.htm",
         "title":"研究发现狼作为一个单一的全球种群在冰河时代幸存下来",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1287179.htm",
+        "title":"研究人员发现一种特殊类型的蠕虫可以快速分解塑料",
         "desc":null
     }
 ]
