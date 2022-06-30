@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287059.htm",
-        "title":"中国有车家庭超8成20万以下 百万汽车最多的是浙江",
-        "desc":null
-    },
-    {
         "url":"https://hot.cnbeta.com/articles/game/1287061.htm",
         "title":"《健身环大冒险》真能减肥 日本女玩家玩一年+控制饮食减34斤",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1287175.htm",
         "title":"加密货币价格暴跌 英伟达游戏显卡价格也跟着雪崩",
         "desc":"加密货币行业的动荡破坏了投资者的投资组合，让大小投资者难以适应。这也给曾经受益于加密技术崛起的英伟达(NVDA.US)的GPU销售造成了损失。长期以来，英伟达的图形处理器（简称“GPU”）一直受到电脑游戏爱好者的欢迎，在加密技术繁荣时期，作为生成数字货币系统的重要组成部分，这些GPU获得了第二次生命。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1287177.htm",
+        "title":"研究发现狼作为一个单一的全球种群在冰河时代幸存下来",
+        "desc":null
     }
 ]
