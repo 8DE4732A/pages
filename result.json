@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1287035.htm",
-        "title":"NASA的概念提出用一群游泳机器人来探索外星海洋",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287037.htm",
         "title":"广东电动自行车新规明起实施：进室内充电最高罚款5000元",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1287151.htm",
         "title":"Epic Games资助的民意调查称公众希望开放App Store",
         "desc":"应用公平联盟委托进行的一对民意调查显示，大多数受访者希望应用商店竞争和反垄断立法。由Epic \r\nGames、Spotify和其他公司于2020年成立的应用公平联盟（CAF）是一个专门为反对苹果应用商店政策而创建的游说团体。它一直在呼吁苹果公司允许第三方应用商店、替代支付系统和较少的限制性条款。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287153.htm",
+        "title":"YouTube正在打击Spammer用特殊字符来冒充创作者的伎俩",
+        "desc":"垃圾信息不是社交媒体的新问题，但每个人似乎认为它最近变得更加糟糕。YouTube正在解决自己的垃圾信息问题，它的一些功能变化旨在使假账户更难冒充真实账户。从7月29日开始，YouTube频道将不再能够隐藏其真实用户数量。隐藏用户数是垃圾账户掩盖他们真正情况的一个简单方法，以便冒充更大的、成熟的频道。"
     }
 ]
