@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286693.htm",
-        "title":"沃尔玛正在收购Memomi 一家支持虚拟试戴光学眼镜的AR初创公司",
-        "desc":"沃尔玛正在扩大其为购物者提供的虚拟试戴服务的范围，今天有消息称它计划收购Memomi，这是一家AR光学技术公司，也是沃尔玛目前的合作伙伴，提供基于眼镜的虚拟试戴体验。交易条款没有披露，但Memomi自2019年以来已经为所有沃尔玛和山姆会员店的顾客提供了基于数字的测量技术。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1286695.htm",
-        "title":"MicroStrategy公司在过去两个月又购买了价值1000万美元的比特币",
-        "desc":"微策略公司（MicroStrategy，MSTR）周三上午表示，在5月3日至6月28日期间，它以大约1000万美元的价格购买了480个比特币，每个币平均价格为20817美元。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1286697.htm",
         "title":"NVIDIA发布GeForce 516.59显卡驱动：《F1 22》提升2倍性能",
         "desc":"昨晚NVIDIA发布了GTX 1630显卡，同时NVIDIA还发布了GeForce 516.59显卡驱动，这是一款WHQ及Game \r\nReady驱动，不仅首发支持GTX 1630显卡，还带来多款游戏优化，其中F1 22支持了光追和DLSS，游戏性能大涨2倍以上。"
@@ -293,5 +283,15 @@
         "url":"https://www.cnbeta.com/articles/science/1286809.htm",
         "title":"NanoAvionics微型卫星用机载相机拍下壮观的太空自拍照",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1286811.htm",
+        "title":"新型太阳能电池光电转化效率达25% 有望应用于车辆上",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1286813.htm",
+        "title":"向声学集成电路迈出关键一步 声波首次在芯片上实现控制与调制",
+        "desc":"美国哈佛大学科学家在最新一期《自然·电子学》杂志上撰文指出，他们首次展示了如何利用电场，在芯片上控制和调制声波，朝最终研制出声学集成电路又近了一步。研究人员指出，尽管声波比相同频率的电磁波慢，但也有其自身的优势：短声波很容易被限制在纳米级结构中，彼此之间不容易“交谈”，并且与限制它的系统有很强的相互作用，这使得它们可广泛应用于经典计算系统和量子计算系统。"
     }
 ]
