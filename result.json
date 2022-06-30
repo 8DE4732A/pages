@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287063.htm",
-        "title":"IEA：全球核电装机容量需要在2050年翻番",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287065.htm",
         "title":"Gartner下调2022手机出货量预期：大中华区大降18%",
         "desc":null
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/science/1287179.htm",
         "title":"研究人员发现一种特殊类型的蠕虫可以快速分解塑料",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1287181.htm",
+        "title":"冰河时期狼DNA显示狗的祖先是两个独立的古代狼种群",
         "desc":null
     }
 ]
