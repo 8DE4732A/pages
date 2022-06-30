@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287065.htm",
-        "title":"Gartner下调2022手机出货量预期：大中华区大降18%",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287067.htm",
         "title":"树莓派最新家族成员Pico W上架：支持802.11n无线网络 售价6美元",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/science/1287181.htm",
         "title":"冰河时期狼DNA显示狗的祖先是两个独立的古代狼种群",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287183.htm",
+        "title":"行程卡“摘星”后 报复性旅游会出现吗？",
+        "desc":"6月28日，《新型冠状病毒肺炎防控方案(第九版)》发布，密接和入境人员隔离时间从14+7缩短为7+3。6月29日，工信部宣布，即日起取消通信行程卡“星号”标记。6月30日，国航、东航等宣布，将陆续恢复国际航班。"
     }
 ]
