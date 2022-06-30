@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1286699.htm",
-        "title":"倒在网红路上的00后",
-        "desc":"2022年2月，2000年出生的小为开启了自己的第一份工作，成为抖音某mcn机构的“网红练习生”。4个月过去，爆红和暴富并没有如他预想中到来，第一次失业体验卡却悄然而至，小为因账号数据量不达标以及3个月没有爆款，网红梦被迫中断。就在小为失落的同时，也有幸运的00后早已在“流量世界”里淘到第一桶金。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1286701.htm",
         "title":"799到6999元 索尼INZONE电竞显示器、耳机价格公布",
         "desc":"今晚的发布会上，索尼发布了全新的InZone品牌，并推出了InZone品牌的电竞显示器及游戏耳机，总计5款产品，不过今晚上市的只有4款，价格从799到6999元。索尼这次推出了2款InZone显示器，分别是InZone\r\n M9及InZone M3，还有3款InZone游戏耳机，分别是InZone H9、InZone H7及InZone H3，不过InZone \r\nM3显示器没有公布上市及价格。"
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/science/1286815.htm",
         "title":"NASA宣布将于7月12日发布詹姆斯·韦伯太空望远镜的首批图像",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1286817.htm",
+        "title":"红牛公布1100马力RB17混动超跑：2025年上市，售价600万美元",
+        "desc":"早在2016年，当阿斯顿-马丁成为红牛F1车队的赞助商和技术合作伙伴时，这家英国跑车制造商宣布了AM-RB 001。这是一款超跑并最终会成为Valkyrie。它最初则是跟著名的工程师艾德里安·纽维及红牛先进技术团队合作开发，但阿斯顿最终脱离了F1车队并独自完成了Valkyrie。"
     }
 ]
