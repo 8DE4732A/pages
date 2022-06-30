@@ -1,25 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287041.htm",
-        "title":"东航回应客机飞行时舱内飞出小鸟：正在调查",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1287043.htm",
-        "title":"天猫App上线“数字藏品”专区 买盲盒送同款数字藏品",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1287045.htm",
-        "title":"Highpoint推出RocketU 1400系列USB 3.2 20Gbps HBA扩展卡",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1287047.htm",
-        "title":"OpenSea通报电子邮件数据泄露 已引来大量钓鱼攻击和垃圾诈骗信息",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287049.htm",
         "title":"AMD锐龙7 5700首曝：割掉GPU、降低频率",
         "desc":null
@@ -293,5 +273,25 @@
         "url":"https://www.cnbeta.com/articles/tech/1287157.htm",
         "title":"三星电视升级Gaming Hub 提供Xbox、Stadia和GeForce Now等流媒体服务",
         "desc":null
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/game/1287159.htm",
+        "title":"Steam Deck偷偷缩水：SSD带宽砍掉一半还得抽奖",
+        "desc":null
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/comic/1287161.htm",
+        "title":"桥本环奈代言《海贼王》卡牌游戏 自曝从小就是“海迷”",
+        "desc":"今年是《海贼王》漫画连载25周年，除了各种庆祝活动的企划。近日，也公布了将于7月推出《ONE PIECE》对战卡牌，并邀请了知名美少女桥本环奈代言。7月8日将会推出“草帽一伙”、“极恶的世代”、“百兽海贼团”、“王下七武海”势力，"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1287163.htm",
+        "title":"人类摇篮中的化石可能比以前认为的要早100多万年",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287165.htm",
+        "title":"美国最高法院裁定限制美环保局的气候权力",
+        "desc":"据美媒报道，美国最高法院限制了环境保护局（Environmental Protection Agency，EPA）限制发电厂温室气体排放的权力，站在了煤矿公司和共和党领导的各州一边，这对美国总统拜登的气候变化议程构成了打击。"
     }
 ]
