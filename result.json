@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287083.htm",
-        "title":"亚马逊泄露的信息显示Nothing phone (1)在欧洲的起价为470欧元",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287085.htm",
         "title":"创见推出ESD380C便携式固态硬盘 读写速度可达可达2000MB/s",
         "desc":"创见（Transcend）今天推出了一款同时提供美观、耐用和性能的便携式固态硬盘ESD380C。这款产品的机身上有一个USB-C接口，但它的包装盒中同时配有USB-C转USB-C和USB-C转USB-A的电缆，以获得最大的兼容性。可以支持PC、Mac、平板电脑、相机甚至是最新的家用游戏机。"
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1287199.htm",
         "title":"苹果前首席律师承认内幕交易 利用财报数据非法获益400万",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287201.htm",
+        "title":"野蛮生长结束 欧盟敲定加密货币临时议案",
+        "desc":"欧盟就《加密资产市场条例》（Markets in Crypto-Assets，简称MiCA）达成一致，该条例将会对加密产业产生一定影响。前一天欧盟三大机构刚刚同意打击加密货币洗钱行为，第二天协商几小时后便就MiCA达成一致，行动不可谓不迅速。"
     }
 ]
