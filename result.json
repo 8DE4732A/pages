@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287067.htm",
-        "title":"树莓派最新家族成员Pico W上架：支持802.11n无线网络 售价6美元",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287069.htm",
         "title":"苹果正式在韩国App Store中推出第三方支付 目前有四家技术供应商",
         "desc":"据报道，苹果公司今年早些时候曾宣布，将遵守韩国的一项新法律，在App Store应用商店中支持第三方支付提供商。从今日起，开发者终于可以在韩国App Store分发的应用程序中，申请使用第三方支付方式。"
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1287183.htm",
         "title":"行程卡“摘星”后 报复性旅游会出现吗？",
         "desc":"6月28日，《新型冠状病毒肺炎防控方案(第九版)》发布，密接和入境人员隔离时间从14+7缩短为7+3。6月29日，工信部宣布，即日起取消通信行程卡“星号”标记。6月30日，国航、东航等宣布，将陆续恢复国际航班。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287185.htm",
+        "title":"Google更新Chrome密码管理器 与Android数据完成统一",
+        "desc":null
     }
 ]
