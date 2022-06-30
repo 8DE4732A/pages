@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287039.htm",
-        "title":"居家同时做5份全职，年入120万美元：裁员潮下的打工人，玩转了远程办公",
-        "desc":"前段时间，特斯拉 CEO 马斯克强制员工回办公室的消息闹得沸沸扬扬，很多习惯了在家办公的人对此非常抵触，GAN 之父 Ian Goodfellow 甚至因为不想重返办公室工作而离开了苹果。这场“回办公室”还是继续“在家办公”的拉锯战在北美大厂持续上演。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287041.htm",
         "title":"东航回应客机飞行时舱内飞出小鸟：正在调查",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1287155.htm",
         "title":"三星量产3nm 真领先台积电还是“赶鸭子上架”？",
         "desc":"6月30日，正如之前外界传闻的那样，三星电子今天正式对外宣布，其已开始大规模生产基于3nm GAA（Gate-all-around，环绕栅极）制程工艺技术的芯片，这也使得三星抢先台积电成为了全球首家量产3nm的晶圆代工企业。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287157.htm",
+        "title":"三星电视升级Gaming Hub 提供Xbox、Stadia和GeForce Now等流媒体服务",
+        "desc":null
     }
 ]
