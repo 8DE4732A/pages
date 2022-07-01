@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/game/1287523.htm",
-        "title":"EA官方营销翻车：嘲讽只玩单机游戏的玩家",
-        "desc":"今天(7月1日)EA官方发了一条推文：“他们是10分玩家，但他们只玩单机游戏”。EA玩的是外网较流行的一个梗，意为某个人或某样东西基本上是完美的，能拿10分满分，但有一个让人遗憾的缺点，类似“劳拉是个好探险家，但她走哪塌哪”等等。"
-    },
-    {
         "url":"https://hot.cnbeta.com/articles/movie/1287525.htm",
         "title":"2022上半年电影总票房171.86亿 《长津湖之水门桥》高居榜首",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1287639.htm",
         "title":"苹果必须面对英国关于其应用商店佣金不公平的投诉",
         "desc":"苹果公司将在英国面临全面审判，因为它被指控在App \r\nStore上通过其佣金率向人们过度收费，从而违反了竞争法规。总部设在伦敦的竞争上诉法庭拒绝了苹果公司限制或撤销2021年提出的集体诉讼的动议。数字经济专家和讲师Rachael\r\n Kent博士正在领导这场诉讼。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287641.htm",
+        "title":"Meta将在9月关闭其加密货币项目Novi",
+        "desc":null
     }
 ]
