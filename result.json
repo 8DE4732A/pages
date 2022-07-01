@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287539.htm",
-        "title":"西方科技制裁让俄罗斯人转投盗版并积极拥抱开源Linux软件",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287541.htm",
         "title":"俄罗斯取消所有新冠防疫措施：发病率已降低64倍",
         "desc":null
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1287655.htm",
         "title":"微软Exchange被爆高危后门 可用于窃取凭证等",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287657.htm",
+        "title":"Surface Go 4有望改用ARM芯片 可能是高通骁龙7c",
         "desc":null
     }
 ]
