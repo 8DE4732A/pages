@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287509.htm",
-        "title":"沃尔玛拒绝承认遭Yanluowan勒索软件攻击",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1287513.htm",
         "title":"MOF光催化工艺可在常温下将甲烷高效转换成甲醇",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1287627.htm",
         "title":"泄密者再次确认AirPods Pro 2换用USB-C接口",
         "desc":"苹果预计将在今年秋天与iPhone 14一起发布AirPods Pro \r\n2。这款新的高端真无线耳机比前代产品有多项改进，并且不仅仅是在音乐/音频体验方面。最近的一份报告称，AirPods Pro \r\n2将配备心率监测器、助听器功能和一个USB-C端口，而不是Lightning连接。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287629.htm",
+        "title":"FDA表示COVID-19变种加强针不需要新的临床试验就能获得批准",
+        "desc":"美国食品和药物管理局（FDA）的一位官员告诉路透社，COVID-19疫苗制造商在开发针对该病毒最新变种的加强针时不需要进行新的临床试验。该机构将利用在大流行病早期开发的特定变体的临床试验、生产数据和动物研究来评估这些疫苗。"
     }
 ]
