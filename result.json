@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/game/1287545.htm",
-        "title":"万代南梦宫娱乐和ILCA共同创建万代南梦宫Aces公司",
-        "desc":"万代南梦宫娱乐公司和ILCA成立了一家名为Bandai Namco \r\nAces的新公司，该公司将利用两家公司的专有技术来提供高质量的内容。新公司总部设在东京新宿，由万代南梦宫娱乐公司拥有51%的股份，ILCA拥有49%的股份，将专注于提供高质量的产品，包括《皇牌空战》系列的下一部作品，ILCA不久前已经确认正在开发这部作品。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1287547.htm",
         "title":"研究人员开发出可以主动杀灭病毒的改进型N95口罩",
         "desc":"伦斯勒理工学院的研究人员创造了一种实用的方法来生产N95口罩，这种口罩既是优秀的细菌屏障，又是接触性的细菌杀手。这种抗病毒和抗菌口罩可以佩戴更长的时间，这将减少塑料垃圾，因为不需要经常更换。"
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1287661.htm",
         "title":"亚马逊同意在欧洲放弃Prime取消订阅过程的“黑暗模式”",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1287663.htm",
+        "title":"天文学家正在观察银河系最大的恒星缓慢死亡的过程",
         "desc":null
     }
 ]
