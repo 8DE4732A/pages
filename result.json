@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1287543.htm",
-        "title":"中国科研人员设想通过核动力海王星轨道飞行器探索外太阳系",
-        "desc":"一份关于海王星轨道飞行器的提案显示，中国的行星科学家和工程师正在把目光投向外太阳系，另外还开发出新方法来抵达那里。一组资深太空人士在Scientia Sinica Technologica上发表的预研究论文概述了该航天器的设计、科学目标以及至关重要的是其用于发电的核裂变反应堆计划。"
-    },
-    {
         "url":"https://hot.cnbeta.com/articles/game/1287545.htm",
         "title":"万代南梦宫娱乐和ILCA共同创建万代南梦宫Aces公司",
         "desc":"万代南梦宫娱乐公司和ILCA成立了一家名为Bandai Namco \r\nAces的新公司，该公司将利用两家公司的专有技术来提供高质量的内容。新公司总部设在东京新宿，由万代南梦宫娱乐公司拥有51%的股份，ILCA拥有49%的股份，将专注于提供高质量的产品，包括《皇牌空战》系列的下一部作品，ILCA不久前已经确认正在开发这部作品。"
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1287659.htm",
         "title":"联动《雷神4：爱与雷霆》微软抽奖送出定制Xbox Series X",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287661.htm",
+        "title":"亚马逊同意在欧洲放弃Prime取消订阅过程的“黑暗模式”",
         "desc":null
     }
 ]
