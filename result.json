@@ -1,20 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287515.htm",
-        "title":"理想L9展车全部到店 7月16日起开放试驾",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1287517.htm",
-        "title":"通用汽车取消将印度工厂卖给长城汽车的计划",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1287519.htm",
-        "title":"沃尔沃拟投12亿欧元，在斯洛伐克建电动汽车工厂",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1287521.htm",
         "title":"韦伯太空望远镜又一个仪器即将展开科学工作",
         "desc":null
@@ -293,5 +278,20 @@
         "url":"https://www.cnbeta.com/articles/science/1287631.htm",
         "title":"哈勃发现大麦哲伦云中的“绿松石色海洋”",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287633.htm",
+        "title":"亚马逊向欧盟妥协：为Prime付费服务增加“取消订阅”按钮",
+        "desc":"据报道，在遭到全球多家消费者团体的投诉后，亚马逊终于做出调整，让用户轻松地取消对“Amazon Prime”服务的订阅。去年4月，欧洲消费者组织（BEUC）、挪威消费者委员会（NCC）和跨大西洋消费者对话（TACD，美国和欧盟消费者组织的论坛）向欧盟委员会表达了对亚马逊的不满。"
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/movie/1287635.htm",
+        "title":"2小时吸金百万的虚拟主播 真的永不“塌房”吗？",
+        "desc":"近日，“虚拟主播B站直播2小时收入超百万”登上微博热搜，成为网友热议的话题。随着元宇宙的火爆，虚拟人直播、代言、带货逐渐成为当下流行。与真人相比，虚拟人成本更低、且“人设不倒”，成为被各路品牌、MCN机构青睐的重要原因。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287637.htm",
+        "title":"Meta向元宇宙“跨出了”重要一步",
+        "desc":"扎克伯格，终于对自己最重量级的产品facebook“动手了”，他开始探索起NFT和Web3。2022年6月30日，Meta发言人在推特上表示，已开始在Facebook上为部分美国创作者测试NFT，这些NFT运行在以太坊和Polygon上。很快，它还会增加对Solana和Flow\r\n NFT的支持。而在此之前（2022年5月），Meta旗下Instagram已经开始向部分用户开放使用NFT。"
     }
 ]
