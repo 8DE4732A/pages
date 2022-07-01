@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287495.htm",
-        "title":"消息称NVIDIA削减5nm订单：RTX 40显卡或跳票到明年初",
-        "desc":"矿卡市场随着币圈的暴跌已经崩了，PC玩家虽然享受到了RTX 30系列显卡价格下滑的好处，但是那些等待RTX 40显卡的玩家可能会失望，最近传出NVIDIA削减台积电5nm订单，并且延期到明年Q1季度出货的消息，这意味着显卡发布要跳票了。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287497.htm",
         "title":"索尼问卷调研Xperia手机系统：或将全面换用魅族Flyme",
         "desc":null
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1287613.htm",
         "title":"分析师认为苹果公司的季度表现可能会略微超出华尔街的预期",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1287615.htm",
+        "title":"拉美主要城市的极端温度可能与近100万人死亡有关",
         "desc":null
     }
 ]
