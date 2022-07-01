@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/movie/1287525.htm",
-        "title":"2022上半年电影总票房171.86亿 《长津湖之水门桥》高居榜首",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287527.htm",
         "title":"《明码标价和禁止价格欺诈规定》今起施行“雪糕刺客”无处遁形",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1287641.htm",
         "title":"Meta将在9月关闭其加密货币项目Novi",
         "desc":null
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/game/1287643.htm",
+        "title":"索尼PSVR2头显将使用Tobii眼球追踪技术",
+        "desc":"在最近的一份新闻稿中，总部位于瑞典的高科技集团Tobii透露，索尼PlayStation VR2将使用其眼球追踪技术。公司曾于2022年2月公布进行过谈判。Tobii首席执行官AnandSrivatsa表示："
     }
 ]
