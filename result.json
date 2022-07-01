@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287541.htm",
-        "title":"俄罗斯取消所有新冠防疫措施：发病率已降低64倍",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1287543.htm",
         "title":"中国科研人员设想通过核动力海王星轨道飞行器探索外太阳系",
         "desc":"一份关于海王星轨道飞行器的提案显示，中国的行星科学家和工程师正在把目光投向外太阳系，另外还开发出新方法来抵达那里。一组资深太空人士在Scientia Sinica Technologica上发表的预研究论文概述了该航天器的设计、科学目标以及至关重要的是其用于发电的核裂变反应堆计划。"
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1287657.htm",
         "title":"Surface Go 4有望改用ARM芯片 可能是高通骁龙7c",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287659.htm",
+        "title":"联动《雷神4：爱与雷霆》微软抽奖送出定制Xbox Series X",
         "desc":null
     }
 ]
