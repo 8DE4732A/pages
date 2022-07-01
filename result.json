@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287499.htm",
-        "title":"对标DLSS之后 AMD显卡又瞄准了NVIDIA的独门绝技AI加速",
-        "desc":"与NVIDIA的显卡架构相比，AMD的RDNA架构除了在性能及光追上有差距之外，还有两个新领域也不如NVIDIA，一个是DLSS，一个是AI单元，这两个都是N卡独有的，不过AMD现在推出的FSR 2.0已经可以对标DLSS了。"
-    },
-    {
         "url":"https://hot.cnbeta.com/articles/movie/1287501.htm",
         "title":"《芭比》真人电影新路透 猥琐男拍打芭比屁股被暴揍",
         "desc":null
@@ -286,12 +281,17 @@
     },
     {
         "url":"https://www.cnbeta.com/articles/science/1287615.htm",
-        "title":"拉美主要城市的极端温度可能与近100万人死亡有关",
+        "title":"拉美地区近100万人死亡被认为与主要城市的极端温度有关",
         "desc":null
     },
     {
         "url":"https://www.cnbeta.com/articles/science/1287617.htm",
         "title":"阿联酋“希望号”火星探测器传回新一批科学数据",
         "desc":"当地时间7月1日，阿联酋航天局宣布，“希望号”火星探测器传回新一批科学数据，内容涉及对火星的极光覆盖、太阳高能粒子、银河宇宙射线的最新观测数据，以及包括对火星高空尘埃和云层运动的科学观测结果。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287619.htm",
+        "title":"朱利安·阿桑奇向法院提出上诉 反对将他引渡到美国",
+        "desc":"维基解密创始人朱利安-阿桑奇今日向英国高等法院提出上诉，反对将他引渡到美国，周日年满51岁的他自2019年以来一直被关押在一个高度戒备的监狱里。阿桑奇的数十名支持者在英国内政部外示威要求释放他。他的妻子斯特拉也在其中。"
     }
 ]
