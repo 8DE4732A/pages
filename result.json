@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1287529.htm",
-        "title":"研究人员开发出一种无需血样的新COVID抗体检测法",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287531.htm",
         "title":"23岁知名游戏YouTuber的Technoblade罹患癌症去世 他分享了最后的影片",
         "desc":"受欢迎的Minecraft YouTuber的Technoblade已因癌症去世，享年23岁。在上传到他的YouTube频道的一段题为\"so \r\nlong \r\nnerds\"的视频中，在他父亲的叙述下，Technoblade感谢他的粉丝和同伴多年来的支持，并透露他的真名是Alex。(他\"不小心\"说漏了嘴，他在早先的视频中被称为Dave）。"
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1287645.htm",
         "title":"Windows 11获服务管道更新KB5016322 升至Build 25151.1010",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287647.htm",
+        "title":"首款RISC-V笔记本ROMA接受预订：4核处理器 最高16GB+256GB",
         "desc":null
     }
 ]
