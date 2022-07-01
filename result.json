@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287537.htm",
-        "title":"研究人员开发出可通过倾听鸡叫声来改善养殖鸡福利的AI",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287539.htm",
         "title":"西方科技制裁让俄罗斯人转投盗版并积极拥抱开源Linux软件",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1287653.htm",
         "title":"美国上半年新车销量暴跌但价格飙升 新车均价同比涨超13%",
         "desc":"二季度，由于芯片短缺继续拖累汽车供应，美国汽车销量下滑，而不断上涨的标价使消费者望而生畏。芯片短缺主要影响了包括通用汽车在内的大多数汽车制造商，但本田汽车和日产汽车等亚洲品牌受到的影响最大。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287655.htm",
+        "title":"微软Exchange被爆高危后门 可用于窃取凭证等",
+        "desc":null
     }
 ]
