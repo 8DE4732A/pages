@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287527.htm",
-        "title":"《明码标价和禁止价格欺诈规定》今起施行“雪糕刺客”无处遁形",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1287529.htm",
         "title":"研究人员开发出一种无需血样的新COVID抗体检测法",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://hot.cnbeta.com/articles/game/1287643.htm",
         "title":"索尼PSVR2头显将使用Tobii眼球追踪技术",
         "desc":"在最近的一份新闻稿中，总部位于瑞典的高科技集团Tobii透露，索尼PlayStation VR2将使用其眼球追踪技术。公司曾于2022年2月公布进行过谈判。Tobii首席执行官AnandSrivatsa表示："
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287645.htm",
+        "title":"Windows 11获服务管道更新KB5016322 升至Build 25151.1010",
+        "desc":null
     }
 ]
