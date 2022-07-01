@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287531.htm",
-        "title":"23岁知名游戏YouTuber的Technoblade罹患癌症去世 他分享了最后的影片",
-        "desc":"受欢迎的Minecraft YouTuber的Technoblade已因癌症去世，享年23岁。在上传到他的YouTube频道的一段题为\"so \r\nlong \r\nnerds\"的视频中，在他父亲的叙述下，Technoblade感谢他的粉丝和同伴多年来的支持，并透露他的真名是Alex。(他\"不小心\"说漏了嘴，他在早先的视频中被称为Dave）。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287533.htm",
         "title":"中国锂电话语权引发焦虑 100家日本公司参与的产业链联盟在密谋什么？",
         "desc":"北京时间7月1日消息，6月30日，由日本国内约100家电池相关企业组建的“电池供应链协议会”宣布，将在今年9月参加锂标准的国际会议，探讨日本提出的方案，以牵制正在主导标准制定的中国。"
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1287647.htm",
         "title":"首款RISC-V笔记本ROMA接受预订：4核处理器 最高16GB+256GB",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287649.htm",
+        "title":"Gboard面向所有用户开放拆分键盘模式",
+        "desc":"以 Beta 版本的形式邀请部分 Gboard 用户测试拆分键盘（split keyboard）模式之后，今天该模式面向所有用户开放。不过该功能目前仍处于该应用的 Beta 版本中，最新版本号为 Gboard 11.9.04。"
     }
 ]
