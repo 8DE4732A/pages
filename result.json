@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1287513.htm",
-        "title":"MOF光催化工艺可在常温下将甲烷高效转换成甲醇",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287515.htm",
         "title":"理想L9展车全部到店 7月16日起开放试驾",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1287629.htm",
         "title":"FDA表示COVID-19变种加强针不需要新的临床试验就能获得批准",
         "desc":"美国食品和药物管理局（FDA）的一位官员告诉路透社，COVID-19疫苗制造商在开发针对该病毒最新变种的加强针时不需要进行新的临床试验。该机构将利用在大流行病早期开发的特定变体的临床试验、生产数据和动物研究来评估这些疫苗。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1287631.htm",
+        "title":"哈勃发现大麦哲伦云中的“绿松石色海洋”",
+        "desc":null
     }
 ]
