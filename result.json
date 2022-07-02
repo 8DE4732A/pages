@@ -1,20 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287699.htm",
-        "title":"INNOCN推出44C1G超宽屏显示器：采用32:9 WFHD 120Hz IPS面板",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1287701.htm",
-        "title":"美图书出版巨头Macmillan因遭遇网络攻击而被迫关闭IT系统",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1287703.htm",
-        "title":"[图]显卡更好买了 价格也回落到建议零售价",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1287705.htm",
         "title":"会吃的混凝土巨型蜗牛触发了佛罗里达州的检疫工作",
         "desc":"据CNET报道，佛罗里达州在6月23日确认帕斯科县出现巨型非洲陆生蜗牛（被称为GALS）后发布了检疫令。一般来说，蜗牛似乎是缓慢的、相对无害的、吞食植物的动物，但GALS是另一个层次。美国农业部将这种蜗牛描述为“地球上最具侵略性的害虫之一，无论在哪里都会造成农业和环境的破坏”。"
@@ -293,5 +278,20 @@
         "url":"https://www.cnbeta.com/articles/tech/1287815.htm",
         "title":"华为Mate50系列手机壳曝光：Pro版本镜头模组更大",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287817.htm",
+        "title":"“预售订单过万”“下单服务器被挤爆”……现在卖车都这么容易了？",
+        "desc":"人均富豪，遍地黄金？新车上市三天后，理想汽车急不可耐地晒出订单量：72小时，支付5000元的预订用户超过3万。要知道，理想L9是一款定价在45万元左右的车型，这也是中国汽车品牌一直难以攻下的价格区间。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287819.htm",
+        "title":"郭明錤：台积电的iPhone14订单将减少10%的消息与调查不一致",
+        "desc":"天风国际分析师郭明錤发文表示，传言台积电的iPhone14订单将减少10%，这与我的调查并不一致，维持苹果iPhone14今年下半年的出货量可能达到约9000万-1亿部的预期不变。苹果对iPhone出货量预测进行小幅调整是常见的，包括在新款量产前做出调整。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287821.htm",
+        "title":"日本开发支持5G玻璃天线 或可用于汽车",
+        "desc":"7月2日消息，日本电气硝子宣布开发出了支持高速通信标准“5G”的玻璃材料天线，特点是可以高效收发容易衰减的高频段电波，设想将设置于大楼的窗户和汽车前窗玻璃等处。该企业力争抓住扩大5G通信区域的需求，加快玻璃天线商品化。"
     }
 ]
