@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287683.htm",
-        "title":"币圈“雷曼危机”恶化 又一家加密货币平台上演“拔网线”",
-        "desc":"币圈的寒冬行情持续恶化，连锁反应下又有一家平台陷入危机。加密货币经济商Voyager Digital（VOYG，股价0.58加元，市值1.14亿加元）宣布，从纽约时间7月1日下午两点起暂停所有交易、存入、提取和持币奖励。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1287685.htm",
-        "title":"行程卡“摘星”到底意味着什么？",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287687.htm",
         "title":"“剧本杀”等娱乐场所纳入管理 业内人士建议从源头防止“问题剧本”",
         "desc":null
@@ -293,5 +283,15 @@
         "url":"https://www.cnbeta.com/articles/tech/1287801.htm",
         "title":"小米公布骁龙8+能效表现：CPU/GPU功耗暴降30%",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287803.htm",
+        "title":"机构：未来两年内采用非英特尔CPU的服务器出货量及份额将大幅上升",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287805.htm",
+        "title":"东芝涉足新一代电动飞机马达业务",
+        "desc":"据日经中文网报道，东芝将涉足新一代电动飞机核心部件马达的生产。据悉，东芝开发出了几十人乘坐的中型机所需要的兼顾输出功率与小型轻量化的技术，目标是到21世纪20年代后半期实现商业化。"
     }
 ]
