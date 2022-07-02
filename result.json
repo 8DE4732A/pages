@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287655.htm",
-        "title":"微软Exchange被爆高危后门 可用于窃取凭证等",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1287657.htm",
-        "title":"Surface Go 4有望改用ARM芯片 可能是高通骁龙7c",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287659.htm",
         "title":"联动《雷神4：爱与雷霆》微软抽奖送出定制Xbox Series X",
         "desc":null
@@ -293,5 +283,15 @@
         "url":"https://www.cnbeta.com/articles/tech/1287773.htm",
         "title":"英特尔Z790主板支持PCIe Gen 5 M.2 将于2022年第三季度发布",
         "desc":"英特尔的Z790主板将作为旗舰700系列平台推出，为第13代Raptor Lake \r\nCPU设计。这些主板预计将带有一些新的I/O规范升级，这将使人们有理由在现有的600系列产品中选择它们。英特尔第13代CPU阵容将在今年秋天晚些时候到来，Intel将准备好不仅在现有的600系列主板上支持它，而且在下一代700系列主板上也支持。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287775.htm",
+        "title":"小鹏P7雨天出事故安全气囊没有弹出 官方回应：撞击力度未达到弹出要求",
+        "desc":"7月2日消息，杨先生是小鹏P7的车主。6月20号早上，雨很大，行驶中突然打滑撞了护栏，四个车门都打不开，最后从后备箱爬出来。车头损坏严重，安全气囊一个都没弹出来。而对于杨先生的投诉，厂家的回应是：“撞击力度没有达到气囊弹出的要求。”"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287777.htm",
+        "title":"炒币，榨干了韩国年轻人",
+        "desc":"一个月前，赵友娜的父母找学校老师请假，说要带孩子去济州岛体验生活一个月。实际上，他们则是举家开车去了全罗南道莞岛郡的一家养老院，窝在里面整日不出门。年幼的赵友娜不知道发生了什么，只看到父亲每天趴在电脑前，忙着搜索着什么。直到有一天，她在昏睡时被母亲抱上汽车。父亲一脚油门，带一家三口冲进了深海。"
     }
 ]
