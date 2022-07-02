@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287761.htm",
-        "title":"美国加州司法部门泄露了当地枪支所有者的个人数据",
-        "desc":"最近几天，与加州枪支所有者有关的个人数据的泄漏，激怒了保守派，并且其范围似乎比最初报道的要广得多。事实上，加州司法部门的数据泄露现在被认为本次事件可能已经影响到数十万枪支所有者。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1287763.htm",
         "title":"对古代大灭绝的研究揭示了恐龙在冰雪中占领地球 而不是在温暖的环境中",
         "desc":null
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1287877.htm",
         "title":"iPhone 14 Pro和Pro Max可能是有史以来最昂贵的iPhone手机",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287879.htm",
+        "title":"据称AMD将通过新的3D V-Cache和低端芯片扩大AM4 Ryzen阵容",
         "desc":null
     }
 ]
