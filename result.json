@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287627.htm",
-        "title":"泄密者再次确认AirPods Pro 2换用USB-C接口",
-        "desc":"苹果预计将在今年秋天与iPhone 14一起发布AirPods Pro \r\n2。这款新的高端真无线耳机比前代产品有多项改进，并且不仅仅是在音乐/音频体验方面。最近的一份报告称，AirPods Pro \r\n2将配备心率监测器、助听器功能和一个USB-C端口，而不是Lightning连接。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1287629.htm",
-        "title":"FDA表示COVID-19变种加强针不需要新的临床试验就能获得批准",
-        "desc":"美国食品和药物管理局（FDA）的一位官员告诉路透社，COVID-19疫苗制造商在开发针对该病毒最新变种的加强针时不需要进行新的临床试验。该机构将利用在大流行病早期开发的特定变体的临床试验、生产数据和动物研究来评估这些疫苗。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1287631.htm",
         "title":"哈勃发现大麦哲伦云中的“绿松石色海洋”",
         "desc":null
@@ -292,6 +282,16 @@
     {
         "url":"https://hot.cnbeta.com/articles/game/1287743.htm",
         "title":"暴雪宣布收购Proletariat以壮大《魔兽世界》开发团队",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287745.htm",
+        "title":"一年估值缩水90% 欧洲最大金融科技独角兽Klarna仅值65亿美元",
+        "desc":"Klarna估值暴跌，是整个金融科技市场溃败的缩影。据媒体援引知情人士称，欧洲分期付款服务提供商Klarna将以65亿美元的估值进行新一轮融资。Klarna正在与包括红杉资本和阿布达比（Abu\r\n Dhabi）政府主权财富基金Mubadala在内的投资者敲定这项融资，融资金额为6亿美元。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287747.htm",
+        "title":"第25万辆下线：宝马正式停产BMW i3紧凑型纯电车型",
         "desc":null
     }
 ]
