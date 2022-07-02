@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287623.htm",
-        "title":"台积电代工 骁龙8+“凉”了：实测比骁龙8好太多",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1287625.htm",
-        "title":"已故苹果公司联合创始人史蒂夫·乔布斯将被追授总统自由勋章",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287627.htm",
         "title":"泄密者再次确认AirPods Pro 2换用USB-C接口",
         "desc":"苹果预计将在今年秋天与iPhone 14一起发布AirPods Pro \r\n2。这款新的高端真无线耳机比前代产品有多项改进，并且不仅仅是在音乐/音频体验方面。最近的一份报告称，AirPods Pro \r\n2将配备心率监测器、助听器功能和一个USB-C端口，而不是Lightning连接。"
@@ -293,5 +283,15 @@
         "url":"https://hot.cnbeta.com/articles/movie/1287739.htm",
         "title":"《阿凡达2：水之道》再曝新剧照 主角杰克养女超漂亮",
         "desc":"《阿凡达2》再曝《帝国》杂志新封面和新剧照，“异形女王”西格妮·韦弗新加盟出演的角色，居然就是此前在海报和预告中很显眼的那个纳美人少女，她是杰克和涅提妮收养的女儿，名叫Kiri。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1287741.htm",
+        "title":"天文学家在仙女星系外围发现不寻常的“化石”  可能揭示宇宙的历史",
+        "desc":null
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/game/1287743.htm",
+        "title":"暴雪宣布收购Proletariat以壮大《魔兽世界》开发团队",
+        "desc":null
     }
 ]
