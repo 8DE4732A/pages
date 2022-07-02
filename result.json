@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287679.htm",
-        "title":"2022下半年的第一个告别：VUE要停运，很多网友却舍不得它",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1287681.htm",
-        "title":"特斯拉计划缩减董事会规模 维权投资者团体要求SEC介入调查",
-        "desc":"维权投资者SOC投资集团已要求美国联邦金融监管机构调查电动汽车制造商特斯拉，原因是后者正计划将董事会规模从8人缩减至7人，并取消独立董事席位。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287683.htm",
         "title":"币圈“雷曼危机”恶化 又一家加密货币平台上演“拔网线”",
         "desc":"币圈的寒冬行情持续恶化，连锁反应下又有一家平台陷入危机。加密货币经济商Voyager Digital（VOYG，股价0.58加元，市值1.14亿加元）宣布，从纽约时间7月1日下午两点起暂停所有交易、存入、提取和持币奖励。"
@@ -293,5 +283,15 @@
         "url":"https://hot.cnbeta.com/articles/game/1287797.htm",
         "title":"Denuvo现在正通过其新的DRM解决方案来对付DLC盗版者",
         "desc":"Irdeto，这个在盗版保护解决方案\"Denuvo\"背后的软件公司，现在正瞄准那些没有购买就获得游戏附加内容（DLC）的用户。该方案名为SecureDLC，它为游戏开发商提供了保护其在Steam、微软商店和Epic游戏商店等大型PC游戏平台上的微交易的选择。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287799.htm",
+        "title":"小鹏P7出事故气囊未弹出 官方回应：事发后车门可解锁打开",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287801.htm",
+        "title":"小米公布骁龙8+能效表现：CPU/GPU功耗暴降30%",
+        "desc":null
     }
 ]
