@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/movie/1287577.htm",
-        "title":"达达里奥结婚了 新郎是《寂静之地》的制作人",
-        "desc":"“性感女神”亚历珊德拉·达达里奥结婚了，近日36岁的她在社交媒体公开了和53岁的丈夫安德鲁·福姆的结婚照，两人美国新奥尔良举行了婚礼。达达里奥在社交媒体分享结婚的礼堂，她写道:“我们喜欢这个大厅的外观——它很古老，颇具历史意义”。"
-    },
-    {
         "url":"https://hot.cnbeta.com/articles/game/1287579.htm",
         "title":"Meta Quest 2全球销量已超1480万台",
         "desc":"虽然动作缓慢，但虚拟现实市场在过去几年中的确一直在稳步增长。而在所有竞争者中，对增长贡献最大的可能就是Meta了，也就是Oculus。其当前的旗舰头显Meta Quest 2一直保持了这种趋势。"
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1287693.htm",
         "title":"TikTok因涉及“昏迷挑战”的死亡事件再次被起诉",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287695.htm",
+        "title":"Starlink用得好 网瘾少年也能上山下海浪起来",
         "desc":null
     }
 ]
