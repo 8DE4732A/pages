@@ -1,20 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1287705.htm",
-        "title":"会吃的混凝土巨型蜗牛触发了佛罗里达州的检疫工作",
-        "desc":"据CNET报道，佛罗里达州在6月23日确认帕斯科县出现巨型非洲陆生蜗牛（被称为GALS）后发布了检疫令。一般来说，蜗牛似乎是缓慢的、相对无害的、吞食植物的动物，但GALS是另一个层次。美国农业部将这种蜗牛描述为“地球上最具侵略性的害虫之一，无论在哪里都会造成农业和环境的破坏”。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1287707.htm",
-        "title":"2022年BigPicture摄影大赛获奖作品中的罕见景象令人印象深刻",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1287709.htm",
-        "title":"英特尔14代Meteor Lake处理器迎来进一步的Linux Coreboot支持",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287711.htm",
         "title":"Nothing Phone(1)原厂TPU手机保护壳曝光",
         "desc":null
@@ -293,5 +278,20 @@
         "url":"https://www.cnbeta.com/articles/tech/1287821.htm",
         "title":"日本开发支持5G玻璃天线 或可用于汽车",
         "desc":"7月2日消息，日本电气硝子宣布开发出了支持高速通信标准“5G”的玻璃材料天线，特点是可以高效收发容易衰减的高频段电波，设想将设置于大楼的窗户和汽车前窗玻璃等处。该企业力争抓住扩大5G通信区域的需求，加快玻璃天线商品化。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287823.htm",
+        "title":"Intel Arc显卡跑分优化功能被禁用：能跟AMD/NV公平竞争了",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287825.htm",
+        "title":"通用汽车发布二季度盈利预警 “缺芯”令16%的新车无法造好交付",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287827.htm",
+        "title":"Linus谈Linux内核将引入Rust：以防此事搞砸了我又发脾气 先给大家道个歉",
+        "desc":"这几天，由 Linux 基金会主办的 2022 开源峰会如约而至。Linux 之父 Linus Torvalds 也出席了会议。一个小插曲是，一张现场传来的他本人的照片让不少网友和粉丝感叹：Linus 真的老了！"
     }
 ]
