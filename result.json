@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1287763.htm",
-        "title":"对古代大灭绝的研究揭示了恐龙在冰雪中占领地球 而不是在温暖的环境中",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287765.htm",
         "title":"新加坡酒厂推出“冲厕水啤酒”：首批已快卖光",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1287879.htm",
         "title":"据称AMD将通过新的3D V-Cache和低端芯片扩大AM4 Ryzen阵容",
         "desc":null
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/game/1287881.htm",
+        "title":"Windows 11目前在Steam游戏玩家中的市场份额为21%",
+        "desc":"Valve公布了其最新的Steam调查结果，揭示了关于客户中软件和硬件偏好的新细节。根据2022年6月的报告，Windows \r\n11已经跨越了20%的大关，达到了21.23%的市场份额（+1.64%）。Steam的数据与AdDuplex最近的报告相似，后者声称Windows\r\n 11在Windows市场的份额达到23%。"
     }
 ]
