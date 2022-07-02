@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287595.htm",
-        "title":"国航东航南航购买292架空客A320NEO飞机 总价2500亿元",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287597.htm",
         "title":"Google发布Gboard分离式屏幕键盘测试版 更容易在可折叠手机上打字",
         "desc":"Google的AndroidGboard键盘应用为使用可折叠手机的用户（至少目前是该应用的测试版用户）提供了一个分离式软键盘模式。其目的是使在三星Galaxy Z Fold 3或微软Surface Duo 2的大屏幕上打字不那么尴尬，且更符合人体工程学。"
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1287711.htm",
         "title":"Nothing Phone(1)原厂TPU手机保护壳曝光",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287713.htm",
+        "title":"Steam六月软硬件报告：Linux市场份额达到1.18%",
         "desc":null
     }
 ]
