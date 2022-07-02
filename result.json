@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/movie/1287549.htm",
-        "title":"2022上半年网剧/电视剧热榜发布：《梦华录》夺冠 你看过几部？",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287551.htm",
         "title":"国内智能手机成品库存超5000万部？供应链提出4大警讯",
         "desc":"“目前还看不到智能手机的出货拐点，今年下半年的出货也不会高于上半年。”针对如今的智能手机出货现状，一位手机上游产业链人士表示。深究其原因，疫情的持续反弹、经济下行，俄乌冲突等因素影响了智能手机的出货。"
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/science/1287665.htm",
         "title":"银河系中心还隐藏着其他东西吗？",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1287667.htm",
+        "title":"怀孕期间感染COVID-19的母亲所生的婴儿表现出不同的神经发育结果",
         "desc":null
     }
 ]
