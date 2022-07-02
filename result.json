@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1287593.htm",
-        "title":"新研究显示人类在水下的听力比以前想象的要好得多",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287595.htm",
         "title":"国航东航南航购买292架空客A320NEO飞机 总价2500亿元",
         "desc":null
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1287709.htm",
         "title":"英特尔14代Meteor Lake处理器迎来进一步的Linux Coreboot支持",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287711.htm",
+        "title":"Nothing Phone(1)原厂TPU手机保护壳曝光",
         "desc":null
     }
 ]
