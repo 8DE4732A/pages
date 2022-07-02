@@ -1,40 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287563.htm",
-        "title":"国产封测第一 长电科技称已实现4nm手机芯片封装",
-        "desc":null
-    },
-    {
-        "url":"https://hot.cnbeta.com/articles/music/1287565.htm",
-        "title":"大量第三方网易云音乐应用被迫下架微软商店",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/science/1287567.htm",
-        "title":"研究发现步行过程可以改善认知功能",
-        "desc":"很长时间以来，人们一直认为，当行走和一项其它任务结合起来时，两者都会受到影响。根据罗切斯特大学德尔蒙特神经科学研究所的研究结果，情况并不总是如此。一些年轻、健康的人通过改变神经资源的使用，可以在行走时改善认知功能。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1287569.htm",
-        "title":"财经大V诱导交易被三罪公诉 证监会提醒不要轻信所谓财经大V",
-        "desc":"据证监会7月1日消息，近日，上海某坐拥400万微博粉丝的财经大V徐某，因涉嫌在微博、直播间发布虚假投资平台广告信息、忽悠投资者在黑平台交易50ETF期权，被上海市浦东新区检察院以涉嫌非法经营罪、帮助网络信息犯罪活动罪、虚假广告罪提起公诉。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1287571.htm",
-        "title":"造车新势力6月成绩单出炉：小鹏交付量同比增长133% 蔚来创历史新高",
-        "desc":"造车新势力6月成绩单出炉！蔚来：6月交付新车12961辆，创月度交付量新高"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/science/1287573.htm",
-        "title":"全球变暖何解？麻省理工团队激进设想：为地球造“太空气泡”防护罩",
-        "desc":"麻省理工学院研究人员团队提出一种阻止全球变暖的激进设想，即制造出大量“太空气泡”，组成防护罩，使太阳反射离开地球。人类自工业革命以来排放的大量温室气体正在地球周围形成一种“毯子”，使热量滞留在大气中，导致全球气温变得越来越高。"
-    },
-    {
-        "url":"https://hot.cnbeta.com/articles/funny/1287575.htm",
-        "title":"反抗高价雪糕，五毛雪莲迎战“雪糕刺客”",
-        "desc":"街头巷尾还有人在用《孤勇者》对暗号，但优秀的互联网冲浪选手已经开始创作“雪莲文学”。没有雪莲的夏天只是一盘散沙。——《糕时代》你保护雪莲，我保护你。《少年的糕》梦龙要弄死我们，钟薛高也要凑热闹，那就打！——《建糕大业》所谓雪莲文学，源于一则食安爆料。"
-    },
-    {
         "url":"https://hot.cnbeta.com/articles/movie/1287577.htm",
         "title":"达达里奥结婚了 新郎是《寂静之地》的制作人",
         "desc":"“性感女神”亚历珊德拉·达达里奥结婚了，近日36岁的她在社交媒体公开了和53岁的丈夫安德鲁·福姆的结婚照，两人美国新奥尔良举行了婚礼。达达里奥在社交媒体分享结婚的礼堂，她写道:“我们喜欢这个大厅的外观——它很古老，颇具历史意义”。"
@@ -292,6 +257,41 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1287679.htm",
         "title":"2022下半年的第一个告别：VUE要停运，很多网友却舍不得它",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287681.htm",
+        "title":"特斯拉计划缩减董事会规模 维权投资者团体要求SEC介入调查",
+        "desc":"维权投资者SOC投资集团已要求美国联邦金融监管机构调查电动汽车制造商特斯拉，原因是后者正计划将董事会规模从8人缩减至7人，并取消独立董事席位。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287683.htm",
+        "title":"币圈“雷曼危机”恶化 又一家加密货币平台上演“拔网线”",
+        "desc":"币圈的寒冬行情持续恶化，连锁反应下又有一家平台陷入危机。加密货币经济商Voyager Digital（VOYG，股价0.58加元，市值1.14亿加元）宣布，从纽约时间7月1日下午两点起暂停所有交易、存入、提取和持币奖励。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287685.htm",
+        "title":"行程卡“摘星”到底意味着什么？",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287687.htm",
+        "title":"“剧本杀”等娱乐场所纳入管理 业内人士建议从源头防止“问题剧本”",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287689.htm",
+        "title":"谷歌力挺女性堕胎权：将自动删除用户堕胎位置历史",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287691.htm",
+        "title":"抖音海外版TikTok：正与拜登政府敲定最终数据安全协议",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287693.htm",
+        "title":"TikTok因涉及“昏迷挑战”的死亡事件再次被起诉",
         "desc":null
     }
 ]
