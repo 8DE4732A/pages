@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1287631.htm",
-        "title":"哈勃发现大麦哲伦云中的“绿松石色海洋”",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287633.htm",
         "title":"亚马逊向欧盟妥协：为Prime付费服务增加“取消订阅”按钮",
         "desc":"据报道，在遭到全球多家消费者团体的投诉后，亚马逊终于做出调整，让用户轻松地取消对“Amazon Prime”服务的订阅。去年4月，欧洲消费者组织（BEUC）、挪威消费者委员会（NCC）和跨大西洋消费者对话（TACD，美国和欧盟消费者组织的论坛）向欧盟委员会表达了对亚马逊的不满。"
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1287747.htm",
         "title":"第25万辆下线：宝马正式停产BMW i3紧凑型纯电车型",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287749.htm",
+        "title":"PDD直播间唱歌被诉 自我检讨唱歌难听",
+        "desc":"近日，知名主播PDD直播时透露自己因直播唱歌《向天再借五百年》被相关方起诉索赔10W，使得此前粉丝经常调侃的“原唱：xxx，被告：刘谋”预言成真。"
     }
 ]
