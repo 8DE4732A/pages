@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/game/1287643.htm",
-        "title":"索尼PSVR2头显将使用Tobii眼球追踪技术",
-        "desc":"在最近的一份新闻稿中，总部位于瑞典的高科技集团Tobii透露，索尼PlayStation VR2将使用其眼球追踪技术。公司曾于2022年2月公布进行过谈判。Tobii首席执行官AnandSrivatsa表示："
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287645.htm",
         "title":"Windows 11获服务管道更新KB5016322 升至Build 25151.1010",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1287761.htm",
         "title":"美国加州司法部门泄露了当地枪支所有者的个人数据",
         "desc":"最近几天，与加州枪支所有者有关的个人数据的泄漏，激怒了保守派，并且其范围似乎比最初报道的要广得多。事实上，加州司法部门的数据泄露现在被认为本次事件可能已经影响到数十万枪支所有者。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1287763.htm",
+        "title":"对古代大灭绝的研究揭示了恐龙在冰雪中占领地球 而不是在温暖的环境中",
+        "desc":null
     }
 ]
