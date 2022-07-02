@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287747.htm",
-        "title":"第25万辆下线：宝马正式停产BMW i3紧凑型纯电车型",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287749.htm",
         "title":"PDD直播间唱歌被诉 自我检讨唱歌难听",
         "desc":"近日，知名主播PDD直播时透露自己因直播唱歌《向天再借五百年》被相关方起诉索赔10W，使得此前粉丝经常调侃的“原唱：xxx，被告：刘谋”预言成真。"
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1287863.htm",
         "title":"2021年全球MPU芯片供应商排名发布：英特尔第一、苹果第二、华为海思第九",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287865.htm",
+        "title":"AMD被黑客窃取450Gb机密数据原因曝光：员工用了弱密码",
+        "desc":"近年来不少大型科技公司也一样遭遇黑客勒索，AMD现在也成了受害者，前几天一家名为RansomHouse的黑客组织在暗网上公开了部分AMD数据，要挟AMD给赎金。他们其实在仅今年1月份就攻破了AMD的防线，据说盗取的数据有450Gb（也有报道写成450GB），现在才公布一些数据的原因是AMD头铁，没打算给他们赎金，所以RansomHouse放出部分数据给AMD施加压力。"
     }
 ]
