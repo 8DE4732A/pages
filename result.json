@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1287667.htm",
-        "title":"怀孕期间感染COVID-19的母亲所生的婴儿表现出不同的神经发育结果",
-        "desc":null
-    },
-    {
         "url":"https://hot.cnbeta.com/articles/music/1287669.htm",
         "title":"周杰伦官宣：新专辑《最伟大的作品》7月6日首播",
         "desc":"周杰伦于今日在INS宣布，他的最新专辑《最伟大的作品》将于7月6日中午12点首播，倒计时五天！根据之前的爆料消息，该专辑将有12首歌曲，除老搭档方文山外，与五月天等大腕都有合作，并且十二首歌曲的作曲都是周杰伦，准确消息将会在五天后揭晓，让我们期待一下吧！"
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1287785.htm",
         "title":"通胀创40年来新高，苹果能否禁得住涨价的诱惑？",
         "desc":"今年5月，美国的通胀率达到8.6%，创下自1981年以来的最高水平。对于苹果公司来说，上次面临这样的通胀环境时，它上市还不到一年，最畅销的产品还是Apple II家用电脑。除了美国，苹果其他主要市场也面临类似甚至更高的通胀水平。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287787.htm",
+        "title":"挥别Java 8：Devops工具Jenkins宣布本周正式向Java 11迁移",
+        "desc":null
     }
 ]
