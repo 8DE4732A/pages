@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287601.htm",
-        "title":"台积电盘初跌5% 三大客户罕见下调订单量",
-        "desc":"半导体板块普跌，其中台积电跌5.15%。台积电罕见出现3大客户苹果、AMD及英伟达同时砍单，将于7月中举行的业绩说明会下修全年营收目标杂音已涌现，同时也使得弥漫悲观氛围的半导体市况雪上加霜。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1287603.htm",
-        "title":"全球500位超级富豪上半年财富总计缩水1.4万亿美元 创史上最大跌幅",
-        "desc":"伊隆·马斯克的财富缩水近620亿美元，杰夫·贝索斯缩水约630亿，马克·扎克伯格的净资产则减少了一半以上。2022年上半年财富排名全球前500位的富豪总计损失了1.4万亿美元，跌幅骇人，亿万富豪阶级六个月财富缩水的规模创出了有史以来最大。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1287605.htm",
         "title":"研究显示现代城市居民失去了大约一半的肠道微生物",
         "desc":null
@@ -292,6 +282,16 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1287717.htm",
         "title":"Google被指放任一家受制裁的俄罗斯广告公司持续数月收集用户数据",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287719.htm",
+        "title":"换代宝马新X3想象图",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287721.htm",
+        "title":"因加密货币挖矿需求下滑 英伟达希望减少RTX 40新显卡的5nm晶圆订单",
         "desc":null
     }
 ]
