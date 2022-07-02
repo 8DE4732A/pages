@@ -1,20 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287645.htm",
-        "title":"Windows 11获服务管道更新KB5016322 升至Build 25151.1010",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1287647.htm",
-        "title":"首款RISC-V笔记本ROMA接受预订：4核处理器 最高16GB+256GB",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1287649.htm",
-        "title":"Gboard面向所有用户开放拆分键盘模式",
-        "desc":"以 Beta 版本的形式邀请部分 Gboard 用户测试拆分键盘（split keyboard）模式之后，今天该模式面向所有用户开放。不过该功能目前仍处于该应用的 Beta 版本中，最新版本号为 Gboard 11.9.04。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287651.htm",
         "title":"Spotify正测试多项工具：允许用户直接在主应用录制、编辑和发布播客",
         "desc":null
@@ -292,6 +277,21 @@
     {
         "url":"https://www.cnbeta.com/articles/science/1287763.htm",
         "title":"对古代大灭绝的研究揭示了恐龙在冰雪中占领地球 而不是在温暖的环境中",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287765.htm",
+        "title":"新加坡酒厂推出“冲厕水啤酒”：首批已快卖光",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287767.htm",
+        "title":"小鹏P7出事故安全气囊没有弹出 车主：车门打不开、从后备厢爬出",
+        "desc":"大家都知道，汽车安全气囊是发生严重事故时最后的保命装置了，但近日，杨先生遭遇了一件让他十分不解的事情。据1818黄金眼报道，6月20日早上，杨先生开着小鹏P7，因路面积水严重，发生打滑，匆忙间其踩了几脚刹车，导致车子失控，掉头撞到了路边的护栏上，损失惨重。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287769.htm",
+        "title":"英属维京群岛下令清算 Three Arrows Capital在美申请破产保护",
         "desc":null
     }
 ]
