@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/game/1287753.htm",
-        "title":"堕胎法案后 B社员工批评领导层不作为",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287755.htm",
         "title":"报道称苹果已将首批iPhone 14订单削减10%",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1287869.htm",
         "title":"特斯拉季度出货量下降 结束了两年的增长势头",
         "desc":"特斯拉公司第二季度在全球交付了254695辆汽车，结束了两年的增长势头。这一结果于周六公布，低于分析师平均预测得出的261181辆汽车交付量的预期。这个数字低于特斯拉前三个月创纪录的310048辆，但高于去年同期的201250辆。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287871.htm",
+        "title":"欧盟禁售燃油车时间确定 一周前多国反对，忽然达成共识？",
+        "desc":null
     }
 ]
