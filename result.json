@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1287675.htm",
-        "title":"“中国天眼”发现疑似地外文明信号，“三体人”真的存在吗？",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287677.htm",
         "title":"美国堕胎权被废止 科技公司是“帮凶”？",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1287793.htm",
         "title":"2万元貂皮被德邦快递当垃圾扔掉赔付300 官方回应协调中",
         "desc":"7月1日，浙江宁波，代女士称自己因价值2万余元的貂皮货物迟迟未到货，查看监控后发现货物已被德邦一快递站点员工丢弃。代女士表示，自己从6月11日起多次催促配送，直到13日未收到货后前往站点查看监控。6月13日至28日期间，站点及快递公司未能帮自己解决问题。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287795.htm",
+        "title":"被收购的美国无线运营商Sprint剩余的LTE通信网络正式关闭",
+        "desc":"T-Mobile发言人证实，美国无线运营商Sprint剩余的LTE塔已经开始正式关闭，自从2020年4月T-Mobile收购Sprint，包括其网络、门店、资产、频谱、塔台和客户已经过去两年多了。T-Mobile已经退役了Sprint的3G和LTE网络的无线频谱，以增加频宽，加速覆盖全美的5G网络。"
     }
 ]
