@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/game/1287579.htm",
-        "title":"Meta Quest 2全球销量已超1480万台",
-        "desc":"虽然动作缓慢，但虚拟现实市场在过去几年中的确一直在稳步增长。而在所有竞争者中，对增长贡献最大的可能就是Meta了，也就是Oculus。其当前的旗舰头显Meta Quest 2一直保持了这种趋势。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/science/1287581.htm",
-        "title":"地球将近四分之一的海底已经被绘制成地图",
-        "desc":"由于一项名为\"海底2030\"的国际倡议，地球上大约25%（确切地说，是23.4%）的海底已经被绘制出来。该项目主要依靠政府、公司和研究机构自愿提供测深数据（或海洋地形图），这些都是联合国领导的名为\"海洋十年\"的大型倡议的一部分。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287583.htm",
         "title":"Arm全面进化：CPU超越酷睿i7、GPU光追性能猛增3倍",
         "desc":null
@@ -292,6 +282,16 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1287695.htm",
         "title":"Starlink用得好 网瘾少年也能上山下海浪起来",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1287697.htm",
+        "title":"独特的火星岩石使NASA“毅力号”探测器的取样梦想复杂化",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287699.htm",
+        "title":"INNOCN推出44C1G超宽屏显示器：采用32:9 WFHD 120Hz IPS面板",
         "desc":null
     }
 ]
