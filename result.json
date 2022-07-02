@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287637.htm",
-        "title":"Meta向元宇宙“跨出了”重要一步",
-        "desc":"扎克伯格，终于对自己最重量级的产品facebook“动手了”，他开始探索起NFT和Web3。2022年6月30日，Meta发言人在推特上表示，已开始在Facebook上为部分美国创作者测试NFT，这些NFT运行在以太坊和Polygon上。很快，它还会增加对Solana和Flow\r\n NFT的支持。而在此之前（2022年5月），Meta旗下Instagram已经开始向部分用户开放使用NFT。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287639.htm",
         "title":"苹果必须面对英国关于其应用商店佣金不公平的投诉",
         "desc":"苹果公司将在英国面临全面审判，因为它被指控在App \r\nStore上通过其佣金率向人们过度收费，从而违反了竞争法规。总部设在伦敦的竞争上诉法庭拒绝了苹果公司限制或撤销2021年提出的集体诉讼的动议。数字经济专家和讲师Rachael\r\n Kent博士正在领导这场诉讼。"
@@ -292,6 +287,11 @@
     {
         "url":"https://hot.cnbeta.com/articles/game/1287753.htm",
         "title":"堕胎法案后 B社员工批评领导层不作为",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287755.htm",
+        "title":"报道称苹果已将首批iPhone 14订单削减10%",
         "desc":null
     }
 ]
