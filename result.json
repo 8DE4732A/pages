@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287711.htm",
-        "title":"Nothing Phone(1)原厂TPU手机保护壳曝光",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1287713.htm",
-        "title":"Steam六月软硬件报告：Linux市场份额达到1.18%",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287715.htm",
         "title":"卡特迈国家公园的棕熊已结束冬眠 “棕熊频道”又一次上线",
         "desc":null
@@ -293,5 +283,15 @@
         "url":"https://www.cnbeta.com/articles/tech/1287827.htm",
         "title":"Linus谈Linux内核将引入Rust：以防此事搞砸了我又发脾气 先给大家道个歉",
         "desc":"这几天，由 Linux 基金会主办的 2022 开源峰会如约而至。Linux 之父 Linus Torvalds 也出席了会议。一个小插曲是，一张现场传来的他本人的照片让不少网友和粉丝感叹：Linus 真的老了！"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287829.htm",
+        "title":"上海至北京航班、列车逐步恢复",
+        "desc":"据央视新闻消息，记者从多家航空公司了解到，从7月2日开始，京沪航班批量恢复。以上海为主运营基地的航空公司率先恢复京沪航班，7月2日，东航从上海虹桥机场往返北京首都机场的航班有4个；7月3日，东航从上海虹桥机场往返北京首都机场的航班有6个；从7月4日下周一开始，东航每日上海往返北京的航班将增加到9个。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287831.htm",
+        "title":"芯片业下半年有多惨？第一家大厂给出了数字预测吓坏华尔街",
+        "desc":"费城半导体指数今年以来已下跌了38%，同时分析师表示，这可能意味着美国经济的放缓，甚至衰退。电子产品需求降温，芯片业或将迎来“最冷夏天”。近日，芯片制造巨头美光（Micron）释出了远低于预期的第四季度业绩指引，盘后股价一度跌超6%，华尔街将其作为一个不详的信号。"
     }
 ]
