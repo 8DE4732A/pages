@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/game/1287743.htm",
-        "title":"暴雪宣布收购Proletariat以壮大《魔兽世界》开发团队",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1287745.htm",
-        "title":"一年估值缩水90% 欧洲最大金融科技独角兽Klarna仅值65亿美元",
-        "desc":"Klarna估值暴跌，是整个金融科技市场溃败的缩影。据媒体援引知情人士称，欧洲分期付款服务提供商Klarna将以65亿美元的估值进行新一轮融资。Klarna正在与包括红杉资本和阿布达比（Abu\r\n Dhabi）政府主权财富基金Mubadala在内的投资者敲定这项融资，融资金额为6亿美元。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287747.htm",
         "title":"第25万辆下线：宝马正式停产BMW i3紧凑型纯电车型",
         "desc":null
@@ -293,5 +283,15 @@
         "url":"https://hot.cnbeta.com/articles/game/1287859.htm",
         "title":"玩家推测《对马岛之鬼2》2024年发售",
         "desc":"最近《对马岛之鬼》开发商Sucker Punch明确表示他们暂时不会回归开发《声名狼藉》和《狡狐大冒险》等游戏系列，目前也没有其他工作室负责开发这两个IP。明眼人都知道Sucker Punch肯定在开发《对马岛之鬼》的续作，暂且称为《对马岛之鬼2》。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287861.htm",
+        "title":"钟薛高回应产品1小时不化：含固体成分 融化不能变成水",
+        "desc":"7月2日消息，近日，有网友称在室温31℃左右放置1小时后，钟薛高海盐椰椰口味雪糕没有“完全融化”。对此，钟薛高回应凤凰网科技，不存在不融化的雪糕，只是产品主要成分为牛奶，稀奶油等，固形物含量达到40%左右，配方未额外添加饮用水。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287863.htm",
+        "title":"2021年全球MPU芯片供应商排名发布：英特尔第一、苹果第二、华为海思第九",
+        "desc":null
     }
 ]
