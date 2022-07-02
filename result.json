@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287771.htm",
-        "title":"就性能而言GeForce GTX 1630与2016年的GTX 1050 Ti几乎相同",
-        "desc":"NVIDIA几天前发布了该公司入门级的GeForce GTX \r\n1630显卡，零售价为169美元。通过Guru3D和TechPowerUP等技术机构的测试，我们发现新的GPU不仅比基于AMD Radeon \r\nRX 6400 RDNA 2的GPU慢，而且在性能方面与NVIDIA发布的2016年GPU--GTX 1050 Ti相同。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287773.htm",
         "title":"英特尔Z790主板支持PCIe Gen 5 M.2 将于2022年第三季度发布",
         "desc":"英特尔的Z790主板将作为旗舰700系列平台推出，为第13代Raptor Lake \r\nCPU设计。这些主板预计将带有一些新的I/O规范升级，这将使人们有理由在现有的600系列产品中选择它们。英特尔第13代CPU阵容将在今年秋天晚些时候到来，Intel将准备好不仅在现有的600系列主板上支持它，而且在下一代700系列主板上也支持。"
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1287887.htm",
         "title":"德国要求特斯拉紧急召回两款车型 全球超5.9万辆受影响",
+        "desc":null
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/movie/1287889.htm",
+        "title":"《阿凡达2：水之道》新剧照曝光：12月16日上映",
         "desc":null
     }
 ]
