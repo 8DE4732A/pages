@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287677.htm",
-        "title":"美国堕胎权被废止 科技公司是“帮凶”？",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287679.htm",
         "title":"2022下半年的第一个告别：VUE要停运，很多网友却舍不得它",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1287795.htm",
         "title":"被收购的美国无线运营商Sprint剩余的LTE通信网络正式关闭",
         "desc":"T-Mobile发言人证实，美国无线运营商Sprint剩余的LTE塔已经开始正式关闭，自从2020年4月T-Mobile收购Sprint，包括其网络、门店、资产、频谱、塔台和客户已经过去两年多了。T-Mobile已经退役了Sprint的3G和LTE网络的无线频谱，以增加频宽，加速覆盖全美的5G网络。"
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/game/1287797.htm",
+        "title":"Denuvo现在正通过其新的DRM解决方案来对付DLC盗版者",
+        "desc":"Irdeto，这个在盗版保护解决方案\"Denuvo\"背后的软件公司，现在正瞄准那些没有购买就获得游戏附加内容（DLC）的用户。该方案名为SecureDLC，它为游戏开发商提供了保护其在Steam、微软商店和Epic游戏商店等大型PC游戏平台上的微交易的选择。"
     }
 ]
