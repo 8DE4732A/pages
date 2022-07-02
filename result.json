@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287755.htm",
-        "title":"报道称苹果已将首批iPhone 14订单削减10%",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287757.htm",
         "title":"华为影像XMAGE品牌正式发布：下一代旗舰将突破手机影像新高度",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1287871.htm",
         "title":"欧盟禁售燃油车时间确定 一周前多国反对，忽然达成共识？",
         "desc":null
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/game/1287873.htm",
+        "title":"育碧：9月1日起 多款老游戏的在线服务将关闭",
+        "desc":"育碧将从2022年9月1日开始关闭一批老游戏的在线服务，其中包括多款《刺客信条》游戏——《刺客信条2》、《刺客信条3》、《刺客信条：兄弟会》、《刺客信条：解放HD》、《刺客信条：启示录》。这些游戏将不支持在线功能，DLC的安装以及游玩也将不可再用。育碧表示重制版游戏不受影响。"
     }
 ]
