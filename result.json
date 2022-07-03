@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287887.htm",
-        "title":"德国监管机构要求特斯拉全球召回5.9万辆汽车",
-        "desc":null
-    },
-    {
-        "url":"https://hot.cnbeta.com/articles/movie/1287889.htm",
-        "title":"《阿凡达2：水之道》新剧照曝光：12月16日上映",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287891.htm",
         "title":"Windows 11 22H2任务管理器试玩：WinUI、Fluent Design、Mica三位一体",
         "desc":null
@@ -293,5 +283,15 @@
         "url":"https://www.cnbeta.com/articles/tech/1288003.htm",
         "title":"韭菜不好割了？最新超跑NFT标价23万美元无人应拍",
         "desc":"近期虚拟加密货币巨幅下跌导致关联产业同样萎靡不振，元宇宙、区块链等代表新事物之一的NFT曾经火热被炒的不亦乐乎，不过近日在美国举行的NFT拍卖大会上，一台标价23万多美元的超跑NFT直到拍卖结束都无人应拍。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1288005.htm",
+        "title":"1.67万元EVGA RTX 3090 Ti终极卡皇开卖 白送1600W电源",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1288007.htm",
+        "title":"酒店都是上海话、吃饭要排队 上海游客挤爆三亚",
+        "desc":"随着多地陆续放松对上海的疫情防控政策，上海市民跨省旅游游热度飙升，尤其是三亚，已经被上海人“占领”，东北人也甘拜下风。携程数据显示，6月20-27日，上海跨省游订单量环比上周增长14%，其中亲子跨省订单占比环比增长59%。"
     }
 ]
