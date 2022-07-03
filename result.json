@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287961.htm",
-        "title":"外媒：因人手短缺 美国独立日假期大量航班被取消",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287963.htm",
         "title":"在越南 钱就像躺在街上",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1288077.htm",
         "title":"作家倪匡去世 “香港四大才子”只剩下蔡澜",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1288079.htm",
+        "title":"MLPerf最新结果公布 NVIDIA仍是“王者”",
+        "desc":"北京时间6月30日，MLCommons社区发布了最新的MLPerf2.0基准测评结果。在新一轮的测试中，MLPerf新添加了一个对象检测基准，用于在更大的OpenImages\r\n 数据集上训练新的 \r\nRetinaNet，MLperf表示，这个新的对象检测基准能够更准确反映适用于自动驾驶、机器人避障和零售分析等应用的先进机器学习训练成果。"
     }
 ]
