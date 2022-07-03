@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1287953.htm",
-        "title":"NASA：这月亮上的土，也是你想卖就能卖的？",
-        "desc":"去年12月17日，当人们为“嫦娥五号”成功结束登月之旅欢呼时，有人却为这个完美计划中的一个小“瑕疵”纠结不已：“嫦娥五号”原本计划带回2000克月壤，实际带回的却只有1731克。这样的纠结并非吹毛求疵。经由太空工程的放大，无论多微小的事情，都会成为某种不能承受之重。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1287955.htm",
         "title":"日本发现超2.5米长巨型深海鱼：全身深蓝紫色",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1288069.htm",
         "title":"亚马逊创始人贝索斯猛烈抨击拜登 呼吁降低天然气价格",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1288071.htm",
+        "title":"显卡价格半年暴跌57％ A卡几乎全线破发",
+        "desc":"近半年来，无论国内还是欧洲、北美，价格都在不断下降，逐渐回归合理水平，部分型号终于“破发”。Tom's Hardware统计了2022年上半年北美显卡市场的新卡零售价、eBay二手价的不同型号走势，结果令人欣喜。"
     }
 ]
