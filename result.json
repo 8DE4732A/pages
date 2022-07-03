@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287807.htm",
-        "title":"手机收到车辆“异震”报警引争议：智能化时代如保护隐私？",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287809.htm",
         "title":"诺基亚T10平板主要规格和2660 Flip经销商列表在即将推出前被披露",
         "desc":"诺基亚第二款Android平板电脑T10可能计划与诺基亚2660 Flip手机一起上市。在T10以TA-1462型号通过FCC认证并披露了基本配置的同时，型号为TA-1474的诺基亚2660 Flip翻盖机型已经出现在澳大利亚的分销商列表中。"
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/science/1287923.htm",
         "title":"一项新研究解释了COVID-19变体“奥密克戎”的来源",
         "desc":"新研究显示，免疫系统较弱的人更有可能获得慢性感染并产生带有多种抗体抗性变异的病毒变体。然而也有好消息。虽然许多不同的变种在免疫力低下的人身上发展，但其传播的可能性很小。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287925.htm",
+        "title":"最大订单为何花落空客 专家：对窄体飞机有较强需求",
+        "desc":null
     }
 ]
