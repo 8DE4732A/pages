@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287947.htm",
-        "title":"德国为摆脱对俄能源依赖 加紧能源替代进程",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287949.htm",
         "title":"Pestle菜谱应用现可以让用户跟他人分享他们的菜谱",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1288063.htm",
         "title":"AirPods Pro 2可能不会提供健身追踪功能",
         "desc":"一份报告称，苹果的第二代AirPods \r\nPro不会包括任何健身追踪功能，下一个版本更有可能专注于提供音频相关技术的提升而不是健康相关的功能。围绕着AirPods Pro \r\n2的传言，偶尔会涉及到苹果在个人音频设备中加入某种形式的健身追踪功能。根据此前的传言，这款高级耳机可能会获得体温和心率监测的元素。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1288065.htm",
+        "title":"哥白尼哨兵3号《太空探索地球》系列：巴塔哥尼亚和福克兰群岛",
+        "desc":null
     }
 ]
