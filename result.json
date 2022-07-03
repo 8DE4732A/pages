@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1287927.htm",
-        "title":"研究：了解植物是寻找癌症治疗方法的关键",
-        "desc":"如果科学家能完全理解植物的生长他们也许能够找到癌症的治疗方法。为了提高农业产量，了解植物如何处理光线非常重要。植物利用光来决定何时生长和开花。植物利用被称为光感受器的蛋白质寻找光线。然而了解植物对农业以外的领域也有影响。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1287929.htm",
-        "title":"杜卡迪公布首款电动摩托车 极速达275公里 能跑7圈赛道",
-        "desc":"电动化时代来临，即便是摩托车，也面临着转型纯电的趋势。此后，万转摩托轰鸣声，在赛道上也许听一次少一次了。近日，杜卡迪公布了其将参加2023年FIMMotoE?世界杯比赛的摩托车工程样车细节图。新车内部代号“V21L”，是意大利博洛尼亚的Borgo\r\n Panigale工厂打造的首款电动摩托赛车。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287931.htm",
         "title":"陈劲剧透摩托罗拉Razr 3：解决折叠屏短板 待机有惊喜",
         "desc":null
@@ -293,5 +283,15 @@
         "url":"https://hot.cnbeta.com/articles/funny/1288043.htm",
         "title":"500米最短出国留学当事人：其实需绕行1万公里",
         "desc":"近日，黑龙江省黑河市的一名女子发视频称，将到黑龙江对岸的俄罗斯布拉戈维申斯克国立师范大学留学，而家和学校直线距离只有500米，坐船只需5分钟，引发网友热议。据媒体报道，这位女子是宁女士，今年31岁，黑龙江省黑河市爱辉区人。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1288045.htm",
+        "title":"Linux Mint 21将不会为低资源机器配备systemd-oom",
+        "desc":"Linux Mint项目的负责人Clement Lefebvre照例发布了他的月度更新，介绍了该操作系统的最新发展。Linux Mint \r\n21几乎已经准备好进行beta测试（下周到期），本周末开始进行质量评估。有趣的是，在团队得到负面反馈后，在低内存环境下杀死任务的systemd-oom包将不会被纳入Linux\r\n Mint 21。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1288047.htm",
+        "title":"华为路由Q6电力线版明日预售：电线变网线 有电就有Wi-Fi 售价399元起",
+        "desc":null
     }
 ]
