@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287943.htm",
-        "title":"小米、DxO隔空喊话：一个不需要 一个不舍得",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287945.htm",
         "title":"美国灰熊做空，国际大行却力挺:电池租赁对蔚来到底意味着什么",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://hot.cnbeta.com/articles/game/1288059.htm",
         "title":"2024年《使命召唤》游戏概念图泄露 发生在海湾战争",
         "desc":"2024年《使命召唤》游戏——《使命召唤：黑色行动5》概念图泄露，暗示该作将发生在海湾战争（两伊战争）期间。图片来自于对《使命召唤：战区》手游测试的数据挖掘。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1288061.htm",
+        "title":"Apple Watch Series 8有望配备体温侦测和提醒功能",
+        "desc":null
     }
 ]
