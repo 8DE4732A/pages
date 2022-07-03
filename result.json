@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287867.htm",
-        "title":"一加10T和一加10 Pro区别在哪？一文提前了解",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1287869.htm",
-        "title":"特斯拉季度出货量下降 结束了两年的增长势头",
-        "desc":"特斯拉公司第二季度在全球交付了254695辆汽车，结束了两年的增长势头。这一结果于周六公布，低于分析师平均预测得出的261181辆汽车交付量的预期。这个数字低于特斯拉前三个月创纪录的310048辆，但高于去年同期的201250辆。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287871.htm",
         "title":"欧盟禁售燃油车时间确定 一周前多国反对，忽然达成共识？",
         "desc":null
@@ -293,5 +283,15 @@
         "url":"https://www.cnbeta.com/articles/tech/1287983.htm",
         "title":"居家打工年入800多万：一共五份全职工作 他还有时间打游戏",
         "desc":"谁能曾想，居家办公这事，竟还能上演一出魔幻大戏。在国外就有这么一位打工人全职工作。然后分分钟把年薪搞到了120万美元（约804万人民币啊）！那厢Meta还在计划缩招30%，特斯拉准备全球裁员……这边打工人却是“魔高一尺道高一丈”，于是乎瞬间在网络中引发热议。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287985.htm",
+        "title":"上网成瘾改变大脑结构：语言功能受影响 让人话都说不利索",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1287987.htm",
+        "title":"微软警告：高危蠕虫\"树莓罗宾\"感染了大量的Windows企业网络",
+        "desc":null
     }
 ]
