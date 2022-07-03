@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287847.htm",
-        "title":"显卡缺货到头了：4000多块可得3070Ti 比原价便宜2000块拿下3090Ti",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287849.htm",
         "title":"国际足联：卡塔尔世界杯将启用半自动越位识别技术",
         "desc":"国际足联1日宣布，将在今年11月开幕的2022年卡塔尔世界杯启用半自动越位识别技术（SAOT），用于辅助主裁判和视频助理裁判（VAR）更快、更准确地做出越位判罚。据介绍，SAOT系统主要由特制摄像机、球内传感器和人工智能系统三部分组成。"
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1287963.htm",
         "title":"在越南 钱就像躺在街上",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1287965.htm",
+        "title":"NASA计划在8月底至9月初发射Artemis I月球任务",
         "desc":null
     }
 ]
