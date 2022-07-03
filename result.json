@@ -1,20 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1287955.htm",
-        "title":"日本发现超2.5米长巨型深海鱼：全身深蓝紫色",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/science/1287957.htm",
-        "title":"科学家开发出一种将棉花回收成新织物的方法",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1287959.htm",
-        "title":"北溪天然气管道公司宣布将暂时关闭两条天然气管道支线",
-        "desc":"北溪天然气管道公司日前发布通告说，7月11日至21日将暂时关闭公司负责运营的“北溪-1”两条天然气管道支线，进行常规维护。分析人士说，此举将加剧近期欧洲市场天然气短缺。据俄新社报道，通告说，这项维护涉及测试机械部件、自动化系统等，以确保天然气管道可靠、安全和高效运行。这项年度维护工作已提前计划好，时间安排已与上下游合作伙伴协商。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287961.htm",
         "title":"外媒：因人手短缺 美国独立日假期大量航班被取消",
         "desc":null
@@ -293,5 +278,20 @@
         "url":"https://www.cnbeta.com/articles/tech/1288071.htm",
         "title":"显卡价格半年暴跌57％ A卡几乎全线破发",
         "desc":"近半年来，无论国内还是欧洲、北美，价格都在不断下降，逐渐回归合理水平，部分型号终于“破发”。Tom's Hardware统计了2022年上半年北美显卡市场的新卡零售价、eBay二手价的不同型号走势，结果令人欣喜。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1288073.htm",
+        "title":"周冠宇遭撞击翻车现场画面 本人晒照表示没事：揭秘F1的Halo保护有多牛？",
+        "desc":null
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/funny/1288075.htm",
+        "title":"3天几百万播放量 国外大神把PS5改成了一本书……",
+        "desc":"对于非索尼死忠粉玩家来说，“ 别买初代机 ”，算是个小共识。也不是说初代机不好，主要是从 PS1 时代开始，索尼就会每隔两年推出一个性能不变的轻薄 slim 版（ PS4 还一起推出了 Pro 版本 ）。又大又笨重的游戏主机，占地方不说，还不容易携带。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1288077.htm",
+        "title":"作家倪匡去世 “香港四大才子”只剩下蔡澜",
+        "desc":null
     }
 ]
