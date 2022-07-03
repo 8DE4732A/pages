@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287931.htm",
-        "title":"陈劲剧透摩托罗拉Razr 3：解决折叠屏短板 待机有惊喜",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1287933.htm",
-        "title":"一拖再拖的头显设备：MR产业链布局情况一览",
-        "desc":"从2019年到2023年，苹果MR头显设备的发布时间被整整推迟了四年，至于2023年是否会如期发布也仍是未知数。不仅是苹果，元宇宙科技巨头Meta的AR/MR项目也被曝在2024年后将被推迟，产品2022年其产品的出货量更是被大幅下调，“砍单”程度高达四成。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287935.htm",
         "title":"“年轻人的社交元宇宙”赴港IPO 腾讯与米哈游为股东 月活超3100万",
         "desc":"据港交所近日披露，社交平台Soulgate递表港交所主板申请上市，美银美林、中金公司为联席保荐人。招股书显示，Soulgate为中国年轻一代提供虚拟社交平台，致力与用户共同建立一个以“soul”为链接的社交元宇宙。平台一切以兴趣为主且去中心化，并以游戏化方式运作。"
@@ -292,6 +282,16 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1288047.htm",
         "title":"华为路由Q6电力线版明日预售：电线变网线 有电就有Wi-Fi 售价399元起",
+        "desc":null
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/game/1288049.htm",
+        "title":"传Bungie和网易合作 开发一个未公布FPS手游",
+        "desc":"《命运2》开发商Bungie疑似正在和国内游戏公司网易合作，开发一个FPS手游。目前已经有大量游戏系列登陆了手机平台，比如《使命召唤》《Apex英雄》《暗黑破坏神》等，其中前两个可以说是最近移植较为成功的。《命运2》开发商Bungie看起来也想在手机平台大展拳脚。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1288051.htm",
+        "title":"德国议员希望商业广告与网红承认与标注使用美容滤镜的事实",
         "desc":null
     }
 ]
