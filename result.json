@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287805.htm",
-        "title":"东芝涉足新一代电动飞机马达业务",
-        "desc":"据日经中文网报道，东芝将涉足新一代电动飞机核心部件马达的生产。据悉，东芝开发出了几十人乘坐的中型机所需要的兼顾输出功率与小型轻量化的技术，目标是到21世纪20年代后半期实现商业化。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287807.htm",
         "title":"手机收到车辆“异震”报警引争议：智能化时代如保护隐私？",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/science/1287921.htm",
         "title":"研究：空气污染跟COVID-19感染后更糟糕病症有关",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1287923.htm",
+        "title":"一项新研究解释了COVID-19变体“奥密克戎”的来源",
+        "desc":"新研究显示，免疫系统较弱的人更有可能获得慢性感染并产生带有多种抗体抗性变异的病毒变体。然而也有好消息。虽然许多不同的变种在免疫力低下的人身上发展，但其传播的可能性很小。"
     }
 ]
