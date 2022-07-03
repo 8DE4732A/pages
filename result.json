@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287833.htm",
-        "title":"哥伦比亚大学为何宣布退出美国大学排行榜？",
-        "desc":"“排名反映现实吗？很遗憾，答案是否定的。”作为常春藤盟校之一，哥伦比亚大学是美国历史最悠久的大学之一。在 2022 U.S. News 美国大学排名中，哥大与哈佛、MIT 并列第二。在2022泰晤士高等教育世界大学排名中，哥大排名第十一。"
-    },
-    {
         "url":"https://hot.cnbeta.com/articles/comic/1287835.htm",
         "title":"《闪电侠》已经成为绿箭宇宙中最为长寿的剧集",
         "desc":"虽然并不是100%准确，但一般来说一部美剧的集数越多，就意味着观众对这部剧的兴趣保持得不错。比如长寿剧集《海军罪案调查处》就要在今年秋天迎来第20季。还有些美剧虽然有点短，但在策划之初就已经确定了长度，想要讲的就是一个短故事。而在这其中有一个另类作品，就是《闪电侠》。"
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1287949.htm",
         "title":"Pestle菜谱应用现可以让用户跟他人分享他们的菜谱",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1287951.htm",
+        "title":"Deep Longevity跟哈佛医学院提出了一种深度学习的心理健康方法",
         "desc":null
     }
 ]
