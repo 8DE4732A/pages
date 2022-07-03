@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1287801.htm",
-        "title":"小米公布骁龙8+能效表现：CPU/GPU功耗暴降30%",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1287803.htm",
         "title":"机构：未来两年内采用非英特尔CPU的服务器出货量及份额将大幅上升",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1287917.htm",
         "title":"研究：慢性健康问题在近几代人中更为普遍",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1287919.htm",
+        "title":"新研究提供了有关血清素、多巴胺和食物气味如何影响衰老的新线索",
+        "desc":"一项利用蠕虫进行的研究提供了关于血清素和多巴胺在衰老中的作用的新线索。众所周知，健康的饮食对健康的生活至关重要。而当许多人遵循专门的饮食习惯来瘦身或改善他们的整体健康时，对衰老感兴趣的科学家一直在积极研究饮食限制和禁食对延长生命的影响。"
     }
 ]
