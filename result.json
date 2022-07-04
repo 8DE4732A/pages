@@ -1,20 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1288333.htm",
-        "title":"加密货币市况持续低迷 带动NFT销售额降至12个月低点",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/science/1288335.htm",
-        "title":"新的CRISPR工具通过在染色体之间复制基因来纠正突变",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/science/1288337.htm",
-        "title":"ReachBot可能成为第一个在火星洞穴中寻找生命的“探险家”",
-        "desc":null
-    },
-    {
         "url":"https://hot.cnbeta.com/articles/game/1288341.htm",
         "title":"日本网友连续两年头戴VR头盔睡觉 导致后脑勺凹陷",
         "desc":"日本网友“ひなた”今日在个人社交账号中分享了自己连续两年头戴VR头盔睡觉的经历，由于2年内每天都戴着VR头盔睡觉，并且自己也喜欢仰睡不喜欢翻身，导致自己的后脑勺处已经变形凹陷。"
@@ -293,5 +278,20 @@
         "url":"https://www.cnbeta.com/articles/tech/1288451.htm",
         "title":"Google用人工智能凸显出人类认知的缺陷",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1288453.htm",
+        "title":"国内那些押注加密货币、元宇宙的公司怎么样了？",
+        "desc":"去年7月，三言曾写过那些高调All \r\nin比特币的公司，那么，如今一年过去，这些公司怎么样了呢？7月3日，美图发布公告称，今年上半年，公司净亏损可能达到2.749亿元至3.499亿元，较去年同期增加约99.6%至154.1%。净亏损预期增加的主要原因是已购买加密货币减值。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1288455.htm",
+        "title":"游说团体警告：欧盟将锂列为有害物质将损害电动汽车行业",
+        "desc":"锂和电池生产商警告欧盟，将锂列为有害物质的提案可能会严重损害欧洲蓬勃发展的电动汽车行业。锂是电动车电池的关键材料，并广泛用于制药、工业润滑油和特种眼镜。欧盟委员会目前正在评估欧洲化学品管理局(ECHA)的一项提案，该提案拟将碳酸锂、氯化锂和氢氧化锂归类为对人类健康有害的物质。"
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/game/1288457.htm",
+        "title":"《仙剑客栈2》重要角色展示 免费DLC制作中",
+        "desc":"据《仙剑客栈2》官方微博消息，仙剑系列衍生单机新作《仙剑客栈2》将于7月8日上线，官方为大家带来的是部分重要角色的游戏内展示，同时，《仙剑客栈2》首部免费DLC内容已在制作中，越祈、越今朝等经典角色也将陆续和大家见面，开启更多浪漫精彩的故事。"
     }
 ]
