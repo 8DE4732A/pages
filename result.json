@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1288331.htm",
-        "title":"国网苏州上线共享充电机器人：1台能管50个车位",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1288333.htm",
         "title":"加密货币市况持续低迷 带动NFT销售额降至12个月低点",
         "desc":null
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1288449.htm",
         "title":"AI做题家：高数考试正确率81% 竞赛题成绩超过计算机博士",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1288451.htm",
+        "title":"谷歌强大的人工智能凸显人类认知缺陷",
         "desc":null
     }
 ]
