@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/game/1288343.htm",
-        "title":"V社回应Steam Deck某些型号SSD缩水：不影响性能",
-        "desc":"之前我们报道过Steam Deck某些型号SSD缩水一事，有许多人担心这会影响游戏性能。近日Valve做出回应，称不会影响游戏性能。据外媒IGN报道，Valve发言人表示：“为了提升库存和生产效率，许多Steam\r\n Deck的组件来自于多个供应商。我们的一家SSD供应商提供PCIe Gen 3 x4(四通道规格)NVMe SSD，另一家则提供了PCIe \r\nGen 3 x2(双通道规格)SSD。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1288345.htm",
         "title":"19世纪末真实吸血鬼狩猎箱拍卖成功 原英国贵族拥有",
         "desc":"被无数影视动漫游戏题材选用的吸血鬼传说流传甚广，日前一个真实版流传至今的当年的吸血鬼猎人爱用的狩猎道具箱日前公开拍卖，以1.3万英镑价格成交，看上去似乎不太贵，不过已经是预估价格的6倍多了。"
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1288459.htm",
         "title":"余承东：如果活不下去了 华为做鞋袜都是世界级品牌",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1288461.htm",
+        "title":"苹果5G芯片陷“难产”争议 人才流失拖累研发进程",
+        "desc":"自2019年7月苹果收购英特尔基带芯片业务、正式进军5G芯片研发已有三年时间，但5G基带芯片的研发难度可能超过了苹果公司的预期。近日，天风国际分析师郭明錤在推特爆料，称最新调查认为苹果自研iPhone 5G基带芯片开发可能已经失败。"
     }
 ]
