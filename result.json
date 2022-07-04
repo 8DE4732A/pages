@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/game/1288311.htm",
-        "title":"油管主购买现实版GTA5顶层公寓：奢侈豪华 花750万美元",
-        "desc":"许多油管内容创作者通过谷歌网站，成功赚到大量钱财，并获得了许多他们梦想得到的东西。有位油管主购买了一套现实版《GTA5》顶层公寓，并拍摄了视频炫耀一番。油管主Kwebbelkop经常在油管上分享自己的游戏挑战，主要是《GTA5》和《我的世界》这两款游戏。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1288313.htm",
         "title":"二手市场iPhone 13系列热销 5G手机交易量超四成",
         "desc":"7月4日消息，转转集团发布《2022年二季度手机市场行情报告》。报告显示，二手市场手机交易量、搜索量和回收榜单上，排名前10的机型都是苹果iPhone。同时，二手市场5G手机的交易量增长更为明显。"
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/science/1288429.htm",
         "title":"锁定7月12日：首批JWST望远镜图像或让天文学家感动到落泪",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1288431.htm",
+        "title":"蒂姆·库克（Tim Cook）重返太阳谷媒体会议",
+        "desc":"Apple TV+预计将再次由蒂姆-库克代表参加每年的Allen & \r\nCo太阳谷媒体会议，同时参加的还有包括埃隆-马斯克和马克-扎克伯格在内的社交网络高管。投资银行Allen & \r\nCo已经举办了40年的太阳谷媒体讨论会，只是因为冠状病毒而错过了2020年。"
     }
 ]
