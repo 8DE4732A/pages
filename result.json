@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1288323.htm",
-        "title":"研究揭示塑料对小型陆地哺乳动物的影响 一半以上取样物种体内发现微塑料",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1288325.htm",
         "title":"袁冰妍关联公司偷漏税被罚97万 本人退出关键职位",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1288441.htm",
         "title":"超过三分之一的英国政府科技工作者仍未使用开放源代码",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1288443.htm",
+        "title":"调侃新东方？罗永浩：只是对直播电商业一些观点表达不同看法",
+        "desc":"今日有报道称罗永浩调侃东方甄选花15分钟扯个蛋直播间人数会上去，但对收入没有帮助。@罗永浩的辟谣号 转发相关微博辟谣，否认调侃新东方。罗永浩表示，只是对直播电商业的一些流行观点表达不同看法，希望媒体不要恶意起哄。"
     }
 ]
