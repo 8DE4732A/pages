@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1288383.htm",
-        "title":"日本飞机餐推出蟋蟀粉末汉堡：用废弃食品培养、号称有海鲜味",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1288385.htm",
-        "title":"警方回应漯河一蔚来车辆失控致多人被撞：正在调查处理",
-        "desc":"7月4日上午，网传河南省漯河市第一人民医院门口突发一起交通事故，一辆蔚来汽车疑似失控，将路边多名行人撞倒，车辆受损严重。新黄河就此事致电漯河市第一人民医院急救中心，一名工作人员表示，当时现场情况比较混乱，具体情况暂时不太清楚。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1288387.htm",
         "title":"“AI第一股”两日暴跌65% 商汤科技为何遭遇 “大逃杀”？",
         "desc":"在前一个交易日遭遇了股价“一日腰斩”之后，商汤科技（00020.HK）雪崩式的股价暴跌并没有停止。7月4日，商汤科技的股价继续大幅下挫，跌幅一度超过20%，最终收于2.54港元，跌幅为18.85%。而在前一个交易日（6月30日），商汤科技的股价已经一日大跌了46.77%，两个交易日股价就暴跌超过65%。"
@@ -293,5 +283,15 @@
         "url":"https://www.cnbeta.com/articles/science/1288499.htm",
         "title":"科学家称环境表面被猴痘病毒DNA污染并不能证明接触表面后会发生感染",
         "desc":"德国科学家们在猴痘患者的房间里检测到了病毒DNA，但警告说，表面被病毒DNA或活性病毒污染并不能证明接触表面后会发生感染。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1288501.htm",
+        "title":"Google Doodle以红白蓝欢呼庆祝美独立日226周年",
+        "desc":"Google Doodle以一个特别欢快的动画GIF来庆祝国庆节。“G”戴着一顶经典的厨师帽，其将一个汉堡翻到高空，然后直接落到烤架上。每个“O”都戴着一顶山姆大叔的帽子，拿着烟火跳舞。第二个 “g”站在一个箱子上对着麦克风唱歌--也许是 “Yankee Doodle Dandy”。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1288503.htm",
+        "title":"Apple Watch Series 8新增47mm超大款：尺寸对比图曝光",
+        "desc":null
     }
 ]
