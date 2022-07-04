@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1288381.htm",
-        "title":"加密借贷平台Vauld因面临财务挑战而暂停了存提款交易",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1288383.htm",
         "title":"日本飞机餐推出蟋蟀粉末汉堡：用废弃食品培养、号称有海鲜味",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1288497.htm",
         "title":"女子民宿玩智能音箱发现有“偷拍”功能 多名住客影像被保存",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1288499.htm",
+        "title":"科学家称环境表面被猴痘病毒DNA污染并不能证明接触表面后会发生感染",
+        "desc":"德国科学家们在猴痘患者的房间里检测到了病毒DNA，但警告说，表面被病毒DNA或活性病毒污染并不能证明接触表面后会发生感染。"
     }
 ]
