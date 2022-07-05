@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1288681.htm",
-        "title":"物理学家发现了钕元素的反常热诱导磁序特性",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1288683.htm",
         "title":"曝吉利魅族将打造高端手机品牌：目标价格区间6000-9000元",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1288797.htm",
         "title":"加密货币借贷公司Vauld在暂停客户提款后可能被Nexo收购",
         "desc":"据路透社报道，加密货币公司Nexo表示，它将收购Vauld。这一消息是在Vauld在其网站上发表声明称其正面临财务挑战，需要暂停客户提款的一天后发布的。在短期内，Nexo将提供即时援助，以便Vauld能够恢复客户提款。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1288799.htm",
+        "title":"重新设计的AirPods Max智能皮套在新的苹果专利中被披露",
+        "desc":"苹果公司获得了一项专利，该专利很可能暗示了苹果公司AirPods \r\nMax所配备的有争议的耳机智能皮套的新设计方向。当苹果去年推出其549美元的高端AirPods \r\nMax耳机时，所附的智能保护套因其奇怪的外观和与其他高端耳机所附的传统硬壳相比糟糕的整体保护而在网上引起了大量的讨论。"
     }
 ]
