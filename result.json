@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1288729.htm",
-        "title":"惠普推出暗影精灵 8 Plus 高能版笔记本：搭载17.3 英寸的大屏，11999元起",
-        "desc":"惠普暗影精灵 8 系列游戏本再出新品，搭载 12 代酷睿 HX 系列处理器的暗影精灵 8 Plus 高能版笔记本现已开启预售。该笔记本搭载17.3 英寸的大屏，QHD 分辨率，165Hz 刷新率，3ms 响应时间，100% sRGB 色域，支持 DC 调光。"
-    },
-    {
         "url":"https://hot.cnbeta.com/articles/movie/1288731.htm",
         "title":"编剧表示《怪奇物语》第五季剧本很快就会开写",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://hot.cnbeta.com/articles/movie/1288845.htm",
         "title":"35岁“龙妈”艾米莉亚克拉克登杂志写真 笑容不再略显老态",
         "desc":"据外媒报道，近日“龙妈”艾米莉亚·克拉克登上英国杂志《The Observer》专访，并晒出新写真。照片中35岁的“龙妈”气质依旧，但是眉宇间有了岁月的痕迹。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1288847.htm",
+        "title":"Windows笔记本电脑制造商\"担心\"新款M2 MacBook Air会影响销售",
+        "desc":"据DigiTimes援引业内人士的话说，苹果即将推出的采用M2芯片的重新设计的MacBook \r\nAir让一些Windows笔记本电脑制造商\"担心\"基于英特尔的笔记本电脑的销售会受到负面影响。\"一家Wintel品牌厂商指出，在1000-1500美元的价位上，MacBook\r\n Air将排挤其他高端笔记本。\""
     }
 ]
