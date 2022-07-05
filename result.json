@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1288707.htm",
-        "title":"Ultrahuman推出可帮助揭示代谢健康的新款智能戒指",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1288709.htm",
         "title":"科学家研发新型锂电池：可在高温、极寒环境下正常工作",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/science/1288823.htm",
         "title":"研究显示交通事故正在杀害年轻人而且几乎没有放缓的趋势",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1288825.htm",
+        "title":"苹果公司正在研究如何用磁铁代替拉链来关闭箱子和合上衣物",
+        "desc":"苹果公司在设计产品时总是追求极简主义的外观，新的专利文件表明设计师想取消产品和周边上难看的拉链、扣子和紧固件，而用磁铁代替。也许苹果公司最接近制作服装的产品是最近的\"Ted\r\n Lasso\"纪念商品，或健康监测手套。但它肯定在研究如何制造更好的包和配件盒，而且这些建议也适用于所有衣服。"
     }
 ]
