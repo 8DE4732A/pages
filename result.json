@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1288735.htm",
-        "title":"系列史上最小最轻：佳能EOS R10终于开启预售",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1288737.htm",
         "title":"神十四乘组出差一个月了：刘洋太空中叠了30颗星星",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1288851.htm",
         "title":"预计到2024年AMD CPU在服务器市场份额将达到18% Arm有望获3倍增长",
         "desc":"包括EPYC CPU阵容在内的AMD服务器处理器预计将在未来几年内取得一些巨大的出货量市场份额。随着英特尔的服务器主导地位不断削弱，AMD EPYC和Arm服务器CPU将在2024年之前获得巨大收益。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1288853.htm",
+        "title":"iPhone14或9月13日发布：共4款机型、Pro版砍掉刘海",
+        "desc":null
     }
 ]
