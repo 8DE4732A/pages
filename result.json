@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1288683.htm",
-        "title":"曝吉利魅族将打造高端手机品牌：目标价格区间6000-9000元",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1288685.htm",
-        "title":"本田公布“成绩单”：6月热销14.1万辆 超过比亚迪",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1288687.htm",
         "title":"“飞天一号”火箭冲压组合动力成功发射",
         "desc":"据“西北工业大学”微信公众号5日消息，2022年7月4日，由西北工业大学航天学院空天组合动力创新团队牵头研制的“飞天一号”火箭冲压组合动力在西北某基地成功发射，国际首次验证了煤油燃料火箭冲压组合循环发动机火箭/亚燃、亚燃、超燃、火箭/超燃的多模态平稳过渡和宽域综合能力，突破了热力喉道调节、超宽包线高效燃烧组织等关键技术，飞行试验圆满成功。"
@@ -293,5 +283,15 @@
         "url":"https://www.cnbeta.com/articles/tech/1288799.htm",
         "title":"重新设计的AirPods Max智能皮套在新的苹果专利中被披露",
         "desc":"苹果公司获得了一项专利，该专利很可能暗示了苹果公司AirPods \r\nMax所配备的有争议的耳机智能皮套的新设计方向。当苹果去年推出其549美元的高端AirPods \r\nMax耳机时，所附的智能保护套因其奇怪的外观和与其他高端耳机所附的传统硬壳相比糟糕的整体保护而在网上引起了大量的讨论。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1288801.htm",
+        "title":"SpaceX将在最大功率下测试数百种Starlink天线 以改善服务品质",
+        "desc":"太空探索技术公司（SpaceX）的Starlink卫星互联网服务正准备进行一次重大测试，这将使其能够开发出更好的用户终端。Starlink为其世界各地的用户提供与轨道卫星连接的天线，以提供互联网连接，自从SpaceX向公众开放Starlink的大门以来，这些终端已经发生了一些变化。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1288803.htm",
+        "title":"American Robotics将收购同行业的无人机公司Airobotics",
+        "desc":"今天上午，位于马萨诸塞州沃尔瑟姆的美国机器人公司（American Robotics）背后的合伙人Ondas \r\nHoldings宣布了其收购Airobotics的计划，这是一次无人机行业的整合。到目前为止，该公司自2014年成立以来已经筹集了1.3亿美元。与此同时，美国机器人公司于去年8月被Ondas收购。"
     }
 ]
