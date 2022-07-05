@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1288739.htm",
-        "title":"25公斤重Capstone立方体卫星脱离地球轨道 飞向月球",
-        "desc":"7月5日消息，当地时间周一，美国Capstone立方体卫星成功脱离地球轨道，开始飞向月球。这也是美国国家航空航天局(NASA)宇航员登月计划的组成部分。Capstone立方体卫星只有微波炉大小，6天前搭乘火箭实验室的电子号火箭从新西兰马希亚半岛发射升空。由于巡航中所使用的燃料非常少，这颗卫星还需要4个月的时间才能抵达月球轨道。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1288741.htm",
         "title":"曾是全球最高建筑！法国要花6000万欧元粉刷埃菲尔铁塔：迎接奥运",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1288855.htm",
         "title":"钟薛高31度室温下放1小时不化引热议 市监局：已关注到此事",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1288857.htm",
+        "title":"消息称日本最大公用事业公司“东京电力”准备竞购东芝",
+        "desc":"知情人士今日称，日本最大的公用事业公司“东京电力公司”（Tokyo Electric Power）正考虑加入其他“竞购联盟”，共同竞购东芝公司。之前，由日本政府支持的投资基金“日本投资公司”（Japan\r\n Investment Corp）和日本私募股权投资公司“日本产业合作伙伴”（Japan Industrial \r\nPartners）已结成联盟，一起竞购东芝。"
     }
 ]
