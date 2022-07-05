@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1288703.htm",
-        "title":"英特尔第13代Raptor Lake处理器信息曝光：更多核心 更大缓存",
-        "desc":"近日在中国深圳召开的“NAS Workshop”上，泄漏了英特尔第 13 代 Raptor Lake 桌面 CPU 平台的详细信息。这张幻灯片让我们很好地了解了即将推出的处理器应该具备的特性，但它也缺少一个关键特性-- PCIe Gen 5 M.2。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1288705.htm",
-        "title":"阿联酋客机落地后发现机身有大破洞：飞行途中曾出现巨响",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1288707.htm",
         "title":"Ultrahuman推出可帮助揭示代谢健康的新款智能戒指",
         "desc":null
@@ -293,5 +283,15 @@
         "url":"https://www.cnbeta.com/articles/tech/1288819.htm",
         "title":"欧元兑美元跌至20年来新低 距滑向平价仅一步之遥",
         "desc":"欧元兑美元汇率跌至20年低点，原因是欧洲央行可能放缓加息周期的预期，令市场更加确信欧元兑美元汇率将跌至平价。欧元兑美元一度下跌1.2%，至1.0298，为2002年12月以来的最低水平。法国6月服务业PMI周二被下修，法国6月Markit服务业PMI终值为53.9，预期54.4，前值54.4。货币市场随之减少了对欧洲央行收紧政策的押注，扩大了与美联储的政策利差。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1288821.htm",
+        "title":"报道称一加将使Nord成为一个独立于OnePlus的品牌",
+        "desc":"OnePlus在2020年推出了Nord系列，以恢复其作为一个制造\"旗舰杀手\"的品牌形象。而后来Nord系列的定位发生改变，变得更容易获得，例如Nord N100在美国仅售179美元，现在这家深圳科技公司似乎想与Nord品牌保持更多的距离。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1288823.htm",
+        "title":"研究显示交通事故正在杀害年轻人而且几乎没有放缓的趋势",
+        "desc":null
     }
 ]
