@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1289243.htm",
-        "title":"BOE OLED面板正式通过苹果iPhone 14认证",
-        "desc":"根据产业链上下游信息，上周，中国面板厂商京东方（BOE）的AMOLED面板已经通过苹果公司的iPhone 14认证。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1289245.htm",
         "title":"Intel Arc桌面显卡第一次现身海外",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://hot.cnbeta.com/articles/music/1289361.htm",
         "title":"《孤勇者》如何从网络神曲变成了全民儿歌？",
         "desc":"随着人民日报等媒体的关注，《孤勇者》着实又火了一把。再次爆红的原因，是人们突然发现，这首最初由香港歌手陈奕迅演唱的网络游戏主题歌曲在以“10后”为主体的小学生中间刮起了“病毒式传播”，从各种短视频的BGM，变成了当代小学生的“接头暗号”。"
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/game/1289363.htm",
+        "title":"育碧公布手游《全境封锁：曙光》首部预告片分享",
+        "desc":"育碧宣布将在移动设备上推出公司知名IP“全境封锁”的新游戏《全境封锁：曙光》《The Division: Resurgence》。背景依然设定在纽约，游戏将提供全新剧情路线和派系，以及采用F2P免费游戏形式。"
     }
 ]
