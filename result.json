@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1289223.htm",
-        "title":"长安深蓝又一新车，代号“C673”的SUV车型曝光",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1289225.htm",
         "title":"研究：用冷冻干燥细胞克隆的小鼠可改善物种保护状况",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1289343.htm",
         "title":"就连勒索软件团伙也感受到了加密货币市场寒冬的影响",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1289345.htm",
+        "title":"6月Android手机性价比榜：骁龙888+售价不到1800",
+        "desc":"7月是每年上半年和下半年更新迭代的时间，在我们发布本次性价比榜单的时候，首款骁龙8+处理器和首款天玑9000+处理器的新机已经上市，骁龙8 Gen1和天玑9000瞬间成为了“过时”的产品，这也就是在国内市场能这么卷，换别的地方很多公司可能都扛不下去了。"
     }
 ]
