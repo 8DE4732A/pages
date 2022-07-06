@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1289183.htm",
-        "title":"代驾强行涉水致领克03趴窝 平台称自然灾害不赔气坏车主",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1289185.htm",
-        "title":"微博虚假活动曝光平台回应伊利优酸乳虚假抽奖：已恢复账号权限",
-        "desc":"7月4日，微博虚假活动曝光平台发文称，伊利优酸乳多次抽奖后逾期不发奖，微博官方多次联系核实情况均无反馈，且无明显跟进处理，现已冻结该账号抽奖权限。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1289187.htm",
         "title":"Zodiac Stargazer：带你乘坐轮式旋转望远镜观赏星空",
         "desc":"设计师Hyunsik Moon以一个非常奇怪的电动车概念吸引了我们的注意。Zodiac Stargazer将最多两名乘客放在一个轮子上的天文望远镜中，它可以旋转并直接朝上，从而给人们一个非凡的宇宙窗口。"
@@ -292,6 +282,16 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1289325.htm",
         "title":"跋涉1239.88米后 玉兔二号第44次休眠",
+        "desc":null
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/movie/1289327.htm",
+        "title":"最贵美剧《指环王》剧集预告泄露：30亿打造顶级特效场面感觉如何？",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1289329.htm",
+        "title":"储户近200万巨款不翼而飞 人脸识别漏洞成骗子作案工具",
         "desc":null
     }
 ]
