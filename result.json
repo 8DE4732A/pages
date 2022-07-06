@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1289169.htm",
-        "title":"苹果获得一项可帮助iPhone屏幕在雨水中维持交互的新专利",
-        "desc":null
-    },
-    {
-        "url":"https://hot.cnbeta.com/articles/music/1289171.htm",
-        "title":"周杰伦先行曲MV来了 网友反复观看直呼艺术史推广大使",
-        "desc":"7月6日中午12点，周杰伦新歌《最伟大的作品》上线，歌词中致敬了非常多艺术家，如梵高、马蒂斯、达利、马格利特、莫奈、蒙克等，还有文学家、诗人徐志摩。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1289173.htm",
         "title":"亚马逊入股外卖平台Grubhub 为Prime会员免费送餐",
         "desc":null
@@ -293,5 +283,15 @@
         "url":"https://www.cnbeta.com/articles/science/1289311.htm",
         "title":"研究人员开发新型生物塑料 一经命令就会分解成可回收成分",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1289313.htm",
+        "title":"研究人员发现社区更多的狗往往意味着更少的犯罪",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1289315.htm",
+        "title":"NASA承认遭遇故障后与新发射的小型月球航天器之间的沟通很困难",
+        "desc":"美国宇航局在与它的新CAPSTONE航天器建立联系时遇到了困难，这个微小的探测器刚刚从地球上发射，以测试绕月的新轨道。由于通信问题，美国宇航局不得不推迟该飞行器的计划机动，这将有助于完善其通往深空的路径，该机构仍在试图重新建立联系。"
     }
 ]
