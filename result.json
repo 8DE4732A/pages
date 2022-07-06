@@ -1,25 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1289269.htm",
-        "title":"苹果iPhone 14即将进入量产备货达9000万部 相关供应商名单曝光",
-        "desc":"众所周知，对于苹果大部分供应商而言，业绩对苹果的依赖程度都非常高，这也意味着，苹果出货量的情况决定了供应商的业绩，尽管今年以来，智能手机出货量并不理想，但其实就苹果而言，其出货量并未出现下降，反而微幅增长。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1289271.htm",
-        "title":"年内已跌30%！DRAM跌价或将贯穿全年 代理商库存堆积如山",
-        "desc":"在经历了2021年的繁荣之后，半导体衰退周期在2022年悄然而至，半导体芯片砍单潮接踵而来，无论是驱动IC、电源管理IC还是MCU，产品价格均在下跌，景气度的变化比翻书还快。作为周期性最明显的存储芯片自然也难逃过此劫，DRAM现货价格在今年2月份有所回升之后，便再度走低，至今不见好转。而且，根据集微网了解，下半年情况更不容乐观，价格恐将进一步走低。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1289273.htm",
-        "title":"新版支付宝首页支持关闭所有推送内容",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1289275.htm",
-        "title":"Intel官方泄露13代酷睿：22核心28线程？",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1289277.htm",
         "title":"2022大厂涨薪逻辑：钱正涌向95后",
         "desc":"“钱，正向更年轻的高精尖人才倾斜。”供职于互联网大厂12年的刘明告诉虎嗅，能够在2022年涨薪的互联网大厂打工人属于“幸运者”，而今年大厂的涨薪策略和以往有很多不同。7月，美团等互联网大厂进入“调薪+述职”周期。"
@@ -293,5 +273,25 @@
         "url":"https://www.cnbeta.com/articles/science/1289387.htm",
         "title":"115项对英国科学家资助取消“脱欧”令英国学者痛失欧盟拨款",
         "desc":"英国“脱欧”了，但跟欧盟之间却还有各种利益纠葛。据英国《卫报》5日报道，“脱欧”让英国科学界“很受伤”，在英国和欧盟因北爱尔兰问题争论不休之际，欧盟方面已取消115项对英国科学家的拨款资助。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1289389.htm",
+        "title":"沃尔玛将其InHome杂货递送服务纳入Walmart+ 作为可选的附加项目",
+        "desc":null
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/comic/1289391.htm",
+        "title":"网飞动画电影《忍者神龟的崛起：电影版》发布预告",
+        "desc":null
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/game/1289393.htm",
+        "title":"《光环》十年老兵加盟343担任技术设计总监",
+        "desc":"《光环》老兵Paul Bertone现已加盟343工作室担任技术设计总监。根据Paul Bertone领英简历，他曾在Bungie任职超过十年时间，以设计总监的身份开发了《光环--3》，《光环：ODST》和《光环：致远星》，于2012年离开。2022年6月，加盟了343。"
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/comic/1289395.htm",
+        "title":"7月29日上映《DC萌宠特遣队》公开人形角色海报",
+        "desc":null
     }
 ]
