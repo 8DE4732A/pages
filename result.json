@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/movie/1289279.htm",
-        "title":"《雷神4》伦敦首映 娜塔莉波特曼红唇红裙妆容亮眼",
-        "desc":"英国伦敦，《雷神4》伦敦放映会活动举行，发行单位挟剧组主要成员登陆伦敦莱斯特广场欧典剧院，与各路媒体见面。娜塔莉·波特曼（NataliePortman）一袭迪奥经典红色抹胸礼裙搭配鲜花头饰亮相，妆容上娜塔莉用了大胆的红色唇彩，粉紫色烟熏眼妆搭配，娇艳……迷人。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1289281.htm",
-        "title":"银行卡突然多出1.9万一看是贷款 央视提醒：新型诈骗需谨慎",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1289283.htm",
         "title":"中国制造商主导泰国电动汽车市场：将占据80%份额",
         "desc":"数据显示，由于政府补贴降低了购买价格等原因，中国电动汽车制造商在泰国的市场份额预计将从去年的58%上升到今年的80%左右，主导泰国电动汽车市场。据悉，中国的长城汽车是泰国最知名的电动汽车品牌，自一年前进入市场以来，该公司已销售了2,000多辆汽车，今年有超过3,000人在等待长城电动汽车交付。"
@@ -292,6 +282,16 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1289397.htm",
         "title":"WSA获7月更新：支持AV1编解码 升级设置应用",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1289399.htm",
+        "title":"日本将开始对网上辱骂的人处于监禁处罚：最高达一年",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1289401.htm",
+        "title":"特斯拉裁掉的员工惨吗？ 被苹果、谷歌和亚马逊给抢了",
         "desc":null
     }
 ]
