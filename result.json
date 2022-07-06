@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1289147.htm",
-        "title":"Pixel概览界面或很快能够显示Nest Home设备的计时器",
-        "desc":null
-    },
-    {
         "url":"https://hot.cnbeta.com/articles/movie/1289149.htm",
         "title":"少女钢铁之心马克1战甲概念图曝光 将在《黑豹2》中登场",
         "desc":"今天，官方公布了二代钢铁侠——钢铁之心少女莉莉·威廉姆斯马克1战甲概念图，这将是她在电影《黑豹2：永远的瓦坎达》中的日常装备，“尽管质量不高”。"
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1289287.htm",
         "title":"钟薛高火烤不化引热议 专家：因乳脂肪含量高 测试不科学",
         "desc":"最近一段时间，“雪糕刺客”引起了不少讨论，指的是那些看起来平平无奇，但售价却超乎想象，一根能达到十几二十元。而不停的讨论中，话题也蔓延到了近年来的网红品牌钟薛高身上，不少网友吐槽该品牌雪糕太贵了。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1289289.htm",
+        "title":"IBM收购Databand以加强其企业级数据观察平台",
+        "desc":"IBM今天宣布收购Databand，一家为数据和机器学习管道开发可观察性平台的初创公司。交易的细节没有披露，但总部位于特拉维夫的Databand在收购之前已经筹集了1450万美元。Databand的员工将加入IBM的数据和人工智能部门，这项收购预计将于6月27日完成。"
     }
 ]
