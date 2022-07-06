@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/movie/1289155.htm",
-        "title":"广电总局：古装剧服装要符合史实、坚决抵制“娘炮”",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/science/1289157.htm",
-        "title":"全球首个商用沙电池投入使用：转换率高 成本低",
-        "desc":"风能和太阳能都是间歇性的，所产生的能源并不是按需的，因此这些绿色能源转型将需要大量的能量存储。目前已经探索出多种方式，从传统基于锂的“超大号”电池，到液流电池、硅相变电池、熔盐电池、铁空气电池、重力电池、二氧化碳膨胀电池和像浮力电池这样的创新方案。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1289159.htm",
         "title":"魅族CEO黄质潘全员信：未来有更好的魅族手机",
         "desc":null
@@ -293,5 +283,15 @@
         "url":"https://www.cnbeta.com/articles/tech/1289297.htm",
         "title":"1961年来最热6月刚过 全国大范围凶猛高温又来了",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1289299.htm",
+        "title":"苹果官宣新款MacBook Air本周五开启预售：国行9499元起",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1289301.htm",
+        "title":"英国对微软收购动视暴雪交易展开反垄断调查",
+        "desc":"据报道，英国反垄断监管机构“竞争与市场管理局”（CMA）今日宣布，已对微软收购动视暴雪（Activision \r\nBlizzard）交易展开初步的反垄断调查。CMA称，将评估这笔交易是否会损害市场竞争，导致价格上涨或消费者选择空间减少。调查期间，CMA将与世界各地的同行合作。CMA预计，此次初步调查将在今年9月1日前完成，之后再决定是否展开进一步的深入调查。"
     }
 ]
