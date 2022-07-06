@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1289189.htm",
-        "title":"先进芯片的命运，被两家公司掌握",
-        "desc":"从成为自动驾驶等新一代技术核心的尖端半导体制造来看，全世界已开始被2家企业垄断。那就是台积电（TSMC）和荷兰的半导体制造设备企业ASML（阿斯麦尔）。甚至形成没有这两家企业就无法生産尖端産品的状况。世界是否做好准备？也必将给激烈争夺技术主导权的中美造成巨大影响。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1289191.htm",
         "title":"英伟达这个芯片，依然难逢敌手",
         "desc":"随着机器学习越来越多地进入社会的每一个角落，相应的训练任务也成为了云端数据中心最关键的运算负载之一，同时这也推动了半导体相关芯片市场的蓬勃发展。在云端训练芯片领域，虽然一直有不同的挑战者，但是NVIDIA一直保持着龙头的位置。"
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1289331.htm",
         "title":"利用AI实现电路板设计自动化的Celus公司获得2560万美元投资",
+        "desc":null
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/music/1289333.htm",
+        "title":"周杰伦，不过如此",
         "desc":null
     }
 ]
