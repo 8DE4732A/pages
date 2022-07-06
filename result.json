@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1289187.htm",
-        "title":"Zodiac Stargazer：带你乘坐轮式旋转望远镜观赏星空",
-        "desc":"设计师Hyunsik Moon以一个非常奇怪的电动车概念吸引了我们的注意。Zodiac Stargazer将最多两名乘客放在一个轮子上的天文望远镜中，它可以旋转并直接朝上，从而给人们一个非凡的宇宙窗口。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1289189.htm",
         "title":"先进芯片的命运，被两家公司掌握",
         "desc":"从成为自动驾驶等新一代技术核心的尖端半导体制造来看，全世界已开始被2家企业垄断。那就是台积电（TSMC）和荷兰的半导体制造设备企业ASML（阿斯麦尔）。甚至形成没有这两家企业就无法生産尖端産品的状况。世界是否做好准备？也必将给激烈争夺技术主导权的中美造成巨大影响。"
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1289329.htm",
         "title":"储户近200万巨款不翼而飞 人脸识别漏洞成骗子作案工具",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1289331.htm",
+        "title":"利用AI实现电路板设计自动化的Celus公司获得2560万美元融资",
         "desc":null
     }
 ]
