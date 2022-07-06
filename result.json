@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1289173.htm",
-        "title":"亚马逊入股外卖平台Grubhub 为Prime会员免费送餐",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1289175.htm",
         "title":"放不化、烤不融的雪糕还能吃吗？专家解疑",
         "desc":"7月6日消息，炎热的夏天，网红雪糕频频登上热搜。近日，一段网友用打火机点燃钟薛高雪糕疑似烧不化的视频再度引发关注。上海市市场监督管理局宣传处工作人员表示已关注到此事，并告知了相关业务处室。"
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/science/1289315.htm",
         "title":"NASA承认遭遇故障后与新发射的小型月球航天器之间的沟通很困难",
         "desc":"美国宇航局在与它的新CAPSTONE航天器建立联系时遇到了困难，这个微小的探测器刚刚从地球上发射，以测试绕月的新轨道。由于通信问题，美国宇航局不得不推迟该飞行器的计划机动，这将有助于完善其通往深空的路径，该机构仍在试图重新建立联系。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1289317.htm",
+        "title":"Rivian 称今年有望交付25000辆电动汽车",
+        "desc":null
     }
 ]
