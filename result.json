@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1289707.htm",
-        "title":"研究：甲烷对全球变暖的敏感度比之前认为的要高得多",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1289711.htm",
         "title":"华擎推出适用于AMD和Intel主板的Wi-Fi 6E无线网卡升级套件",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/science/1289825.htm",
         "title":"千奇百怪的外星世界（下）：会下金属雨的“地狱”",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1289827.htm",
+        "title":"信用卡新规落地：试点线上展业 发卡、收费、授信乱象都要治",
+        "desc":"在征求意见6个多月后，信用卡新规落地，过渡期2年，正式告别跑马圈地时代。7月7日，中国银保监会、中国人民银行发布《关于进一步促进信用卡业务规范健康发展的通知》（下称《通知》），从转变发展模式、治理过度授信、规范息费收取、加强消费者权益保护、严格外部合作管理等多个方面，提出明确具体的要求。"
     }
 ]
