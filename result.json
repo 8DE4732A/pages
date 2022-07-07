@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1289687.htm",
-        "title":"消息称星巴克在俄业务已找到新买家",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1289689.htm",
         "title":"“培根地带”：NASA“毅力号”对霍格沃洛平原进行探索",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1289805.htm",
         "title":"3nm弯道超车台积电之后 三星2nm工艺蓄势待发",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1289807.htm",
+        "title":"通用旗下Cruise自动驾驶汽车发生事故 导致人员受伤",
+        "desc":"就在加州交通监管机构授予Cruise公司商业化自动驾驶技术的里程碑式许可后仅仅一天，该公司的一辆自动驾驶汽车就发生车祸，导致多人受伤。这起车祸发生于6月3日晚间，地点在旧金山，当时一辆处于自动驾驶模式下的Cruise汽车在Geary\r\n Boulevard和Spruce Street的交叉口向左转弯，挡在一辆迎面而来的丰田普锐斯前面，随后两辆车发生了碰撞。"
     }
 ]
