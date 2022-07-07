@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1289683.htm",
-        "title":"PDD直播间唱歌后续  已取得原作者谅解并再次道歉",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1289685.htm",
         "title":"肯德基和必胜客将正式退出俄罗斯市场",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1289801.htm",
         "title":"Google Chrome将优化后台页面处理策略 笔记本电脑电池寿命可能因此得到提升",
         "desc":"Google \r\nChrome是世界上最受欢迎的互联网浏览器，但在许多情况下，它也因消耗电池寿命而臭名昭著，然而，一个新的幕后变化可能会扭转目前的局面。在Google\r\n Chrome的最近更新中，一个新的测试标记已经浮出水面，显示了浏览器节省电池电量的一个潜在来源。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1289803.htm",
+        "title":"中澳天文学家首次发现双星“共有包层”证据",
+        "desc":"恒星是我们理解宇宙的一把钥匙。和距离我们最近的恒星太阳不同的是，天空中大多数恒星都有自己的伴侣，结伴完成演化过程。7月7日，英国《皇家天文学会月刊》（MNRAS）在线发布了中澳科学家联合完成的一项科学发现。"
     }
 ]
