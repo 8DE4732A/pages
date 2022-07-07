@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1289685.htm",
-        "title":"肯德基和必胜客将正式退出俄罗斯市场",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1289687.htm",
         "title":"消息称星巴克在俄业务已找到新买家",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/science/1289803.htm",
         "title":"中澳天文学家首次发现双星“共有包层”证据",
         "desc":"恒星是我们理解宇宙的一把钥匙。和距离我们最近的恒星太阳不同的是，天空中大多数恒星都有自己的伴侣，结伴完成演化过程。7月7日，英国《皇家天文学会月刊》（MNRAS）在线发布了中澳科学家联合完成的一项科学发现。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1289805.htm",
+        "title":"3nm弯道超车台积电之后 三星2nm工艺蓄势待发",
+        "desc":null
     }
 ]
