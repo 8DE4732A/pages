@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1289689.htm",
-        "title":"“培根地带”：NASA“毅力号”对霍格沃洛平原进行探索",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1289691.htm",
-        "title":"起底钟薛高“火烤不化”事件",
-        "desc":null
-    },
-    {
         "url":"https://hot.cnbeta.com/articles/movie/1289693.htm",
         "title":"众星云集 贝尔新片《阿姆斯特丹》发布预告片",
         "desc":null
@@ -293,5 +283,15 @@
         "url":"https://www.cnbeta.com/articles/tech/1289807.htm",
         "title":"通用旗下Cruise自动驾驶汽车发生事故 导致人员受伤",
         "desc":"就在加州交通监管机构授予Cruise公司商业化自动驾驶技术的里程碑式许可后仅仅一天，该公司的一辆自动驾驶汽车就发生车祸，导致多人受伤。这起车祸发生于6月3日晚间，地点在旧金山，当时一辆处于自动驾驶模式下的Cruise汽车在Geary\r\n Boulevard和Spruce Street的交叉口向左转弯，挡在一辆迎面而来的丰田普锐斯前面，随后两辆车发生了碰撞。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1289809.htm",
+        "title":"国航回应CA1921航班机翼螺丝松动：高度重视 立即检查",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1289811.htm",
+        "title":"台积电控制了第一季度70%的移动芯片组出货量",
+        "desc":null
     }
 ]
