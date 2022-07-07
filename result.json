@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1289699.htm",
-        "title":"Intel 14代酷睿新增小小CPU核心：Xe LPG架构新核显",
-        "desc":"Raptor Lake(RPL) 13代酷睿还没发布，Meteor Lake(MTL) 14代酷睿的消息就一直不断。它会升级到全新的Intel \r\n4工艺(原来的7nm)，首次采用多重小芯片设计，CPU核心、GPU核心、IO核心各自独立。今天，Igor'sLAB公布了14代酷睿移动版的架构图，包括H、P、U三大系列。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1289701.htm",
         "title":"中国红客联盟突然解散 创始人、法人公开对骂",
         "desc":null
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1289817.htm",
         "title":"通信大数据行程卡有重要变化：14天调为7天",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1289819.htm",
+        "title":"奥密克戎BA.4和BA.5正在全球掀起感染潮 新变种BA.2.75又来了",
         "desc":null
     }
 ]
