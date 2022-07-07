@@ -1,20 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1289701.htm",
-        "title":"中国红客联盟突然解散 创始人、法人公开对骂",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1289703.htm",
-        "title":"俄罗斯PCIe 4.0 SSD硬盘用上自研芯片：最大16TB、速度1.5GB/s",
-        "desc":"除了自研的ARM/RISC-V体系处理器之外，俄罗斯也在提升SSD主控芯片的国产化，日前在Innoprom 2022国际工业展上，俄罗斯公司Kraftway公开了自研的SSD主控芯片K1942VK018，这是一款PCIe 4.0主控。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1289705.htm",
-        "title":"幕后视频揭示Nothing Phone(1)配备屏下指纹传感器",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1289707.htm",
         "title":"研究：甲烷对全球变暖的敏感度比之前认为的要高得多",
         "desc":null
@@ -292,6 +277,21 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1289819.htm",
         "title":"奥密克戎BA.4和BA.5正在全球掀起感染潮 新变种BA.2.75又来了",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1289821.htm",
+        "title":"Intel NUC笔记本上自家显卡：性能断崖式倒退",
+        "desc":"年初的CES大会上，Intel在宣布Arc锐炫显卡新进展的时候，披露了即将搭载的设备，包括自家NUC，不但有迷你机，还有笔记本。是的，Intel\r\n NUC家族也有笔记本，它就是NUC \r\nX15，但只是Intel提供给的“公版方案”，OEM厂商可以拿去加工、改名，当做自己的产品，比如威刚的XPG Xenia系列笔记本。"
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/music/1289823.htm",
+        "title":"周杰伦新专辑《最伟大的作品》已开启预售：30元、6首新歌",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1289825.htm",
+        "title":"千奇百怪的外星世界（下）：会下金属雨的“地狱”",
         "desc":null
     }
 ]
