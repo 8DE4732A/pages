@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/game/1289681.htm",
-        "title":"四个月后 任天堂突然重新开放Wii和DSi商店",
-        "desc":"在下线进行“维护”近四个月后，数字版 Wii 和 DSi 游戏的下载再次可用。任天堂在 2017 年停止了购买 DSi 游戏的功能，并在 2019 年停止了 Wii 数字版购买。虽然自那以来你无法从这些商店购买新游戏，但你仍然可以下载之前购买的游戏。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1289683.htm",
         "title":"PDD直播间唱歌后续  已取得原作者谅解并再次道歉",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1289799.htm",
         "title":"FDA授权部分药剂师向患者开具辉瑞Paxlovid新冠口服药",
         "desc":"FDA已授权持有州一级执照的的药剂师向符合用药条件的新冠患者开具辉瑞(PFE.US)Paxlovid新冠口服药。该机构已经修改了Paxlovid的紧急使用授权，这可能会降低一些新冠患者发展成为重症的风险。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1289801.htm",
+        "title":"Google Chrome将优化后台页面处理策略 笔记本电脑电池寿命可能因此得到提升",
+        "desc":"Google \r\nChrome是世界上最受欢迎的互联网浏览器，但在许多情况下，它也因消耗电池寿命而臭名昭著，然而，一个新的幕后变化可能会扭转目前的局面。在Google\r\n Chrome的最近更新中，一个新的测试标记已经浮出水面，显示了浏览器节省电池电量的一个潜在来源。"
     }
 ]
