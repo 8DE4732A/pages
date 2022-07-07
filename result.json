@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/movie/1289693.htm",
-        "title":"众星云集 贝尔新片《阿姆斯特丹》发布预告片",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/science/1289695.htm",
-        "title":"经济衰退为视频游戏行业按下“暂停键” 销售额多年来首次下滑",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1289697.htm",
         "title":"小米12T Pro国际版孪生兄弟：红米K50S Pro 3C认证曝光",
         "desc":null
@@ -293,5 +283,15 @@
         "url":"https://www.cnbeta.com/articles/tech/1289811.htm",
         "title":"台积电控制了第一季度70%的移动芯片组出货量",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1289813.htm",
+        "title":"欧洲议会同意将核能和天然气纳入绿色能源目录 欧盟裂痕扩大",
+        "desc":"在经历了数月的激烈争论后，当地时间7月6日，欧洲议会最终同意将核能和天然气纳入《欧盟可持续金融分类目录》。当天，欧洲议会以278票赞成、328票反对、33票弃权的结果否决了反对将核能和天然气纳入环境可持续经济活动的动议。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1289815.htm",
+        "title":"“币圈央妈”的三重身份：既是借款人、贷款人，也是投资人",
+        "desc":"这种循环资本在加密货币市场普遍存在，加剧加密货币机构之间“唇亡齿寒”的关系。随着加密货币经纪商Voyager \r\nDigital走向破产，“币圈央妈”的三重身份逐渐浮出水面。文件显示，加密货币交易所FTX创始人Sam \r\nBankman-Fried（SBF）创立的交易公司Alameda Research既是Voyager \r\nDigital的借款人、贷款人，同时也是它的投资人。"
     }
 ]
