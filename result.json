@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1290075.htm",
-        "title":"德国研究团队实现了两个原子在33公里光缆上的纠缠连接",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1290077.htm",
-        "title":"传英特尔CEO可能在8月访问台积电，以讨论采用3nm工艺的新CPU合作",
-        "desc":"据DIGITIMES报道，消息人士称，英特尔首席执行官Pat Gelsinger可能会在8月访问台积电，以讨论在3nm工艺方面的合作。这是因为英特尔即将推出的“Meteor Lake” CPU已被重新安排在2023年底开始出货。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1290079.htm",
         "title":"新研究证明了在怀孕期间摄入咖啡是安全的",
         "desc":null
@@ -293,5 +283,15 @@
         "url":"https://www.cnbeta.com/articles/tech/1290191.htm",
         "title":"Meta的VR真撑不住了",
         "desc":"就在最近，分析师郭明錤发布一则“Meta 2024年VR头显出货量将下调40%”的消息。当日代工巨头歌尔股份的股价跌停，市值一夜蒸发129亿元。业内行业人士普遍认为这与郭明錤的言论有关。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290193.htm",
+        "title":"M2 MacBook Air开始预购 发货日期瞬间开始滑落",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290195.htm",
+        "title":"MagSafe 3充电线现在有了新的颜色 与MacBook Air相匹配",
+        "desc":"苹果公司今天推出了与MacBook Air相匹配的三种新颜色的USB-C转MagSafe \r\n3充电线，包括太空灰、午夜和星光色，定价为49美元。苹果已经在新的MacBook Air的包装盒中包含了一条颜色匹配的MagSafe \r\n3充电线，但是现在可以从苹果的网上商店单独订购这条电缆，供那些想要额外的电缆或需要替换的人使用。"
     }
 ]
