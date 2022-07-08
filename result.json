@@ -1,20 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290113.htm",
-        "title":"美国风能和太阳能的发电量首次超过核能",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1290115.htm",
-        "title":"斯里兰卡总理宣布国家破产，危机或持续到2024年",
-        "desc":"近日，斯里兰卡总理正式宣布国家已经破产。在过去的两周里，斯里兰卡医生Thusitha　Kahaduwa每天花几个小时骑自行车在首都穿梭，完成病人检查、救治工作。这位41岁的医生是斯里兰卡中产阶层中的一员。在该国陷入自1948年独立以来最严重的经济危机之后，从工作通勤到购物，许多人都改用自行车。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1290117.htm",
-        "title":"特斯拉中国6月交付量再创历史新高 上半年交付29.5万辆",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290119.htm",
         "title":"雪莲走红：一种对平民市场经济的期待",
         "desc":"在这个“雪糕刺客”被议论纷纷的夏天，只卖冰块的雪莲，却悄然走红。每包五毛钱的雪糕品牌“雪莲”，被网友亲切地称为“雪糕护卫”。当“雪糕刺客”戳到大众痛点、成为网络热词时，“平平无奇”的雪莲却被网友在社交平台上争相“表扬”，雪莲倒是成了雪糕中的“清流”。"
@@ -292,6 +277,21 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1290229.htm",
         "title":"运营商Rogers的一次重大故障切断了加拿大各地的电话和互联网连接",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290231.htm",
+        "title":"华硕Z690主板升级BIOS：支持13代酷睿、最多24核32线程",
+        "desc":"Intel的13代酷睿越来越近了，前几天华擎宣布旗下的600系主板升级BIOS，将支持新一代酷睿，也就是13代酷睿Raptor Lake系列，现在华硕的Z690系列主板也升级BIOS了，同样加入了13代酷睿支持。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290233.htm",
+        "title":"交通部约谈货拉拉等四大货运平台：要求公开抽成比例、整改压价竞争",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290235.htm",
+        "title":"雪糕刺客后 话梅刺客又火了：一斤1600元、两颗就要50元",
         "desc":null
     }
 ]
