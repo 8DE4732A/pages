@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290111.htm",
-        "title":"[图]有效载荷80吨 Scania首辆电动木材重卡已交付",
-        "desc":"商用车制造商 Scania AB 近日向欧洲最大的私人森林所有者 SCA 交付了其第一辆电动木材卡车。这辆卡车可有效载荷 80 吨木材，代表着瑞典向完全无化石燃料社会迈进了一大步。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290113.htm",
         "title":"美国风能和太阳能的发电量首次超过核能",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1290227.htm",
         "title":"M1 Mac mini实例现已在亚马逊AWS云服务中普遍可用",
         "desc":"亚马逊网络服务（AWS）宣布，其M1 Mac mini云计算实例已经结束预览，目前已向客户普遍提供。在2021年12月的预览之后，AWS现在正在为所有用户提供M1 Mac mini实例。据亚马逊称，新实例的性价比相较于英特尔架构的Mac mini实例高60%。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290229.htm",
+        "title":"运营商Rogers的一次重大故障切断了加拿大各地的电话和互联网连接",
+        "desc":null
     }
 ]
