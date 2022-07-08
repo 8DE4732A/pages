@@ -1,20 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290063.htm",
-        "title":"Chris Brown的Breezyverse NFT滞销 上线一周仅售出3%",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1290065.htm",
-        "title":"机构称2023年Reels收入有望超越TikTok，扎克伯格可以松口气了？",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1290067.htm",
-        "title":"[图]查看/编辑Chrome已保存密码今后可设置指纹验证了",
-        "desc":"Windows 端 Chrome 浏览器如果想要查看或者编辑已经保存的密码，那么就需要输入设备密码。Google 现在正努力添加另一层保护或新的隐私功能，用户可以通过生物特性进行身份验证，例如使用连接到笔记本电脑的指纹扫描仪来访问密码。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1290069.htm",
         "title":"科学家发现另一种手臂细小的巨型恐龙",
         "desc":"在周四发表在《Current Biology》上的一项新研究中，科学家们不仅挖掘出了另一种具有迷你上肢的巨大肉食性恐龙的化石--称为Meraxes gigas--而且他们还认为这是小恐龙手臂在很久以前实际上具有重要生存优势的证据。"
@@ -292,6 +277,21 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1290179.htm",
         "title":"英特尔Sapphire Rapids-SP至强CPU阵容规格泄露",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290181.htm",
+        "title":"Intel 200亿美元的晶圆厂破土动工 有望首发“2nm”工艺",
+        "desc":null
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/movie/1290183.htm",
+        "title":"黄家驹演唱会31年后重映 1小时播放破亿",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290185.htm",
+        "title":"一加10 Pro系统更新：支持中国广电5G",
         "desc":null
     }
 ]
