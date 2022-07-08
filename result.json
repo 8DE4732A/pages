@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290097.htm",
-        "title":"Edge 104 Beta发布：为企业用户引入诸多新策略",
-        "desc":"Beta 频道 Edge 浏览器近日获得版本更新。对于普通用户来说，Edge 104 Beta 虽然没有新的功能，但是对于企业用户来说引入了诸多新的策略，方便 IT 管理员进行精细化管理。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290099.htm",
         "title":"俄罗斯推出采用自研主控芯片的SSD，速度可达1.5GB/s",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1290213.htm",
         "title":"一夜回到30年前 6月俄罗斯汽车销量暴跌80%",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290215.htm",
+        "title":"戴口罩会把人憋出毛病？哪有那么容易",
+        "desc":"新冠疫情反反复复，口罩，已经成了大家的日用标配。关于口罩，也就有了不少的传言，其中一些非常离谱。比如就有人在微信群转发，称戴口罩可能导致缺氧，引起人的种种健康问题。"
     }
 ]
