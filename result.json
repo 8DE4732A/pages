@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/movie/1290123.htm",
-        "title":"Netflix开始支持空间音频",
-        "desc":"全球最大串流媒体平台Netflix本周宣布开始支持空间音频（Spatial Audio），让用户通过一般电视机或设备观赏视频时，也能体验到环绕于四周的声音效果，最先具备空间音频的视频为《怪奇物语》（Stranger Things）第四季，未来会有更多视频支持该功能。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1290125.htm",
         "title":"科学家在银河系中心附近的分子云中发现了生命的关键组成部分",
         "desc":null
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/science/1290239.htm",
         "title":"探测器降落离开过程显示小行星贝努结构非常松散",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290241.htm",
+        "title":"Google以BTS街景游庆祝粉丝团“ARMY”成立九周年",
         "desc":null
     }
 ]
