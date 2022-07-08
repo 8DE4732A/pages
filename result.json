@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1290073.htm",
-        "title":"世界最大暗物质探测器成功运行：实验室在地下1.5公里 研究团队达250人",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1290075.htm",
         "title":"德国研究团队实现了两个原子在33公里光缆上的纠缠连接",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1290189.htm",
         "title":"莱茵河低水位阻碍运输 加剧欧洲能源危机",
         "desc":"欧洲莱茵河的水位再次下降，这可能会加剧欧洲的能源危机。高温天气使莱茵河部分河段的水位降至至少15年来的最低季节性水平。这可能会影响到从煤炭到石油等各种产品的运输，因为欧洲各国正竞相在冬季来临前储备能源供应。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290191.htm",
+        "title":"Meta的VR真撑不住了",
+        "desc":"就在最近，分析师郭明錤发布一则“Meta 2024年VR头显出货量将下调40%”的消息。当日代工巨头歌尔股份的股价跌停，市值一夜蒸发129亿元。业内行业人士普遍认为这与郭明錤的言论有关。"
     }
 ]
