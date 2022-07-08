@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290061.htm",
-        "title":"2022年上半年国内汽车召回：上汽通用五菱力压大众丰田“夺冠”",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290063.htm",
         "title":"Chris Brown的Breezyverse NFT滞销 上线一周仅售出3%",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1290177.htm",
         "title":"深度体验Intel i5-12600KF：i5默秒全的时代又回来了？",
         "desc":"去年十一月十二代酷睿横空出世，以其出色的架构设计和强劲的性能赢得了消费者的一致好评，而同期发布的继i5-12600K发布之后不就，i5-12600KF作为不含核显的产品也横空出世，以精准的产品定位和优惠的价格更是受到了一众游戏爱好者和用户的追捧。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290179.htm",
+        "title":"英特尔Sapphire Rapids-SP至强CPU阵容规格泄露",
+        "desc":null
     }
 ]
