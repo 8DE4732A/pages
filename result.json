@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1290107.htm",
-        "title":"新研究揭示了COVID-19免疫反应是如何损害大脑的",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290109.htm",
         "title":"全国高温蒸烤地图出炉：依然大面积高温、南北方都热",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/science/1290223.htm",
         "title":"新证据显示巨齿鲨比科学家们想象的还要可怕和强大",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290225.htm",
+        "title":"美联储布雷纳德：金融监管必须涵盖加密货币",
+        "desc":"美联储副主席布雷纳德称，近期加密货币市场的动荡尚未对整个金融体系构成“系统性风险”，但政府需要弥补监管缺口，以保护消费者，并确保稳定。布雷纳德在为周五英国央行一个会议准备的发言稿中指出，美联储官员正在密切关注加密资产的动荡，其暴露了与杠杆、流动性和结算相关的脆弱性。"
     }
 ]
