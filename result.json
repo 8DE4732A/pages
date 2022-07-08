@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290087.htm",
-        "title":"前Theranos COO Sunny Balwani被认定犯有欺诈罪",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290089.htm",
         "title":"伦敦地铁将很快迎来沃达丰与O2的4G/5G移动网络服务",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1290203.htm",
         "title":"360“网购先赔”即将下线 用户遭受经济损失不再赔偿",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290205.htm",
+        "title":"汽车“双积分”政策大调整 有何影响？",
+        "desc":"日前，工信部发布《关于修改＜乘用车企业平均燃料消耗量与新能源汽车积分并行管理办法＞的决定（征求意见稿）》（下称《意见稿》），并公开征求意见。本次“双积分”政策地修订，旨在使其更好的适应产业发展面临的新形势，更好发挥政策作用，促进产业高质量发展。"
     }
 ]
