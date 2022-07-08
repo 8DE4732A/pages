@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290099.htm",
-        "title":"俄罗斯推出采用自研主控芯片的SSD，速度可达1.5GB/s",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1290101.htm",
         "title":"ISS宇航员们继续进行神经系统研究和太空行走准备工作",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1290215.htm",
         "title":"戴口罩会把人憋出毛病？哪有那么容易",
         "desc":"新冠疫情反反复复，口罩，已经成了大家的日用标配。关于口罩，也就有了不少的传言，其中一些非常离谱。比如就有人在微信群转发，称戴口罩可能导致缺氧，引起人的种种健康问题。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290217.htm",
+        "title":"空客Zephyr太阳能无人机在美国进行17天高空连续测试飞行",
+        "desc":null
     }
 ]
