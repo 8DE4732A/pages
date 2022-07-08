@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290085.htm",
-        "title":"拜亚动力近日推出Free BYRD真无线耳机 售价249美元",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290087.htm",
         "title":"前Theranos COO Sunny Balwani被认定犯有欺诈罪",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/science/1290201.htm",
         "title":"将手机调至静音状态反而可能会增加人们查阅的次数",
         "desc":"宾夕法尼亚州立大学的研究人员表示，人们关闭他们的智能手机，或将其设置为静音，作为缓解分心或避免上瘾的互联网行为的策略，可能会对一些人产生反作用。在一项研究中，研究人员报告说，当他们的设备处于静音模式时，人们查阅手机的频率更高。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290203.htm",
+        "title":"360“网购先赔”即将下线 用户遭受经济损失不再赔偿",
+        "desc":null
     }
 ]
