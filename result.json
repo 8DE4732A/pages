@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290093.htm",
-        "title":"厚度只有1.0毫米 江波龙发布旗舰级UFS 3.1闪存",
-        "desc":null
-    },
-    {
-        "url":"https://hot.cnbeta.com/articles/music/1290095.htm",
-        "title":"周杰伦新专辑只有6首新歌 网友边骂边买：QQ音乐销量逼近200万",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290097.htm",
         "title":"Edge 104 Beta发布：为企业用户引入诸多新策略",
         "desc":"Beta 频道 Edge 浏览器近日获得版本更新。对于普通用户来说，Edge 104 Beta 虽然没有新的功能，但是对于企业用户来说引入了诸多新的策略，方便 IT 管理员进行精细化管理。"
@@ -293,5 +283,15 @@
         "url":"https://www.cnbeta.com/articles/tech/1290209.htm",
         "title":"半导体行业回暖 台积电Q2营收好于市场预期",
         "desc":"据台积电(TSM.US)公布的数据计算，这家全球晶圆代工龙头第二季度的营收达5341亿新台币(约合179亿美元)，好于分析师预期中值5190亿新台币，这表明电子产品的需求较预期的要好。台积电将于7月14日公布第二季度财报。投资者担心，需求疲软和成本飙升将对价值5500亿美元的半导体行业造成影响，而台积电的业绩或许将缓解投资者的担忧。"
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/movie/1290211.htm",
+        "title":"电影《远古外星人》将拍 讲述外星人影响人类文明",
+        "desc":"据外媒报道，系列纪录片《远古外星人》将改编为电影，曾创作过科幻喜剧《热浴盆时光机》系列的乔什·贺德担任导演。《远古外星人》从2009年推出第一季以来，深受观众们的欢迎，至今已经创作了十八季。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290213.htm",
+        "title":"一夜回到30年前 6月俄罗斯汽车销量暴跌80%",
+        "desc":null
     }
 ]
