@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1290101.htm",
-        "title":"ISS宇航员们继续进行神经系统研究和太空行走准备工作",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290103.htm",
         "title":"微软分享实用PSA：明确Windows Autopatch服务工作机制",
         "desc":"面向那些希望更新更加自动化的企业，微软在今年 4 月推出了 Windows Autopatch 服务。不过自该服务上线以来，围绕着新闻稿中某些短语的使用，在媒体和社区中产生了很多的混乱。"
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1290217.htm",
         "title":"空客Zephyr太阳能无人机在美国进行17天高空连续测试飞行",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290219.htm",
+        "title":"由于二手GeForce RTX 30系列GPU大量涌现 RTX 40系列可能会被推迟",
+        "desc":"英伟达的下一代显卡，代号为RTX 40系列即Ada Lovelace预计将在10月的某个时候到来。然而，来自YouTube频道\"Moore's Law Is Dead\"的最新信息表明，英伟达可能将新一代GPU的到来推迟到12月。"
     }
 ]
