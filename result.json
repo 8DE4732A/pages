@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1290125.htm",
-        "title":"科学家在银河系中心附近的分子云中发现了生命的关键组成部分",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290127.htm",
         "title":"马斯克暗示特斯拉将打造可载人运货的“高度可配置”Robovan",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1290241.htm",
         "title":"Google以BTS街景游庆祝粉丝团“ARMY”成立九周年",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290243.htm",
+        "title":"科技公司风光不再 美国硅谷的房价增长也“熄火”了",
+        "desc":"硅谷科技公司裁员、股票市场下滑和飙升的按揭利率多重打击硅谷房地产市场，导致6月美国硅谷房价增长速度创两年来新低。不过专家认为，2008年类似的次贷危机不会重现。根据美国地产经纪公司Compass\r\n \r\nInc．周四的报告，6月份旧金山市房价中位数比去年同期下降了3%，至189万美元，而在此前的三个月里，该市的房价曾达到创纪录的200万美元以上。"
     }
 ]
