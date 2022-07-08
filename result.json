@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1290069.htm",
-        "title":"科学家发现另一种手臂细小的巨型恐龙",
-        "desc":"在周四发表在《Current Biology》上的一项新研究中，科学家们不仅挖掘出了另一种具有迷你上肢的巨大肉食性恐龙的化石--称为Meraxes gigas--而且他们还认为这是小恐龙手臂在很久以前实际上具有重要生存优势的证据。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1290071.htm",
-        "title":"运营长达12年：耐克跑步App NRC中文版正式停运",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1290073.htm",
         "title":"世界最大暗物质探测器成功运行：实验室在地下1.5公里 研究团队达250人",
         "desc":null
@@ -293,5 +283,15 @@
         "url":"https://www.cnbeta.com/articles/tech/1290185.htm",
         "title":"一加10 Pro系统更新：支持中国广电5G",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290187.htm",
+        "title":"英伟达宣布超过200款游戏和应用程序支持DLSS",
+        "desc":"英伟达宣布，目前已经有超过200款游戏和应用程序支持DLSS。在这个月，还会有两款新游戏加入RTX和DLSS的行列，分别是《生死轮回（Loopmancer）》和《Hell Pie》。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290189.htm",
+        "title":"莱茵河低水位阻碍运输 加剧欧洲能源危机",
+        "desc":"欧洲莱茵河的水位再次下降，这可能会加剧欧洲的能源危机。高温天气使莱茵河部分河段的水位降至至少15年来的最低季节性水平。这可能会影响到从煤炭到石油等各种产品的运输，因为欧洲各国正竞相在冬季来临前储备能源供应。"
     }
 ]
