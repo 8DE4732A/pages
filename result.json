@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290141.htm",
-        "title":"AMD EPYC 9000系列泄露：96内核/192线程/384MB L3/400W TDP",
-        "desc":"Yuuki_AnS泄露了采用全新Zen 4核心架构的AMD EPYC 9000\"Genoa\"CPU系列。其披露的阵容列表包括几个SKU的正确命名、核心数量和时钟速度。AMD此前已经宣布EPYC Genoa将与新的SP5平台兼容，该平台带来了一个新的插座，因此SP3的兼容性将到EPYC Milan结束。EPYC Genoa处理器还将支持新一代的内存和更多新功能。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290143.htm",
         "title":"全球首款USB-C充电滑板车T e-scooter亮相 售价999欧元",
         "desc":null
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1290257.htm",
         "title":"拜登将签署行政命令 保护获得生殖健康护理的权利",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290259.htm",
+        "title":"速度高达512GB/s的PCIe 7.0标准还在修订 全面普及路漫长",
         "desc":null
     }
 ]
