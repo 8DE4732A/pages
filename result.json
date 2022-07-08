@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290119.htm",
-        "title":"雪莲走红：一种对平民市场经济的期待",
-        "desc":"在这个“雪糕刺客”被议论纷纷的夏天，只卖冰块的雪莲，却悄然走红。每包五毛钱的雪糕品牌“雪莲”，被网友亲切地称为“雪糕护卫”。当“雪糕刺客”戳到大众痛点、成为网络热词时，“平平无奇”的雪莲却被网友在社交平台上争相“表扬”，雪莲倒是成了雪糕中的“清流”。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290121.htm",
         "title":"“再也不信加密货币了” 币圈券商破产让信徒们“心如死灰”",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1290235.htm",
         "title":"雪糕刺客后 话梅刺客又火了：一斤1600元、两颗就要50元",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290237.htm",
+        "title":"M1 Max Mac Studio官方翻新机开卖：顶配20249元、立省2250元",
+        "desc":"7月9日凌晨，M2 MacBook Air开启预售的同时，苹果还上线了配备M1 Max处理器、官方翻新版的Mac Studio。M1 Max Mac Studio今年3月份才刚发布，这才4个月就有了官翻机。如果你觉得新机价格过高，可以考虑考虑，不仅能便宜2000左右，发货速度也非常快。"
     }
 ]
