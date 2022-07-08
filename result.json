@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290121.htm",
-        "title":"“再也不信加密货币了” 币圈券商破产让信徒们“心如死灰”",
-        "desc":null
-    },
-    {
         "url":"https://hot.cnbeta.com/articles/movie/1290123.htm",
         "title":"Netflix开始支持空间音频",
         "desc":"全球最大串流媒体平台Netflix本周宣布开始支持空间音频（Spatial Audio），让用户通过一般电视机或设备观赏视频时，也能体验到环绕于四周的声音效果，最先具备空间音频的视频为《怪奇物语》（Stranger Things）第四季，未来会有更多视频支持该功能。"
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1290237.htm",
         "title":"M1 Max Mac Studio官方翻新机开卖：顶配20249元、立省2250元",
         "desc":"7月9日凌晨，M2 MacBook Air开启预售的同时，苹果还上线了配备M1 Max处理器、官方翻新版的Mac Studio。M1 Max Mac Studio今年3月份才刚发布，这才4个月就有了官翻机。如果你觉得新机价格过高，可以考虑考虑，不仅能便宜2000左右，发货速度也非常快。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1290239.htm",
+        "title":"探测器降落离开过程显示小行星贝努结构非常松散",
+        "desc":null
     }
 ]
