@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290213.htm",
-        "title":"一夜回到30年前 6月俄罗斯汽车销量暴跌80%",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1290215.htm",
-        "title":"戴口罩会把人憋出毛病？哪有那么容易",
-        "desc":"新冠疫情反反复复，口罩，已经成了大家的日用标配。关于口罩，也就有了不少的传言，其中一些非常离谱。比如就有人在微信群转发，称戴口罩可能导致缺氧，引起人的种种健康问题。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290217.htm",
         "title":"空客Zephyr太阳能无人机在美国进行17天高空连续测试飞行",
         "desc":null
@@ -292,6 +282,16 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1290329.htm",
         "title":"特斯拉被发现在其内华达州Gigafactory外堆积了大量的Megapack",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290331.htm",
+        "title":"Gmail Compose窗口的更新增加了个人资料头像、右键菜单等内容",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290333.htm",
+        "title":"Tether宣称清算了Celsius贷款而没有遭受任何损失",
         "desc":null
     }
 ]
