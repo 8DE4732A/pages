@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/movie/1290359.htm",
-        "title":"漫威《女浩克》发布新剧照 反派泰坦尼亚华丽亮相",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290361.htm",
         "title":"Edge浏览器即将迎来类似Microsoft Photos的图像编辑功能",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1290475.htm",
         "title":"华为应用市场提示Wi-Fi万能钥匙违规：建议立即卸载",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290477.htm",
+        "title":"以太坊：Web3 的“黄埔军校”是怎么炼成的",
+        "desc":"Web3 如风暴一般，迅猛地席卷全球科技互联网行业。以太坊是这场风暴的正中央，几年来，它掀起了 Web3 世界里一波又一波热潮——从 ICO，NFT，到 Defi、IDO 等概念。甚至就连 Web3 的概念，都是来自于以太坊的一名联合创始人。"
     }
 ]
