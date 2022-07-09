@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290163.htm",
-        "title":"线上Apple Store在M2 MacBook Air预售前出现故障",
-        "desc":"苹果公司已经关闭了其在线Apple Store，在太平洋时间早上5点开始的M2 MacBook \r\nAir预购前\"进行更新\"。在2022年WWDC上发布新的M2 MacBook \r\nAir后，公司宣布其将在7月8日开始接受订单，首批订单将在一周后，即2022年7月15日星期五前交付。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290165.htm",
         "title":"泄露的iPhone 14外壳证实了\"Plus\"机型的存在",
         "desc":"一张据称是泄露的iPhone 14外壳配件的照片支持以前的报道，iPhone 14系列有四种型号，大屏幕的非Pro版本可能被称为iPhone 14 Plus。即将推出的iPhone 14系列之前已经显示在声称泄露的图表中，以及显示面板的照片中。"
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1290279.htm",
         "title":"苹果公司希望AirPods能帮助用户避免道路上的意外事故",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290281.htm",
+        "title":"Segway推出全悬挂式高端电动滑板车",
         "desc":null
     }
 ]
