@@ -1,20 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/game/1290253.htm",
-        "title":"微软Xbox Series X现已在日本售出25万台",
-        "desc":"看起来，Xbox品牌可能最终在日本取得了一些进展。今年早些时候，X Series 5月和6月在日本的周销量不是一次而是两次都超过了PlayStation 5。虽然这无疑在很大程度上是由于PS5的库存短缺造成，但毫无疑问，下一代Xbox在日本玩家中的反响要比其前辈大得多。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1290255.htm",
-        "title":"交付时间超1年：雷克萨斯NX在日停止接单",
-        "desc":"因产能受限，比亚迪在国内从下定到交付，普标要等数周甚至是数月时间，这已经引起了很多消费者的不满，不过与日本的丰田/雷克萨斯相比，比亚迪算是个弟弟！近日消息，继丰田兰德酷路泽和雷克萨斯LX在日本停止接受订单后，雷克萨斯NX也难逃一劫，原因依旧是因为芯片短缺和新冠疫情造成的供应限制导致产量不足。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1290257.htm",
-        "title":"拜登将签署行政命令 保护获得生殖健康护理的权利",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290259.htm",
         "title":"速度高达512GB/s的PCIe 7.0标准还在修订 全面普及路漫长",
         "desc":null
@@ -292,6 +277,21 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1290369.htm",
         "title":"平板与Chromebook版Play商店在大修前迎来Material You更新",
+        "desc":null
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/movie/1290371.htm",
+        "title":"《黑袍纠察队》制片人谈第四季剧情走向：冲突更激烈",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290373.htm",
+        "title":"年内五连涨 部分航班机建燃油费比票贵",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290375.htm",
+        "title":"为何5G好像没比4G快？中国工程院院士答疑",
         "desc":null
     }
 ]
