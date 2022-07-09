@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290287.htm",
-        "title":"Twitter告诉员工不要发布有关埃隆·马斯克交易的推文",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1290289.htm",
         "title":"独特的火星岩石使NASA“毅力号”的采样工作变得复杂",
         "desc":"NASA的“毅力号”探测器正在调查Jezero环形山那令人无比兴奋的河流三角洲地区。这个任务有一个很大的计划，那就是要在那里采集一些岩石样本，其中可能有过去生命的证据。但岩石却并不配合。"
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1290403.htm",
         "title":"NIST已着手应对“量子黑客”尽管这种威胁还不存在……",
         "desc":"本周，美国国家标准与技术研究所(NIST)宣布了一项创建新加密标准的全球竞赛的获胜者。有点匪夷所思的是，这些算法被设计用来防御一种甚至还不存在的网络威胁：量子计算机。在大多数情况下，今天流行的加密标准由普通计算机无法破解的复杂数学方程驱动，是非常强大和难以击败的。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290405.htm",
+        "title":"多家大厂开测骁龙8 Gen2：能效比骁龙8+更强",
+        "desc":null
     }
 ]
