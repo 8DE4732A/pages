@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290379.htm",
-        "title":"传戴尔紧急通知面板厂下调Q3订单50%",
-        "desc":"继三星之后，IT大厂戴尔也砍单传出砍单消息。据工商时报称，市场传出戴尔紧急通知面板厂，自7月起监视器和笔电面板第三季订单下调50%，包括京东方、LGD、友达、群创、华星光电、夏普等厂商都受到影响，而且不管之前签的供货及数量保证协定，为了控制财务库存及避免存货跌价损失，通通直接下调。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290381.htm",
         "title":"Phawx分享GPD Win Max 2实测 R7-6800U综合素质碾压i5-1260P",
         "desc":null
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1290495.htm",
         "title":"[视频]Threadripper 5990X超频至4.82GHz：Cinebench R23跑分突破10万分",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1290497.htm",
+        "title":"美国65%志愿消防员体内“永久化学品”含量高于普通人",
         "desc":null
     }
 ]
