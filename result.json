@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1290321.htm",
-        "title":"NASA公布韦伯太空望远镜拍摄的首批天体名单，下周公布照片",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290323.htm",
         "title":"马斯克将终止440亿美元收购Twitter 或付10亿美元分手费",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1290437.htm",
         "title":"AMD公布GPU芯片新专利 推动优化游戏中的着色器",
         "desc":"AMD最近公布了一项专利，将渲染的负载分散到几个GPU芯片组中。这样一来，一个游戏场景将被划分为单独的块，并分配给小芯片，以优化游戏中着色器的利用率。AMD公司公布的新专利为该公司计划在未来几年内利用下一代GPU和CPU技术做什么打开了更多的视角。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290439.htm",
+        "title":"Starlink将帮助SpaceX发射394英尺高的大型火箭 有望突破通信“黑障”",
+        "desc":"作为Starship平台轨道飞行测试的一部分，SpaceX将使用Starlink互联网终端，在两枚火箭在空中飞行时与其卫星群连接。SpaceX目前正朝着从德克萨斯州的博卡奇卡进行\"星际飞船\"的首次轨道飞行测试任务前进，该火箭是该公司迄今为止建造的最大的火箭。它将由33个引擎提供动力，旨在大幅增加该公司可运往低地球轨道（LEO）的吨位，为其提供一个向火星发送载人和货物任务的平台。"
     }
 ]
