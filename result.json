@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290187.htm",
-        "title":"英伟达宣布超过200款游戏和应用程序支持DLSS",
-        "desc":"英伟达宣布，目前已经有超过200款游戏和应用程序支持DLSS。在这个月，还会有两款新游戏加入RTX和DLSS的行列，分别是《生死轮回（Loopmancer）》和《Hell Pie》。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290189.htm",
         "title":"莱茵河低水位阻碍运输 加剧欧洲能源危机",
         "desc":"欧洲莱茵河的水位再次下降，这可能会加剧欧洲的能源危机。高温天气使莱茵河部分河段的水位降至至少15年来的最低季节性水平。这可能会影响到从煤炭到石油等各种产品的运输，因为欧洲各国正竞相在冬季来临前储备能源供应。"
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/science/1290303.htm",
         "title":"“宇宙黎明”的终结：天文学家们试图解决持续20年的争论",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290305.htm",
+        "title":"ProNetwork高管因长期销售假冒伪劣思科设备而被逮捕起诉",
         "desc":null
     }
 ]
