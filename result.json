@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290151.htm",
-        "title":"二手平台上出现大量Apple Face Mask 20元一个可重复用",
-        "desc":"大多数用户都想不到苹果也在打口罩的主意，近日二手平台上出现了大量Apple Face Mask，一盒装5个的售价在100元左右。据称，该口罩是苹果公司于2020 年 9 月 12 日在疫情期间为其员工开发的口罩，由三层组成，可以过滤传入和传出的粒子。据苹果官方介绍，Apple Face Mask 是由 iPhone 和 iPad 的原研发团队开发的。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1290153.htm",
-        "title":"Twitter CEO向马斯克发起反击：宁愿成为牺牲品也要促成收购交易",
-        "desc":"北京时间7月8日晚间消息，据报道，特斯拉CEO埃隆·马斯克（Elon Musk）收购Twitter交易已宣布数月，但至今仍悬而未决。面对马斯克的发难，一向低调的Twitter CEO帕拉格·阿格拉瓦尔（Parag Agrawal）决定发起反击，宁愿成为“牺牲品”也要促成这笔交易。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290155.htm",
         "title":"特斯拉据悉调整亚太区管理结构 由中国区总裁负责该地区业务",
         "desc":"据知情人士透露，特斯拉调整了亚太区的管理结构，当地高管现在将向大中华区而不是美国汇报工作。不愿具名的知情人士表示，架构调整意味着该地区的高级管理人员现在要向特斯拉中国区总裁朱晓彤汇报工作。"
@@ -256,7 +246,7 @@
     },
     {
         "url":"https://hot.cnbeta.com/articles/game/1290253.htm",
-        "title":"Xbox X Series现已在日本售出25万台",
+        "title":"微软Xbox Series X现已在日本售出25万台",
         "desc":"看起来，Xbox品牌可能最终在日本取得了一些进展。今年早些时候，X Series 5月和6月在日本的周销量不是一次而是两次都超过了PlayStation 5。虽然这无疑在很大程度上是由于PS5的库存短缺造成，但毫无疑问，下一代Xbox在日本玩家中的反响要比其前辈大得多。"
     },
     {
@@ -293,5 +283,15 @@
         "url":"https://hot.cnbeta.com/articles/game/1290267.htm",
         "title":"不支持单人游玩的《双人成行》销量突破700万套",
         "desc":"Hazelight工作室官推宣布《双人成行》销量超过了700万套。《双人成行》是EA Original项目作品，于2021年3月26日发售，登陆了Windows商城，PS4，PS5，Xbox One，Xbox Series X|S。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290269.htm",
+        "title":"报道称三星2022 Q1的智能手机出货量为7300万部 超过了苹果",
+        "desc":null
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/game/1290271.htm",
+        "title":"梦回1995：《仙剑奇侠传一》VR版实机画面首曝",
+        "desc":null
     }
 ]
