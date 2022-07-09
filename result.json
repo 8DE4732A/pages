@@ -1,20 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290143.htm",
-        "title":"全球首款USB-C充电滑板车T e-scooter亮相 售价999欧元",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1290145.htm",
-        "title":"何小鹏展示世界上最小的汽油发动机：0.5匹马力 声浪巨大",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1290147.htm",
-        "title":"国家卫健委：奥密克戎变异株潜伏期缩短为2到4天",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290149.htm",
         "title":"初中生买8部手机玩游戏被送医治“网瘾” 医生：勿随意定性",
         "desc":"因为玩游戏被父母没收手机，就偷偷再买一只——13岁的杭州男孩小智（化名）通过攒零用钱、借钱、变卖玩具等，不断买手机偷偷打游戏，一年里连买8只手机。“医生你帮帮我们，给孩子戒‘网瘾’。”在浙江大学医学院附属第一医院精神卫生科诊室，小智母亲激动地说。"
@@ -293,5 +278,20 @@
         "url":"https://www.cnbeta.com/articles/tech/1290259.htm",
         "title":"速度高达512GB/s的PCIe 7.0标准还在修订 全面普及路漫长",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290261.htm",
+        "title":"Apple Maps为另外三个国家提供更详细的3D数据",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290263.htm",
+        "title":"韩国组合BTS与Google推出多项多媒体合作答谢ARMY粉丝团",
+        "desc":"BTS与Google合作，作为周五在美国推出的多媒体合作的一部分，以纪念ARMY九周年，ARMY是与这个现象级流行的K-pop组合有关的粉丝团的名字。这项合作涵盖了Google搜索（一个有趣的复活节彩蛋互动），以及之前我们介绍过的Google文化艺术街景和YouTube上的视频提交活动。"
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/game/1290265.htm",
+        "title":"这款经过重新设计的游戏机看起来像是任天堂可能会制造的原型机",
+        "desc":"想象一下，如果任天堂制造了一台没有Advance部分的Game Boy Advance。这就是视频游戏机和掌上电脑修改者Obirux所做的：他们创造了一个经过重新想象的原始Game Boy掌上电脑，其保留了1989年模型的美学语言但将其重新定位为一个水平处理的系统--类似于世嘉游戏机、原始GBA及包括任天堂Switch在内的许多现代掌上电脑系统。"
     }
 ]
