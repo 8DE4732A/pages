@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290165.htm",
-        "title":"泄露的iPhone 14外壳证实了\"Plus\"机型的存在",
-        "desc":"一张据称是泄露的iPhone 14外壳配件的照片支持以前的报道，iPhone 14系列有四种型号，大屏幕的非Pro版本可能被称为iPhone 14 Plus。即将推出的iPhone 14系列之前已经显示在声称泄露的图表中，以及显示面板的照片中。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1290167.htm",
-        "title":"研究发现全球43.5%的河流存在较为明显的药物污染",
-        "desc":"处方药和非处方药中的化学物质在其生产、使用和处置过程中被释放到环境中，特别是在地表水中。根据最近发表在《环境毒理学和化学》上的研究结果，药品污染早已成为一个世界性的问题，且可能正在损害世界大部分河流的健康。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290169.htm",
         "title":"新款上汽大众途昂X官图发布：配V6发动机 前后Logo都能发光",
         "desc":null
@@ -292,6 +282,16 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1290281.htm",
         "title":"Segway推出全悬挂式高端电动滑板车",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290283.htm",
+        "title":"埃隆·马斯克宣布终止收购Twitter 特斯拉股价迎来上涨",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290285.htm",
+        "title":"三箭资本破产违约让借贷提供方Blockchain.com损失2.7亿美元",
         "desc":null
     }
 ]
