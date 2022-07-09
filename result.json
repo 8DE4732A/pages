@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290331.htm",
-        "title":"Gmail Compose窗口的更新增加了个人资料头像、右键菜单等内容",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290333.htm",
         "title":"Tether宣称清算了Celsius贷款而没有遭受任何损失",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/science/1290447.htm",
         "title":"NASA的空气污染监测仪器TEMPO完成了与气象卫星的集成",
         "desc":"Monitoring of Pollution污染监测（TEMPO）仪器于6月30日在Intelsat \r\nIS40e上成功完成了第一次完全集成的动力测试。在Maxar技术公司位于加利福尼亚州帕洛阿尔托的卫星制造厂进行的这次测试，标志着TEMPO仪器与IS40e卫星的整合已经完成。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290449.htm",
+        "title":"英特尔聘请前台积电资深员工 以提升IFS部门竞争力",
+        "desc":"英特尔CEO帕特-基尔辛格（Pat Gelsinger）去年宣布了“IDM \r\n2.0”战略，其中一项计划就是打造世界一流的英特尔代工服务（IFS）。虽然英特尔的半导体制造技术一直走在行业的前列，但多年以来制造技术的研发基本都是考虑自己的产品，针对特定的芯片设计做优化，且使用的是专有的EDA工具，对于第三方公司来说并不友好。"
     }
 ]
