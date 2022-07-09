@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290383.htm",
-        "title":"Nothing Phone (1) 包装盒设计现身 不包含充电器",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290385.htm",
         "title":"华硕Z690主板喜迎英特尔13代Raptor Lake处理器BIOS更新",
         "desc":null
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1290499.htm",
         "title":"KDE Plasma 5.26有望升级使用C++20开发功能",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290501.htm",
+        "title":"RollingPWN漏洞曝光：黑客远程解锁和启动多款本田车型",
         "desc":null
     }
 ]
