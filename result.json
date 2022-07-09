@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290375.htm",
-        "title":"为何5G好像没比4G快？中国工程院院士答疑",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290377.htm",
         "title":"品牌汽车音响只是“贴牌”？博主拆解奔驰G63试试水有多深",
         "desc":"近日，国产最贵电动车高合因为音响一事，被50名车主集体起诉，引起了业界各方人士的关注。据悉，高合宣称旗下车型HiPhi X使用了英国之声品牌音响，但有车主拆解后发现并非英国之宝，而是国产上声品牌音响。"
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/science/1290491.htm",
         "title":"MIT科学家认为他们已经发现如何完全逆转气候变化",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290493.htm",
+        "title":"Nothing Phone（1）拍摄样张公布 裴宇：2个好相机优于1好3差",
         "desc":null
     }
 ]
