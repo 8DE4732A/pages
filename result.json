@@ -1,35 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290361.htm",
-        "title":"Edge浏览器即将迎来类似Microsoft Photos的图像编辑功能",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1290363.htm",
-        "title":"H3C发布Magic BE18000无线路由器 支持尚未官宣的Wi-Fi 7",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1290365.htm",
-        "title":"evLeaks抢先晒出多组Nothing Phone(1)官方渲染图",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1290367.htm",
-        "title":"三星One UI 5更新预览流出 快速拥抱Android 13但变化不大",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1290369.htm",
-        "title":"平板与Chromebook版Play商店在大修前迎来Material You更新",
-        "desc":null
-    },
-    {
-        "url":"https://hot.cnbeta.com/articles/movie/1290371.htm",
-        "title":"《黑袍纠察队》制片人谈第四季剧情走向：冲突更激烈",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290373.htm",
         "title":"年内五连涨 部分航班机建燃油费比票贵",
         "desc":null
@@ -293,5 +263,35 @@
         "url":"https://www.cnbeta.com/articles/tech/1290477.htm",
         "title":"以太坊：Web3 的“黄埔军校”是怎么炼成的",
         "desc":"Web3 如风暴一般，迅猛地席卷全球科技互联网行业。以太坊是这场风暴的正中央，几年来，它掀起了 Web3 世界里一波又一波热潮——从 ICO，NFT，到 Defi、IDO 等概念。甚至就连 Web3 的概念，都是来自于以太坊的一名联合创始人。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1290479.htm",
+        "title":"多地气温破纪录 专家释疑今年为何这么热？",
+        "desc":"7月6日以来，四川盆地多地出现高温天气，甚至打破全年最高气温纪录，同时，新疆、西北地区东部、西南地区东部、华北、黄淮、浙江等地出现了35℃以上的高温天气。气象专家表示，此次高温天气范围广、强度强、持续时间长，受副热带高压西伸北抬影响，未来高温天气影响范围进一步扩大，南方大部地区将出现持续性高温天气。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290481.htm",
+        "title":"华为旗舰再添一员 P50系列新版曝光",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290483.htm",
+        "title":"iPhone 14的价格可能比iPhone 13高100美元",
+        "desc":"2022年的iPhone更新对消费者来说可能是一次昂贵的体验，一位分析家称，iPhone \r\n14系列的价格可能会有多达100美元的上涨。苹果公司庞大的供应链正在努力为今年秋季的iPhone更新做准备。然而，同样的供应商安排最终可能迫使苹果将其旗舰产品的价格提高相当大的幅度。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1290485.htm",
+        "title":"NASA继续为发射Artemis I月球火箭做准备",
+        "desc":"自从太空发射系统（SLS）和猎户座于7月2日回到位于佛罗里达州的美国宇航局肯尼迪航天中心的车辆装配大楼（VAB）以来，工人们延长了火箭和航天器周围的通道平台，以对组合体进行维修，并在返回39B发射台进行阿特米斯一号任务发射前进行最后的程序。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290487.htm",
+        "title":"纳米粒子疫苗被证实可以提供冠状病毒防御能力 包括未来的变种",
+        "desc":"在过去的20年里，与SARS-CoV和SARS-CoV-2这两种来自冠状病毒Sarbecovirus（乙型冠状病毒支系B）有关的流行病或大流行已经影响到了人类。尽管迅速开发了有效的疫苗，但由SARS-CoV-2诱发的COVID-19大流行在全球已经持续了两年多。事实上，令人担忧的新型SARS-CoV-2变体（VOCs），如严重变异的Omicron\r\n VOCs，延长了COVID-19大流行的时间。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290489.htm",
+        "title":"苹果在三年前的今天停产了无风扇的12英寸MacBook型号",
+        "desc":"今天是苹果停产12英寸MacBook的三周年。2019年7月9日，这款便携式笔记本与同一天刷新的MacBook Air和13英寸MacBook Pro一起从苹果的网上商店撤下。2015年3月推出的12英寸MacBook具有轻薄的设计，重量只有两磅，它也是苹果的第一款无风扇笔记本。"
     }
 ]
