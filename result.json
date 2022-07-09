@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290247.htm",
-        "title":"马斯克终止并购 Twitter股价盘后跌9% 称将“法庭见”",
-        "desc":"话说天下大事合久必分，分久必合，而在特斯拉CEO马斯克和社交媒体推特的世纪收购案中，这段耗时多月一路磕磕绊绊的收购仍然无法以马斯克单方面“分手快乐”而告终，因为推特董事会回应其对这宗并购协议仍有信心，并表示会恪守承诺执行条款。推特周五美股盘后跌幅扩大至9%。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1290249.htm",
         "title":"詹姆斯-韦伯太空望远镜在深空探索的首批目标已被揭开",
         "desc":"NASA与ESA及加拿大航天局将于当地时间周二发布詹姆斯-韦伯太空望远镜(JWST)的首批科学图片，现在大家已经知道他们将在这些历史性的照片中看到哪些天体。JWST是人们期待已久的哈勃太空望远镜的继任者，经过多年的拖延，终于在去年圣诞节那天发射。"
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1290363.htm",
         "title":"H3C发布Magic BE18000无线路由器 支持尚未官宣的Wi-Fi 7",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290365.htm",
+        "title":"evLeaks抢先晒出多组Nothing Phone(1)官方渲染图",
         "desc":null
     }
 ]
