@@ -1,30 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290189.htm",
-        "title":"莱茵河低水位阻碍运输 加剧欧洲能源危机",
-        "desc":"欧洲莱茵河的水位再次下降，这可能会加剧欧洲的能源危机。高温天气使莱茵河部分河段的水位降至至少15年来的最低季节性水平。这可能会影响到从煤炭到石油等各种产品的运输，因为欧洲各国正竞相在冬季来临前储备能源供应。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1290191.htm",
-        "title":"Meta的VR真撑不住了",
-        "desc":"就在最近，分析师郭明錤发布一则“Meta 2024年VR头显出货量将下调40%”的消息。当日代工巨头歌尔股份的股价跌停，市值一夜蒸发129亿元。业内行业人士普遍认为这与郭明錤的言论有关。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1290193.htm",
-        "title":"M2 MacBook Air开始预购 发货日期瞬间开始滑落",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1290195.htm",
-        "title":"MagSafe 3充电线现在有了新的颜色 与MacBook Air相匹配",
-        "desc":"苹果公司今天推出了与MacBook Air相匹配的三种新颜色的USB-C转MagSafe \r\n3充电线，包括太空灰、午夜和星光色，定价为49美元。苹果已经在新的MacBook Air的包装盒中包含了一条颜色匹配的MagSafe \r\n3充电线，但是现在可以从苹果的网上商店单独订购这条电缆，供那些想要额外的电缆或需要替换的人使用。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1290197.htm",
-        "title":"2022福布斯中国最佳雇主出炉：小米、联想上榜",
-        "desc":null
-    },
-    {
         "url":"https://hot.cnbeta.com/articles/game/1290199.htm",
         "title":"时尚品牌联动迪士尼推出主题高跟鞋：七种配色 售价1462元",
         "desc":"时尚品牌mayla classic官宣联动迪士尼手游《迪士尼扭曲仙境》，推出7款主题高跟鞋，每双29700日元（折合人民币1462元），今晚正式开售。在《迪士尼扭曲仙境》中，夜鸦学院基于七杰各自具备的精神建立了七大宿舍，这七款高跟鞋就是以这七个宿舍为主题设计制作的。"
@@ -293,5 +268,30 @@
         "url":"https://www.cnbeta.com/articles/tech/1290305.htm",
         "title":"ProNetwork高管因长期销售假冒伪劣思科设备而被逮捕起诉",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290307.htm",
+        "title":"消息称华为鸿蒙OS 3.0 7月27日与用户见面 隐私保护大提升",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290309.htm",
+        "title":"美国会因堕胎隐私问题对期跟踪应用和数据经纪商展开调查",
+        "desc":"美国众议院监督委员会正在对一系列时期跟踪应用和数据经纪商进行调查，因为他们对私人健康数据在后罗伊诉韦德(Roe v. Wde)时代的到来可能被武器化感到担忧。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1290311.htm",
+        "title":"外观与狐狸和鹿相似的独特动物鬃狼的生存正受到威胁",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290313.htm",
+        "title":"线下买了电脑线上查到秒杀 多花一千块让在线客服都十分吃惊",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1290315.htm",
+        "title":"中国“复眼”重庆开建 构建世界上探测距离最远的雷达",
+        "desc":"小行星是否会撞击地球？现在有了对它们的监测装置——“中国复眼”。在重庆将构建世界上探测距离最远的雷达，可实现上亿公里外的小行星和类地行星观察，拓展人类深空观察的边界，全面满足我国近地小行星撞击防御、地月态势感知等国家重大需求，同时满足我国行星科学研究前沿科技创新需求。"
     }
 ]
