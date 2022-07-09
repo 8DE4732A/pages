@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290177.htm",
-        "title":"深度体验Intel i5-12600KF：i5默秒全的时代又回来了？",
-        "desc":"去年十一月十二代酷睿横空出世，以其出色的架构设计和强劲的性能赢得了消费者的一致好评，而同期发布的继i5-12600K发布之后不就，i5-12600KF作为不含核显的产品也横空出世，以精准的产品定位和优惠的价格更是受到了一众游戏爱好者和用户的追捧。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1290179.htm",
-        "title":"英特尔Sapphire Rapids-SP至强CPU阵容规格泄露",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290181.htm",
         "title":"Intel 200亿美元的晶圆厂破土动工 有望首发“2nm”工艺",
         "desc":null
@@ -292,6 +282,16 @@
     {
         "url":"https://hot.cnbeta.com/articles/music/1290293.htm",
         "title":"环球音乐集团与非洲流媒体服务Mdundo签署授权协议",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290295.htm",
+        "title":"拜登总统签署关于保护堕胎护理和病人隐私的行政命令",
+        "desc":"美国总统乔·拜登于当地时间周五签署了一项行政命令，其指示联邦机构在最高法院决定推翻罗伊诉韦德案(Roe v. Wade)后保护堕胎机会和寻求生殖保健的患者的在线隐私。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1290297.htm",
+        "title":"研究：基因工程、超声控制的细菌可寻找并消灭癌细胞",
         "desc":null
     }
 ]
