@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290381.htm",
-        "title":"Phawx分享GPD Win Max 2实测 R7-6800U综合素质碾压i5-1260P",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290383.htm",
         "title":"Nothing Phone (1) 包装盒设计现身 不包含充电器",
         "desc":null
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/science/1290497.htm",
         "title":"美国65%志愿消防员体内“永久化学品”含量高于普通人",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290499.htm",
+        "title":"KDE Plasma 5.26有望升级使用C++20开发功能",
         "desc":null
     }
 ]
