@@ -1,20 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290345.htm",
-        "title":"暴雪昔日大作《风暴英雄》不再增加新内容",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1290347.htm",
-        "title":"韩国网速全球第一，为何却对“老掉牙”的IE浏览器恋恋不舍？",
-        "desc":"北京时间7月9日消息，韩国是世界上科技最发达的国家之一。在这里，你可以在网上任意冲浪，几乎没有限制。除非，你使用了错误的浏览器。在GoogleChrome上，如果你是韩国大型外资银行的企业客户，你将无法进行在线商业支付。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1290349.htm",
-        "title":"全国性断网事故近一天后 加拿大电信公司罗杰斯称其开始恢复服务",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290351.htm",
         "title":"陈春花式华为研究，和短视频式瞎编的区别是？",
         "desc":"2016年冬天，陈春花教授跟着几位华为研究的大佬级学者和内部人士，田涛、孟平、曹轶、姚洋去跟任正非开研讨会。以上四个人的“顺序”，是陈春花在文章中自己排的："
@@ -293,5 +278,20 @@
         "url":"https://www.cnbeta.com/articles/tech/1290461.htm",
         "title":"Windows 11最重磅的新特性？抢先体验文件管理多标签",
         "desc":"我们知道，Windows的文件管理器长久一来都不支持多标签页，这使得如果你要同时访问多个目录的话，就必须开启多个窗口，霸占大量的屏幕面积不说，还占资源。微软终于要对此改进了，据报道，Windows 11在将来会为文件管理器加入多标签页的支持，而且有可能在今年的年度更新22H2中推送这个新特性。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290463.htm",
+        "title":"模拟半导体老大的打怪升级之路",
+        "desc":null
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/game/1290465.htm",
+        "title":"将Windows拉下PC游戏的王座？聊聊Steam的野心",
+        "desc":"说起最适合打游戏的电脑操作系统，Windows绝对称得上当仁不让。即使是最狂热的果粉，对Mac中强力的GPU有多么热切的期待，也从不会指望Mac的游戏体验能达到Windows的水平。多年来，Windows深耕图形领域，使用DirectX等游戏接口，牢牢把控电脑游戏的开发方向。玩游戏就要装Windows，多年来这就是颠扑不破的真理。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290467.htm",
+        "title":"苹果iPhone 14 Pro紫色渲染图曝光",
+        "desc":null
     }
 ]
