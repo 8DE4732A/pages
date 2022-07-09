@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290173.htm",
-        "title":"中国4K/8K视频编码AVS3第一次成为世界标准 比H.265优秀40％",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290175.htm",
         "title":"茅台冰淇淋明日新增五大城市销售 价格被炒到250元一杯",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/science/1290289.htm",
         "title":"独特的火星岩石使NASA“毅力号”的采样工作变得复杂",
         "desc":"NASA的“毅力号”探测器正在调查Jezero环形山那令人无比兴奋的河流三角洲地区。这个任务有一个很大的计划，那就是要在那里采集一些岩石样本，其中可能有过去生命的证据。但岩石却并不配合。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290291.htm",
+        "title":"微软解释为何Microsoft Store禁售免费的开源应用程序",
+        "desc":null
     }
 ]
