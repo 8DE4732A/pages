@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/movie/1290183.htm",
-        "title":"黄家驹演唱会31年后重映 1小时播放破亿",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290185.htm",
         "title":"一加10 Pro系统更新：支持中国广电5G",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/science/1290299.htm",
         "title":"NASA火星“毅力号”探测器正经历复杂的取样过程",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1290301.htm",
+        "title":"NASA CAPSTONE在奔向月球的旅程中首次完成了轨迹修正演习",
+        "desc":"在7月4日失去跟CAPSTONE的通信后，原定于7月5日上午进行的第一次轨迹修正演习不得不被推迟了。现在，在7月6日恢复通信后，NASA的CAPSTONE成功地完成了其第一次轨迹修正演习，该演习于美国东部时间7月7日周四上午11:30开始。"
     }
 ]
