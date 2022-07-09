@@ -1,20 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290157.htm",
-        "title":"vivo请求印度法院解除对4亿银行资产的冻结",
-        "desc":"一份法庭文件显示，智能机制造商vivo \r\n已请求新德里法院撤销印度执法机构冻结其银行账户的决定，称此举“违法”，并将损害公司的业务运营。印度金融犯罪机构周四表示，作为对vivo涉嫌洗钱调查的一部分，已封锁119个与vivo印度业务及其关联公司相关的银行账户，总资产46.5亿卢比(约合3.9亿元人民币)。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1290159.htm",
-        "title":"暴力游戏、色情漫画……“小天才”你在干什么？",
-        "desc":"“小天才”儿童平板电脑号称“专为孩子设计”具有家长管控功能......但提到自家孩子用的这款电脑，北京消费者张雯却十分生气。孩子小林今年上小学五年级，最近学校老师提醒，用“小天才”上网课的小林听课不认真、摄像头时常关闭。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1290161.htm",
-        "title":"印度冻结vivo资金近4亿元 逾500家中资企业在印“渡劫”",
-        "desc":"2022年7月7日，印度执法局（ED）发布声明称，已突击检查了vivo及其关联公司48处经营地点，发现vivo将约一半的本地营业额（6247.5亿卢比）汇往境外，主要是中国。印度执法局认为，此举涉嫌违反《防止洗钱法案》（PMLA），因此封锁了vivo的119个银行账户，并冻结约46.5亿卢比（约合3.9亿元人民币）的现金等资产。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290163.htm",
         "title":"线上Apple Store在M2 MacBook Air预售前出现故障",
         "desc":"苹果公司已经关闭了其在线Apple Store，在太平洋时间早上5点开始的M2 MacBook \r\nAir预购前\"进行更新\"。在2022年WWDC上发布新的M2 MacBook \r\nAir后，公司宣布其将在7月8日开始接受订单，首批订单将在一周后，即2022年7月15日星期五前交付。"
@@ -292,6 +277,21 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1290273.htm",
         "title":"弗劳恩霍夫的YourSound技术将简化汽车音响设置",
+        "desc":null
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/movie/1290275.htm",
+        "title":"《美国队长4》导演确定 曾执导《科洛弗悖论》",
+        "desc":"《美国队长4》导演确定人选，将由尼日利亚裔美国导演朱利叶斯·约拿（Julius Onah）执导，他曾执导过《科洛弗悖论》《卢斯》等电影。《美国队长4》将是他执导的首部MCU电影。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290277.htm",
+        "title":"一辆就得70万的国产电动车，被50名车主集体投诉欺诈……",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290279.htm",
+        "title":"苹果公司希望AirPods能帮助用户避免道路上的意外事故",
         "desc":null
     }
 ]
