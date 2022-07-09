@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290259.htm",
-        "title":"速度高达512GB/s的PCIe 7.0标准还在修订 全面普及路漫长",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290261.htm",
         "title":"Apple Maps为另外三个国家提供更详细的3D数据",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1290375.htm",
         "title":"为何5G好像没比4G快？中国工程院院士答疑",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290377.htm",
+        "title":"品牌汽车音响只是“贴牌”？博主拆解奔驰G63试试水有多深",
+        "desc":"近日，国产最贵电动车高合因为音响一事，被50名车主集体起诉，引起了业界各方人士的关注。据悉，高合宣称旗下车型HiPhi X使用了英国之声品牌音响，但有车主拆解后发现并非英国之宝，而是国产上声品牌音响。"
     }
 ]
