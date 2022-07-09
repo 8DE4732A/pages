@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290283.htm",
-        "title":"埃隆·马斯克宣布终止收购Twitter 特斯拉股价迎来上涨",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1290285.htm",
-        "title":"三箭资本破产违约让借贷提供方Blockchain.com损失2.7亿美元",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290287.htm",
         "title":"Twitter告诉员工不要发布有关埃隆·马斯克交易的推文",
         "desc":null
@@ -293,5 +283,15 @@
         "url":"https://hot.cnbeta.com/articles/movie/1290399.htm",
         "title":"乔治R.R.马丁：《权力的游戏》小说结局与美剧不同 读者仍会不满",
         "desc":"作者George R.R. Martin 提供了下一本《冰与火之歌》和整体系列的另一更新。马丁在他的Not A Blog 博客上写道，他遇到的最常见的问题之一是他的系列丛书是否会像HBO 节目那样结束。马丁表示这不会发生。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290401.htm",
+        "title":"Chrome可从多功能地址栏搜索书签、标签页和历史记录",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290403.htm",
+        "title":"NIST已着手应对“量子黑客”尽管这种威胁还不存在……",
+        "desc":"本周，美国国家标准与技术研究所(NIST)宣布了一项创建新加密标准的全球竞赛的获胜者。有点匪夷所思的是，这些算法被设计用来防御一种甚至还不存在的网络威胁：量子计算机。在大多数情况下，今天流行的加密标准由普通计算机无法破解的复杂数学方程驱动，是非常强大和难以击败的。"
     }
 ]
