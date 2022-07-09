@@ -1,20 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290225.htm",
-        "title":"美联储布雷纳德：金融监管必须涵盖加密货币",
-        "desc":"美联储副主席布雷纳德称，近期加密货币市场的动荡尚未对整个金融体系构成“系统性风险”，但政府需要弥补监管缺口，以保护消费者，并确保稳定。布雷纳德在为周五英国央行一个会议准备的发言稿中指出，美联储官员正在密切关注加密资产的动荡，其暴露了与杠杆、流动性和结算相关的脆弱性。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1290227.htm",
-        "title":"M1 Mac mini实例现已在亚马逊AWS云服务中普遍可用",
-        "desc":"亚马逊网络服务（AWS）宣布，其M1 Mac mini云计算实例已经结束预览，目前已向客户普遍提供。在2021年12月的预览之后，AWS现在正在为所有用户提供M1 Mac mini实例。据亚马逊称，新实例的性价比相较于英特尔架构的Mac mini实例高60%。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1290229.htm",
-        "title":"运营商Rogers的一次重大故障切断了加拿大各地的电话和互联网连接",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290231.htm",
         "title":"华硕Z690主板升级BIOS：支持13代酷睿、最多24核32线程",
         "desc":"Intel的13代酷睿越来越近了，前几天华擎宣布旗下的600系主板升级BIOS，将支持新一代酷睿，也就是13代酷睿Raptor Lake系列，现在华硕的Z690系列主板也升级BIOS了，同样加入了13代酷睿支持。"
@@ -293,5 +278,20 @@
         "url":"https://www.cnbeta.com/articles/tech/1290341.htm",
         "title":"芬兰初创公司建造出可以用风能和太阳能供电的储能筒仓",
         "desc":"芬兰初创公司Polar Night Energy和芬兰当地的公用事业公司Vatajankoski共同建造了世界上第一个可由太阳能和风能驱动的商用沙基高温储热系统。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1290343.htm",
+        "title":"深蓝航天20吨级雷霆-R1发动机试车成功",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290345.htm",
+        "title":"暴雪昔日大作《风暴英雄》不再增加新内容",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290347.htm",
+        "title":"韩国网速全球第一，为何却对“老掉牙”的IE浏览器恋恋不舍？",
+        "desc":"北京时间7月9日消息，韩国是世界上科技最发达的国家之一。在这里，你可以在网上任意冲浪，几乎没有限制。除非，你使用了错误的浏览器。在GoogleChrome上，如果你是韩国大型外资银行的企业客户，你将无法进行在线商业支付。"
     }
 ]
