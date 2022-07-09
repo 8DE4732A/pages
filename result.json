@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290181.htm",
-        "title":"Intel 200亿美元的晶圆厂破土动工 有望首发“2nm”工艺",
-        "desc":null
-    },
-    {
         "url":"https://hot.cnbeta.com/articles/movie/1290183.htm",
         "title":"黄家驹演唱会31年后重映 1小时播放破亿",
         "desc":null
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/science/1290297.htm",
         "title":"研究：基因工程、超声控制的细菌可寻找并消灭癌细胞",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1290299.htm",
+        "title":"NASA火星“毅力号”探测器正经历复杂的取样过程",
         "desc":null
     }
 ]
