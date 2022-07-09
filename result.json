@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290237.htm",
-        "title":"M1 Max Mac Studio官方翻新机开卖：顶配20249元、立省2250元",
-        "desc":"7月9日凌晨，M2 MacBook Air开启预售的同时，苹果还上线了配备M1 Max处理器、官方翻新版的Mac Studio。M1 Max Mac Studio今年3月份才刚发布，这才4个月就有了官翻机。如果你觉得新机价格过高，可以考虑考虑，不仅能便宜2000左右，发货速度也非常快。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1290239.htm",
         "title":"探测器降落离开过程显示小行星贝努结构非常松散",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1290353.htm",
         "title":"视频内容付费，遥不可及的白月光？",
         "desc":"一直以来，视频平台都有个难以盈利的困局，无论如何寻找新的业务方向，如会员制、广告、直播打赏等，都不能挽救亏损的颓势。对于平台而言，似乎每一条道路都是死胡同，无路可走。在经历了多种模式的探索后，视频平台最终还是回到了基础业务上，想以内容带动营收，打破亏损困境。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290355.htm",
+        "title":"知名分析师郭明錤预测三星Galaxy S23将全系采用高通芯片组",
+        "desc":null
     }
 ]
