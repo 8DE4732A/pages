@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290327.htm",
-        "title":"首个国产新冠特效药正式上市 应对奥密克戎BA.5变异株仍然有效",
-        "desc":"昨天，在新冠中和抗体安巴韦单抗和罗米司韦单抗联合疗法线上商业上市媒体沟通会上，腾盛博药总裁兼首席执行官罗永庆向记者表示，该联合疗法仍对奥密克戎变异株BA.4、BA.5有效，并公布了这款药的国内定价：基本上在1万人民币以内。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290329.htm",
         "title":"特斯拉被发现在其内华达州Gigafactory外堆积了大量的Megapack",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1290443.htm",
         "title":"NVIDIA的DLSS游戏支持超过200款 AMD刚追到半山腰",
         "desc":"虽然RTX光追技术问世四年了，但是因为对性能要求高，玩家反而更喜欢NVIDIA的DLSS技术，它可以大幅提升游戏性能，也受到了游戏厂商的欢迎，目前支持DLSS的游戏超过200款。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290445.htm",
+        "title":"德国法院在4G/5G专利纠纷中做出有利于诺基亚的裁决 OPPO/一加被禁售",
+        "desc":"德国曼海姆的一家法院在诺基亚与OPPO的4G/5G专利纠纷中做出了有利于诺基亚的诉讼判决。诉讼过程较为曲折，起先是由于诺基亚和OPPO之间关于4G（LTE）和5G专利的讨论破裂，前者在四个国家提起诉讼的同时，OPPO在九个国家反诉诺基亚。OPPO曾表示，诺基亚就此提起的诉讼是令人震惊的。"
     }
 ]
