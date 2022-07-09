@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290329.htm",
-        "title":"特斯拉被发现在其内华达州Gigafactory外堆积了大量的Megapack",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290331.htm",
         "title":"Gmail Compose窗口的更新增加了个人资料头像、右键菜单等内容",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1290445.htm",
         "title":"德国法院在4G/5G专利纠纷中做出有利于诺基亚的裁决 OPPO/一加被禁售",
         "desc":"德国曼海姆的一家法院在诺基亚与OPPO的4G/5G专利纠纷中做出了有利于诺基亚的诉讼判决。诉讼过程较为曲折，起先是由于诺基亚和OPPO之间关于4G（LTE）和5G专利的讨论破裂，前者在四个国家提起诉讼的同时，OPPO在九个国家反诉诺基亚。OPPO曾表示，诺基亚就此提起的诉讼是令人震惊的。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1290447.htm",
+        "title":"NASA的空气污染仪器TEMPO完成了与气象卫星的集成",
+        "desc":"Monitoring of Pollution污染监测（TEMPO）仪器于6月30日在Intelsat \r\nIS40e上成功完成了第一次完全集成的动力测试。在Maxar技术公司位于加利福尼亚州帕洛阿尔托的卫星制造厂进行的这次测试，标志着TEMPO仪器与IS40e卫星的整合已经完成。"
     }
 ]
