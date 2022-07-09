@@ -1,0 +1,15 @@
+
+        <html lang="en">
+            <head>
+                <meta charset="utf-8">
+                <title>Windows 11最重磅的新特性？抢先体验文件管理多标签</title>
+            </head>
+            <body>
+                <div>
+<div><a href="/images/594.png" target="_blank"><img src="/images/594.png" title="Windows 11"/></a></div>
+<p>我们知道，Windows的文件管理器长久一来都不支持多标签页，这使得如果你要同时访问多个目录的话，就必须开启多个窗口，霸占大量的屏幕面积不说，还占资源。微软终于要对此改进了，据报道，Windows 11在将来会为文件管理器加入多标签页的支持，而且有可能在今年的年度更新22H2中推送这个新特性。</p> </div>
+                <div>
+<p><img src="/images/13116.jpg"/><br/></p><p>不过，也有消息称，<a data-link="1" href="https://microsoft.pvxt.net/x9Vg1" target="_blank">Windows</a> 11 22H2初版推送并不会带来多标签页的文件管理器，可能要再过一段时间才更新。无论如何，如果你已经等不及了的话，可以尝试以下的方法！</p><p>首先，需要加入Insider通道，选择Dev版本，将Windows 11升级为Windows 11 Build 22572以上。需要注意的是Windows 11 Build 25136之后的版本的具体操作和之前并不一样，下面会提到，这里使用Windows 11 Build 25136做示范。</p><p>接着，访问ViveTool的GitHub主页，下载ViveTool。</p><p><strong>ViveTool：<a _src="https://github.com/thebookisclosed/ViVe/releases" href="https://github.com/thebookisclosed/ViVe/releases" target="_blank">https://github.com/thebookisclosed/ViVe/releases</a><br/></strong></p><p><img src="/images/13117.png"/><br/></p><p>将下载回来的压缩包解压到某个文件夹当中，记录下文件路径，例如C盘目录中的“ViveTool”文件夹。</p><p>接着，使用管理员权限运行cmd，定位到ViveTool的目录，具体命令如下：</p><p>cd [目录]</p><p>例如刚刚的路径是C盘的ViveTool文件夹，那么就输入以下命令：</p><p>cd C:ViveTool</p><p>接着，输入以下命令，利用ViviTool来开启文件管理器的多标签特性：</p><p>vivetool addconfig 37634385 2</p><p><img src="/images/13118.png"/><br/></p><p>注意，如果系统版本比Windows 11 Build 25136更旧，但比Windows 11 Build 22572新（包含22572），那么则需要输入下面的命令：</p><p>vivetool addconfig 34370472 2</p><p>之后重启电脑，就可以看到文件管理器出现多标签页了！</p><p>如果你想要关闭掉这个特性，那么Windows 11 Build 25136或者更新的版本，可以使用下面的命令：</p><p>vivetool.exe delconfig 37634385</p><p><img src="/images/13119.png"/><br/></p><p>如果是比Windows 11 Build 25136旧、比Windows 11 Build 22572新的版本，则可以使用以下命令：</p><p>vivetool delconfig 34370472</p><p>输入命令运行后，重启电脑，就生效了。</p><p>总的来说，特定版本的Windows 11开启文件管理器多标签功能还是很方便的，主要是借助了ViveTool这款系统工具。希望<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&amp;euid=&amp;t=https://www.microsoftstore.com.cn/" target="_blank">微软</a>能够早日推送文件管理器多标签的特性，带来更好的体验吧。</p> </div>
+            </body>
+        </html>
+        

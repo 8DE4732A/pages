@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290341.htm",
-        "title":"芬兰初创公司建造出可以用风能和太阳能供电的储能筒仓",
-        "desc":"芬兰初创公司Polar Night Energy和芬兰当地的公用事业公司Vatajankoski共同建造了世界上第一个可由太阳能和风能驱动的商用沙基高温储热系统。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/science/1290343.htm",
-        "title":"深蓝航天20吨级雷霆-R1发动机试车成功",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290345.htm",
         "title":"暴雪昔日大作《风暴英雄》不再增加新内容",
         "desc":null
@@ -293,5 +283,15 @@
         "url":"https://hot.cnbeta.com/articles/movie/1290457.htm",
         "title":"《雷神4》北美周四提前场创今年第二好成绩",
         "desc":"虽然烂番茄新鲜度降到了68%（爆米花指数83%，IMDb7.1分），但《雷神4：爱与雷霆》北美周四提前场还是拿到2900万美元票房，今年上映电影中排名第二，仅次于《奇异博士2》的3600万美元。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290459.htm",
+        "title":"配备M2芯片的MacBook Air基准测试结果首次出现",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290461.htm",
+        "title":"Windows 11最重磅的新特性？抢先体验文件管理多标签",
+        "desc":"我们知道，Windows的文件管理器长久一来都不支持多标签页，这使得如果你要同时访问多个目录的话，就必须开启多个窗口，霸占大量的屏幕面积不说，还占资源。微软终于要对此改进了，据报道，Windows 11在将来会为文件管理器加入多标签页的支持，而且有可能在今年的年度更新22H2中推送这个新特性。"
     }
 ]
