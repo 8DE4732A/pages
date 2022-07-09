@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290323.htm",
-        "title":"马斯克将终止440亿美元收购Twitter 或付10亿美元分手费",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290325.htm",
         "title":"Ubuntu将Firefox Snap启动速度缩短了近半",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1290439.htm",
         "title":"Starlink将帮助SpaceX发射394英尺高的大型火箭 有望突破通信“黑障”",
         "desc":"作为Starship平台轨道飞行测试的一部分，SpaceX将使用Starlink互联网终端，在两枚火箭在空中飞行时与其卫星群连接。SpaceX目前正朝着从德克萨斯州的博卡奇卡进行\"星际飞船\"的首次轨道飞行测试任务前进，该火箭是该公司迄今为止建造的最大的火箭。它将由33个引擎提供动力，旨在大幅增加该公司可运往低地球轨道（LEO）的吨位，为其提供一个向火星发送载人和货物任务的平台。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290441.htm",
+        "title":"英特尔为Linux 5.20送来更多的图形驱动升级",
+        "desc":null
     }
 ]
