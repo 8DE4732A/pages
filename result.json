@@ -1,25 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1290311.htm",
-        "title":"外观与狐狸和鹿相似的独特动物鬃狼的生存正受到威胁",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1290313.htm",
-        "title":"线下买了电脑线上查到秒杀 多花一千块让在线客服都十分吃惊",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/science/1290315.htm",
-        "title":"中国“复眼”重庆开建 构建世界上探测距离最远的雷达",
-        "desc":"小行星是否会撞击地球？现在有了对它们的监测装置——“中国复眼”。在重庆将构建世界上探测距离最远的雷达，可实现上亿公里外的小行星和类地行星观察，拓展人类深空观察的边界，全面满足我国近地小行星撞击防御、地月态势感知等国家重大需求，同时满足我国行星科学研究前沿科技创新需求。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1290317.htm",
-        "title":"“看得见，摸不着”的NFT数字藏品版权如何保护？",
-        "desc":null
-    },
-    {
         "url":"https://hot.cnbeta.com/articles/funny/1290319.htm",
         "title":"巴基斯坦山羊Simba拥有44厘米长的耳朵并还会继续长长",
         "desc":null
@@ -293,5 +273,25 @@
         "url":"https://www.cnbeta.com/articles/tech/1290427.htm",
         "title":"马斯克放弃收购推特，新闹剧才刚开始",
         "desc":"不到三个月，马斯克与推特走到了分手的岔路口。当地时间7月8日，马斯克向美国证券交易委员会（SEC）和推特法务部门发了一封信，明确表示将终止440亿美元并购推特的协议。在发布的信件中，马斯克方面表示，推特严重违反了合并协议的多项规定，做出了虚假和误导性陈述，导致其可能遭受公司重大不利影响。因此，马斯克决定终止这项合并协议。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290429.htm",
+        "title":"Intel的14代酷睿核显悄然缩水1/3 干掉独显有点悬",
+        "desc":"今年底要发布的13代酷睿还是12代酷睿的改进版，架构及工艺变化不大，主要是CPU核心从8+提升到8+16，最多24核32线程，而明年的14代酷睿Metor\r\n Lake才是一次重大升级，工艺、架构都要变。14代酷睿会升级到全新的Intel \r\n4工艺(原来的7nm)，首次使用EUV光刻机，首次采用多重小芯片设计，CPU核心、GPU核心、IO核心各自独立。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290431.htm",
+        "title":"魏牌CEO：增程式是“割韭菜” 智能DHT是全球最好的混动技术",
+        "desc":null
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/funny/1290433.htm",
+        "title":"男子突发奇想“油炸”钟薛高：出锅形状让人意外 竟出奇好吃",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290435.htm",
+        "title":"边学习边工作 外卖小哥路上收到研究生录取通知",
+        "desc":"7日在郑州，26岁河南小哥高帅旗送餐路上收到上海交大法学院录取通知书。回家后，全家人一起认真拆开，脑梗后不认得人的父亲，看到孩子姓名后落泪。因为家庭变故，高帅旗一人扛起家庭重担，他边学习边送外卖，自强靠谱被称“骑手阿甘”。据介绍，高帅旗是一名退伍军人，考法律专业是为了以后帮助更多人。"
     }
 ]
