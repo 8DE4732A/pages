@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290221.htm",
-        "title":"澳大利亚开发出识别新冠病毒变异毒株新方法",
-        "desc":"澳大利亚一个研究团队最新报告说，他们利用机器学习技术开发出“更快、更全面”的新冠病毒变异毒株识别方法。不同于目前采用的监测病毒刺突蛋白突变的识别方法，新方法通过分析变异毒株完整基因组确认新出现的危险变异毒株。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1290223.htm",
         "title":"新证据显示巨齿鲨比科学家们想象的还要可怕和强大",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1290337.htm",
         "title":"特斯拉在列克星敦超级充电站部署了Starlink卫星互联网系统",
         "desc":"特斯拉现在似乎扩大了其在超级充电站的Starlink卫星互联网系统的部署，因为该卫星天线出现在一个新的站点。超级充电站网络目前不可否认地为电动汽车提供了最好的充电体验。其他充电网络正在缩小差距，但特斯拉在提供伟大的免费充电体验方面的早期投资已经得到回报。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290339.htm",
+        "title":"Pluton安全特性让ThinkPad锐龙6000笔记本默认无法运行Linux",
+        "desc":null
     }
 ]
