@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290251.htm",
-        "title":"为世界人口操碎了心 马斯克称将大幅提高公司儿童保育福利",
-        "desc":"当地时间周五（7月8日），世界首富埃隆·马斯克在推特上表示，他计划大幅提高麾下公司的儿童保育福利，更多细节将在下个月公布。马斯克是特斯拉和SpaceX等知名公司的首席执行官，就在他发表上述言论的前一天，马斯克曾表示，他将尽最大努力来应对所谓的人口不足危机。"
-    },
-    {
         "url":"https://hot.cnbeta.com/articles/game/1290253.htm",
         "title":"微软Xbox Series X现已在日本售出25万台",
         "desc":"看起来，Xbox品牌可能最终在日本取得了一些进展。今年早些时候，X Series 5月和6月在日本的周销量不是一次而是两次都超过了PlayStation 5。虽然这无疑在很大程度上是由于PS5的库存短缺造成，但毫无疑问，下一代Xbox在日本玩家中的反响要比其前辈大得多。"
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1290367.htm",
         "title":"三星One UI 5更新预览流出 快速拥抱Android 13但变化不大",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290369.htm",
+        "title":"平板与Chromebook版Play商店在大修前迎来Material You更新",
         "desc":null
     }
 ]
