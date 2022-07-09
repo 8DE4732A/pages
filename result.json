@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290175.htm",
-        "title":"茅台冰淇淋明日新增五大城市销售 价格被炒到250元一杯",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290177.htm",
         "title":"深度体验Intel i5-12600KF：i5默秒全的时代又回来了？",
         "desc":"去年十一月十二代酷睿横空出世，以其出色的架构设计和强劲的性能赢得了消费者的一致好评，而同期发布的继i5-12600K发布之后不就，i5-12600KF作为不含核显的产品也横空出世，以精准的产品定位和优惠的价格更是受到了一众游戏爱好者和用户的追捧。"
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1290291.htm",
         "title":"微软解释为何Microsoft Store禁售免费的开源应用程序",
+        "desc":null
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/music/1290293.htm",
+        "title":"环球音乐集团与非洲流媒体服务Mdundo签署授权协议",
         "desc":null
     }
 ]
