@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290209.htm",
-        "title":"半导体行业回暖 台积电Q2营收好于市场预期",
-        "desc":"据台积电(TSM.US)公布的数据计算，这家全球晶圆代工龙头第二季度的营收达5341亿新台币(约合179亿美元)，好于分析师预期中值5190亿新台币，这表明电子产品的需求较预期的要好。台积电将于7月14日公布第二季度财报。投资者担心，需求疲软和成本飙升将对价值5500亿美元的半导体行业造成影响，而台积电的业绩或许将缓解投资者的担忧。"
-    },
-    {
-        "url":"https://hot.cnbeta.com/articles/movie/1290211.htm",
-        "title":"电影《远古外星人》将拍 讲述外星人影响人类文明",
-        "desc":"据外媒报道，系列纪录片《远古外星人》将改编为电影，曾创作过科幻喜剧《热浴盆时光机》系列的乔什·贺德担任导演。《远古外星人》从2009年推出第一季以来，深受观众们的欢迎，至今已经创作了十八季。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290213.htm",
         "title":"一夜回到30年前 6月俄罗斯汽车销量暴跌80%",
         "desc":null
@@ -292,6 +282,16 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1290325.htm",
         "title":"Ubuntu将Firefox Snap启动速度缩短了近半",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290327.htm",
+        "title":"首个国产新冠特效药正式上市 应对奥密克戎BA.5变异株仍然有效",
+        "desc":"昨天，在新冠中和抗体安巴韦单抗和罗米司韦单抗联合疗法线上商业上市媒体沟通会上，腾盛博药总裁兼首席执行官罗永庆向记者表示，该联合疗法仍对奥密克戎变异株BA.4、BA.5有效，并公布了这款药的国内定价：基本上在1万人民币以内。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290329.htm",
+        "title":"特斯拉被发现在其内华达州Gigafactory外堆积了大量的Megapack",
         "desc":null
     }
 ]
