@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/game/1290267.htm",
-        "title":"不支持单人游玩的《双人成行》销量突破700万套",
-        "desc":"Hazelight工作室官推宣布《双人成行》销量超过了700万套。《双人成行》是EA Original项目作品，于2021年3月26日发售，登陆了Windows商城，PS4，PS5，Xbox One，Xbox Series X|S。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1290269.htm",
-        "title":"报道称三星2022 Q1的智能手机出货量为7300万部 超过了苹果",
-        "desc":null
-    },
-    {
         "url":"https://hot.cnbeta.com/articles/game/1290271.htm",
         "title":"梦回1995：《仙剑奇侠传一》VR版实机画面首曝",
         "desc":null
@@ -293,5 +283,15 @@
         "url":"https://www.cnbeta.com/articles/tech/1290383.htm",
         "title":"Nothing Phone (1) 包装盒设计现身 不包含充电器",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290385.htm",
+        "title":"华硕Z690主板喜迎英特尔13代Raptor Lake处理器BIOS更新",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1290387.htm",
+        "title":"哥白尼哨兵2号《太空探索地球》系列：加那利群岛的富埃特文图拉和兰萨罗特岛",
+        "desc":"富埃特文图拉和兰萨罗特是位于北大西洋的加那利群岛中的两个，今天在哥白尼哨兵2号任务拍摄的这张假彩色卫星图像中出现。加那利群岛是一组海洋岛屿火山，是数百万年前的火山活动造成的。西班牙地区和群岛位于非洲北岸约100公里（60英里）处，距离伊比利亚半岛1000公里（600英里）。"
     }
 ]
