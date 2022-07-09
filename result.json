@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290185.htm",
-        "title":"一加10 Pro系统更新：支持中国广电5G",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290187.htm",
         "title":"英伟达宣布超过200款游戏和应用程序支持DLSS",
         "desc":"英伟达宣布，目前已经有超过200款游戏和应用程序支持DLSS。在这个月，还会有两款新游戏加入RTX和DLSS的行列，分别是《生死轮回（Loopmancer）》和《Hell Pie》。"
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/science/1290301.htm",
         "title":"NASA CAPSTONE在奔向月球的旅程中首次完成了轨迹修正演习",
         "desc":"在7月4日失去跟CAPSTONE的通信后，原定于7月5日上午进行的第一次轨迹修正演习不得不被推迟了。现在，在7月6日恢复通信后，NASA的CAPSTONE成功地完成了其第一次轨迹修正演习，该演习于美国东部时间7月7日周四上午11:30开始。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1290303.htm",
+        "title":"“宇宙黎明”的终结：天文学家们试图解决持续20年的争论",
+        "desc":null
     }
 ]
