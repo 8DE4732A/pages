@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1290249.htm",
-        "title":"詹姆斯-韦伯太空望远镜在深空探索的首批目标已被揭开",
-        "desc":"NASA与ESA及加拿大航天局将于当地时间周二发布詹姆斯-韦伯太空望远镜(JWST)的首批科学图片，现在大家已经知道他们将在这些历史性的照片中看到哪些天体。JWST是人们期待已久的哈勃太空望远镜的继任者，经过多年的拖延，终于在去年圣诞节那天发射。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290251.htm",
         "title":"为世界人口操碎了心 马斯克称将大幅提高公司儿童保育福利",
         "desc":"当地时间周五（7月8日），世界首富埃隆·马斯克在推特上表示，他计划大幅提高麾下公司的儿童保育福利，更多细节将在下个月公布。马斯克是特斯拉和SpaceX等知名公司的首席执行官，就在他发表上述言论的前一天，马斯克曾表示，他将尽最大努力来应对所谓的人口不足危机。"
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1290365.htm",
         "title":"evLeaks抢先晒出多组Nothing Phone(1)官方渲染图",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290367.htm",
+        "title":"三星One UI 5更新预览流出 快速拥抱Android 13但变化不大",
         "desc":null
     }
 ]
