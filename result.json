@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290385.htm",
-        "title":"华硕Z690主板喜迎英特尔13代Raptor Lake处理器BIOS更新",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1290387.htm",
         "title":"哥白尼哨兵2号《太空探索地球》系列：加那利群岛的富埃特文图拉和兰萨罗特岛",
         "desc":"富埃特文图拉和兰萨罗特是位于北大西洋的加那利群岛中的两个，今天在哥白尼哨兵2号任务拍摄的这张假彩色卫星图像中出现。加那利群岛是一组海洋岛屿火山，是数百万年前的火山活动造成的。西班牙地区和群岛位于非洲北岸约100公里（60英里）处，距离伊比利亚半岛1000公里（600英里）。"
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1290501.htm",
         "title":"RollingPWN漏洞曝光：黑客可远程解锁和启动多款本田车型",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290503.htm",
+        "title":"苹果年度闭环挑战赛已启幕 员工得1240分可获一件黑色运动夹克",
+        "desc":"针对苹果员工的年度“Close Your Rings Challenge”挑战赛已经开幕，只要员工获得至少 1240 分就可以获得一件印有彩色运动闭环的黑色运动夹克。该挑战赛主要是为了激励苹果员工起床并运动健身。"
     }
 ]
