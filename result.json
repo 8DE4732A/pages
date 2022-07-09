@@ -1,20 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290273.htm",
-        "title":"弗劳恩霍夫的YourSound技术将简化汽车音响设置",
-        "desc":null
-    },
-    {
-        "url":"https://hot.cnbeta.com/articles/movie/1290275.htm",
-        "title":"《美国队长4》导演确定 曾执导《科洛弗悖论》",
-        "desc":"《美国队长4》导演确定人选，将由尼日利亚裔美国导演朱利叶斯·约拿（Julius Onah）执导，他曾执导过《科洛弗悖论》《卢斯》等电影。《美国队长4》将是他执导的首部MCU电影。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1290277.htm",
-        "title":"一辆就得70万的国产电动车，被50名车主集体投诉欺诈……",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290279.htm",
         "title":"苹果公司希望AirPods能帮助用户避免道路上的意外事故",
         "desc":null
@@ -292,6 +277,21 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1290389.htm",
         "title":"不同种族与性别当中哪些人睡得更好？新研究揭示了美国人的睡眠习惯",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1290391.htm",
+        "title":"距今5.18亿年 地球上最古老的脊椎动物被确认",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290393.htm",
+        "title":"深圳立法明确：L3L4自动驾驶出事找司机 L5谁开发谁负责",
+        "desc":"自动驾驶出事，到底由谁负责？智能车上路有啥门槛和限制？非法开展自动驾驶运营和路测，有何惩罚？深圳最近出台的这部法律——《深圳经济特区智能网联汽车管理条例》，不仅明确了不同级别自动驾驶事故的责任主体，还对车企、软硬件供应商提出了更高要求。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290395.htm",
+        "title":"涨价叠加高通胀劝退 亚马逊美国Prime会员数量增长陷入停滞",
         "desc":null
     }
 ]
