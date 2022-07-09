@@ -1,20 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290231.htm",
-        "title":"华硕Z690主板升级BIOS：支持13代酷睿、最多24核32线程",
-        "desc":"Intel的13代酷睿越来越近了，前几天华擎宣布旗下的600系主板升级BIOS，将支持新一代酷睿，也就是13代酷睿Raptor Lake系列，现在华硕的Z690系列主板也升级BIOS了，同样加入了13代酷睿支持。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1290233.htm",
-        "title":"交通部约谈货拉拉等四大货运平台：要求公开抽成比例、整改压价竞争",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1290235.htm",
-        "title":"雪糕刺客后 话梅刺客又火了：一斤1600元、两颗就要50元",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290237.htm",
         "title":"M1 Max Mac Studio官方翻新机开卖：顶配20249元、立省2250元",
         "desc":"7月9日凌晨，M2 MacBook Air开启预售的同时，苹果还上线了配备M1 Max处理器、官方翻新版的Mac Studio。M1 Max Mac Studio今年3月份才刚发布，这才4个月就有了官翻机。如果你觉得新机价格过高，可以考虑考虑，不仅能便宜2000左右，发货速度也非常快。"
@@ -293,5 +278,20 @@
         "url":"https://www.cnbeta.com/articles/tech/1290347.htm",
         "title":"韩国网速全球第一，为何却对“老掉牙”的IE浏览器恋恋不舍？",
         "desc":"北京时间7月9日消息，韩国是世界上科技最发达的国家之一。在这里，你可以在网上任意冲浪，几乎没有限制。除非，你使用了错误的浏览器。在GoogleChrome上，如果你是韩国大型外资银行的企业客户，你将无法进行在线商业支付。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290349.htm",
+        "title":"全国性断网事故近一天后 加拿大电信公司罗杰斯称其开始恢复服务",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290351.htm",
+        "title":"陈春花式华为研究，和短视频式瞎编的区别是？",
+        "desc":"2016年冬天，陈春花教授跟着几位华为研究的大佬级学者和内部人士，田涛、孟平、曹轶、姚洋去跟任正非开研讨会。以上四个人的“顺序”，是陈春花在文章中自己排的："
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290353.htm",
+        "title":"视频内容付费，遥不可及的白月光？",
+        "desc":"一直以来，视频平台都有个难以盈利的困局，无论如何寻找新的业务方向，如会员制、广告、直播打赏等，都不能挽救亏损的颓势。对于平台而言，似乎每一条道路都是死胡同，无路可走。在经历了多种模式的探索后，视频平台最终还是回到了基础业务上，想以内容带动营收，打破亏损困境。"
     }
 ]
