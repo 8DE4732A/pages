@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290333.htm",
-        "title":"Tether宣称清算了Celsius贷款而没有遭受任何损失",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290335.htm",
         "title":"库克在太阳谷“亿万富翁夏令营”乘坐Rivian电动皮卡外出兜风",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1290449.htm",
         "title":"英特尔聘请前台积电资深员工 以提升IFS部门竞争力",
         "desc":"英特尔CEO帕特-基尔辛格（Pat Gelsinger）去年宣布了“IDM \r\n2.0”战略，其中一项计划就是打造世界一流的英特尔代工服务（IFS）。虽然英特尔的半导体制造技术一直走在行业的前列，但多年以来制造技术的研发基本都是考虑自己的产品，针对特定的芯片设计做优化，且使用的是专有的EDA工具，对于第三方公司来说并不友好。"
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/game/1290451.htm",
+        "title":"小岛秀夫被希腊媒体误认为是刺杀安倍的凶手 小岛工作室发声明回应",
+        "desc":"在日本前首相安倍晋三被刺杀后，互联网就像往常一样拿当前事件开一些低劣的玩笑，最终导致希腊新闻台误将日本知名制作人小岛秀夫当成杀手。安倍被刺杀后，互联网上一些躲在阴暗角落里的人开玩笑地说嫌烦长得像小岛秀夫。"
     }
 ]
