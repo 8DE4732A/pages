@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290443.htm",
-        "title":"NVIDIA的DLSS游戏支持超过200款 AMD刚追到半山腰",
-        "desc":"虽然RTX光追技术问世四年了，但是因为对性能要求高，玩家反而更喜欢NVIDIA的DLSS技术，它可以大幅提升游戏性能，也受到了游戏厂商的欢迎，目前支持DLSS的游戏超过200款。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1290445.htm",
-        "title":"德国法院在4G/5G专利纠纷中做出有利于诺基亚的裁决 OPPO/一加被禁售",
-        "desc":"德国曼海姆的一家法院在诺基亚与OPPO的4G/5G专利纠纷中做出了有利于诺基亚的诉讼判决。诉讼过程较为曲折，起先是由于诺基亚和OPPO之间关于4G（LTE）和5G专利的讨论破裂，前者在四个国家提起诉讼的同时，OPPO在九个国家反诉诺基亚。OPPO曾表示，诺基亚就此提起的诉讼是令人震惊的。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1290447.htm",
         "title":"NASA的空气污染监测仪器TEMPO完成了与气象卫星的集成",
         "desc":"Monitoring of Pollution污染监测（TEMPO）仪器于6月30日在Intelsat \r\nIS40e上成功完成了第一次完全集成的动力测试。在Maxar技术公司位于加利福尼亚州帕洛阿尔托的卫星制造厂进行的这次测试，标志着TEMPO仪器与IS40e卫星的整合已经完成。"
@@ -293,5 +283,15 @@
         "url":"https://hot.cnbeta.com/articles/movie/1290559.htm",
         "title":"娜特莉·波特曼愿意回归MCU电影 再度饰演女雷神",
         "desc":"在接受《洛杉矶时报》采访时，娜特莉·波特曼对将来是否还会出演漫威电影持乐观态度。波特曼称赞了导演Taika Waititi无视漫画电影应有的任何规则的想法，尤其是他赋予简这个角色的灵活性。她指出，她对这个英雄的演绎在很大程度上是“对女权主义角色的诠释”。"
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/movie/1290561.htm",
+        "title":"第一代《蜘蛛侠》电影女主克尔斯滕·邓斯特完婚 两人相恋6年育有两个儿子",
+        "desc":"克尔斯滕·邓斯特一名代表向外媒People确认她已经和杰西·普莱蒙（Jesse Plemons）结婚，两人是在2015年的《冰血暴：第二季》片场认识，2017年订婚。据悉克尔斯滕·邓斯特和Jesse Plemons已经在一起了6年，育有两个儿子。克尔斯滕·邓斯特现年40岁，而她的丈夫Jesse Plemons现年34岁。"
+    },
+    {
+        "url":"https://hot.cnbeta.com/articles/game/1290563.htm",
+        "title":"Bungie正在筹划未来几十年的《命运》宇宙",
+        "desc":"自《命运1》2014年发售以来，已经过去了将近8年时间。在这段时间里，玩家迎来了《命运1》《命运2》的6个大型资料片。大约2年后，Bungie对《命运》宇宙的十年计划将终结。然而，Bungie确认《命运2》在2024年资料片“The Final Shape”之后仍会继续，带来全新的传奇。而现在看起来Bungie正筹划未来几十年的《命运》宇宙。"
     }
 ]
