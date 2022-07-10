@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/game/1290631.htm",
-        "title":"玩家反映PS5VRR画面问题 索尼高端电竞显示器同样存在",
-        "desc":"索尼的黑科技之一，PS5的VRR可变刷新率同步技术宣传很美好，不过还有着严重的BUG，近日有玩家反映开启VRR后，显示器画面会经常出现闪烁甚至部分画面粘连的问题，有意思的是就连索尼自家的高端高端电竞显示器INZONE M9同样存在这些问题。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1290635.htm",
-        "title":"被拍扁的蚊子成了犯罪“目击证人”：血迹DNA为破案立功",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290637.htm",
         "title":"飞利浦推出新款34寸曲面屏显示器：顶部“刘海”反过来了",
         "desc":null
@@ -292,6 +282,16 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1290749.htm",
         "title":"小岛秀夫被指称是刺客的帖子流传后 工作室表示将考虑采取法律行动",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/science/1290751.htm",
+        "title":"MIT物理学家发现一系列“神奇”的超导石墨烯结构",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290753.htm",
+        "title":"华硕新款双屏笔记本今天上架：最高i9+RTX 3050 Ti",
         "desc":null
     }
 ]
