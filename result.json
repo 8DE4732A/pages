@@ -1,25 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290463.htm",
-        "title":"模拟半导体老大的打怪升级之路",
-        "desc":null
-    },
-    {
-        "url":"https://hot.cnbeta.com/articles/game/1290465.htm",
-        "title":"将Windows拉下PC游戏的王座？聊聊Steam的野心",
-        "desc":"说起最适合打游戏的电脑操作系统，Windows绝对称得上当仁不让。即使是最狂热的果粉，对Mac中强力的GPU有多么热切的期待，也从不会指望Mac的游戏体验能达到Windows的水平。多年来，Windows深耕图形领域，使用DirectX等游戏接口，牢牢把控电脑游戏的开发方向。玩游戏就要装Windows，多年来这就是颠扑不破的真理。"
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1290467.htm",
-        "title":"苹果iPhone 14 Pro紫色渲染图曝光",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1290469.htm",
-        "title":"华图教育声明：不存在提前获知公务员考试真题并传播的行为",
-        "desc":"今日晚间消息，微博话题“华图泄题”冲上微博热搜榜。据悉，7月9日，23省举行2022年度各省公务员招录考试。在考试结束后，有部分考生在社交媒体反映，公务员考试笔试科目部分题目与华图教育此前的预测试卷高度相似，疑似泄题。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290471.htm",
         "title":"男子悔拍160万天价摩托 保证金没收：官方回应司法拍卖不是儿戏 量力而行",
         "desc":null
@@ -293,5 +273,25 @@
         "url":"https://www.cnbeta.com/articles/science/1290579.htm",
         "title":"巴西亚马孙雨林今年上半年遭砍伐面积创新高",
         "desc":"据路透社7月8日报道，8日公布的政府初步数据显示，巴西亚马孙雨林今年上半年遭砍伐面积创历史最高水平，约有相当于5个纽约市面积的森林被毁。报道称，巴西国家太空研究院称，从今年1月到6月，该地区有3988平方公里的森林遭砍伐。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290581.htm",
+        "title":"6月SUV销量榜：特斯拉Model Y“一战封神” 狂卖5.2万辆",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290583.htm",
+        "title":"听LP说，钟薛高估值超过40亿了",
+        "desc":"夏天一到，傍晚时分，我就开始期盼小区门口卖雪糕的大妈会准时出现，一辆破破烂烂的老式人力三轮车，上面盖着三层厚厚的花布大棉被，里面藏着我夏天的快乐。一次买百十块钱的，我们一家四口能吃小俩月，老冰棍7毛，雪人2块5，巧乐兹3块和路雪4块，最贵的梦龙7块，唯一“刺”过我的，就是一款平平无奇的西瓜味冰棍，老冰棍兑西瓜汁口味要3块钱，说实话，我不理解。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290585.htm",
+        "title":"引擎故障 美国北卡州一小飞机极速迫降高速公路",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290587.htm",
+        "title":"[图]苹果是全球第二大智能手机厂商 仅次于三星",
+        "desc":"最新数据显示，苹果公司是全球第二大智能手机厂商，仅次于三星。BanklessTimes 公布的 2022 年第 1 季度报告中，三星手机销量为 7300 万台，市场占有率为 23.4%，而苹果以 5600 万台 iPhone 而位居第二，市场占有率为 18%。"
     }
 ]
