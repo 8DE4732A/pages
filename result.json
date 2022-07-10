@@ -1,15 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290519.htm",
-        "title":"中央气象台再发高温预警 多地气温破纪录",
-        "desc":null
-    },
-    {
-        "url":"https://www.cnbeta.com/articles/tech/1290521.htm",
-        "title":"联想高管晒摩托罗拉Razr 3续航：三天没充电电量还剩大半",
-        "desc":null
-    },
-    {
         "url":"https://hot.cnbeta.com/articles/movie/1290523.htm",
         "title":"比烂片《特利迦》好太多 《德凯奥特曼》今日开播",
         "desc":"《德凯奥特曼》第一集已于今日正式开播，《德凯奥特曼》由上海新创华文化发展有限公司授权引进，各位可前往优酷、爱奇艺、腾讯视频、哔哩哔哩平台观看。目前豆瓣评分还未解禁，而看过第一集的大部分奥迷都给出好评：文戏打戏都很精彩，比《特利迦奥特曼》要好不少。"
@@ -292,6 +282,16 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1290637.htm",
         "title":"飞利浦推出新款34寸曲面屏显示器：顶部“刘海”反过来了",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290639.htm",
+        "title":"立省3750元 苹果国行官翻版Mac Studio来了",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290641.htm",
+        "title":"杭州气温39.6度刷新今年纪录 外电瓶车座椅实测近90度",
         "desc":null
     }
 ]
