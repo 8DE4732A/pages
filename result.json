@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290533.htm",
-        "title":"大众电动车 中国受够了",
-        "desc":"“大众电动车，不买就对了。”在 6 月 27 日晚，德国大众汽车公司向中国市场导入 ID. AERO \r\n纯电概念轿车的新闻下，有位网友这样写道。这条评论虽然听上去相当刺耳，但和大众电动车在中国市场的过往遭遇比起来，已经算是温柔顺耳了。要知道，比这条言辞更尖锐、态度更抵触的评论比比皆是，随手摘一条："
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1290535.htm",
         "title":"研究发现植物肉蛋白质不像肉类那样容易被吸收",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1290651.htm",
         "title":"联想超轻笔记本ThinkPad X1 Nano上架开售：碳纤维机身 仅重970g",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290653.htm",
+        "title":"96核Zen 4来了：AMD新一代EPYC处理器曝光",
+        "desc":"AMD Zen4有着非常完整的产品阵容和路线图规划，比如桌面和笔记本的CPU、APU，还有堆多核的线程撕裂者、服务器的EPYC等。日前，爆料人YuuKi_AnS晒出了EPYC 9004处理器的高清照片，熟悉的橙色保护壳、还有需要8个梅花螺丝固定的散热器等。"
     }
 ]
