@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290587.htm",
-        "title":"[图]苹果是全球第二大智能手机厂商 仅次于三星",
-        "desc":"最新数据显示，苹果公司是全球第二大智能手机厂商，仅次于三星。BanklessTimes 公布的 2022 年第 1 季度报告中，三星手机销量为 7300 万台，市场占有率为 23.4%，而苹果以 5600 万台 iPhone 而位居第二，市场占有率为 18%。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290589.htm",
         "title":"我办了广电5G电话卡 感觉自己是个大冤种",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://hot.cnbeta.com/articles/music/1290705.htm",
         "title":"周杰伦账号被差评淹没：被逼删除动态、审核评论",
         "desc":"千呼万唤，等了五年，周杰伦的新专辑《最伟大的作品》终于上线了，播放量、销量几乎立刻就直线飙升，但很快，失望情绪也弥漫开来。新专辑收录了12首歌，其中5首都是旧歌，再去掉一首钢琴曲，新歌其实只有6首，这让不少粉丝、歌迷颇有微词，感觉上了当。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290707.htm",
+        "title":"苹果将首款带触控条的MacBook Pro加入复古产品列表",
+        "desc":"苹果公司在本周与Apple Store和苹果授权服务供应商分享的一份内部备忘录中通知，公司将于7月31日把首批配备Touch Bar的13英寸和15英寸MacBook Pro机型加入其复古产品清单。"
     }
 ]
