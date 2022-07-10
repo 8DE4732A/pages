@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290539.htm",
-        "title":"Outlook邮件搜索功能在Windows 11上再次出现故障",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290541.htm",
         "title":"比ARM快5年 RISC-V仅用12年实现百亿核心里程碑",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://hot.cnbeta.com/articles/movie/1290657.htm",
         "title":"《雷神4》导演开炮：导演剪辑版都是垃圾",
         "desc":"《雷神4：爱与雷霆》现已上映，而且目前来看票房表现应该会不错。但这部电影的情绪并没有第三部那么强烈，娜塔莉·波特曼在接受采访时也表示电影有大量被删片段，于是已经有影迷开始期待导演剪辑版了。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290659.htm",
+        "title":"神秘的AMD Zen3 64核心撕裂者超频4.8GHz 功耗逼近700W",
+        "desc":null
     }
 ]
