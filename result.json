@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/game/1290451.htm",
-        "title":"小岛秀夫被希腊媒体误认为是刺杀安倍的凶手 小岛工作室发声明回应",
-        "desc":"在日本前首相安倍晋三被刺杀后，互联网就像往常一样拿当前事件开一些低劣的玩笑，最终导致希腊新闻台误将日本知名制作人小岛秀夫当成杀手。安倍被刺杀后，互联网上一些躲在阴暗角落里的人开玩笑地说嫌烦长得像小岛秀夫。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290453.htm",
         "title":"库克开了Rivian电动皮卡 外界立刻“脑补”：苹果想干嘛？",
         "desc":null
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1290567.htm",
         "title":"总统亲自炒比特币 败光一个国家",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290569.htm",
+        "title":"雷军带货小米12 Pro天玑版 定价3999元起",
         "desc":null
     }
 ]
