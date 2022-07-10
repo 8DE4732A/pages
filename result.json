@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290477.htm",
-        "title":"以太坊：Web3 的“黄埔军校”是怎么炼成的",
-        "desc":"Web3 如风暴一般，迅猛地席卷全球科技互联网行业。以太坊是这场风暴的正中央，几年来，它掀起了 Web3 世界里一波又一波热潮——从 ICO，NFT，到 Defi、IDO 等概念。甚至就连 Web3 的概念，都是来自于以太坊的一名联合创始人。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/science/1290479.htm",
         "title":"多地气温破纪录 专家释疑今年为何这么热？",
         "desc":"7月6日以来，四川盆地多地出现高温天气，甚至打破全年最高气温纪录，同时，新疆、西北地区东部、西南地区东部、华北、黄淮、浙江等地出现了35℃以上的高温天气。气象专家表示，此次高温天气范围广、强度强、持续时间长，受副热带高压西伸北抬影响，未来高温天气影响范围进一步扩大，南方大部地区将出现持续性高温天气。"
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/tech/1290593.htm",
         "title":"现在预订M2 MacBook Air 可能需要等待1个月时间",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290595.htm",
+        "title":"曝HarmonyOS 3.0将于7月27日发布：还有全新旗舰硬件产品登场",
         "desc":null
     }
 ]
