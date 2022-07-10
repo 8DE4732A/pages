@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/science/1290553.htm",
-        "title":"无字甲骨：不该被忽略的学术富矿",
-        "desc":"说到甲骨，人们通常想到的就是甲骨文。其实，目前发现的甲骨，更大数量的是不带文字的，也就是学界所说的“无字甲骨”。过去，这些无字甲骨不被重视，也因此遗漏了大量没有文字记载的信息。随着学术研究的不断深化，无字甲骨提供了越来越多的信息，其学术价值也日益彰显。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290555.htm",
         "title":"蔡崇信成了NBA历史级大冤种？事实上他可能压根不在乎",
         "desc":null
@@ -292,6 +287,11 @@
     {
         "url":"https://hot.cnbeta.com/articles/movie/1290671.htm",
         "title":"《谭谈交通》在B站突然下线 谭乔或面临千万索赔？本人回应",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290673.htm",
+        "title":"上海气温冲上40℃ 上一次还是5年前",
         "desc":null
     }
 ]
