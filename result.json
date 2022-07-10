@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290419.htm",
-        "title":"大厂与“铁饭碗” 两座围城",
-        "desc":"“深圳大厂年薪35-40w的前端开发和河南老家地级市8-10w的公务员，要怎么选？”放在5年前，很多人会毫不犹豫地选择大厂。但当诸如35岁互联网人职业危机、互联网大厂裁员潮等消息不断传来，一些人动摇了，公务员站上了职业鄙视链的最顶端。"
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290421.htm",
         "title":"Switch中国维修中心复工 玩家可安心送修",
         "desc":"今日（7月9日），腾讯NintendoSwitch官方微博公布了一个介绍Switch中国维修中心复工后日常消杀流程的展示视频，位于上海的Switch中国维修中心曾于3月下旬开始暂停服务。Switch中国维修中心已于6月上旬正式复工，同时落实了一系列的日常消杀流程如次氯酸消杀、紫外线照射等。"
@@ -292,6 +287,11 @@
     {
         "url":"https://www.cnbeta.com/articles/science/1290535.htm",
         "title":"研究发现植物肉蛋白质不像肉类那样容易被吸收",
+        "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290537.htm",
+        "title":"最新测试结果显示Windows 11整体性能略低于Linux发行版本",
         "desc":null
     }
 ]
