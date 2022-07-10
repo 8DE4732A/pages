@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://hot.cnbeta.com/articles/game/1290629.htm",
-        "title":"《心灵杀手2》主创秀出剧本照片 堆积如山堪称怪兽级",
-        "desc":"Remedy再次为急于看到《心灵杀手2》的玩家带来情报更新，称续作剧本是“怪物级的”。工作室还证实，他们正在与一些演员共同开展工作，可能已经进入到了动作捕捉环节。"
-    },
-    {
         "url":"https://hot.cnbeta.com/articles/game/1290631.htm",
         "title":"玩家反映PS5VRR画面问题 索尼高端电竞显示器同样存在",
         "desc":"索尼的黑科技之一，PS5的VRR可变刷新率同步技术宣传很美好，不过还有着严重的BUG，近日有玩家反映开启VRR后，显示器画面会经常出现闪烁甚至部分画面粘连的问题，有意思的是就连索尼自家的高端高端电竞显示器INZONE M9同样存在这些问题。"
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/soft/1290747.htm",
         "title":"Linux 5.19-rc6发布",
         "desc":"伴随着一个相当平淡的星期，Linux 5.19-rc6发布了。Linus Torvalds刚刚签发了Linux \r\n5.19-rc6，这是即将到来的Linux 5.19的最新常规测试与候选版本。Linux 5.19有望在本月晚些时候稳定发布。Linux \r\n5.19有许多新功能，从硬件支持到文件系统增强，以及其他各种内核的\"有趣\"变化。"
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290749.htm",
+        "title":"小岛秀夫被指称是刺客的帖子流传后 工作室表示将考虑采取法律行动",
+        "desc":null
     }
 ]
