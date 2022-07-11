@@ -1,10 +1,5 @@
 [
     {
-        "url":"https://www.cnbeta.com/articles/tech/1290637.htm",
-        "title":"飞利浦推出新款34寸曲面屏显示器：顶部“刘海”反过来了",
-        "desc":null
-    },
-    {
         "url":"https://www.cnbeta.com/articles/tech/1290639.htm",
         "title":"立省3750元 苹果国行官翻版Mac Studio来了",
         "desc":null
@@ -293,5 +288,10 @@
         "url":"https://www.cnbeta.com/articles/tech/1290753.htm",
         "title":"华硕新款双屏笔记本今天上架：最高i9+RTX 3050 Ti",
         "desc":null
+    },
+    {
+        "url":"https://www.cnbeta.com/articles/tech/1290755.htm",
+        "title":"NVIDIA RTX 40系列GPU ID曝光：包括RTX 4090和多款游戏显卡",
+        "desc":"在硬件正式发布之前，PCI ID 设备列表往往可以提供非常丰富的信息。一方面这是因为 NVIDIA 和 AMD 在短期内不会使用真实的 SKU 名称；另一方面是该 ID 可能是某些 SKU 独有的，有助于跟踪特定设备。根据 LaptopVideo2Go 分享的最新信息，分享了 NVIDIA GeForce RTX 40 桌面和移动 GPU 的多款设备信息。"
     }
 ]
